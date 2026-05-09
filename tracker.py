@@ -2,14 +2,14 @@ import urllib.request
 import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
+from zoneinfo import ZoneInfo
 import sys
-import os
 
-CACHE_FILE = "price_cache.json"
+UK_TZ = ZoneInfo("Europe/London")
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+def fetch(url, user_agent="Mozilla/5.0"):
+    req = urllib.request.Request(url, headers={"User-Agent": user_agent})
     with urllib.request.urlopen(req, timeout=10) as r:
         return r.read().decode()
 
@@ -30,22 +30,6 @@ def get_headlines(name, url, limit=3):
         return f"- Could not fetch {name} feed: {e}"
 
 
-def load_last_price():
-    if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, "r") as f:
-            return json.load(f)
-    return None
-
-
-def save_price(usd, gbp):
-    with open(CACHE_FILE, "w") as f:
-        json.dump({
-            "usd": usd,
-            "gbp": gbp,
-            "timestamp": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-        }, f)
-
-
 def format_change(current, previous):
     diff = current - previous
     pct = (diff / previous) * 100
@@ -56,52 +40,61 @@ def format_change(current, previous):
 
 def get_btc_price():
     try:
-        url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,gbp"
-        data = json.loads(fetch(url))
-        usd = data["bitcoin"]["usd"]
-        gbp = data["bitcoin"]["gbp"]
+        # current price
+        current_url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,gbp"
+        current_data = json.loads(fetch(current_url))
+        usd = current_data["bitcoin"]["usd"]
+        gbp = current_data["bitcoin"]["gbp"]
 
-        last = load_last_price()
-        save_price(usd, gbp)
+        # yesterday's closing price (daily interval, last 2 days)
+        hist_url_usd = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=2&interval=daily"
+        hist_url_gbp = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=gbp&days=2&interval=daily"
 
-        price_line = f"${usd:,} USD / £{gbp:,} GBP"
+        hist_usd = json.loads(fetch(hist_url_usd))
+        hist_gbp = json.loads(fetch(hist_url_gbp))
 
-        if last:
-            usd_change = format_change(usd, last["usd"])
-            gbp_change = format_change(gbp, last["gbp"])
-            since = last.get("timestamp", "last update")
-            return (
-                f"{price_line}\n\n"
-                f"| | USD | GBP |\n"
-                f"|---|---|---|\n"
-                f"| Change since {since} | {usd_change} | {gbp_change} |"
-            )
-        else:
-            return f"{price_line}\n\n*No previous data yet — change will show from tomorrow.*"
+        # prices array: [[timestamp, price], ...] — second to last is yesterday's close
+        prev_usd = hist_usd["prices"][-2][1]
+        prev_gbp = hist_gbp["prices"][-2][1]
+
+        usd_change = format_change(usd, prev_usd)
+        gbp_change = format_change(gbp, prev_gbp)
+
+        return (
+            f"${usd:,} USD / £{gbp:,} GBP\n\n"
+            f"| | USD | GBP |\n"
+            f"|---|---|---|\n"
+            f"| vs yesterday's close | {usd_change} | {gbp_change} |"
+        )
 
     except Exception as e:
-        return f"Could not fetch price: {e}"
+        return f"Could not fetch BTC price: {e}"
 
 
 def get_weather():
     try:
         url = "https://wttr.in/London?format=3"
-        return fetch(url).strip()
+        return fetch(url, user_agent="curl/7.68.0").strip()
     except Exception as e:
         return f"Could not fetch weather: {e}"
 
 
 def build_readme(preview=False):
-    today = datetime.utcnow().strftime("%A, %d %B %Y")
+    now_uk = datetime.now(UK_TZ)
+    today = now_uk.strftime("%A, %d %B %Y")
+    last_updated = now_uk.strftime("%Y-%m-%d %H:%M %Z")
 
     print("Fetching BBC headlines...")
     bbc = get_headlines("BBC", "http://feeds.bbci.co.uk/news/rss.xml")
 
-    print("Fetching Reuters headlines...")
-    reuters = get_headlines("Reuters", "https://feeds.reuters.com/reuters/topNews")
+    print("Fetching AP News headlines...")
+    ap = get_headlines("AP News", "https://feeds.apnews.com/rss/topnews")
 
     print("Fetching Al Jazeera headlines...")
     aljazeera = get_headlines("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml")
+
+    print("Fetching Guardian World headlines...")
+    guardian = get_headlines("Guardian", "https://www.theguardian.com/world/rss")
 
     print("Fetching BTC price...")
     btc = get_btc_price()
@@ -120,11 +113,14 @@ def build_readme(preview=False):
 ### 📰 BBC News
 {bbc}
 
-### 📡 Reuters
-{reuters}
+### 📡 AP News
+{ap}
 
 ### 🌍 Al Jazeera
 {aljazeera}
+
+### 🌐 Guardian World
+{guardian}
 
 ### ₿ Bitcoin Price
 {btc}
@@ -133,7 +129,7 @@ def build_readme(preview=False):
 {weather}
 
 ---
-*Last updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M")} UTC*
+*Last updated: {last_updated}*
 """
 
     if preview:
