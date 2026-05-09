@@ -8,15 +8,21 @@
 
 ---
 
+## 🌤️ London Weather
+
+**9°C** (feels like 8°C) — Sunny
+High 19°C / Low 9°C &nbsp;|&nbsp; Humidity 81%
+
+> 🧣 Chilly out. A jacket and scarf will do.
+
+---
+
 ## 🗞️ World News
 
 ### 📰 BBC News
 - [Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote](https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss)
-- [SNP wins Scottish election as Reform and Labour tie for second](https://www.bbc.com/news/articles/ckgp5ryv4qno?at_medium=RSS&at_campaign=rss)
+- [Historic win for SNP but change and challenges ahead at Holyrood](https://www.bbc.com/news/articles/c9364lvpz2lo?at_medium=RSS&at_campaign=rss)
 - [Analysis: Many Labour MPs are blaming the boss for elections body blow](https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss)
-
-### 📡 AP News
-- Could not fetch AP News feed: <urlopen error [Errno -5] No address associated with hostname>
 
 ### 🌍 Al Jazeera
 - [Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs](https://www.aljazeera.com/sports/2026/5/9/wembanyama-powers-spurs-past-t-wolves-as-knicks-beat-sixers-in-nba-playoffs?traffic_source=rss)
@@ -54,13 +60,18 @@
 
 ---
 
-## 📊 Markets & Weather
+## 📊 Markets
 
-### ₿ Bitcoin
-**$80,213** &nbsp;|&nbsp; vs yesterday's close: 🟢 ▲ +$24 (+0.03%)
+### ₿ Bitcoin (BTC/USD)
+**$80,158**
+vs yesterday's close: 🔴 ▼ $-31 (-0.04%)
+Trend: ➡️ Flat around 7d MA (+0.0%)
 
-### 🌤️ London
-london: ☀️  +48°F
+### 🇺🇸 S&P 500
+**7,398.9**
+vs previous close: 🟢 ▲ +61.8 (+0.84%)
+Trend: 📈 Above 7d MA by 1.6%
 
 ---
-<sub>Last updated: 2026-05-09 08:06 BST</sub>
+
+<sub>Last updated: 2026-05-09 08:15 BST</sub>
