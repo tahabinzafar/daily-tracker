@@ -2,8 +2,11 @@ name: Daily README Update
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:

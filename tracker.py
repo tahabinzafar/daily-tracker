@@ -35,37 +35,22 @@ def format_change(current, previous):
     pct = (diff / previous) * 100
     arrow = "🟢 ▲" if diff >= 0 else "🔴 ▼"
     sign = "+" if diff >= 0 else ""
-    return f"{arrow} {sign}{diff:,.0f} ({sign}{pct:.2f}%)"
+    return f"{arrow} {sign}${diff:,.0f} ({sign}{pct:.2f}%)"
 
 
 def get_btc_price():
     try:
-        # current price
-        current_url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,gbp"
+        current_url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd"
         current_data = json.loads(fetch(current_url))
         usd = current_data["bitcoin"]["usd"]
-        gbp = current_data["bitcoin"]["gbp"]
 
-        # yesterday's closing price (daily interval, last 2 days)
-        hist_url_usd = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=2&interval=daily"
-        hist_url_gbp = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=gbp&days=2&interval=daily"
+        hist_url = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=2&interval=daily"
+        hist_data = json.loads(fetch(hist_url))
+        prev_usd = hist_data["prices"][-2][1]
 
-        hist_usd = json.loads(fetch(hist_url_usd))
-        hist_gbp = json.loads(fetch(hist_url_gbp))
+        change = format_change(usd, prev_usd)
 
-        # prices array: [[timestamp, price], ...] — second to last is yesterday's close
-        prev_usd = hist_usd["prices"][-2][1]
-        prev_gbp = hist_gbp["prices"][-2][1]
-
-        usd_change = format_change(usd, prev_usd)
-        gbp_change = format_change(gbp, prev_gbp)
-
-        return (
-            f"${usd:,} USD / £{gbp:,} GBP\n\n"
-            f"| | USD | GBP |\n"
-            f"|---|---|---|\n"
-            f"| vs yesterday's close | {usd_change} | {gbp_change} |"
-        )
+        return f"**${usd:,}** &nbsp;|&nbsp; vs yesterday's close: {change}"
 
     except Exception as e:
         return f"Could not fetch BTC price: {e}"
@@ -84,17 +69,29 @@ def build_readme(preview=False):
     today = now_uk.strftime("%A, %d %B %Y")
     last_updated = now_uk.strftime("%Y-%m-%d %H:%M %Z")
 
-    print("Fetching BBC headlines...")
-    bbc = get_headlines("BBC", "http://feeds.bbci.co.uk/news/rss.xml")
+    print("Fetching BBC News...")
+    bbc = get_headlines("BBC News", "http://feeds.bbci.co.uk/news/rss.xml")
 
-    print("Fetching AP News headlines...")
+    print("Fetching AP News...")
     ap = get_headlines("AP News", "https://feeds.apnews.com/rss/topnews")
 
-    print("Fetching Al Jazeera headlines...")
+    print("Fetching Al Jazeera...")
     aljazeera = get_headlines("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml")
 
-    print("Fetching Guardian World headlines...")
-    guardian = get_headlines("Guardian", "https://www.theguardian.com/world/rss")
+    print("Fetching Guardian World...")
+    guardian_world = get_headlines("Guardian World", "https://www.theguardian.com/world/rss")
+
+    print("Fetching BBC Sport...")
+    bbc_sport = get_headlines("BBC Sport", "http://feeds.bbci.co.uk/sport/rss.xml")
+
+    print("Fetching Sky Sports Football...")
+    sky_football = get_headlines("Sky Sports", "https://www.skysports.com/rss/12040")
+
+    print("Fetching Guardian Sport...")
+    guardian_sport = get_headlines("Guardian Sport", "https://www.theguardian.com/sport/rss")
+
+    print("Fetching ESPN...")
+    espn = get_headlines("ESPN", "https://www.espn.com/espn/rss/news")
 
     print("Fetching BTC price...")
     btc = get_btc_price()
@@ -102,13 +99,17 @@ def build_readme(preview=False):
     print("Fetching weather...")
     weather = get_weather()
 
-    readme = f"""# Morning Brief 🌍
+    readme = f"""# 🌍 Morning Brief
 
-> Auto-updated every day via GitHub Actions.
+> Auto-updated every day at 8am UK time via GitHub Actions.
 
 ---
 
-## {today}
+## 📅 {today}
+
+---
+
+## 🗞️ World News
 
 ### 📰 BBC News
 {bbc}
@@ -119,17 +120,37 @@ def build_readme(preview=False):
 ### 🌍 Al Jazeera
 {aljazeera}
 
-### 🌐 Guardian World
-{guardian}
+### 🌐 The Guardian
+{guardian_world}
 
-### ₿ Bitcoin Price
+---
+
+## ⚽ Sports
+
+### 🏟️ BBC Sport
+{bbc_sport}
+
+### 📺 Sky Sports Football
+{sky_football}
+
+### 🏅 The Guardian Sport
+{guardian_sport}
+
+### 🏈 ESPN
+{espn}
+
+---
+
+## 📊 Markets & Weather
+
+### ₿ Bitcoin
 {btc}
 
-### 🌤️ London Weather
+### 🌤️ London
 {weather}
 
 ---
-*Last updated: {last_updated}*
+<sub>Last updated: {last_updated}</sub>
 """
 
     if preview:
