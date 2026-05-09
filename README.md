@@ -1,6 +1,6 @@
 # 🌍 Morning Brief
 
-> Auto-updated every day at 8am UK time via GitHub Actions.
+> Auto-updated every morning via GitHub Actions.
 
 ---
 
