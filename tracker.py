@@ -30,50 +30,137 @@ def get_headlines(name, url, limit=3):
         return f"- Could not fetch {name} feed: {e}"
 
 
-def format_change(current, previous):
-    diff = current - previous
-    pct = (diff / previous) * 100
-    arrow = "🟢 ▲" if diff >= 0 else "🔴 ▼"
-    sign = "+" if diff >= 0 else ""
-    return f"{arrow} {sign}${diff:,.0f} ({sign}{pct:.2f}%)"
-
-
-def get_btc_price():
-    try:
-        current_url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd"
-        current_data = json.loads(fetch(current_url))
-        usd = current_data["bitcoin"]["usd"]
-
-        hist_url = "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=2&interval=daily"
-        hist_data = json.loads(fetch(hist_url))
-        prev_usd = hist_data["prices"][-2][1]
-
-        change = format_change(usd, prev_usd)
-
-        return f"**${usd:,}** &nbsp;|&nbsp; vs yesterday's close: {change}"
-
-    except Exception as e:
-        return f"Could not fetch BTC price: {e}"
-
-
+# Weather from wttr.in, which has a simple JSON API and good UK coverage. The advice messages are custom based on temp and conditions.
 def get_weather():
     try:
-        url = "https://wttr.in/London?format=3"
-        return fetch(url, user_agent="curl/7.68.0").strip()
+        url = "https://wttr.in/London?format=j1"
+        data = json.loads(fetch(url, user_agent="curl/7.68.0"))
+
+        current = data["current_condition"][0]
+        temp_c = int(current["temp_C"])
+        feels_c = int(current["FeelsLikeC"])
+        desc = current["weatherDesc"][0]["value"].lower()
+        humidity = int(current["humidity"])
+
+        # today's high/low
+        today = data["weather"][0]
+        high = int(today["maxtempC"])
+        low = int(today["mintempC"])
+
+        # custom message based on conditions
+        if temp_c <= 5:
+            advice = "🧥 Heavy coat weather. Don't leave without one."
+        elif temp_c <= 12:
+            if "rain" in desc or "drizzle" in desc or "shower" in desc:
+                advice = "🌧️ Cold and wet — layers plus a waterproof."
+            else:
+                advice = "🧣 Chilly out. A jacket and scarf will do."
+        elif temp_c <= 18:
+            if "rain" in desc or "drizzle" in desc or "shower" in desc:
+                advice = "☔ Mild but rainy — light jacket and an umbrella."
+            else:
+                advice = "🙂 Decent enough. Light jacket should be fine."
+        elif temp_c <= 24:
+            advice = "😎 Nice out. You can get away with just a t-shirt."
+        else:
+            advice = "☀️ Warm day in London — rare, enjoy it."
+
+        summary = (
+            f"**{temp_c}°C** (feels like {feels_c}°C) — {desc.capitalize()}\n"
+            f"High {high}°C / Low {low}°C &nbsp;|&nbsp; Humidity {humidity}%\n\n"
+            f"> {advice}"
+        )
+        return summary
+
     except Exception as e:
         return f"Could not fetch weather: {e}"
 
+
+# Markets
+def trend_label(prices):
+    """Simple 7-day moving average trend vs current price."""
+    if len(prices) < 7:
+        return "insufficient data"
+    ma7 = sum(prices[-7:]) / 7
+    current = prices[-1]
+    diff_pct = ((current - ma7) / ma7) * 100
+    if diff_pct > 1:
+        return f"📈 Above 7d MA by {diff_pct:.1f}%"
+    elif diff_pct < -1:
+        return f"📉 Below 7d MA by {abs(diff_pct):.1f}%"
+    else:
+        return f"➡️ Flat around 7d MA ({diff_pct:+.1f}%)"
+
+
+def get_btc():
+    try:
+        # current
+        current_data = json.loads(fetch(
+            "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd"
+        ))
+        usd = current_data["bitcoin"]["usd"]
+
+        # history for yesterday close + 7d MA
+        hist = json.loads(fetch(
+            "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=10&interval=daily"
+        ))
+        prices = [p[1] for p in hist["prices"]]
+        prev = prices[-2]
+
+        diff = usd - prev
+        pct = (diff / prev) * 100
+        arrow = "🟢 ▲" if diff >= 0 else "🔴 ▼"
+        sign = "+" if diff >= 0 else ""
+        change = f"{arrow} {sign}${diff:,.0f} ({sign}{pct:.2f}%)"
+        trend = trend_label(prices)
+
+        return (
+            f"**${usd:,}**\n"
+            f"vs yesterday's close: {change}\n"
+            f"Trend: {trend}"
+        )
+    except Exception as e:
+        return f"Could not fetch BTC: {e}"
+
+
+def get_sp500():
+    try:
+        url = "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&range=12d"
+        data = json.loads(fetch(url))
+        closes = data["chart"]["result"][0]["indicators"]["quote"][0]["close"]
+        closes = [c for c in closes if c is not None]
+
+        current = closes[-1]
+        prev = closes[-2]
+
+        diff = current - prev
+        pct = (diff / prev) * 100
+        arrow = "🟢 ▲" if diff >= 0 else "🔴 ▼"
+        sign = "+" if diff >= 0 else ""
+        change = f"{arrow} {sign}{diff:,.1f} ({sign}{pct:.2f}%)"
+        trend = trend_label(closes)
+
+        return (
+            f"**{current:,.1f}**\n"
+            f"vs previous close: {change}\n"
+            f"Trend: {trend}"
+        )
+    except Exception as e:
+        return f"Could not fetch S&P 500: {e}"
+
+
+# README builder
 
 def build_readme(preview=False):
     now_uk = datetime.now(UK_TZ)
     today = now_uk.strftime("%A, %d %B %Y")
     last_updated = now_uk.strftime("%Y-%m-%d %H:%M %Z")
 
+    print("Fetching weather...")
+    weather = get_weather()
+
     print("Fetching BBC News...")
     bbc = get_headlines("BBC News", "http://feeds.bbci.co.uk/news/rss.xml")
-
-    print("Fetching AP News...")
-    ap = get_headlines("AP News", "https://feeds.apnews.com/rss/topnews")
 
     print("Fetching Al Jazeera...")
     aljazeera = get_headlines("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml")
@@ -93,11 +180,11 @@ def build_readme(preview=False):
     print("Fetching ESPN...")
     espn = get_headlines("ESPN", "https://www.espn.com/espn/rss/news")
 
-    print("Fetching BTC price...")
-    btc = get_btc_price()
+    print("Fetching BTC...")
+    btc = get_btc()
 
-    print("Fetching weather...")
-    weather = get_weather()
+    print("Fetching S&P 500...")
+    sp500 = get_sp500()
 
     readme = f"""# 🌍 Morning Brief
 
@@ -109,13 +196,16 @@ def build_readme(preview=False):
 
 ---
 
+## 🌤️ London Weather
+
+{weather}
+
+---
+
 ## 🗞️ World News
 
 ### 📰 BBC News
 {bbc}
-
-### 📡 AP News
-{ap}
 
 ### 🌍 Al Jazeera
 {aljazeera}
@@ -141,15 +231,16 @@ def build_readme(preview=False):
 
 ---
 
-## 📊 Markets & Weather
+## 📊 Markets
 
-### ₿ Bitcoin
+### ₿ Bitcoin (BTC/USD)
 {btc}
 
-### 🌤️ London
-{weather}
+### 🇺🇸 S&P 500
+{sp500}
 
 ---
+
 <sub>Last updated: {last_updated}</sub>
 """
 
