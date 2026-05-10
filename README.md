@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Saturday, 09 May 2026
+## 📅 Sunday, 10 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 20°C) — Cloudy
-High 20°C / Low 9°C &nbsp;|&nbsp; Humidity 37%
+**10°C** (feels like 8°C) — Partly cloudy
+High 16°C / Low 7°C &nbsp;|&nbsp; Humidity 76%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
+- [Is Starmer's leadership under serious threat?](https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss)
 - [How Reform won votes from Swansea to Sunderland](https://www.bbc.com/news/articles/cwy2nz4gwj5o?at_medium=RSS&at_campaign=rss)
-- [Labour MPs have put Starmer on notice after election battering. Can he turn it around?](https://www.bbc.com/news/articles/cx21e79qqlgo?at_medium=RSS&at_campaign=rss)
-- [PM turns to old Labour hands after election losses but some MPs left baffled](https://www.bbc.com/news/articles/c2k2vyw88n8o?at_medium=RSS&at_campaign=rss)
+- [Virus-hit cruise ship arrives in Tenerife as medics await passengers](https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Tucker Carlson’s pivot](https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss)
-- [Syria and Lebanon make ‘significant progress’ at talks on joint interests](https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss)
-- [Parent company of Trump’s Truth Social site reports $400m loss this year](https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss)
+- [Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision](https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss)
+- [Dubois stops Wardley in 11th round to take WBO heavyweight boxing title](https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss)
+- [Macron tours East Africa amid push to redefine France’s role in Africa](https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
@@ -39,31 +39,33 @@ High 20°C / Low 9°C &nbsp;|&nbsp; Humidity 37%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Boos, no intensity and no identity - what is Slot's Liverpool?](https://www.bbc.com/sport/football/articles/cqjp4nex0lyo?at_medium=RSS&at_campaign=rss)
-- [Packer scores four as England close in on Grand Slam](https://www.bbc.com/sport/rugby-union/articles/cx219l8z7gko?at_medium=RSS&at_campaign=rss)
-- [11-try France beat Scotland to set up England decider](https://www.bbc.com/sport/rugby-union/articles/cm2pxgmgvdmo?at_medium=RSS&at_campaign=rss)
+- [Defiant Dubois sheds quitter tag to write new narrative](https://www.bbc.com/sport/boxing/articles/cx21rlkl5jgo?at_medium=RSS&at_campaign=rss)
+- ['The goals are coming' - is Doku keeping Man City in title race?](https://www.bbc.com/sport/football/articles/c8d8gdrpm54o?at_medium=RSS&at_campaign=rss)
+- [Hearts fans drunk on drama as intoxicating title race takes twist](https://www.bbc.com/sport/football/articles/cx21xl971yzo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Wardley vs Dubois LIVE! Big-punching Britons meet in WBO title fight](https://www.skysports.com/boxing/live-blog/12040/13541478/wardley-vs-dubois-live-updates-news-and-results-as-fabio-wardley-defends-wbo-heavyweight-title-against-daniel-dubois)
-- [WSL latest: Russo scores twice as Arsenal beat Aston Villa](https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest)
-- [Leicester thrash leaders Northampton in feisty derby](https://www.skysports.com/rugby-union/leicester-vs-northampton/report/111297)
+- [Puerto Rico stars in the French 2,000 Guineas](https://www.skysports.com/racing/news/12040/13541649/today-on-sky-sports-racing-group-one-action-from-parislongchamp)
+- [Dubois stops Wardley in 11-round world heavyweight title epic](https://www.skysports.com/boxing/news/12040/13542149/daniel-dubois-beats-fabio-wardley-to-become-wbo-heavyweight-champion-in-10-round-heavyweight-epic)
+- [Man City latest: Khusanov injury absence explained](https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
 
 ### 🏅 The Guardian Sport
-- [Manchester City v Brentford: Premier League – live](https://www.theguardian.com/football/live/2026/may/09/manchester-city-v-brentford-premier-league-live)
-- [39 points, 15 rebounds, five blocks: Wembanyama makes more NBA playoff history for Spurs](https://www.theguardian.com/sport/2026/may/09/nba-playoffs-victor-wembanyama-spurs-timberwolves-knicks-sixers)
-- [A 30th season and an $850m franchise: is the WNBA’s rocketing growth sustainable?](https://www.theguardian.com/sport/2026/may/09/wnba-growth-sustainable-franchise-valuations-valkyries)
+- [Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford](https://www.theguardian.com/football/2026/may/09/manchester-city-brentford-premier-league-match-report)
+- [Daniel Dubois stops Fabio Wardley in bloody epic to win WBO heavyweight title](https://www.theguardian.com/sport/2026/may/10/daniel-dubois-stops-fabio-wardley-wbo-heavyweight-title-boxing)
+- [Paige Bueckers and Wings best Caitlin Clark’s Fever in battle of WNBA No 1 picks](https://www.theguardian.com/sport/2026/may/09/wings-fever-caitlin-clark-paige-bueckers)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Takeaways: Thunder take a 3-0 lead](https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways)
+- [OKC improves to 7-0 after blitzing L.A. in Game 3](https://www.espn.com/nba/story/_/id/48727515/thunder-blow-lakers-game-3-improve-7-0-playoffs)
+- [Strickland stuns bitter rival Chimaev for UFC titl...](https://www.espn.com/mma/ufc/story/_/id/48728368/strickland-stuns-chimaev-ufc-middleweight-title)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,801**
-vs yesterday's close: 🟢 ▲ +$612 (+0.76%)
-Trend: ➡️ Flat around 7d MA (+0.7%)
+**$80,735**
+vs yesterday's close: 🟢 ▲ +$57 (+0.07%)
+Trend: ➡️ Flat around 7d MA (+0.2%)
 
 ### 🇺🇸 S&P 500
 **7,398.9**
@@ -72,4 +74,4 @@ Trend: 📈 Above 7d MA by 1.6%
 
 ---
 
-<sub>Last updated: 2026-05-09 19:24 BST</sub>
+<sub>Last updated: 2026-05-10 08:02 BST</sub>
