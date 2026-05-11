@@ -1,6 +1,6 @@
 # 🌍 Morning Brief
 
-> Auto-updated every day at 8am UK time via GitHub Actions.
+> Auto-updates every morning via GitHub Actions.
 
 ---
 
@@ -10,24 +10,24 @@
 
 ## 🌤️ London Weather
 
-**2°C** (feels like 0°C) — Sunny
-High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
+**8°C** (feels like 5°C) — Light rain shower
+High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 76%
 
-> 🧥 Heavy coat weather. Don't leave without one.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Starmer to promise bolder action as leadership threats mount](https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: Another crunch moment for Starmer as he pleads with Labour MPs not to topple him](https://www.bbc.com/news/articles/cevp4kr79e4o?at_medium=RSS&at_campaign=rss)
-- [Trump calls Iran response to US proposal to end war 'totally unacceptable'](https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Another crunch moment beckons for Starmer](https://www.bbc.com/news/articles/cevp4kr79e4o?at_medium=RSS&at_campaign=rss)
+- [British passengers from hantavirus-hit cruise ship isolating in hospital](https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss)
+- [Tourist hotspot at 'end of the world' denies causing hantavirus outbreak](https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Trump calls Iran response “totally unacceptable”](https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss)
-- [Risks and rewards in France-Kenya partnership](https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss)
-- [Russia and Ukraine accuse the other of ceasefire violations](https://www.aljazeera.com/video/newsfeed/2026/5/11/russia-and-ukraine-accuse-the-other-of-ceasefire-violations?traffic_source=rss)
+- [Fans celebrate as Barcelona clinches LaLiga title](https://www.aljazeera.com/video/newsfeed/2026/5/11/fans-celebrate-as-barcelona-clinches-laliga-title?traffic_source=rss)
+- [UK’s Keir Starmer faces likely challenge following Labour’s election defeat](https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss)
+- [Philippine Congress poised to impeach Vice President Sara Duterte](https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Body of missing US soldier recovered off coast of Morocco](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
@@ -40,13 +40,13 @@ High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
 
 ### 🏟️ BBC Sport
 - [Biggest VAR call ever? Four chaotic minutes that may define the season](https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss)
-- ['Only his last changes worked' - how Arteta's gambles finally paid off](https://www.bbc.com/sport/football/articles/c5yek23p30lo?at_medium=RSS&at_campaign=rss)
 - [The summer a golden generation lost its shine](https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&at_campaign=rss)
+- [How Flick's reshaped Barca dominated La Liga again](https://www.bbc.com/sport/football/articles/cedp2wjepqno?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
+- [Desert Cop headlines Sprint Series Qualifier at Windsor](https://www.skysports.com/racing/news/12040/13542261/today-on-sky-sports-racing-southwell-wolverhampton-and-windsor-as-desert-cop-headlines-sprint-series-qualifier)
+- [Exciting major ahead? What to expect from world's best at PGA Championship](https://www.skysports.com/golf/news/12040/13542479/pga-championship-worlds-best-primed-for-major-challenge-at-aronimink-as-questions-continue-over-mens-golfs-future)
 - [What does that mean?' | Wembanyama in disbelief at elbow ejection as Spurs lose](https://www.skysports.com/watch/video/13542599/victor-wembanyama-in-disbelief-at-elbow-ejection-as-spurs-lose-what-does-that-mean)
-- ['He never stops fighting!' - Wolff backs Russell to respond to Antonelli](https://www.skysports.com/f1/news/12040/13540033/george-russell-toto-wolff-backs-mercedes-driver-to-respond-to-team-mate-kimi-antonellis-form-in-f1-title-race)
-- [Could Masters-esque range session boost McIlroy's major hopes again?](https://www.skysports.com/golf/news/12040/13542517/rory-mcilroy-finds-answers-to-bad-habits-in-range-session-to-offer-pre-major-swing-boost-ahead-of-pga-championship)
 
 ### 🏅 The Guardian Sport
 - [‘What does than mean?’: Wembanyama confused after playoff ejection for elbowing Reid](https://www.theguardian.com/sport/2026/may/10/victor-wembanyama-elbow-ejected-nba-playoffs-spurs-timberwolves)
@@ -63,9 +63,9 @@ High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,922**
-vs yesterday's close: 🔴 ▼ $-1,224 (-1.49%)
-Trend: ➡️ Flat around 7d MA (+0.0%)
+**$80,745**
+vs yesterday's close: 🔴 ▼ $-1,401 (-1.71%)
+Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ### 🇺🇸 S&P 500
 **7,398.9**
@@ -74,4 +74,4 @@ Trend: 📈 Above 7d MA by 1.6%
 
 ---
 
-<sub>Last updated: 2026-05-11 06:37 BST</sub>
+<sub>Last updated: 2026-05-11 08:27 BST</sub>
