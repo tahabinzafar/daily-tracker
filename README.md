@@ -4,74 +4,72 @@
 
 ---
 
-## 📅 Monday, 11 May 2026
+## 📅 Tuesday, 12 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**8°C** (feels like 5°C) — Light rain shower
-High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 76%
+**3°C** (feels like 2°C) — Partly cloudy
+High 16°C / Low 5°C &nbsp;|&nbsp; Humidity 81%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🧥 Heavy coat weather. Don't leave without one.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Chris Mason: Another crunch moment beckons for Starmer](https://www.bbc.com/news/articles/cevp4kr79e4o?at_medium=RSS&at_campaign=rss)
-- [British passengers from hantavirus-hit cruise ship isolating in hospital](https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss)
-- [Tourist hotspot at 'end of the world' denies causing hantavirus outbreak](https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: PM hangs on by a thread as party revolts](https://www.bbc.com/news/articles/cn9py15w5yxo?at_medium=RSS&at_campaign=rss)
+- [BBC unmasks key people smuggler in network behind most small boat crossings](https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss)
+- [Last passengers leave virus-hit cruise ship as three more test positive](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Gaza filmmakers slam BBC after shelved documentary wins Bafta](https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss)
-- [Fans celebrate as Barcelona clinches LaLiga title](https://www.aljazeera.com/video/newsfeed/2026/5/11/fans-celebrate-as-barcelona-clinches-laliga-title?traffic_source=rss)
-- [UK’s Keir Starmer faces likely challenge following Labour’s election defeat](https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss)
+- [Israel approves law on public trials, death penalty for October 7 detainees](https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss)
+- [Hundreds more displaced as gang violence escalates in Haiti’s capital](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
+- [Flotilla activist Thiago Ávila arrives in Brazil](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
 - [Body of missing US soldier recovered off coast of Morocco](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
 - [‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
-- [Guardian reporter and colleagues detained and beaten by Somali police](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Biggest VAR call ever? Four chaotic minutes that may define the season](https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss)
-- [West Ham set to contact referees' body over disallowed goal](https://www.bbc.com/sport/football/articles/c5yrxkg6z1eo?at_medium=RSS&at_campaign=rss)
-- [The summer a golden generation lost its shine](https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&at_campaign=rss)
+- [Spurs hit self-destruct button again as season agony prolonged](https://www.bbc.com/sport/football/articles/clyp8djz4d0o?at_medium=RSS&at_campaign=rss)
+- ['Superhuman' managers shouldn't have to ask for help - Beard's family on loss](https://www.bbc.com/sport/football/articles/c2lwqyd7z72o?at_medium=RSS&at_campaign=rss)
+- ['One of saves of the season' - Kinsky's redemption moment at Tottenham?](https://www.bbc.com/sport/football/articles/czx2en0vzvgo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Ref Watch LIVE! West Ham's disallowed goal against Arsenal and more analysed](https://www.skysports.com/football/live-blog/12040/13542622/ref-watch-live)
-- [Desert Cop headlines Sprint Series Qualifier at Windsor](https://www.skysports.com/racing/news/12040/13542261/today-on-sky-sports-racing-southwell-wolverhampton-and-windsor-as-desert-cop-headlines-sprint-series-qualifier)
-- [Exciting major ahead? What to expect from world's best at PGA Championship](https://www.skysports.com/golf/news/12040/13542479/pga-championship-worlds-best-primed-for-major-challenge-at-aronimink-as-questions-continue-over-mens-golfs-future)
+- [What's going on with Lambiase after McLaren-Red Bull disagreement?](https://www.skysports.com/f1/news/12040/13541036/gianpiero-lambiase-whats-going-on-with-max-verstappens-race-engineer-after-mclaren-red-bull-disagreement-in-miami)
+- [Hull sink Millwall to reach Championship play-off final](https://www.skysports.com/football/millwall-vs-hull-city/report/555903)
+- [Twist in the Tel! Winger goes from hero to villain as Spurs drop points at home](https://www.skysports.com/watch/video/13542930/spurs-1-1-leeds-premier-league-highlights)
 
 ### 🏅 The Guardian Sport
-- [‘What does than mean?’: Wembanyama confused after playoff ejection for elbowing Reid](https://www.theguardian.com/sport/2026/may/10/victor-wembanyama-elbow-ejected-nba-playoffs-spurs-timberwolves)
-- [VAR offers up Arsenal’s title-deciding moment for digital mess generation | Barney Ronay](https://www.theguardian.com/football/2026/may/10/west-ham-var-offers-up-title-deciding-moment-for-arsenal-and-digital-mess-generation)
-- [NBA playoffs: Record-breaking Knicks sweep 76ers as New York fans take over Philadelphia](https://www.theguardian.com/sport/2026/may/10/nba-playoffs-knicks-76ers-series)
+- [‘You guys wanna see a dead body?’ The slow death of the Philadelphia 76ers’ Process era](https://www.theguardian.com/sport/2026/may/11/you-guys-wanna-see-a-dead-body-the-slow-death-of-the-philadelphia-76ers-process-era)
+- [Calvert-Lewin denies Spurs with Leeds equaliser to leave survival in balance](https://www.theguardian.com/football/2026/may/11/premier-league-tottenham-leeds-match-report)
+- [Is CTE really the main reason behind the rise in NFL player suicides?](https://www.theguardian.com/sport/2026/may/11/is-cte-really-the-main-reason-behind-the-rise-in-nfl-player-suicides)
 
 ### 🏈 ESPN
-- [Takeaways: Wolves tie series with Game 4 win](https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways)
-- [Wemby ejected in career first after elbowing Reid](https://www.espn.com/nba/story/_/id/48736940/spurs-victor-wembanyama-ejected-game-4-career-first-elbowing-timberwolves-naz-reid)
-- [Edwards rallies Wolves to even series with Spurs](https://www.espn.com/nba/story/_/id/48737913/anthony-edwards-rallies-timberwolves-even-series-spurs)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,734**
-vs yesterday's close: 🔴 ▼ $-1,412 (-1.72%)
-Trend: ➡️ Flat around 7d MA (-0.2%)
+**$81,270**
+vs yesterday's close: 🔴 ▼ $-455 (-0.56%)
+Trend: ➡️ Flat around 7d MA (+0.2%)
 
 ### 🇺🇸 S&P 500
-**7,398.9**
-vs previous close: 🟢 ▲ +61.8 (+0.84%)
-Trend: 📈 Above 7d MA by 1.6%
+**7,412.8**
+vs previous close: 🟢 ▲ +13.9 (+0.19%)
+Trend: 📈 Above 7d MA by 1.3%
 
 ---
 
-<sub>Last updated: 2026-05-11 09:24 BST</sub>
+<sub>Last updated: 2026-05-12 06:33 BST</sub>
