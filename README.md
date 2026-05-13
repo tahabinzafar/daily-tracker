@@ -10,10 +10,10 @@
 
 ## 🌤️ London Weather
 
-**9°C** (feels like 7°C) — Partly cloudy
-High 11°C / Low 7°C &nbsp;|&nbsp; Humidity 76%
+**9°C** (feels like 7°C) — Patchy rain nearby
+High 11°C / Low 7°C &nbsp;|&nbsp; Humidity 81%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
@@ -25,9 +25,9 @@ High 11°C / Low 7°C &nbsp;|&nbsp; Humidity 76%
 - [Watch: Resignations, drama and defiance at Downing Street](https://www.bbc.com/news/videos/cjwpnx80646o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Ronaldo’s Al-Nassr kept waiting for Saudi Pro League title by own goal](https://www.aljazeera.com/sports/2026/5/13/ronaldos-al-nassr-kept-waiting-for-saudi-pro-league-title-by-own-goal?traffic_source=rss)
-- [Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations](https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss)
-- [Fighting in Sudan’s Blue Nile State displaces thousands](https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_reported_fighting-in-sudan-displaces-thousands-130526?traffic_source=rss)
+- [Wembanyama returns, Spurs rout Wolves for 3-2 lead in NBA Playoff series](https://www.aljazeera.com/sports/2026/5/13/wembanyama-returns-spurs-rout-wolves-for-3-2-lead-in-nba-playoff-series?traffic_source=rss)
+- [UK PM Starmer set to meet rival Streeting amid pledge to carry on governing](https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing?traffic_source=rss)
+- [Trump and Xi to meet in Beijing: The key issues shaping the China summit](https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown](https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights)
@@ -39,14 +39,14 @@ High 11°C / Low 7°C &nbsp;|&nbsp; Humidity 76%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
+- [Will Middlesbrough-Southampton play-off have a decisive third act?](https://www.bbc.com/sport/football/articles/cj9pvd24ew8o?at_medium=RSS&at_campaign=rss)
 - [NBA player Clarke dies aged 29](https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss)
 - [Ted Lasso actor Fernandez signs for US club](https://www.bbc.com/sport/football/articles/c5y87rerg1jo?at_medium=RSS&at_campaign=rss)
-- [Troublesome toe forces McIlroy to halt US PGA practice](https://www.bbc.com/sport/golf/articles/c0l24el0gjro?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
+- [Wembanyama hits back after elbow ejection to star as Spurs move to finals brink](https://www.skysports.com/nba/news/12040/13543394/nba-playoffs-victor-wembanyama-hits-back-after-first-career-ejection-as-san-antonio-spurs-lead-minnesota-timberwolves)
+- ['He's not worried' | Rory McIlroy to play with custom shoe after toe injury](https://www.skysports.com/watch/video/13543402/mcilroy-injury-update-hes-not-worried-rory-mcilroy-to-play-with-custom-shoe-because-of-toe-injury)
 - [Collins, first openly gay NBA player, dies aged 47](https://www.skysports.com/nba/news/12040/13543379/jason-collins-nbas-first-openly-gay-player-dies-aged-47-of-brain-cancer-his-impact-and-influence-extended-beyond-basketball)
-- [Chisora: I've been given 'green light' for Wilder rematch](https://www.skysports.com/boxing/news/12040/13543310/derek-chisora-british-boxer-says-hes-been-given-green-light-by-wife-for-deontay-wilder-rematch-later-in-2026)
-- [Kinswoman and Almaty Star clash in Yarmouth sprint showdown](https://www.skysports.com/racing/news/12040/13542807/today-on-sky-sports-racing-kinswoman-and-almaty-star-clash-in-yarmouth-sprint-showdown)
 
 ### 🏅 The Guardian Sport
 - [Jason Collins, NBA's first out gay player, dies aged 47 of brain tumor](https://www.theguardian.com/sport/2026/may/12/jason-collins-nba-first-openly-gay-player-dies-brain-tumor)
@@ -54,18 +54,16 @@ High 11°C / Low 7°C &nbsp;|&nbsp; Humidity 76%
 - [Memphis Grizzlies forward Brandon Clarke dies at 29: ‘He was the gentlest soul’](https://www.theguardian.com/sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul)
 
 ### 🏈 ESPN
-- [NBA playoff takeaways: Spurs take a 3-2 series lea...](https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways)
-- [Wemby's bounce-back fuels rout; Spurs lead 3-2](https://www.espn.com/nba/story/_/id/48755713/wemby-bounce-back-fuels-rout-spurs-take-3-2-series-lead)
-- [Sources: 76ers president Morey out; Nurse to stay](https://www.espn.com/nba/story/_/id/48754122/daryl-morey-nick-nurse-remain-76ers)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$81,046**
-vs yesterday's close: 🟢 ▲ +$565 (+0.70%)
-Trend: ➡️ Flat around 7d MA (+0.2%)
+**$80,936**
+vs yesterday's close: 🟢 ▲ +$455 (+0.57%)
+Trend: ➡️ Flat around 7d MA (+0.1%)
 
 ### 🇺🇸 S&P 500
 **7,401.0**
@@ -74,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-05-13 07:29 BST</sub>
+<sub>Last updated: 2026-05-13 08:49 BST</sub>
