@@ -10,24 +10,24 @@
 
 ## 🌤️ London Weather
 
-**3°C** (feels like 1°C) — Sunny
-High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
+**14°C** (feels like 13°C) — Partly cloudy
+High 14°C / Low 5°C &nbsp;|&nbsp; Humidity 55%
 
-> 🧥 Heavy coat weather. Don't leave without one.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama](https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss)
-- [Trump warns Taiwan against declaring independence, hours after summit with China's Xi](https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss)
-- [Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele](https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss)
+- [Tens of thousands descend on London for rival protests](https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss)
+- [The race to replace Starmer is on - but he still faces a momentous choice](https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss)
+- [Rescue diver dies during search for bodies of Italians who drowned in Maldives caves](https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Aston Villa trounce Liverpool 4-2 to seal Champions League place](https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss)
-- [Where did Eurovision go wrong?](https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss)
-- [US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know](https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss)
+- [Zimbabwe’s diaspora reshapes real estate and farming investment trends](https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss)
+- [Mexico teachers threaten World Cup disruption over pay](https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss)
+- [Moment of deadly train crash in Bangkok](https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Trump says Islamic State ‘second in command’ killed by US and Nigerian forces](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
@@ -39,31 +39,33 @@ High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
+- [Man Utd reach agreement to appoint Carrick manager](https://www.bbc.com/sport/football/articles/c392r8v1jz4o?at_medium=RSS&at_campaign=rss)
 - ['We crumbled' - another loss, another unwanted record for leaky Liverpool](https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss)
-- [McIlroy recovers as problem solvers flourish at testing US PGA](https://www.bbc.com/sport/golf/articles/c1w2gl9x2v0o?at_medium=RSS&at_campaign=rss)
-- [Celtic & Hearts set for titanic title duel](https://www.bbc.com/sport/football/articles/c5y7jp32nv9o?at_medium=RSS&at_campaign=rss)
+- [McIlroy recovers as Scheffler hits out at 'absurd' pins](https://www.bbc.com/sport/golf/articles/c1w2gl9x2v0o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Damysus takes on a star-studded field in the Lockinge](https://www.skysports.com/racing/news/12040/13544104/today-on-sky-sports-racing-bangor-on-dee-doncaster-newbury-and-uttoxeter)
-- [McIlroy fights back into major mix as Scheffler stutters, DeChambeau exits](https://www.skysports.com/golf/news/12040/13544405/pga-championship-rory-mcilroy-charges-back-into-major-contention-as-scottie-scheffler-stumbles-and-bryson-dechambeau-misses-cut)
-- [Woad charges into LPGA Tour mix as Hull tumbles after bogey burst](https://www.skysports.com/golf/news/12040/13544410/lpga-tour-lottie-woad-chases-jin-young-ko-at-kroger-queen-city-championship-as-charley-hull-slips-back-with-bogey-run)
+- [Notable Speech stars in 2026 Lockinge Stakes | Full race replay](https://www.skysports.com/watch/video/13544678/newbury-notable-speech-stars-in-2026-lockinge-stakes-full-race-replay)
+- [Celtic strike late to beat Hearts and win title on dramatic final day](https://www.skysports.com/football/news/12040/13544351/celtic-3-1-hearts-martin-oneills-side-crowned-scottish-premiership-champions-on-final-day-as-jambos-miss-out-on-historic-title)
+- [FREE STREAM: Verstappen races the Nurburgring 24 Hours](https://www.skysports.com/f1/news/12040/13543458/nurburgring-24-hours-live-stream-max-verstappen-among-stars-to-race-at-nordschleife-in-mercedes-amg-gt3-car)
 
 ### 🏅 The Guardian Sport
-- [Scheffler remains in hunt at halfway despite ‘absurd’ pin positions at US PGA](https://www.theguardian.com/sport/2026/may/16/scottie-scheffler-golf-us-pga-championship-day-two)
-- [Premier League and FA Cup final: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend)
-- [From phishing to porn star impersonators: how scamming athletes became a billion-dollar industry](https://www.theguardian.com/sport/2026/may/15/sports-athletes-scams-cybercrimes)
+- [Chelsea v Manchester City: FA Cup final – live](https://www.theguardian.com/football/live/2026/may/16/chelsea-v-manchester-city-fa-cup-final-live)
+- [Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title](https://www.theguardian.com/football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title)
+- [‘I had to make a statement’: Wembanyama’s Spurs knock Timberwolves out of NBA playoffs](https://www.theguardian.com/sport/2026/may/16/nba-playoffs-spurs-timberwolves-victor-wembanyama-pistons-cavaliers)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Spurs oust Wolves in rout, set up clash with OKC](https://www.espn.com/nba/story/_/id/48783917/spurs-oust-wolves-game-6-blowout-get-okc-conference-finals)
+- [Clark proud of 3-point breakthrough in OT loss](https://www.espn.com/wnba/story/_/id/48783551/fever-star-caitlin-clark-finds-3-point-stroke-late-forces-ot-vs-mystics)
+- [PGA joins Masters, U.S. Open with $20M purse](https://www.espn.com/golf/story/_/id/48786238/pga-championship-joins-masters-us-open-20m-plus-purse)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,384**
-vs yesterday's close: 🔴 ▼ $-685 (-0.87%)
-Trend: 📉 Below 7d MA by 2.4%
+**$77,899**
+vs yesterday's close: 🔴 ▼ $-1,170 (-1.48%)
+Trend: 📉 Below 7d MA by 2.9%
 
 ### 🇺🇸 S&P 500
 **7,408.5**
@@ -72,4 +74,4 @@ Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-05-16 08:13 BST</sub>
+<sub>Last updated: 2026-05-16 15:11 BST</sub>
