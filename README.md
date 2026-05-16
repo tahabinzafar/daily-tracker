@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 15 May 2026
+## 📅 Saturday, 16 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**5°C** (feels like 3°C) — Overcast
-High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 93%
+**3°C** (feels like 1°C) — Sunny
+High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
 
 > 🧥 Heavy coat weather. Don't leave without one.
 
@@ -20,58 +20,56 @@ High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 93%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Analysis: Andy Burnham's route back to the Commons is clearer - but one big hurdle remains](https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&at_campaign=rss)
-- [Watch: The day Labour's potential leadership race began to heat up](https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&at_campaign=rss)
-- [Brutal raid on woman's birthday party highlights rise of Russian vigilante group](https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss)
+- [How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama](https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss)
+- [Trump warns Taiwan against declaring independence, hours after summit with China's Xi](https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss)
+- [Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele](https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Why India’s RSS is lobbying the West amid attacks on minorities at home](https://www.aljazeera.com/news/2026/5/15/why-indias-rss-is-lobbying-the-west-amid-attacks-on-minorities-at-home?traffic_source=rss)
-- [Trump and Xi hold high-stakes talks in Beijing](https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-and-xi-hold-high-stakes-talks-in-beijing?traffic_source=rss)
-- [Top US admiral: Strikes severely degraded Iran’s military, defence](https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss)
+- [Aston Villa trounce Liverpool 4-2 to seal Champions League place](https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss)
+- [Where did Eurovision go wrong?](https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss)
+- [US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know](https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Judge orders Trump administration to return Colombian woman deported to DRC back to the US](https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc)
-- [UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’](https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees)
-- [Remains of second US soldier who went missing in Morocco recovered](https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco)
+- [Trump says Islamic State ‘second in command’ killed by US and Nigerian forces](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
+- [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo](https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths)
+- [Mali’s forces target rebel alliance in junta’s fight to keep power](https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Scheffler shares US PGA lead as Aronimink bites back](https://www.bbc.com/sport/golf/articles/cdjp21k8ry2o?at_medium=RSS&at_campaign=rss)
-- [Play-off final may be delayed by Spygate hearing](https://www.bbc.com/sport/football/articles/cyv2nl9vl72o?at_medium=RSS&at_campaign=rss)
-- [Parlour? Villa? Gerrard? Ranking best FA Cup final goals](https://www.bbc.com/sport/football/articles/c23205xj91no?at_medium=RSS&at_campaign=rss)
+- ['We crumbled' - another loss, another unwanted record for leaky Liverpool](https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss)
+- [McIlroy recovers as problem solvers flourish at testing US PGA](https://www.bbc.com/sport/golf/articles/c1w2gl9x2v0o?at_medium=RSS&at_campaign=rss)
+- [Celtic & Hearts set for titanic title duel](https://www.bbc.com/sport/football/articles/c5y7jp32nv9o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Super Bowl rematch to open 2026 season as NFL fixtures released](https://www.skysports.com/nfl/news/12040/13544202/nfl-fixtures-2026-super-bowl-rematch-between-seattle-seahawks-and-new-england-patriots-to-open-new-season-on-a-wednesday-night)
-- [Canadian GP: UK schedule and how to watch on Sky Sports](https://www.skysports.com/f1/news/12040/13542703/canadian-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-montreal-live-on-sky-sports)
-- [OTD: Relive Hamilton's HUGE crash with team-mate Rosberg 10 years ago!](https://www.skysports.com/watch/video/13543865/formula-one-relive-lewis-hamiltons-huge-crash-with-team-mate-rosberg-on-this-day-10-years-ago)
+- [Damysus takes on a star-studded field in the Lockinge](https://www.skysports.com/racing/news/12040/13544104/today-on-sky-sports-racing-bangor-on-dee-doncaster-newbury-and-uttoxeter)
+- [McIlroy fights back into major mix as Scheffler stutters, DeChambeau exits](https://www.skysports.com/golf/news/12040/13544405/pga-championship-rory-mcilroy-charges-back-into-major-contention-as-scottie-scheffler-stumbles-and-bryson-dechambeau-misses-cut)
+- [Woad charges into LPGA Tour mix as Hull tumbles after bogey burst](https://www.skysports.com/golf/news/12040/13544410/lpga-tour-lottie-woad-chases-jin-young-ko-at-kroger-queen-city-championship-as-charley-hull-slips-back-with-bogey-run)
 
 ### 🏅 The Guardian Sport
-- [NFL schedule release: Patriots-Seahawks Super Bowl rematch will kick off 2026 season](https://www.theguardian.com/sport/2026/may/14/nfl-schedule-release-2026-football)
+- [Scheffler remains in hunt at halfway despite ‘absurd’ pin positions at US PGA](https://www.theguardian.com/sport/2026/may/16/scottie-scheffler-golf-us-pga-championship-day-two)
 - [Premier League and FA Cup final: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend)
-- [Scottie Scheffler shares seven-way lead on congested US PGA leaderboard](https://www.theguardian.com/sport/2026/may/15/scottie-scheffler-golf-us-pga-leaderboard)
+- [From phishing to porn star impersonators: how scamming athletes became a billion-dollar industry](https://www.theguardian.com/sport/2026/may/15/sports-athletes-scams-cybercrimes)
 
 ### 🏈 ESPN
-- [Let's overreact to the NFL schedule release: Tough...](https://www.espn.com/nfl/story/_/id/48758666/2026-nfl-schedule-release-overreactions-takeaways-best-games-opponents-matchups)
-- [2026 NFL schedule release: Tracking all 32 teams a...](https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-all-32-game-predictions-takeaways)
-- [Pats-Seahawks SB rematch to kick off '26 season](https://www.espn.com/nfl/story/_/id/48773123/full-2026-nfl-schedule-unveiled-patriots-seahawks-week-1)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,327**
-vs yesterday's close: 🔴 ▼ $-725 (-0.89%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**$78,581**
+vs yesterday's close: 🔴 ▼ $-488 (-0.62%)
+Trend: 📉 Below 7d MA by 2.2%
 
 ### 🇺🇸 S&P 500
-**7,501.2**
-vs previous close: 🟢 ▲ +57.0 (+0.77%)
-Trend: 📈 Above 7d MA by 1.2%
+**7,408.5**
+vs previous close: 🔴 ▼ -92.7 (-1.24%)
+Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-05-15 07:02 BST</sub>
+<sub>Last updated: 2026-05-16 08:06 BST</sub>
