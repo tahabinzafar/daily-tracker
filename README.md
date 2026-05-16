@@ -61,9 +61,9 @@ High 13°C / Low 5°C &nbsp;|&nbsp; Humidity 87%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,581**
-vs yesterday's close: 🔴 ▼ $-488 (-0.62%)
-Trend: 📉 Below 7d MA by 2.2%
+**$78,384**
+vs yesterday's close: 🔴 ▼ $-685 (-0.87%)
+Trend: 📉 Below 7d MA by 2.4%
 
 ### 🇺🇸 S&P 500
 **7,408.5**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-05-16 08:06 BST</sub>
+<sub>Last updated: 2026-05-16 08:13 BST</sub>
