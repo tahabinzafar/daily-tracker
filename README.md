@@ -10,8 +10,8 @@
 
 ## 🌤️ London Weather
 
-**9°C** (feels like 8°C) — Partly cloudy
-High 16°C / Low 8°C &nbsp;|&nbsp; Humidity 93%
+**12°C** (feels like 11°C) — Partly cloudy
+High 17°C / Low 8°C &nbsp;|&nbsp; Humidity 62%
 
 > 🧣 Chilly out. A jacket and scarf will do.
 
@@ -20,14 +20,14 @@ High 16°C / Low 8°C &nbsp;|&nbsp; Humidity 93%
 ## 🗞️ World News
 
 ### 📰 BBC News
+- [Personal decision for Starmer on whether to fight leadership contest, minister says](https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss)
 - [The UK is churning through leaders. Is the country becoming harder to govern?](https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss)
-- [Bangaranga! Bulgaria wins Eurovision - but UK comes last](https://www.bbc.com/news/articles/c8d87v9v660o?at_medium=RSS&at_campaign=rss)
-- ['Look Mum, one point': Why does the UK keep getting Eurovision wrong?](https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss)
+- [Trump warns 'clock is ticking' for Iran as peace progress stalls](https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency](https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss)
-- [FIFA holds ‘positive’ talks with Iranian football officials on World Cup](https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss)
-- [‘Timmy’ the rescued humpback whale confirmed dead](https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss)
+- [Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo](https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss)
+- [Israel kills three Palestinians in strike on an aid kitchen in Gaza](https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss)
+- [Peruvian authorities confirm Fujimori and Sanchez advance to runoff](https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Trump says Islamic State ‘second in command’ killed by US and Nigerian forces](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
@@ -39,19 +39,19 @@ High 16°C / Low 8°C &nbsp;|&nbsp; Humidity 93%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [No trophy in turbulent season but Alonso arrival offers Chelsea hope](https://www.bbc.com/sport/football/articles/clyp17plzx9o?at_medium=RSS&at_campaign=rss)
-- [Smalley leads as McIlroy, Rahm, Rose & Rai impress on 'moving day'](https://www.bbc.com/sport/golf/articles/ckgp40573reo?at_medium=RSS&at_campaign=rss)
-- [Rousey seals perfect ending with 15-second comeback win](https://www.bbc.com/sport/mixed-martial-arts/articles/cy82v395l7lo?at_medium=RSS&at_campaign=rss)
+- [England see off spirited France to clinch Six Nations](https://www.bbc.com/sport/rugby-union/articles/c62x0np51y6o?at_medium=RSS&at_campaign=rss)
+- [Osula stars as Newcastle increase West Ham's relegation worries](https://www.bbc.com/sport/football/videos/cd6pnj01y04o?at_medium=RSS&at_campaign=rss)
+- [Sinner speeds into history by completing 'Golden Masters'](https://www.bbc.com/sport/tennis/articles/cn4p7njep5ko?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Hrgovic could fight Itauma next after Allen demolition: 'I never run'](https://www.skysports.com/boxing/news/12040/13544937/filip-hrgovic-could-fight-moses-itauma-next-after-dave-allen-demolition-moses-never-reached-the-promised-land)
-- [Kolokico headlines the Grand Steeple-Chase de Paris](https://www.skysports.com/racing/news/12040/13544498/today-on-sky-sports-racing-ripon-and-auteuil)
-- [PGA Championship: R4 pairings and full tee times](https://www.skysports.com/golf/news/12040/13544925/pga-championship-2026-tee-times-full-r4-pairings-and-uk-and-ireland-start-times-for-final-round-at-aronimink-golf-club)
+- [West Ham's relegation fears deepen with defeat at Newcastle](https://www.skysports.com/football/newcastle-united-vs-west-ham-united/report/531497)
+- ['No intensity, no desire' - Keane slams 'schoolboy' West Ham](https://www.skysports.com/football/news/12040/13545301/west-ham-roy-keane-hits-out-at-lack-of-intensity-and-desire-in-hammers-performance-during-defeat-at-newcastle)
+- [Sinner beats Ruud in Rome final to complete 'Golden Masters'](https://www.skysports.com/tennis/news/12040/13545224/italian-open-jannik-sinner-beats-casper-ruud-in-final-to-complete-set-of-masters-1000-titles-and-end-50-year-wait-for-male-home-winner)
 
 ### 🏅 The Guardian Sport
-- [Aaron Rodgers reportedly set for Steelers return on one-year deal worth up to $25m](https://www.theguardian.com/sport/2026/may/16/aaron-rodgers-steelers-return-contract)
-- [Premier League buildup, Celtic v Hearts fallout, FA Cup final reaction, and more – matchday live](https://www.theguardian.com/football/live/2026/may/17/fa-cup-final-scottish-premiership-wsl-reaction-premier-league-buildup-matchday-live)
-- [Smalley takes two-shot lead into final round of US PGA Championship but big names lurk](https://www.theguardian.com/sport/2026/may/17/alex-smalley-two-shot-lead-us-pga-championship-third-round-golf)
+- [US PGA Championship 2026, day four – live updates](https://www.theguardian.com/sport/live/2026/may/17/us-pga-championship-2026-day-four-golf-live)
+- [Ronda Rousey v Gina Carano was an absurd mismatch but it showed what UFC is missing](https://www.theguardian.com/sport/2026/may/17/ronda-rousey-v-gina-carano-mma-fight)
+- [Man City’s dribbles to Wolves’ counterpress: each Premier League team’s strongest trait this season](https://www.theguardian.com/football/2026/may/17/man-citys-dribbles-to-wolves-counterpress-each-premier-league-teams-strongest-trait-this-season)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 16°C / Low 8°C &nbsp;|&nbsp; Humidity 93%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,125**
-vs yesterday's close: 🔴 ▼ $-10 (-0.01%)
-Trend: 📉 Below 7d MA by 2.0%
+**$78,205**
+vs yesterday's close: 🟢 ▲ +$70 (+0.09%)
+Trend: 📉 Below 7d MA by 1.9%
 
 ### 🇺🇸 S&P 500
 **7,408.5**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-05-17 08:32 BST</sub>
+<sub>Last updated: 2026-05-17 20:40 BST</sub>
