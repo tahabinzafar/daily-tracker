@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Saturday, 16 May 2026
+## 📅 Sunday, 17 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**12°C** (feels like 11°C) — Light rain, rain
-High 14°C / Low 5°C &nbsp;|&nbsp; Humidity 82%
+**9°C** (feels like 8°C) — Partly cloudy
+High 16°C / Low 8°C &nbsp;|&nbsp; Humidity 93%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Streeting says he would join leadership race as Burnham vows to 'save' Labour](https://www.bbc.com/news/articles/c17297n77z1o?at_medium=RSS&at_campaign=rss)
-- [The race to replace Starmer is on - but he still faces a momentous choice](https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss)
-- [Tens of thousands join rival marches in London](https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss)
+- [The UK is churning through leaders. Is the country becoming harder to govern?](https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss)
+- [Bangaranga! Bulgaria wins Eurovision - but UK comes last](https://www.bbc.com/news/articles/c8d87v9v660o?at_medium=RSS&at_campaign=rss)
+- ['Look Mum, one point': Why does the UK keep getting Eurovision wrong?](https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Tens of thousands join far-right rally in central London](https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss)
-- [Latvia’s president asks opposition leader to form new government](https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government?traffic_source=rss)
-- [Accident kills eight people in Thailand raising questions of rail safety](https://www.aljazeera.com/video/newsfeed/2026/5/16/accident-kills-eight-people-in-thailand-raising-questions-of-rail-safety?traffic_source=rss)
+- [WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency](https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss)
+- [FIFA holds ‘positive’ talks with Iranian football officials on World Cup](https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss)
+- [‘Timmy’ the rescued humpback whale confirmed dead](https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Trump says Islamic State ‘second in command’ killed by US and Nigerian forces](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
@@ -39,19 +39,19 @@ High 14°C / Low 5°C &nbsp;|&nbsp; Humidity 82%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Alonso reaches agreement in principle to be next Chelsea boss](https://www.bbc.com/sport/football/articles/clypg8611k4o?at_medium=RSS&at_campaign=rss)
-- [The Alonso dream may be over - but Salah's outburst keeps heat on Slot](https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss)
-- [England beaten in rain-affected ODI as NZ draw series](https://www.bbc.com/sport/cricket/articles/cx210zn2zyno?at_medium=RSS&at_campaign=rss)
+- [No trophy in turbulent season but Alonso arrival offers Chelsea hope](https://www.bbc.com/sport/football/articles/clyp17plzx9o?at_medium=RSS&at_campaign=rss)
+- [Smalley leads as McIlroy, Rahm, Rose & Rai impress on 'moving day'](https://www.bbc.com/sport/golf/articles/ckgp40573reo?at_medium=RSS&at_campaign=rss)
+- [Rousey seals perfect ending with 15-second comeback win](https://www.bbc.com/sport/mixed-martial-arts/articles/cy82v395l7lo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Warrington bounce back from cup disappointment to beat Toulouse](https://www.skysports.com/rugby-league/news/12040/13544874/super-league-warrington-bounce-back-from-cup-disappointment-to-beat-toulouse-and-move-up-to-joint-second)
-- [Hearts slam 'disgraceful' pitch invasion and report 'serious' abuse at Celtic Park](https://www.skysports.com/football/news/12040/13544702/celtic-3-1-hearts-visitors-say-players-staff-suffer-serious-physical-and-verbal-abuse-after-disgraceful-celtic-park-pitch-invasion)
-- [Pep 'feeling stability' and says 'future is bright' after 20th major Man City trophy](https://www.skysports.com/football/news/12040/13544837/pep-guardiola-has-man-city-boss-dropped-a-hint-about-what-comes-next-the-future-is-bright)
+- [Hrgovic could fight Itauma next after Allen demolition: 'I never run'](https://www.skysports.com/boxing/news/12040/13544937/filip-hrgovic-could-fight-moses-itauma-next-after-dave-allen-demolition-moses-never-reached-the-promised-land)
+- [Kolokico headlines the Grand Steeple-Chase de Paris](https://www.skysports.com/racing/news/12040/13544498/today-on-sky-sports-racing-ripon-and-auteuil)
+- [PGA Championship: R4 pairings and full tee times](https://www.skysports.com/golf/news/12040/13544925/pga-championship-2026-tee-times-full-r4-pairings-and-uk-and-ireland-start-times-for-final-round-at-aronimink-golf-club)
 
 ### 🏅 The Guardian Sport
-- [US PGA Championship 2026 golf: Rory McIlroy surges in third round – live](https://www.theguardian.com/sport/live/2026/may/16/us-pga-championship-day-three-golf-live)
-- [Xabi Alonso agrees deal in principle to become Chelsea manager](https://www.theguardian.com/football/2026/may/16/xabi-alonso-agrees-deal-in-principle-to-become-chelsea-head-coach)
-- [Manchester City win FA Cup final as Semenyo’s moment of magic floors Chelsea](https://www.theguardian.com/football/2026/may/16/manchester-city-win-fa-cup-final-as-semenyo-magic-sinks-chelsea)
+- [Aaron Rodgers reportedly set for Steelers return on one-year deal worth up to $25m](https://www.theguardian.com/sport/2026/may/16/aaron-rodgers-steelers-return-contract)
+- [Premier League buildup, Celtic v Hearts fallout, FA Cup final reaction, and more – matchday live](https://www.theguardian.com/football/live/2026/may/17/fa-cup-final-scottish-premiership-wsl-reaction-premier-league-buildup-matchday-live)
+- [Smalley takes two-shot lead into final round of US PGA Championship but big names lurk](https://www.theguardian.com/sport/2026/may/17/alex-smalley-two-shot-lead-us-pga-championship-third-round-golf)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 14°C / Low 5°C &nbsp;|&nbsp; Humidity 82%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,252**
-vs yesterday's close: 🔴 ▼ $-817 (-1.03%)
-Trend: 📉 Below 7d MA by 2.5%
+**$78,125**
+vs yesterday's close: 🔴 ▼ $-10 (-0.01%)
+Trend: 📉 Below 7d MA by 2.0%
 
 ### 🇺🇸 S&P 500
 **7,408.5**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-05-16 20:37 BST</sub>
+<sub>Last updated: 2026-05-17 08:32 BST</sub>
