@@ -4,72 +4,74 @@
 
 ---
 
-## 📅 Monday, 18 May 2026
+## 📅 Tuesday, 19 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 13°C) — Rain shower
-High 14°C / Low 8°C &nbsp;|&nbsp; Humidity 59%
+**13°C** (feels like 11°C) — Overcast
+High 18°C / Low 10°C &nbsp;|&nbsp; Humidity 94%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Bodies of missing Italian divers found in Maldives](https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss)
-- [Prince William selling 20% of duchy property for housing and nature projects](https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss)
-- [UK companies linked to payments for small boat crossings, BBC finds](https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss)
+- [Married at First Sight UK rape allegations 'serious', says government](https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss)
+- [New High Street crime unit to target gangs fronting shops after BBC investigation](https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss)
+- [Wrongly jailed Malkinson tells BBC: 'I've been cheated, very badly cheated'](https://www.bbc.com/news/articles/c74r1x7dj8go?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [What is the UAE’s Barakah nuclear plant, nearly hit by a drone?](https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss)
-- [The world cannot afford to fail women, children and adolescents](https://www.aljazeera.com/opinions/2026/5/18/the-world-cannot-afford-to-fail-women-children-and-adolescents?traffic_source=rss)
-- [Ebola, hantavirus: Is the world prepared for the next pandemic?](https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss)
+- [Lebanon and Syria reshape ties amid Israeli attacks and regional shifts](https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss)
+- [Los Angeles World Cup stadium workers threaten strike over ICE deployment](https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss)
+- [Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks](https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts](https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak)
-- [Trump says Islamic State ‘second in command’ killed by US and Nigerian forces](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
-- [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo](https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths)
+- [Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’](https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech)
+- [‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC](https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court)
+- [‘It’s heartbreaking’: panic in eastern DRC over return of Ebola](https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Why Rai winning his first major in Rocky's backyard feels fitting](https://www.bbc.com/sport/golf/articles/c5yxlznl9xwo?at_medium=RSS&at_campaign=rss)
-- [West Ham relegation may cost London taxpayers £2.5m](https://www.bbc.com/sport/football/articles/cr7pm71rvkvo?at_medium=RSS&at_campaign=rss)
-- [Former England cricket captain Smith dies aged 92](https://www.bbc.com/sport/cricket/articles/c759vn5nx71o?at_medium=RSS&at_campaign=rss)
+- [Guardiola's legacy of genius will echo through all ages for years to come](https://www.bbc.com/sport/football/articles/cn8p34e12nno?at_medium=RSS&at_campaign=rss)
+- [Tense, tetchy but triumphant - all Arsenal eyes now on Bournemouth](https://www.bbc.com/sport/football/articles/ckgpdxvx2xvo?at_medium=RSS&at_campaign=rss)
+- [D-Day in Spygate case: What's at stake and what could happen?](https://www.bbc.com/sport/football/articles/c87ql0g27jno?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [What is Horner's most likely route back into F1?](https://www.skysports.com/f1/news/12040/13545489/christian-horner-what-is-former-red-bull-chiefs-most-likely-route-back-to-f1-with-imminent-return-now-possible)
-- [Hull FC prop Aydin handed six-match ban for horror tackle](https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights)
-- [Will Sinner feel any pressure at the French Open?](https://www.skysports.com/tennis/news/12040/13545437/french-open-will-jannik-sinner-feel-the-pressure-at-roland-garros-laura-robson-says-victory-in-paris-feels-inevitable-for-the-world-no-1)
+- [Who is the heir to Casemiro's throne at Man Utd?](https://www.skysports.com/football/news/12040/13534570/manchester-united-midfield-targets-analysed-as-red-devils-look-to-find-the-right-man-to-replace-casemiro)
+- [Garcia announces Benn blockbuster in Las Vegas](https://www.skysports.com/boxing/news/12040/13545770/ryan-garcia-announces-he-will-be-fighting-conor-benn-in-a-blockbuster-encounter-in-las-vegas-this-september)
+- [Can Jodar can become the star attraction at the French Open in Alcaraz's absence?](https://www.skysports.com/tennis/news/12040/13544455/french-open-can-rafael-jodar-become-the-star-attraction-at-roland-garros-in-the-absence-of-carlos-alcaraz)
 
 ### 🏅 The Guardian Sport
-- [The nice guy who finished first: why all of golf was glad to see Aaron Rai lift US PGA Championship](https://www.theguardian.com/sport/2026/may/18/the-nice-guy-who-finished-first-why-all-of-golf-was-glad-to-see-aaron-rai-lift-us-pga-championship)
-- [Premier League and FA Cup final: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action)
-- [No 1 seed Pistons rue NBA playoff exit as Cavs advance to Conference finals: ‘That game sucked’](https://www.theguardian.com/sport/2026/may/18/no-1-seed-pistons-rue-nba-playoff-exit-as-cavs-advance-to-conference-finals-that-game-sucked)
+- [Pep Guardiola expected to leave Manchester City at end of the season](https://www.theguardian.com/football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season)
+- [Kai Havertz header edges nervy Arsenal past Burnley and one step from title](https://www.theguardian.com/football/2026/may/18/arsenal-burnley-premier-league-match-report)
+- [Washington Nationals ban spectator over white nationalist ‘Save America’ banner](https://www.theguardian.com/sport/2026/may/18/washington-nationals-ban-spectator-over-white-nationalist-save-america-banner)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Takeaways: Spurs defeat defending champions in Gam...](https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers)
+- [Wemby spoils SGA's MVP night as Spurs stun OKC](https://www.espn.com/nba/story/_/id/48812302/wembanyama-explodes-41-spurs-stun-thunder-game-1)
+- ['I have to be better,' SGA says of MVP night letdo...](https://www.espn.com/nba/story/_/id/48813019/shai-gilgeous-alexander-says-be-better-game-1-letdown-vs-spurs-mvp-presentation-night)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,455**
-vs yesterday's close: 🔴 ▼ $-971 (-1.25%)
-Trend: 📉 Below 7d MA by 3.1%
+**$77,090**
+vs yesterday's close: 🟢 ▲ +$138 (+0.18%)
+Trend: 📉 Below 7d MA by 1.7%
 
 ### 🇺🇸 S&P 500
-**7,399.0**
-vs previous close: 🔴 ▼ -9.5 (-0.13%)
+**7,403.0**
+vs previous close: 🔴 ▼ -5.5 (-0.07%)
 Trend: ➡️ Flat around 7d MA (-0.3%)
 
 ---
 
-<sub>Last updated: 2026-05-18 15:46 BST</sub>
+<sub>Last updated: 2026-05-19 09:20 BST</sub>
