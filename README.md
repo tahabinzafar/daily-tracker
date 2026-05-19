@@ -54,18 +54,16 @@ High 18°C / Low 10°C &nbsp;|&nbsp; Humidity 94%
 - [Washington Nationals ban spectator over white nationalist ‘Save America’ banner](https://www.theguardian.com/sport/2026/may/18/washington-nationals-ban-spectator-over-white-nationalist-save-america-banner)
 
 ### 🏈 ESPN
-- [Takeaways: Spurs defeat defending champions in Gam...](https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers)
-- [Wemby spoils SGA's MVP night as Spurs stun OKC](https://www.espn.com/nba/story/_/id/48812302/wembanyama-explodes-41-spurs-stun-thunder-game-1)
-- ['I have to be better,' SGA says of MVP night letdo...](https://www.espn.com/nba/story/_/id/48813019/shai-gilgeous-alexander-says-be-better-game-1-letdown-vs-spurs-mvp-presentation-night)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,090**
-vs yesterday's close: 🟢 ▲ +$138 (+0.18%)
-Trend: 📉 Below 7d MA by 1.7%
+**$76,972**
+vs yesterday's close: 🟢 ▲ +$20 (+0.03%)
+Trend: 📉 Below 7d MA by 1.9%
 
 ### 🇺🇸 S&P 500
 **7,403.0**
@@ -74,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.3%)
 
 ---
 
-<sub>Last updated: 2026-05-19 09:20 BST</sub>
+<sub>Last updated: 2026-05-19 09:27 BST</sub>
