@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Wednesday, 20 May 2026
+## 📅 Thursday, 21 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 19°C) — Patchy rain nearby
-High 19°C / Low 12°C &nbsp;|&nbsp; Humidity 65%
+**15°C** (feels like 15°C) — Partly cloudy 
+High 22°C / Low 11°C &nbsp;|&nbsp; Humidity 75%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Women who died in sea off Brighton were sisters](https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&at_campaign=rss)
-- [Fuel duty freeze extended until the end of the year](https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss)
-- [Supermarkets hit back over pressure to cap price of milk, bread and eggs](https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss)
+- [TikTok and YouTube 'not safe enough' for kids, says regulator](https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss)
+- [Free bus trips for children in England this August as part of Reeves's cost-of-living plan](https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Reeves' summer savings drive won't stretch to energy bills](https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Is the West de-risking from China or containing its economy?](https://www.aljazeera.com/video/counting-the-cost/2026/5/20/is-the-west-de-risking-from-china-or-containing-its-economy?traffic_source=rss)
-- [Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky](https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss)
-- [‘Multipolar world’: What Xi and Putin announced after Beijing summit](https://www.aljazeera.com/news/2026/5/20/multipolar-world-what-xi-and-putin-announced-after-beijing-summit?traffic_source=rss)
+- [DR Congo cancel World Cup training camp in Kinshasa over Ebola outbreak](https://www.aljazeera.com/sports/2026/5/21/dr-congo-cancel-world-cup-training-camp-in-kinshasa-over-ebola-outbreak?traffic_source=rss)
+- [Taiwan’s President Lai says he would be happy to speak with Donald Trump](https://www.aljazeera.com/news/2026/5/21/taiwans-president-lai-says-he-would-be-happy-to-speak-with-donald-trump?traffic_source=rss)
+- [‘King’ Emery hailed as Aston Villa beat Freiburg 3-0 in Europa League](https://www.aljazeera.com/sports/2026/5/21/2118?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [US doctor who contracted Ebola in DRC flown to Germany for treatment](https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany)
@@ -39,37 +39,39 @@ High 19°C / Low 12°C &nbsp;|&nbsp; Humidity 65%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Southampton hit out at 'disproportionate' Spygate punishment](https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&at_campaign=rss)
-- [Saka calls out critics as players celebrate title at Emirates at 5am](https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss)
-- [Man Utd-Forest referee not selected for final day](https://www.bbc.com/sport/football/articles/c1j2egjlp53o?at_medium=RSS&at_campaign=rss)
+- ['We'll go down in history' - Villa's new heroes triumph to end 30-year wait](https://www.bbc.com/sport/football/articles/cn5p6yeql9po?at_medium=RSS&at_campaign=rss)
+- [The World Cup squad dilemmas facing Tuchel](https://www.bbc.com/sport/football/articles/cj3pvj3egddo?at_medium=RSS&at_campaign=rss)
+- [Secrets, acting & 16 years unbeaten - in camp with Usyk](https://www.bbc.com/sport/boxing/articles/czr267lzd8ro?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Southampton criticise 'unacceptable' play-off expulsion over 'spygate'](https://www.skysports.com/football/news/12040/13546248/southampton-expelled-from-play-offs-saints-chief-executive-describes-spygate-punishment-as-manifestly-disproportionate-to-the-offence)
-- [Premier League 26/27 season - key dates and fixtures day](https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule)
-- [Why Bournemouth and Brighton want Aston Villa to win Europa League](https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification)
+- [Beers with Prince William, a broken finger and CL next? Villa's Europa triumph!](https://www.skysports.com/football/news/12040/13546486/aston-villa-win-europa-league-inside-unai-emerys-latest-european-triumph-including-emiliano-martinezs-broken-finger-and-beers-with-prince-william)
+- [Gilgeous-Alexander scores 30 as Thunder beat Spurs in Game 2 to level West finals](https://www.skysports.com/nba/news/12040/13546480/nba-playoffs-shai-gilgeous-alexander-scores-30-as-oklahoma-city-thunder-beat-san-antonio-spurs-in-game-2-to-level-western-conference-finals)
+- ['George is under pressure' - why Canada is a big weekend for Russell](https://www.skysports.com/f1/news/12040/13545414/george-russell-why-canadian-gp-is-a-big-weekend-for-mercedes-title-chaser-after-team-mate-kimi-antonellis-winning-run)
 
 ### 🏅 The Guardian Sport
-- [Brunson stunned after Knicks’ 22-point comeback over Cavs in East finals: ‘I don’t have an answer’](https://www.theguardian.com/sport/2026/may/19/jalen-brunson-new-york-knicks-cleveland-cavaliers-nba-playoffs)
-- [Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets](https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets)
-- [‘A Jackie Robinson moment’: Jeffries echoes NAACP calls for college sports boycott over voting rights](https://www.theguardian.com/sport/2026/may/20/hakeem-jeffries-naacp-college-sports-boycott)
+- [Tielemans starts party as Aston Villa outclass Freiburg to claim Europa League glory](https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-europa-league-final-match-report)
+- [Aaron Rodgers says 2026 will be his final NFL season: ‘This is it’](https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire)
+- [How Arteta overcame setbacks, crises and boos to defy doubters at Arsenal](https://www.theguardian.com/football/2026/may/20/mikel-arteta-arsenal-overcame-setbacks-crises-boos-defy-doubters)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Copy of NBA playoff takeaways: OKC takes Game 2 at home](https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers)
+- [Thunder tie series as SGA bounces back with 30](https://www.espn.com/nba/story/_/id/48832009/gilgeous-alexander-scores-30-thunder-evens-series-game-2)
+- [Spurs, already minus Fox, lose Harper (hammy)](https://www.espn.com/nba/story/_/id/48831857/spurs-dylan-harper-hamstring-exits-game-2-vs-thunder)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,388**
-vs yesterday's close: 🟢 ▲ +$579 (+0.75%)
-Trend: ➡️ Flat around 7d MA (-1.0%)
+**$77,968**
+vs yesterday's close: 🟢 ▲ +$508 (+0.66%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ### 🇺🇸 S&P 500
-**7,419.9**
-vs previous close: 🟢 ▲ +66.3 (+0.90%)
-Trend: ➡️ Flat around 7d MA (+0.0%)
+**7,433.0**
+vs previous close: 🟢 ▲ +79.4 (+1.08%)
+Trend: ➡️ Flat around 7d MA (+0.2%)
 
 ---
 
-<sub>Last updated: 2026-05-20 16:44 BST</sub>
+<sub>Last updated: 2026-05-21 09:31 BST</sub>
