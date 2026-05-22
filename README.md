@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Thursday, 21 May 2026
+## 📅 Friday, 22 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 18°C) — Cloudy 
-High 22°C / Low 11°C &nbsp;|&nbsp; Humidity 60%
+**20°C** (feels like 20°C) — Partly cloudy 
+High 26°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [TikTok and YouTube 'not safe enough' for kids, says regulator](https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss)
-- [Free bus trips for children in England this August as part of Reeves's cost-of-living plan](https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: Reeves' summer savings drive won't stretch to energy bills](https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss)
+- [Parents of Southport survivors say anonymity has erased their girls from the story](https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss)
+- [Andrew investigation could look into sexual misconduct allegations](https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss)
+- [Rubio says Cuba is threat to US as Havana accuses him of 'lies'](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [What options do the US and Iran have left to bring war to an end?](https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss)
-- [Kite carrying Palestinian children’s messages reaches Mount Everest summit](https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss)
-- [Flooding in southern China washes away cars and destroys bridge](https://www.aljazeera.com/video/newsfeed/2026/5/21/flooding-in-southern-china-washes-away-cars-and-destroys-bridge?traffic_source=rss)
+- [US raises threat of military action against Cuba](https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss)
+- [Japan’s World Cup 2026 team preview: Players to watch, group, squad](https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss)
+- [Iran war day 84: US-Iran talks advance amid mediation push](https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’](https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan)
+- [Macron says France must address issue of reparations for its role in slave trade](https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement)
 - [US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say](https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health)
-- [US doctor who contracted Ebola in DRC flown to Germany for treatment](https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany)
-- [Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts](https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['We'll go down in history' - Villa's new heroes triumph to end 30-year wait](https://www.bbc.com/sport/football/articles/cn5p6yeql9po?at_medium=RSS&at_campaign=rss)
-- [FA opens Southampton investigation over Spygate](https://www.bbc.com/sport/football/articles/crmplprldl8o?at_medium=RSS&at_campaign=rss)
-- [The World Cup squad dilemmas facing Tuchel](https://www.bbc.com/sport/football/articles/cj3pvj3egddo?at_medium=RSS&at_campaign=rss)
+- [How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles](https://www.bbc.com/sport/football/articles/c1k2g782m1ro?at_medium=RSS&at_campaign=rss)
+- [Foden, Palmer, Alexander-Arnold set to miss World Cup](https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss)
+- [How Guardiola transformed the Premier League tactically](https://www.bbc.com/sport/football/articles/c332v8g8vnyo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [The greatest Champions Cup finals in history ahead of 2026 showpiece](https://www.skysports.com/rugby-union/news/12040/13546522/champions-cup-the-greatest-finals-in-the-history-of-europes-highest-level-ahead-of-leinster-vs-bordeaux-begles-meeting)
-- [Live on Sky: Notts County vs Salford - L2 play-off final](https://www.skysports.com/football/notts-county-vs-salford-city/live/555951)
-- [FA to investigate Southampton over 'Spygate' scandal](https://www.skysports.com/football/news/12040/13546521/southampton-the-fa-to-launch-investigation-into-south-coast-club-amid-spygate-scandal)
+- [Unprecedented and emotional - can Boro rally from 'Spygate' saga for play-off final?](https://www.skysports.com/football/news/12040/13546584/can-middlesbrough-rally-from-spygate-saga-for-the-championship-play-off-final-against-hull-at-wembley)
+- [How Hull have defied all data and logic this season to reach Wembley](https://www.skysports.com/football/news/12040/13546334/championship-play-off-final-hull-city-have-defied-data-and-logic-this-season-as-they-stand-one-win-away-from-the-premier-league)
+- [Two-time NASCAR champion Busch dies at 41 after 'severe illness'](https://www.skysports.com/motorsport/news/12040/13546885/kyle-busch-two-time-nascar-champion-dies-aged-41-after-being-taken-to-hospital-with-a-severe-illness)
 
 ### 🏅 The Guardian Sport
-- [Tielemans starts party as Aston Villa outclass Freiburg to claim Europa League glory](https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-europa-league-final-match-report)
-- [Aaron Rodgers says 2026 will be his final NFL season: ‘This is it’](https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire)
-- [How Arteta overcame setbacks, crises and boos to defy doubters at Arsenal](https://www.theguardian.com/football/2026/may/20/mikel-arteta-arsenal-overcame-setbacks-crises-boos-defy-doubters)
+- [Kyle Busch, two-time Nascar champion, dies aged 41](https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead)
+- [Bullying, hazing and the making of a ‘soccer president’: Donald Trump’s forgotten career on the pitch](https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma)
+- [Foden, Palmer and Maguire left out of England World Cup squad but Toney is in](https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-harry-maguire-thomas-tuchel)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 22°C / Low 11°C &nbsp;|&nbsp; Humidity 60%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,556**
-vs yesterday's close: 🟢 ▲ +$96 (+0.12%)
-Trend: ➡️ Flat around 7d MA (-0.1%)
+**$77,429**
+vs yesterday's close: 🔴 ▼ $-117 (-0.15%)
+Trend: ➡️ Flat around 7d MA (+0.0%)
 
 ### 🇺🇸 S&P 500
-**7,433.0**
-vs previous close: 🟢 ▲ +79.4 (+1.08%)
-Trend: ➡️ Flat around 7d MA (+0.2%)
+**7,445.7**
+vs previous close: 🟢 ▲ +12.8 (+0.17%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-05-21 11:10 BST</sub>
+<sub>Last updated: 2026-05-22 09:21 BST</sub>
