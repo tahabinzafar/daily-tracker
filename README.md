@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Friday, 22 May 2026
+## 📅 Saturday, 23 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 20°C) — Partly cloudy 
-High 26°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
+**18°C** (feels like 18°C) — Sunny
+High 28°C / Low 16°C &nbsp;|&nbsp; Humidity 77%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Parents of Southport survivors say anonymity has erased their girls from the story](https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss)
-- [Andrew investigation could look into sexual misconduct allegations](https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss)
-- [Rubio says Cuba is threat to US as Havana accuses him of 'lies'](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
+- [At least 90 dead in Chinese coal mine explosion, state media reports](https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss)
+- [Hot weather to intensify in UK over bank holiday weekend](https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss)
+- [Putin vows retaliation after accusing Ukraine of hitting student dormitory](https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [US raises threat of military action against Cuba](https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss)
-- [Japan’s World Cup 2026 team preview: Players to watch, group, squad](https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss)
-- [Iran war day 84: US-Iran talks advance amid mediation push](https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss)
+- [Gas explosion at Chinese coal mine kills at least 90](https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss)
+- [World Cup 2026: Which star players will miss the tournament?](https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-which-star-players-will-miss-the-tournament?traffic_source=rss)
+- [Iran war day 85: Tehran says major gaps remain in US talks](https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC](https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc)
 - [Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’](https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan)
 - [Macron says France must address issue of reparations for its role in slave trade](https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement)
-- [US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say](https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles](https://www.bbc.com/sport/football/articles/c1k2g782m1ro?at_medium=RSS&at_campaign=rss)
-- [Foden, Palmer, Alexander-Arnold set to miss World Cup](https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss)
-- [How Guardiola transformed the Premier League tactically](https://www.bbc.com/sport/football/articles/c332v8g8vnyo?at_medium=RSS&at_campaign=rss)
+- ['Unselfish' over 'ego' - what do leaks say about Tuchel's England?](https://www.bbc.com/sport/football/articles/cg4pgve33kyo?at_medium=RSS&at_campaign=rss)
+- [Russell edges Antonelli to take pole for Canada sprint](https://www.bbc.com/sport/formula1/articles/ckgplmj1rg9o?at_medium=RSS&at_campaign=rss)
+- [Hull and Middlesbrough set for unique play-off final](https://www.bbc.com/sport/football/articles/cwy2815zvv7o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Unprecedented and emotional - can Boro rally from 'Spygate' saga for play-off final?](https://www.skysports.com/football/news/12040/13546584/can-middlesbrough-rally-from-spygate-saga-for-the-championship-play-off-final-against-hull-at-wembley)
-- [How Hull have defied all data and logic this season to reach Wembley](https://www.skysports.com/football/news/12040/13546334/championship-play-off-final-hull-city-have-defied-data-and-logic-this-season-as-they-stand-one-win-away-from-the-premier-league)
-- [Two-time NASCAR champion Busch dies at 41 after 'severe illness'](https://www.skysports.com/motorsport/news/12040/13546885/kyle-busch-two-time-nascar-champion-dies-aged-41-after-being-taken-to-hospital-with-a-severe-illness)
+- [Premier League final day: Arsenal's party, Spurs' battle, Pep's goodbye](https://www.skysports.com/football/news/12040/13546552/premier-league-final-day-live-on-sky-arsenals-party-tottenhams-battle-pep-guardiolas-man-city-goodbye)
+- [Today on Sky Sports Racing: Windsor and Bangor feature on Saturday](https://www.skysports.com/racing/news/12040/13546599/today-on-sky-sports-racing-windsor-and-bangor-feature-on-saturday)
+- ['Best I've felt all year' - Hamilton plans to stick with not using Ferrari simulator](https://www.skysports.com/f1/news/12040/13547014/canadian-gp-lewis-hamilton-plans-to-stick-with-not-using-ferrari-simulator-after-strong-sprint-qualifying)
 
 ### 🏅 The Guardian Sport
-- [Kyle Busch, two-time Nascar champion, dies aged 41](https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead)
-- [Bullying, hazing and the making of a ‘soccer president’: Donald Trump’s forgotten career on the pitch](https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma)
-- [Foden, Palmer and Maguire left out of England World Cup squad but Toney is in](https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-harry-maguire-thomas-tuchel)
+- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/2026/may/22/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season)
+- [‘As world No 1, I have to stand up and fight’: Sabalenka leads players in grand slam protest](https://www.theguardian.com/sport/2026/may/22/grand-slam-protest-french-open-aryna-sabalenka)
+- [The NAACP’s boycott call is a wake-up moment for the American Black athlete | Howard Bryant](https://www.theguardian.com/sport/2026/may/22/naacp-boycott-college-sports-black-athletes)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 26°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,429**
-vs yesterday's close: 🔴 ▼ $-117 (-0.15%)
-Trend: ➡️ Flat around 7d MA (+0.0%)
+**$75,196**
+vs yesterday's close: 🔴 ▼ $-287 (-0.38%)
+Trend: 📉 Below 7d MA by 2.0%
 
 ### 🇺🇸 S&P 500
-**7,445.7**
-vs previous close: 🟢 ▲ +12.8 (+0.17%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**7,473.5**
+vs previous close: 🟢 ▲ +27.8 (+0.37%)
+Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ---
 
-<sub>Last updated: 2026-05-22 09:21 BST</sub>
+<sub>Last updated: 2026-05-23 08:31 BST</sub>
