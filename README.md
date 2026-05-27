@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Tuesday, 26 May 2026
+## 📅 Wednesday, 27 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**24°C** (feels like 25°C) — Sunny
-High 32°C / Low 19°C &nbsp;|&nbsp; Humidity 54%
+**19°C** (feels like 19°C) — Sunny
+High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,14 +20,14 @@ High 32°C / Low 19°C &nbsp;|&nbsp; Humidity 54%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Gisèle Pelicot 'deeply shocked' by decision not to jail boys in rape case](https://www.bbc.com/news/articles/cx2117685lwo?at_medium=RSS&at_campaign=rss)
-- [Social media as bad for young people as smoking, top doctors say](https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss)
-- [US launches new strikes on Iran, targeting missile sites and boats](https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss)
+- [Energy bills to rise for millions as impact of Iran war hits](https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss)
+- [Labour has 'no coherent plan' for country, says Blair](https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss)
+- [Body found in search for boy, 12, missing in river as heatwave continues](https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Knicks reach NBA finals after defeating Cavaliers in Game 4](https://www.aljazeera.com/sports/2026/5/26/knicks-reach-nba-finals-after-defeating-cavaliers-in-game-4?traffic_source=rss)
-- [Rubio says Strait of Hormuz will open ‘one way or the other’](https://www.aljazeera.com/video/newsfeed/2026/5/26/rubio-says-strait-of-hormuz-will-open-one-way-or-the-other?traffic_source=rss)
-- [As Trump woos China, the Quad grouping drifts towards irrelevance](https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss)
+- [Pope appeals for Gaza aid after being asked about flotilla activists](https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss)
+- [DRC flight suspension and Uganda border curbs isolate Ebola-hit Bunia](https://www.aljazeera.com/news/2026/5/27/drc-flight-suspension-and-uganda-border-curbs-isolate-ebola-hit-bunia?traffic_source=rss)
+- [Taiwan’s economy is booming thanks to AI. Not everyone sees the benefits](https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO](https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who)
@@ -39,37 +39,39 @@ High 32°C / Low 19°C &nbsp;|&nbsp; Humidity 54%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Jordan leads star names at Guardiola leaving party](https://www.bbc.com/sport/football/articles/c74rrwj9gdzo?at_medium=RSS&at_campaign=rss)
-- [What is going on with Ferrari and will Verstappen quit? F1 Q&A](https://www.bbc.com/sport/formula1/articles/c0720rrkvxvo?at_medium=RSS&at_campaign=rss)
-- [How Toone is navigating grief through football](https://www.bbc.com/sport/football/articles/c3e2dg875x7o?at_medium=RSS&at_campaign=rss)
+- [Spurs needed 'complete reset', says under fire CEO](https://www.bbc.com/sport/football/articles/c5y771yleqvo?at_medium=RSS&at_campaign=rss)
+- [The footballer setting record straight after 46 years](https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss)
+- [60 Palace 'troublemakers' ordered to leave Leipzig](https://www.bbc.com/sport/football/articles/cx213pp0yrlo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [The PL clubs changing manager... and the others that could follow](https://www.skysports.com/football/news/12040/13547917/premier-league-set-for-big-managerial-shake-up-this-summer-with-at-least-five-clubs-making-a-change-in-the-dugout)
-- [From Macclesfield to Leipzig: How Palace reached Conference League final](https://www.skysports.com/football/news/12040/13547959/crystal-palace-vs-rayo-vallecano-how-oliver-glasners-eagles-reached-europa-conference-league-final)
-- [Can Raducanu get back to aggressive, first-strike style on grass under coach Richardson?](https://www.skysports.com/tennis/news/12040/13547952/emma-raducanu-british-no-1-determined-to-get-back-to-aggressive-first-strike-style-on-grass-under-coach-andrew-richardson)
+- [West End musical Wicked to open Women's T20 World Cup](https://www.skysports.com/cricket/news/12040/13548368/womens-t20-world-cup-2026-wicked-to-bring-west-end-magic-to-tournament-opening-ceremony-at-edgbaston)
+- [Paul 'keen' for Ngannou fight or Fury rematch after return from injury](https://www.skysports.com/boxing/news/12040/13548298/jake-paul-mvp-boxer-keen-for-francis-ngannou-fight-or-tommy-fury-rematch-after-successful-return-from-broken-jaw)
+- [Wembanyama has off night for Spurs as Thunder edge closer to NBA Finals](https://www.skysports.com/nba/news/12040/13548347/nba-playoffs-oklahoma-city-thunder-one-game-away-from-nba-finals-as-victor-wembanyama-suffers-rare-off-night-for-san-antonio-spurs)
 
 ### 🏅 The Guardian Sport
-- [Relentless Knicks sweep Cavaliers and return to NBA finals for first time since 1999](https://www.theguardian.com/sport/2026/may/25/knicks-cavaliers-eastern-conference-finals-nba)
-- [Enhanced Games rejects mistaken world record timing claims as ‘internet drivel’](https://www.theguardian.com/sport/2026/may/25/enhanced-games-world-record-drugs-in-sport-kristian-gkolomeev)
-- [Victor Wembanyama’s half-court buzzer beater showcased a master in complete control](https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs)
+- [Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him](https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players)
+- [Green Bay Packers’ Josh Jacobs arrested and jailed on domestic abuse charges](https://www.theguardian.com/sport/2026/may/26/josh-jacobs-arrested-packers-strangulation-domestic-abuse-charges)
+- [Coco Gauff says Australian Open did not apologise over racket-smash clip](https://www.theguardian.com/sport/2026/may/26/coco-gauff-says-australian-open-did-not-apologise-over-racket-smash-incident)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Golden Knights sweep the Avalanche: Grades, big qu...](https://www.espn.com/nhl/story/_/id/48883261/2026-nhl-playoffs-stanley-cup-western-conference-finals-avalanche-golden-knights-grades-game-4)
+- [Vegas completes sweep, will return to Cup Final](https://www.espn.com/nhl/story/_/id/48887356/vegas-golden-knights-complete-sweep-win-western-conference)
+- [Thunder use balanced attack to take series lead](https://www.espn.com/nba/story/_/id/48887219/thunder-use-balanced-attack-win-game-5-take-series-lead)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,708**
-vs yesterday's close: 🔴 ▼ $-566 (-0.73%)
-Trend: ➡️ Flat around 7d MA (-0.2%)
+**$75,886**
+vs yesterday's close: 🟢 ▲ +$62 (+0.08%)
+Trend: ➡️ Flat around 7d MA (-0.8%)
 
 ### 🇺🇸 S&P 500
-**7,473.5**
-vs previous close: 🟢 ▲ +27.8 (+0.37%)
-Trend: ➡️ Flat around 7d MA (+0.6%)
+**7,519.1**
+vs previous close: 🟢 ▲ +45.6 (+0.61%)
+Trend: 📈 Above 7d MA by 1.1%
 
 ---
 
-<sub>Last updated: 2026-05-26 09:30 BST</sub>
+<sub>Last updated: 2026-05-27 09:38 BST</sub>
