@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Wednesday, 27 May 2026
+## 📅 Thursday, 28 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
 **19°C** (feels like 19°C) — Sunny
-High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
+High 29°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,58 +20,56 @@ High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Energy bills to rise for millions as impact of Iran war hits](https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss)
-- [Labour has 'no coherent plan' for country, says Blair](https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss)
-- [Body found in search for boy, 12, missing in river as heatwave continues](https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&at_campaign=rss)
+- [An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture](https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss)
+- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss)
+- [US strikes Iranian military site as Iran says it has targeted American base](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Pope appeals for Gaza aid after being asked about flotilla activists](https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss)
-- [DRC flight suspension and Uganda border curbs isolate Ebola-hit Bunia](https://www.aljazeera.com/news/2026/5/27/drc-flight-suspension-and-uganda-border-curbs-isolate-ebola-hit-bunia?traffic_source=rss)
-- [Taiwan’s economy is booming thanks to AI. Not everyone sees the benefits](https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits?traffic_source=rss)
+- [World Cup delegation compliant with US Ebola protocols, DR Congo says](https://www.aljazeera.com/sports/2026/5/28/world-cup-delegation-compliant-with-us-ebola-protocols-dr-congo-says?traffic_source=rss)
+- [Australia charges alleged ISIL-linked woman after return from Syria](https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss)
+- [Iran and US trade attacks after Trump rejects report of Hormuz agreement](https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [US building Ebola quarantine center in Kenya for Americans amid outbreak](https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya)
+- [WHO chief calls for DRC ceasefire to tackle Ebola outbreak](https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola)
 - [Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO](https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who)
-- [‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana](https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court)
-- [Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages](https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Spurs needed 'complete reset', says under fire CEO](https://www.bbc.com/sport/football/articles/c5y771yleqvo?at_medium=RSS&at_campaign=rss)
-- [The footballer setting record straight after 46 years](https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss)
-- [60 Palace 'troublemakers' ordered to leave Leipzig](https://www.bbc.com/sport/football/articles/cx213pp0yrlo?at_medium=RSS&at_campaign=rss)
+- [U-turns, tension and trophies - inside 12 glorious months of Glasner](https://www.bbc.com/sport/football/articles/c4g5ydnpkqro?at_medium=RSS&at_campaign=rss)
+- [Palace wait on Iraola with Lampard among plan Bs](https://www.bbc.com/sport/football/articles/crlpw74l138o?at_medium=RSS&at_campaign=rss)
+- [Ecclestone targets World Cup glory after mental health struggle](https://www.bbc.com/sport/cricket/articles/cvgz5809zl9o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [West End musical Wicked to open Women's T20 World Cup](https://www.skysports.com/cricket/news/12040/13548368/womens-t20-world-cup-2026-wicked-to-bring-west-end-magic-to-tournament-opening-ceremony-at-edgbaston)
-- [Paul 'keen' for Ngannou fight or Fury rematch after return from injury](https://www.skysports.com/boxing/news/12040/13548298/jake-paul-mvp-boxer-keen-for-francis-ngannou-fight-or-tommy-fury-rematch-after-successful-return-from-broken-jaw)
-- [Wembanyama has off night for Spurs as Thunder edge closer to NBA Finals](https://www.skysports.com/nba/news/12040/13548347/nba-playoffs-oklahoma-city-thunder-one-game-away-from-nba-finals-as-victor-wembanyama-suffers-rare-off-night-for-san-antonio-spurs)
+- [Is Serena's comeback edging ever closer? 'Her best chance is on grass at Wimbledon'](https://www.skysports.com/tennis/news/12040/13548612/is-serena-williams-comeback-edging-ever-closer-andy-roddick-claims-her-best-chance-is-on-grass-at-wimbledon)
+- [Piastri 'flattered' by possible Red Bull interest amid Verstappen uncertainty](https://www.skysports.com/f1/news/12040/13546931/oscar-piastri-mclaren-driver-flattered-by-reports-he-is-red-bulls-first-choice-as-max-verstappen-replacement)
+- [Today on Sky Sports Racing: Zubaru chases hat-trick at Yarmouth](https://www.skysports.com/racing/news/12040/13548288/today-on-sky-sports-racing-ripon-worcester-and-yarmouth-feature-live-on-thursday)
 
 ### 🏅 The Guardian Sport
-- [Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him](https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players)
-- [Green Bay Packers’ Josh Jacobs arrested and jailed on domestic abuse charges](https://www.theguardian.com/sport/2026/may/26/josh-jacobs-arrested-packers-strangulation-domestic-abuse-charges)
-- [Coco Gauff says Australian Open did not apologise over racket-smash clip](https://www.theguardian.com/sport/2026/may/26/coco-gauff-says-australian-open-did-not-apologise-over-racket-smash-incident)
+- [Jakub Mensik labels French Open heat ‘insane’ after collapsing at end of five-set win](https://www.theguardian.com/sport/2026/may/27/jakub-mensik-labels-french-open-heat-insane-after-collapsing-at-end-of-five-set-win)
+- [Crystal Palace win Conference League after Mateta strike sinks Rayo Vallecano](https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report)
+- [Influential US skateboarder Marc Johnson dies aged 49: ‘Everything he did was art’](https://www.theguardian.com/sport/2026/may/27/marc-johnson-dead-skateboarder-enjoi-thrasher)
 
 ### 🏈 ESPN
-- [Golden Knights sweep the Avalanche: Grades, big qu...](https://www.espn.com/nhl/story/_/id/48883261/2026-nhl-playoffs-stanley-cup-western-conference-finals-avalanche-golden-knights-grades-game-4)
-- [Vegas completes sweep, will return to Cup Final](https://www.espn.com/nhl/story/_/id/48887356/vegas-golden-knights-complete-sweep-win-western-conference)
-- [Thunder use balanced attack to take series lead](https://www.espn.com/nba/story/_/id/48887219/thunder-use-balanced-attack-win-game-5-take-series-lead)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$75,886**
-vs yesterday's close: 🟢 ▲ +$62 (+0.08%)
-Trend: ➡️ Flat around 7d MA (-0.8%)
+**$73,157**
+vs yesterday's close: 🔴 ▼ $-1,196 (-1.61%)
+Trend: 📉 Below 7d MA by 3.3%
 
 ### 🇺🇸 S&P 500
-**7,519.1**
-vs previous close: 🟢 ▲ +45.6 (+0.61%)
-Trend: 📈 Above 7d MA by 1.1%
+**7,520.4**
+vs previous close: 🟢 ▲ +1.2 (+0.02%)
+Trend: ➡️ Flat around 7d MA (+0.9%)
 
 ---
 
-<sub>Last updated: 2026-05-27 09:38 BST</sub>
+<sub>Last updated: 2026-05-28 09:41 BST</sub>
