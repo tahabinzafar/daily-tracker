@@ -4,72 +4,74 @@
 
 ---
 
-## 📅 Thursday, 28 May 2026
+## 📅 Friday, 29 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 19°C) — Sunny
-High 29°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
+**18°C** (feels like 18°C) — Patchy rain nearby
+High 25°C / Low 18°C &nbsp;|&nbsp; Humidity 68%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture](https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss)
-- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss)
-- [US strikes Iranian military site as Iran says it has targeted American base](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
+- [US and Iran 'very close' to deal but 'not there yet', Vance says](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
+- [Moment Blue Origin rocket explodes during test in Florida](https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss)
+- [SAS troops accused of war crimes not referred to police over morale fears, inquiry hears](https://www.bbc.com/news/articles/c5y708l015mo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [World Cup delegation compliant with US Ebola protocols, DR Congo says](https://www.aljazeera.com/sports/2026/5/28/world-cup-delegation-compliant-with-us-ebola-protocols-dr-congo-says?traffic_source=rss)
-- [Australia charges alleged ISIL-linked woman after return from Syria](https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss)
-- [Iran and US trade attacks after Trump rejects report of Hormuz agreement](https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss)
+- [Gaza parents brave dental dilemma: Costly treatment or food on the table?](https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss)
+- [South Korea’s SK Hynix enters exclusive $1 trillion club](https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss)
+- [NATO states slam Russia after drone crashes in Romania](https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [US building Ebola quarantine center in Kenya for Americans amid outbreak](https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya)
-- [WHO chief calls for DRC ceasefire to tackle Ebola outbreak](https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola)
-- [Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO](https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who)
+- [Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?](https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc)
+- [WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic)
+- [Dormitory fire at Kenyan girls’ school kills at least 16 students](https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [U-turns, tension and trophies - inside 12 glorious months of Glasner](https://www.bbc.com/sport/football/articles/c4g5ydnpkqro?at_medium=RSS&at_campaign=rss)
-- [Palace wait on Iraola with Lampard among plan Bs](https://www.bbc.com/sport/football/articles/crlpw74l138o?at_medium=RSS&at_campaign=rss)
-- [Ecclestone targets World Cup glory after mental health struggle](https://www.bbc.com/sport/cricket/articles/cvgz5809zl9o?at_medium=RSS&at_campaign=rss)
+- [Emotional Littler underlines greatness after almost quitting Premier League](https://www.bbc.com/sport/darts/articles/cg7pmry8gkgo?at_medium=RSS&at_campaign=rss)
+- [From non-league to Champions League - Raya's fairytale rise](https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss)
+- [French Open men's draw blown wide open - who can capitalise on Sinner exit?](https://www.bbc.com/sport/tennis/articles/c5y7zyezj4po?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Is Serena's comeback edging ever closer? 'Her best chance is on grass at Wimbledon'](https://www.skysports.com/tennis/news/12040/13548612/is-serena-williams-comeback-edging-ever-closer-andy-roddick-claims-her-best-chance-is-on-grass-at-wimbledon)
-- [Piastri 'flattered' by possible Red Bull interest amid Verstappen uncertainty](https://www.skysports.com/f1/news/12040/13546931/oscar-piastri-mclaren-driver-flattered-by-reports-he-is-red-bulls-first-choice-as-max-verstappen-replacement)
-- [Today on Sky Sports Racing: Zubaru chases hat-trick at Yarmouth](https://www.skysports.com/racing/news/12040/13548288/today-on-sky-sports-racing-ripon-worcester-and-yarmouth-feature-live-on-thursday)
+- [Hodgkinson targets 800m world record on home soil](https://www.skysports.com/athletics/news/12040/13548953/keely-hodgkinson-olympic-champion-targets-800m-outdoor-world-record-at-london-diamond-league)
+- [French Open scores: Swiatek, Djokovic and Jodar in third-round action](https://www.skysports.com/tennis/scores-schedule)
+- [Spurs thrash Oklahoma to take series to a decider](https://www.skysports.com/nba/news/12040/13548937/san-antonio-spurs-118-91-oklahoma-city-thunder-victor-wembanyama-leads-side-to-comfortable-win-in-sixth-game-and-send-series-to-decider)
 
 ### 🏅 The Guardian Sport
-- [Jakub Mensik labels French Open heat ‘insane’ after collapsing at end of five-set win](https://www.theguardian.com/sport/2026/may/27/jakub-mensik-labels-french-open-heat-insane-after-collapsing-at-end-of-five-set-win)
-- [Crystal Palace win Conference League after Mateta strike sinks Rayo Vallecano](https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report)
-- [Influential US skateboarder Marc Johnson dies aged 49: ‘Everything he did was art’](https://www.theguardian.com/sport/2026/may/27/marc-johnson-dead-skateboarder-enjoi-thrasher)
+- [Wembanyama and aggressive Spurs see off Thunder to force Game 7](https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals)
+- [California teen Shrey Parikh wins National Spelling Bee in dramatic tiebreaker](https://www.theguardian.com/sport/2026/may/28/shrey-parikh-scripps-national-spelling-bee-win)
+- [Pochettino says Christian Pulisic ‘is going to score in the World Cup’](https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-christian-pulisic-usmnt)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Copy of What's up with SGA? Can Wemby really do this? What...](https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview)
+- [Spurs roll past Thunder as WCF head to Game 7](https://www.espn.com/nba/story/_/id/48906635/spurs-rout-thunder-force-game-7-western-conference-finals)
+- [Williams ineffective in return, SGA off in OKC los...](https://www.espn.com/nba/story/_/id/48907395/williams-ineffective-gilgeous-alexander-thunder-drop-game-6)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$73,157**
-vs yesterday's close: 🔴 ▼ $-1,196 (-1.61%)
-Trend: 📉 Below 7d MA by 3.3%
+**$73,697**
+vs yesterday's close: 🟢 ▲ +$157 (+0.21%)
+Trend: 📉 Below 7d MA by 2.4%
 
 ### 🇺🇸 S&P 500
-**7,520.4**
-vs previous close: 🟢 ▲ +1.2 (+0.02%)
-Trend: ➡️ Flat around 7d MA (+0.9%)
+**7,563.6**
+vs previous close: 🟢 ▲ +43.3 (+0.58%)
+Trend: 📈 Above 7d MA by 1.2%
 
 ---
 
-<sub>Last updated: 2026-05-28 09:41 BST</sub>
+<sub>Last updated: 2026-05-29 09:41 BST</sub>
