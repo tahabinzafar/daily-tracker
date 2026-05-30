@@ -4,34 +4,34 @@
 
 ---
 
-## 📅 Friday, 29 May 2026
+## 📅 Saturday, 30 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 18°C) — Patchy rain nearby
-High 25°C / Low 18°C &nbsp;|&nbsp; Humidity 68%
+**15°C** (feels like 15°C) — Sunny
+High 28°C / Low 15°C &nbsp;|&nbsp; Humidity 67%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [US and Iran 'very close' to deal but 'not there yet', Vance says](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
-- [Moment Blue Origin rocket explodes during test in Florida](https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss)
-- [SAS troops accused of war crimes not referred to police over morale fears, inquiry hears](https://www.bbc.com/news/articles/c5y708l015mo?at_medium=RSS&at_campaign=rss)
+- [Palace handed Andrew's controversial envoy emails six years ago](https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss)
+- [No deal announced after Trump meeting to make 'final determination' on Iran](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss)
+- [Arrive three hours before flight home, airline boss tells UK holidaymakers](https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Gaza parents brave dental dilemma: Costly treatment or food on the table?](https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss)
-- [South Korea’s SK Hynix enters exclusive $1 trillion club](https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss)
-- [NATO states slam Russia after drone crashes in Romania](https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss)
+- [Satire, social media and India’s Gen Z revolt](https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss)
+- [Barcelona sign England winger Anthony Gordon from Newcastle](https://www.aljazeera.com/sports/2026/5/30/barcelona-sign-england-winger-anthony-gordon-from-newcastle?traffic_source=rss)
+- [Rwanda-Russia nuclear deal underscores Africa’s shifting power balance](https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic)
 - [Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?](https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc)
-- [WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic)
 - [Dormitory fire at Kenyan girls’ school kills at least 16 students](https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil)
 
 ---
@@ -39,39 +39,37 @@ High 25°C / Low 18°C &nbsp;|&nbsp; Humidity 68%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Emotional Littler underlines greatness after almost quitting Premier League](https://www.bbc.com/sport/darts/articles/cg7pmry8gkgo?at_medium=RSS&at_campaign=rss)
-- [From non-league to Champions League - Raya's fairytale rise](https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss)
-- [French Open men's draw blown wide open - who can capitalise on Sinner exit?](https://www.bbc.com/sport/tennis/articles/c5y7zyezj4po?at_medium=RSS&at_campaign=rss)
+- [The tactics that could win Arsenal the Champions League](https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss)
+- [The rise of PSG: From 'bling-bling' failings to European powerhouse](https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss)
+- [What now for Vinicius Jr after Mourinho signs Real Madrid deal?](https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Hodgkinson targets 800m world record on home soil](https://www.skysports.com/athletics/news/12040/13548953/keely-hodgkinson-olympic-champion-targets-800m-outdoor-world-record-at-london-diamond-league)
-- [French Open scores: Swiatek, Djokovic and Jodar in third-round action](https://www.skysports.com/tennis/scores-schedule)
-- [Spurs thrash Oklahoma to take series to a decider](https://www.skysports.com/nba/news/12040/13548937/san-antonio-spurs-118-91-oklahoma-city-thunder-victor-wembanyama-leads-side-to-comfortable-win-in-sixth-game-and-send-series-to-decider)
+- [Walcott: Arteta is going to continue to dominate](https://www.skysports.com/football/news/12040/13549182/mikel-artetas-arsenal-are-going-to-win-the-champions-league-final-against-psg-and-go-on-to-dominate-says-theo-walcott)
+- [Arsenal latest: Timber pictured as Gunners train in high spirits before final](https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals](https://www.skysports.com/rugby-league/news/12040/13548142/londons-calling-how-wigan-warriors-hull-kr-and-st-helens-are-looking-to-become-wembley-immortals-rugby-league-style)
 
 ### 🏅 The Guardian Sport
-- [Wembanyama and aggressive Spurs see off Thunder to force Game 7](https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals)
-- [California teen Shrey Parikh wins National Spelling Bee in dramatic tiebreaker](https://www.theguardian.com/sport/2026/may/28/shrey-parikh-scripps-national-spelling-bee-win)
-- [Pochettino says Christian Pulisic ‘is going to score in the World Cup’](https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-christian-pulisic-usmnt)
+- [Carolina Hurricanes finally break through to reach first Stanley Cup final in 20 years](https://www.theguardian.com/sport/2026/may/30/hurricanes-canadiens-stanley-cup-final-brindamour)
+- [Teenage prodigy João Fonseca beats old master Novak Djokovic in five-set epic at French Open](https://www.theguardian.com/sport/2026/may/29/tennis-french-open-novak-djokovic-joao-fonseca-roland-garros-five-sets)
+- [Mamdani made a play for fashion’s premier league in his custom-made Arsenal kurta](https://www.theguardian.com/fashion/2026/may/29/zohran-mamdani-eid-arsenal-kurta)
 
 ### 🏈 ESPN
-- [Copy of What's up with SGA? Can Wemby really do this? What...](https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview)
-- [Spurs roll past Thunder as WCF head to Game 7](https://www.espn.com/nba/story/_/id/48906635/spurs-rout-thunder-force-game-7-western-conference-finals)
-- [Williams ineffective in return, SGA off in OKC los...](https://www.espn.com/nba/story/_/id/48907395/williams-ineffective-gilgeous-alexander-thunder-drop-game-6)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$73,697**
-vs yesterday's close: 🟢 ▲ +$157 (+0.21%)
-Trend: 📉 Below 7d MA by 2.4%
+**$73,408**
+vs yesterday's close: 🟢 ▲ +$25 (+0.03%)
+Trend: 📉 Below 7d MA by 2.1%
 
 ### 🇺🇸 S&P 500
-**7,563.6**
-vs previous close: 🟢 ▲ +43.3 (+0.58%)
-Trend: 📈 Above 7d MA by 1.2%
+**7,580.1**
+vs previous close: 🟢 ▲ +16.4 (+0.22%)
+Trend: ➡️ Flat around 7d MA (+1.0%)
 
 ---
 
-<sub>Last updated: 2026-05-29 09:41 BST</sub>
+<sub>Last updated: 2026-05-30 08:41 BST</sub>
