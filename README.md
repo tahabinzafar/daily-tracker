@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 30 May 2026
+## 📅 Sunday, 31 May 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 15°C) — Sunny
-High 28°C / Low 15°C &nbsp;|&nbsp; Humidity 67%
+**17°C** (feels like 17°C) — Overcast 
+High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 70%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 28°C / Low 15°C &nbsp;|&nbsp; Humidity 67%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Palace handed Andrew's controversial envoy emails six years ago](https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss)
-- [No deal announced after Trump meeting to make 'final determination' on Iran](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss)
-- [Arrive three hours before flight home, airline boss tells UK holidaymakers](https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss)
+- [Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit](https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss)
+- [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
+- [How Putin became master of the image](https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Satire, social media and India’s Gen Z revolt](https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss)
-- [Barcelona sign England winger Anthony Gordon from Newcastle](https://www.aljazeera.com/sports/2026/5/30/barcelona-sign-england-winger-anthony-gordon-from-newcastle?traffic_source=rss)
-- [Rwanda-Russia nuclear deal underscores Africa’s shifting power balance](https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss)
+- [Missing Syrian chess champion’s children likely dead, authorities say](https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss)
+- [Panic on beach in northern Israel during Hezbollah strikes](https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss)
+- [France arrests hundreds of rioters nationwide as PSG win Champions League](https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Bound by blood: new film highlights Jamaica’s outlawed obeah belief system](https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition)
 - [WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic)
 - [Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?](https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc)
-- [Dormitory fire at Kenyan girls’ school kills at least 16 students](https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [The tactics that could win Arsenal the Champions League](https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss)
-- [The rise of PSG: From 'bling-bling' failings to European powerhouse](https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss)
-- [What now for Vinicius Jr after Mourinho signs Real Madrid deal?](https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss)
+- ['He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak](https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss)
+- [PSG go back-to-back and join 'greatest of all time'](https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss)
+- [Slot sacking completes a remarkable fall from grace](https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Walcott: Arteta is going to continue to dominate](https://www.skysports.com/football/news/12040/13549182/mikel-artetas-arsenal-are-going-to-win-the-champions-league-final-against-psg-and-go-on-to-dominate-says-theo-walcott)
-- [Arsenal latest: Timber pictured as Gunners train in high spirits before final](https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals](https://www.skysports.com/rugby-league/news/12040/13548142/londons-calling-how-wigan-warriors-hull-kr-and-st-helens-are-looking-to-become-wembley-immortals-rugby-league-style)
+- [Constitution River goes for French Derby glory at Chantilly](https://www.skysports.com/racing/news/12040/13549069/today-on-sky-sports-racing-constitution-river-goes-for-french-derby-glory-at-chantilly)
+- [Arsenal suffer penalty heartache as PSG win Champions League final](https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950)
+- [Defending champion Gauff suffers shock third-round exit at French Open](https://www.skysports.com/tennis/news/12040/13549375/coco-gauff-french-open-defending-champion-suffers-shock-third-round-exit-to-anastasia-potapova-at-roland-garros)
 
 ### 🏅 The Guardian Sport
-- [Carolina Hurricanes finally break through to reach first Stanley Cup final in 20 years](https://www.theguardian.com/sport/2026/may/30/hurricanes-canadiens-stanley-cup-final-brindamour)
-- [Teenage prodigy João Fonseca beats old master Novak Djokovic in five-set epic at French Open](https://www.theguardian.com/sport/2026/may/29/tennis-french-open-novak-djokovic-joao-fonseca-roland-garros-five-sets)
-- [Mamdani made a play for fashion’s premier league in his custom-made Arsenal kurta](https://www.theguardian.com/fashion/2026/may/29/zohran-mamdani-eid-arsenal-kurta)
+- [Spurs beat reigning champions Thunder in Game 7 to set up NBA finals date with Knicks](https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder)
+- [Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout](https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout)
+- [Champion Coco Gauff out of French Open but Cerúndolo marches on](https://www.theguardian.com/sport/2026/may/30/french-open-defending-champion-coco-gauff-out-aryna-sabalenka-sails-through)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 28°C / Low 15°C &nbsp;|&nbsp; Humidity 67%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$73,408**
-vs yesterday's close: 🟢 ▲ +$25 (+0.03%)
-Trend: 📉 Below 7d MA by 2.1%
+**$73,771**
+vs yesterday's close: 🟢 ▲ +$20 (+0.03%)
+Trend: 📉 Below 7d MA by 1.0%
 
 ### 🇺🇸 S&P 500
 **7,580.1**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+1.0%)
 
 ---
 
-<sub>Last updated: 2026-05-30 08:41 BST</sub>
+<sub>Last updated: 2026-05-31 09:14 BST</sub>
