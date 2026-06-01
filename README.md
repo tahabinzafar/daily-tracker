@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Sunday, 31 May 2026
+## 📅 Monday, 01 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**17°C** (feels like 17°C) — Overcast 
-High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 70%
+**19°C** (feels like 13°C) — Partly cloudy 
+High 22°C / Low 13°C &nbsp;|&nbsp; Humidity 52%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit](https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss)
-- [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
-- [How Putin became master of the image](https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss)
+- [US says it struck Iranian radar sites as Kuwait reports missile and drone attacks](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss)
+- [Iran attacks damage 20 US military sites since start of war, satellite images show](https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss)
+- [Ministers braced as Mandelson document release will expose government working](https://www.bbc.com/news/articles/c9wezlrle75o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Missing Syrian chess champion’s children likely dead, authorities say](https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss)
-- [Panic on beach in northern Israel during Hezbollah strikes](https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss)
-- [France arrests hundreds of rioters nationwide as PSG win Champions League](https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss)
+- [Ultra-Orthodox Jewish demonstrators storm Israeli police station](https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss)
+- [Which football rule changes will be implemented during the World Cup?](https://www.aljazeera.com/sports/2026/6/1/which-football-rule-changes-will-be-implemented-during-the-world-cup?traffic_source=rss)
+- [Iran’s IRGC launches retaliatory strike after US attacks](https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Bound by blood: new film highlights Jamaica’s outlawed obeah belief system](https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition)
-- [WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic)
-- [Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?](https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc)
+- [Wildfires devastating richer areas but fewer hectares burned globally – study](https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study)
+- [WHO calls for community cooperation to contain Ebola outbreak in DRC](https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak)
+- [Death of Congolese man renews scrutiny of race relations in Ireland](https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak](https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss)
-- [PSG go back-to-back and join 'greatest of all time'](https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss)
-- [Slot sacking completes a remarkable fall from grace](https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss)
+- [Rugby league legend and broadcaster Kear dies aged 71](https://www.bbc.com/sport/rugby-league/articles/clyprl5v2yeo?at_medium=RSS&at_campaign=rss)
+- [Record-holder Milner retires after 24-year career](https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss)
+- [I leave Liverpool exactly where it belongs - Slot](https://www.bbc.com/sport/football/articles/c5y7n8ze8j3o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Constitution River goes for French Derby glory at Chantilly](https://www.skysports.com/racing/news/12040/13549069/today-on-sky-sports-racing-constitution-river-goes-for-french-derby-glory-at-chantilly)
-- [Arsenal suffer penalty heartache as PSG win Champions League final](https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950)
-- [Defending champion Gauff suffers shock third-round exit at French Open](https://www.skysports.com/tennis/news/12040/13549375/coco-gauff-french-open-defending-champion-suffers-shock-third-round-exit-to-anastasia-potapova-at-roland-garros)
+- [New star Sooryavanshi dominates IPL awards after Kohli ends season in style](https://www.skysports.com/cricket/news/12040/13549638/vaibhav-sooryavanshi-claims-multiple-ipl-awards-after-rcbs-virat-kohli-closes-2026-season-with-match-winning-innings)
+- [Former Super League head coach John Kear dies aged 71](https://www.skysports.com/rugby-league/news/12040/13549720/john-kear-former-super-league-and-international-head-coach-dies-aged-71)
+- [Premier League record appearance holder Milner retires](https://www.skysports.com/football/news/12040/13549725/james-milner-premier-league-record-appearance-holder-announces-retirement-at-age-of-40-after-24-year-top-flight-career)
 
 ### 🏅 The Guardian Sport
-- [Spurs beat reigning champions Thunder in Game 7 to set up NBA finals date with Knicks](https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder)
-- [Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout](https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout)
-- [Champion Coco Gauff out of French Open but Cerúndolo marches on](https://www.theguardian.com/sport/2026/may/30/french-open-defending-champion-coco-gauff-out-aryna-sabalenka-sails-through)
+- [Christian Pulisic wanted to talk about something else. Now he can](https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup)
+- [PSG provide perfect illusion with a model of beauty in soft-power project | Barney Ronay](https://www.theguardian.com/sport/2026/may/31/psg-arsenal-champions-league-final-qatar-football)
+- [The Thunder are dethroned, shameless and wildly unpopular. They’re still a great basketball team](https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 70%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$73,771**
-vs yesterday's close: 🟢 ▲ +$20 (+0.03%)
-Trend: 📉 Below 7d MA by 1.0%
+**$72,696**
+vs yesterday's close: 🔴 ▼ $-897 (-1.22%)
+Trend: 📉 Below 7d MA by 1.6%
 
 ### 🇺🇸 S&P 500
 **7,580.1**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+1.0%)
 
 ---
 
-<sub>Last updated: 2026-05-31 09:14 BST</sub>
+<sub>Last updated: 2026-06-01 11:18 BST</sub>
