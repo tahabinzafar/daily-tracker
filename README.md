@@ -4,74 +4,72 @@
 
 ---
 
-## 📅 Wednesday, 03 June 2026
+## 📅 Thursday, 04 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 7°C) — Partly cloudy 
-High 17°C / Low 12°C &nbsp;|&nbsp; Humidity 75%
+**15°C** (feels like 15°C) — Rain shower
+High 17°C / Low 13°C &nbsp;|&nbsp; Humidity 72%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Royal Navy helicopter crashes into field](https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss)
-- [Three-quarters of workers not on track for 'moderate' pension income, report suggests](https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss)
-- [US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)
+- [Avoid 'reactive' police reforms after Nowak murder, senior black officer warns](https://www.bbc.com/news/articles/cx21wvl7yjyo?at_medium=RSS&at_campaign=rss)
+- [New NHS drug offers ovarian cancer patients more time and better quality of life](https://www.bbc.com/news/articles/ce8p57y35lzo?at_medium=RSS&at_campaign=rss)
+- [Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [US ‘disables’ ship allegedly bound for Iranian port](https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss)
-- [Foreign nationals among 21 dead in New Delhi building fire](https://www.aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire?traffic_source=rss)
-- [Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island](https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss)
+- [China bans four New Zealand lawmakers over visit to Taiwan](https://www.aljazeera.com/news/2026/6/4/china-bans-four-new-zealand-lawmakers-over-visit-to-taiwan?traffic_source=rss)
+- [Brunson scores 30 as Knicks upset Spurs in NBA Finals opener](https://www.aljazeera.com/sports/2026/6/4/brunson-scores-30-as-knicks-upset-spurs-in-nba-finals-opener?traffic_source=rss)
+- [Sabalenka ‘mentally off track’ as French Open exit made her want to ‘quit’](https://www.aljazeera.com/sports/2026/6/4/sabalenka-mentally-off-track-as-french-open-exit-made-her-want-to-quit?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Rebel attacks in eastern DRC kill 30 people and hamper Ebola response](https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response)
+- [DRC Ebola outbreak could have begun as early as January, WHO chief says](https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says)
 - [‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site](https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site)
-- [Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa](https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa)
-- [People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity](https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Liverpool agree deal with Iraola to succeed Slot](https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss)
-- [Leclerc agrees to new long-term deal with Ferrari](https://www.bbc.com/sport/formula1/articles/cy02xy2815yo?at_medium=RSS&at_campaign=rss)
-- [Man Utd agree £35m fee for Atalanta's Ederson](https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss)
+- [Man City consider legal action over Real candidate's promise to sign Haaland](https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss)
+- [Ukraine-Russia tension hangs over French Open semi-finals](https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo?at_medium=RSS&at_campaign=rss)
+- [Inspired by Modric and a shift inside: The evolution of Lamine Yamal](https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Gannon-Doak 'much more prepared' for Scotland's WC trip after Euros hurt](https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury)
-- [Fantasy Force and Hidden Gift test Royal Ascot credentials](https://www.skysports.com/racing/news/12040/13550069/today-on-sky-sports-racing-newton-abbot-and-ripon)
-- [Capsey and Knight play starring role in England's record chase to beat India](https://www.skysports.com/watch/video/13550280/highlights-england-take-the-series-after-capsey-and-knight-steal-the-show)
+- [Man City threaten legal action over Real presidential candidate's Haaland pledge](https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker)
+- [England in the heat, Brazil, Messi and Ronaldo - World Cup latest](https://www.skysports.com/watch/video/13550654/wc-round-up-england-in-the-heat-brazil-messi-and-ronaldo-latest)
+- [Netball Super League semi-final preview: 'Thunder have everything to lose'](https://www.skysports.com/netball/news/12040/13550563/netball-super-league-2026-semi-final-preview-manchester-thunder-have-everything-to-lose-as-they-target-home-final-at-co-op-live)
 
 ### 🏅 The Guardian Sport
-- [NBA finals 2026 predictions: will Wembanyama and the Spurs halt the red-hot Knicks?](https://www.theguardian.com/sport/2026/jun/03/nba-finals-2026-predictions-knicks-spurs)
-- [Hertl’s late winner lifts Golden Knights past Hurricanes in wild Stanley Cup final opener](https://www.theguardian.com/sport/2026/jun/02/tomas-hertl-vegas-golden-knights-carolina-hurricanes-stanley-cup-final)
-- [French Open 2026: Kalinskaya v Chwalinska; Sabalenka v Shnaider as quarter-finals continue – live](https://www.theguardian.com/sport/live/2026/jun/03/french-open-2026-kalinskaya-chwalinska-sabalenka-shnaider-quarter-finals-auger-aliassime-cobolli-berrettini-arnaldi-live)
+- [NBA finals: brilliant Brunson leads surging Knicks to victory over Spurs in Game 1](https://www.theguardian.com/sport/2026/jun/03/nba-finals-game-1-knicks-spurs)
+- [Sabalenka says she wants ‘to quit tennis’ after shock French Open defeat by Shnaider](https://www.theguardian.com/sport/2026/jun/03/aryna-sabalenka-crashes-out-diana-shnaider-qualifier-maja-chwalinska-into-semis-on-day-of-shocks-french-open-tennis)
+- [‘Maybe we’ll never ever take it down’: Trump says UFC arena at White House could stay permanently](https://www.theguardian.com/sport/2026/jun/03/donald-trump-ufc-arena-white-house-permanent)
 
 ### 🏈 ESPN
-- [Copy of Golden Knights win Game 1 thriller: Grades and big...](https://www.espn.com/nhl/story/_/id/48948640/2026-nhl-playoffs-stanley-cup-final-game-1-grades-questions-golden-knights-hurricanes)
-- [Hertl caps rally in third as Knights swipe Game 1](https://www.espn.com/nhl/story/_/id/48953137/golden-knights-author-rally-swipe-game-1-hurricanes)
-- [Eagles LT after Brown trade: 'Thank God it's over'...](https://www.espn.com/nfl/story/_/id/48951018/reaction-mixed-eagles-otas-following-aj-brown-departure)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$66,756**
-vs yesterday's close: 🟢 ▲ +$106 (+0.16%)
-Trend: 📉 Below 7d MA by 6.4%
+**$63,397**
+vs yesterday's close: 🔴 ▼ $-625 (-0.98%)
+Trend: 📉 Below 7d MA by 8.7%
 
 ### 🇺🇸 S&P 500
-**7,609.8**
-vs previous close: 🟢 ▲ +9.8 (+0.13%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**7,553.7**
+vs previous close: 🔴 ▼ -56.1 (-0.74%)
+Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-06-03 10:25 BST</sub>
+<sub>Last updated: 2026-06-04 09:47 BST</sub>
