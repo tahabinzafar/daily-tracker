@@ -4,68 +4,66 @@
 
 ---
 
-## 📅 Sunday, 07 June 2026
+## 📅 Monday, 08 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 13°C) — Partly cloudy
-High 21°C / Low 11°C &nbsp;|&nbsp; Humidity 77%
+**15°C** (feels like 15°C) — Rain
+High 18°C / Low 11°C &nbsp;|&nbsp; Humidity 82%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Delays to defence plan undermine UK credibility, MPs say](https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&at_campaign=rss)
-- [Hegseth attacks Europe over migration with beach 'invasion' D-Day speech](https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss)
-- [Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg](https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss)
+- [Iran releases footage of missiles launched at Israel](https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss)
+- [Vulnerable women lured by illegal sperm donor services on social media](https://www.bbc.com/news/articles/c1j2349j8zjo?at_medium=RSS&at_campaign=rss)
+- [At least 19 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel](https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss)
-- [Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain](https://www.aljazeera.com/sports/2026/6/7/messi-sits-out-argentinas-pre-world-cup-friendly-due-to-hamstring-strain?traffic_source=rss)
-- [Iran war day 100: US, Iran trade attacks again, raising tensions](https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss)
+- [Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters](https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss)
+- [Ukraine, Russia trade fire as Zelenskyy allies back call for direct talks](https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks?traffic_source=rss)
+- [New York stabbing, Kansas City shooting raise World Cup security concerns](https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [‘Extreme fear’ among immigrants as backlash sweeps South Africa](https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa)
 - [Ebola spread in central Africa could match 2014 record outbreak, US health officials say](https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say)
 - [‘Family values’ African charter condemned by rights groups as regressive and dangerous](https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights)
-- [Experts criticise plan for American-only Ebola quarantine centre in Kenya](https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [This was a training game - England & Tuchel now need to get serious](https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss)
-- [Patient, precise, clinical - are Scotland ready to make World Cup mark?](https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss)
-- [Friendship to be forgotten with French Open on the line](https://www.bbc.com/sport/tennis/articles/cgmd791pjkno?at_medium=RSS&at_campaign=rss)
+- [Eriksen 'in good spirits' after collapse](https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss)
+- [Bellingham has fight to start for England - Tuchel](https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss)
+- [Crusaders suffer record 134-0 defeat](https://www.bbc.com/sport/rugby-league/articles/c5yz570vn7jo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'](https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better)
-- [Today on Sky Sports Racing: Nighttime and Synaran clash at ParisLongchamp](https://www.skysports.com/racing/news/12040/13551149/today-on-sky-sports-racing-french-action-from-parislongchamp)
-- [McIlroy moves under par before Memorial Tournament suspended due to storm](https://www.skysports.com/golf/news/12040/13551508/memorial-tournament-rory-mcilroy-and-scottie-scheffler-sneak-under-par-before-play-suspended-due-to-storm)
+- ['Brutal, searing and punishing heat' - Babb on playing for Ireland at USA '94](https://www.skysports.com/football/news/12040/13550143/phil-babb)
+- [Everything you need to know about Curacao - the World Cup's smallest ever nation](https://www.skysports.com/football/news/12040/13545528/world-cup-2026-curacao-caribbean-nations-historic-first-appearance)
+- [Bellingham has a fight on his hands for England starting spot, Tuchel says](https://www.skysports.com/football/news/12040/13551807/jude-bellingham-england-boss-thomas-tuchel-claims-real-madrid-star-has-a-fight-on-his-hands-to-earn-world-cup-starting-spot)
 
 ### 🏅 The Guardian Sport
-- [North America’s wide and wild World Cup will be an experience like no other | Emma Hayes](https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other)
-- [US show fight and hunger, but lose final World Cup prep match 2-1 to Germany](https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report)
-- [‘I messed up’: Wembanyama rues late mistakes after heartbreaking Spurs loss](https://www.theguardian.com/sport/2026/jun/06/victor-wembanyama-spurs-knicks-nba-finals-turnover)
+- [Alexander Zverev wins first grand slam after holding off Cobolli in French Open](https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open)
+- [‘It’s Bible time’: How religion became part of the USMNT’s World Cup identity](https://www.theguardian.com/football/2026/jun/07/usmnt-religion-christian-pulisic-world-cup-2026)
+- [Nelly Korda wins US Open ahead of Charley Hull to claim second consecutive major](https://www.theguardian.com/sport/2026/jun/07/nelly-korda-wins-us-open-ahead-of-charley-hull-to-claim-second-consecutive-major)
 
 ### 🏈 ESPN
-- [Copy of What did we just watch?! Grades, big questions aft...](https://www.espn.com/nhl/story/_/id/48982766/2026-nhl-playoffs-stanley-cup-final-game-3-grades-questions-golden-knights-hurricanes)
-- [Knights recover in 2OT, outlast Canes in Game 3](https://www.espn.com/nhl/story/_/id/48989106/vegas-golden-knights-outlast-carolina-hurricanes-game-3)
-- [Marner makes Cup history with fastest hat trick](https://www.espn.com/nhl/story/_/id/48988390/marner-makes-stanley-cup-final-history-fastest-hat-trick)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,357**
-vs yesterday's close: 🟢 ▲ +$1,495 (+2.46%)
-Trend: 📉 Below 7d MA by 3.0%
+**$63,467**
+vs yesterday's close: 🟢 ▲ +$212 (+0.34%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ### 🇺🇸 S&P 500
 **7,383.7**
@@ -74,4 +72,4 @@ Trend: 📉 Below 7d MA by 2.2%
 
 ---
 
-<sub>Last updated: 2026-06-07 09:22 BST</sub>
+<sub>Last updated: 2026-06-08 10:22 BST</sub>
