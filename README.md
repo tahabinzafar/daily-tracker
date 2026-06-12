@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Thursday, 11 June 2026
+## 📅 Friday, 12 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**12°C** (feels like 11°C) — Rain
-High 15°C / Low 9°C &nbsp;|&nbsp; Humidity 88%
+**16°C** (feels like 16°C) — Partly cloudy
+High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 82%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Who is your local World Cup hero? Try our postcode lookup to find out](https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss)
-- [Met Police calls on tech firms to make stolen phones unusable](https://www.bbc.com/news/articles/ckg4dey905yo?at_medium=RSS&at_campaign=rss)
-- [Olivia Rodrigo on heartbreak and choosing her wedding song](https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Dissent fizzes again at the top of the Labour Party](https://www.bbc.com/news/articles/cx26njd8v4mo?at_medium=RSS&at_campaign=rss)
+- [Elon Musk's SpaceX raises $75bn ahead of record stock market debut](https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss)
+- [Why the economics make this the craziest World Cup ever](https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [South Korea vs Czechia: World Cup group match – teams, start and lineups](https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups?traffic_source=rss)
-- [Gold is now the top reserve asset. Is dollar dominance at risk?](https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss)
-- [‘Thuggery’: Belfast police fire water cannon at anti-immigration protests](https://www.aljazeera.com/gallery/2026/6/11/thuggery-belfast-police-fire-water-cannon-at-anti-immigration-protests?traffic_source=rss)
+- [World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks](https://www.aljazeera.com/sports/2026/6/12/world-cup-2026-day-1-key-takeaways-var-hydration-breaks-red-cards-son-heung-min-zwane?traffic_source=rss)
+- [Air India crash: Grieving families say justice remains elusive a year later](https://www.aljazeera.com/news/2026/6/12/air-india-flight-171-crash-grieving-families-wait-for-justice-a-year-later?traffic_source=rss)
+- [Three killed as Ukraine and Russia exchange cross-border attacks](https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [London council seizes social housing flat rented by Sierra Leone first lady](https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady)
 - [Trump targeting immigrants from countries hit most by climate shocks](https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis)
 - [Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds](https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation)
-- [Man shot dead during protest against proposed US Ebola quarantine facility in Kenya](https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Wolves sack Edwards after seven months](https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss)
-- [Spurs the dumbest basketball team in history of civilisation - Barkley](https://www.bbc.com/sport/basketball/articles/c04ylwkg67po?at_medium=RSS&at_campaign=rss)
-- [Tharp breaks 110m hurdles world record at US college championships](https://www.bbc.com/sport/athletics/articles/c982e7zr7deo?at_medium=RSS&at_campaign=rss)
+- [We need to feel love playing for England - Bellingham](https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss)
+- ['No-one knows it's on' - NBA finals feed US apathy to World Cup](https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss)
+- [From near death to World Cup hero - Jimenez's tears for Mexico](https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Hussain: I would have brought in 'outstanding' Lawrence for second Test](https://www.skysports.com/cricket/news/12040/13552898/nasser-hussain-outstanding-dan-lawrence-would-have-been-former-england-captains-pick-for-second-test-vs-new-zealand)
-- [World Cup of Darts starts today! Who is playing and how does it work?](https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england)
-- [Edwards sacked by Wolves after seven months in charge](https://www.skysports.com/football/news/12040/13552944/rob-edwards-wolves-sack-head-coach-after-seven-months-in-charge)
+- [How the USA fell in love with football](https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg)
+- [Japan's Motomu steals the show with bizarre walk-on!](https://www.skysports.com/watch/video/13553148/japans-motomu-sakai-steals-the-show-with-bizarre-walk-on)
+- [Highlights: St Helens 6-18 Warrington Wolves](https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights)
 
 ### 🏅 The Guardian Sport
-- [Knicks beat Spurs with largest NBA finals comeback to move to brink of first title since 1973](https://www.theguardian.com/sport/2026/jun/10/wembanyama-spurs-knicks-game-4-nba-finals-series-tied)
-- [‘That was a dumbass play’: De’Aaron Fox’s gaffe leaves door open for historic Knicks comeback](https://www.theguardian.com/sport/2026/jun/11/deaaron-fox-spurs-knicks-game-4-collapse-nba-finals)
-- [Chiefs sign Patrick Mahomes to restructured contract worth more than $500m](https://www.theguardian.com/sport/2026/jun/10/chiefs-sign-patrick-mahomes-to-restructured-contract-worth-more-than-500m)
+- [Carolina move one win from Stanley Cup after top line powers past Vegas](https://www.theguardian.com/sport/2026/jun/11/carolina-move-one-win-from-stanley-cup-after-top-line-powers-past-vegas)
+- [Phil Mickelson reportedly ousted from golf club after alleged ‘inappropriate contact’ with woman](https://www.theguardian.com/sport/2026/jun/11/phil-mickelson-membership-cancelled-the-farms-alleged-misconduct)
+- [‘Thank God for the Knicks’: New Yorkers abuzz after historic Game 4 comeback](https://www.theguardian.com/us-news/2026/jun/11/new-york-city-knicks-basketball)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 15°C / Low 9°C &nbsp;|&nbsp; Humidity 88%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,791**
-vs yesterday's close: 🟢 ▲ +$1,298 (+2.11%)
-Trend: 📈 Above 7d MA by 1.3%
+**$63,374**
+vs yesterday's close: 🔴 ▼ $-178 (-0.28%)
+Trend: 📈 Above 7d MA by 1.5%
 
 ### 🇺🇸 S&P 500
-**7,386.6**
-vs previous close: 🔴 ▼ -19.1 (-0.26%)
-Trend: 📉 Below 7d MA by 1.6%
+**7,394.3**
+vs previous close: 🟢 ▲ +127.3 (+1.75%)
+Trend: ➡️ Flat around 7d MA (-0.4%)
 
 ---
 
-<sub>Last updated: 2026-06-11 10:11 BST</sub>
+<sub>Last updated: 2026-06-12 09:56 BST</sub>
