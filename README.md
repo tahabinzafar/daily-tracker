@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 12 June 2026
+## 📅 Saturday, 13 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 16°C) — Partly cloudy
-High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 82%
+**15°C** (feels like 15°C) — Sunny
+High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 67%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 82%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Chris Mason: Dissent fizzes again at the top of the Labour Party](https://www.bbc.com/news/articles/cx26njd8v4mo?at_medium=RSS&at_campaign=rss)
-- [Elon Musk's SpaceX raises $75bn ahead of record stock market debut](https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss)
-- [Why the economics make this the craziest World Cup ever](https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss)
+- [Rugby star Sinfield and authors Blackman and Donaldson lead honours list](https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss)
+- [Married at First Sight Australia stars not told partners had drug and violence convictions](https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss)
+- [Deal to end fighting would lead to Hormuz reopening, Iran says](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks](https://www.aljazeera.com/sports/2026/6/12/world-cup-2026-day-1-key-takeaways-var-hydration-breaks-red-cards-son-heung-min-zwane?traffic_source=rss)
-- [Air India crash: Grieving families say justice remains elusive a year later](https://www.aljazeera.com/news/2026/6/12/air-india-flight-171-crash-grieving-families-wait-for-justice-a-year-later?traffic_source=rss)
-- [Three killed as Ukraine and Russia exchange cross-border attacks](https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss)
+- [One killed as Israel hits south Lebanon, issues forced displacement orders](https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss)
+- [Trump seeks ‘off-ramp’ from war in ‘Iran deal’](https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss)
+- [Brazil vs Morocco World Cup team news: Neymar, start time and how to watch](https://www.aljazeera.com/sports/2026/6/13/brazil-vs-morocco-world-cup-team-news-neymar-start-time-and-how-to-watch?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [London council seizes social housing flat rented by Sierra Leone first lady](https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady)
@@ -39,19 +39,19 @@ High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 82%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [We need to feel love playing for England - Bellingham](https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss)
-- ['No-one knows it's on' - NBA finals feed US apathy to World Cup](https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss)
-- [From near death to World Cup hero - Jimenez's tears for Mexico](https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss)
+- [USA start World Cup in style - but will they finally join the elite?](https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss)
+- [Balogun stars in impressive USA win over Paraguay](https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss)
+- [Scotland return to centre stage at last in must-win World Cup opener](https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [How the USA fell in love with football](https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg)
-- [Japan's Motomu steals the show with bizarre walk-on!](https://www.skysports.com/watch/video/13553148/japans-motomu-sakai-steals-the-show-with-bizarre-walk-on)
-- [Highlights: St Helens 6-18 Warrington Wolves](https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights)
+- [Today on Sky Sports Racing: Masked Warrior faces Startled at Chester](https://www.skysports.com/racing/news/12040/13553039/today-on-sky-sports-racing-masked-warrior-faces-startled-at-chester-with-bath-uttoxeter-and-hexham-also-live-on-saturday)
+- [Hearn confident AJ vs Fury will take place in the UK this November](https://www.skysports.com/boxing/news/12040/13553538/anthony-joshua-vs-tyson-fury-eddie-hearn-confident-fight-will-take-place-in-the-uk-this-november-with-wembley-a-clear-favourite)
+- [Sinfield knighted as Donald, Scarratt, Murphy made OBEs](https://www.skysports.com/rugby-league/news/12040/13553285/kevin-sinfield-leeds-rhinos-great-knighted-in-kings-birthday-honours-as-luke-donald-emily-scarratt-shaun-murphy-made-obes)
 
 ### 🏅 The Guardian Sport
-- [Carolina move one win from Stanley Cup after top line powers past Vegas](https://www.theguardian.com/sport/2026/jun/11/carolina-move-one-win-from-stanley-cup-after-top-line-powers-past-vegas)
+- [Wembanyama brushes off historic collapse and eyes NBA finals comeback: ‘We’re over it. It’s the playoffs’](https://www.theguardian.com/sport/2026/jun/12/spurs-knicks-game-5-victor-wembanyama-nba-finals)
+- [Why football does not remember the name of its greatest ever Jewish player](https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player)
 - [Phil Mickelson reportedly ousted from golf club after alleged ‘inappropriate contact’ with woman](https://www.theguardian.com/sport/2026/jun/11/phil-mickelson-membership-cancelled-the-farms-alleged-misconduct)
-- [‘Thank God for the Knicks’: New Yorkers abuzz after historic Game 4 comeback](https://www.theguardian.com/us-news/2026/jun/11/new-york-city-knicks-basketball)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 82%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,374**
-vs yesterday's close: 🔴 ▼ $-178 (-0.28%)
-Trend: 📈 Above 7d MA by 1.5%
+**$63,780**
+vs yesterday's close: 🟢 ▲ +$242 (+0.38%)
+Trend: 📈 Above 7d MA by 1.4%
 
 ### 🇺🇸 S&P 500
-**7,394.3**
-vs previous close: 🟢 ▲ +127.3 (+1.75%)
-Trend: ➡️ Flat around 7d MA (-0.4%)
+**7,431.5**
+vs previous close: 🟢 ▲ +37.2 (+0.50%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-06-12 09:56 BST</sub>
+<sub>Last updated: 2026-06-13 09:20 BST</sub>
