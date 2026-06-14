@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 13 June 2026
+## 📅 Sunday, 14 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 15°C) — Sunny
-High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 67%
+**15°C** (feels like 15°C) — Partly cloudy 
+High 20°C / Low 11°C &nbsp;|&nbsp; Humidity 63%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 67%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Rugby star Sinfield and authors Blackman and Donaldson lead honours list](https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss)
-- [Married at First Sight Australia stars not told partners had drug and violence convictions](https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss)
-- [Deal to end fighting would lead to Hormuz reopening, Iran says](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
+- [Jubilation as Scotland fans celebrate win](https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&at_campaign=rss)
+- [UK marines board Russian shadow fleet oil tanker in English Channel, PM says](https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss)
+- [Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing](https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [One killed as Israel hits south Lebanon, issues forced displacement orders](https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss)
-- [Trump seeks ‘off-ramp’ from war in ‘Iran deal’](https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss)
-- [Brazil vs Morocco World Cup team news: Neymar, start time and how to watch](https://www.aljazeera.com/sports/2026/6/13/brazil-vs-morocco-world-cup-team-news-neymar-start-time-and-how-to-watch?traffic_source=rss)
+- [Signing of US-Iran deal not on Trump’s public schedule](https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss)
+- [UK forces seize Russian shadow fleet tanker in English Channel](https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss)
+- [Switzerland votes on right-wing bid to cap country’s population](https://www.aljazeera.com/news/2026/6/14/switzerland-votes-on-right-wing-bid-to-cap-countrys-population?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [London council seizes social housing flat rented by Sierra Leone first lady](https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady)
@@ -39,31 +39,33 @@ High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 67%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [USA start World Cup in style - but will they finally join the elite?](https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss)
-- [Balogun stars in impressive USA win over Paraguay](https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss)
-- [Scotland return to centre stage at last in must-win World Cup opener](https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss)
+- [Why Haiti v Scotland was antidote to the ills of world football](https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss)
+- [Has Vinicius Jr brilliance just papered over the Brazilian cracks?](https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss)
+- [Refugee who quit Bayern to create Aussie World Cup dream](https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Today on Sky Sports Racing: Masked Warrior faces Startled at Chester](https://www.skysports.com/racing/news/12040/13553039/today-on-sky-sports-racing-masked-warrior-faces-startled-at-chester-with-bath-uttoxeter-and-hexham-also-live-on-saturday)
-- [Hearn confident AJ vs Fury will take place in the UK this November](https://www.skysports.com/boxing/news/12040/13553538/anthony-joshua-vs-tyson-fury-eddie-hearn-confident-fight-will-take-place-in-the-uk-this-november-with-wembley-a-clear-favourite)
-- [Sinfield knighted as Donald, Scarratt, Murphy made OBEs](https://www.skysports.com/rugby-league/news/12040/13553285/kevin-sinfield-leeds-rhinos-great-knighted-in-kings-birthday-honours-as-luke-donald-emily-scarratt-shaun-murphy-made-obes)
+- [Fury beats former World's Strongest Man Hall by decision](https://www.skysports.com/boxing/news/12040/13553895/misfits-boxing-tommy-fury-beats-former-worlds-strongest-man-eddie-hall-by-majority-decision-and-reveals-name-of-newborn-son)
+- [McInnes agrees Rangers deal to replace Röhl](https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach)
+- ['Resolute, gritty and determined' - Scotland battle to famous win](https://www.skysports.com/watch/video/13553888/world-cup-scotland-win-first-world-cup-match-for-36-years-the-verdict)
 
 ### 🏅 The Guardian Sport
-- [Wembanyama brushes off historic collapse and eyes NBA finals comeback: ‘We’re over it. It’s the playoffs’](https://www.theguardian.com/sport/2026/jun/12/spurs-knicks-game-5-victor-wembanyama-nba-finals)
-- [Why football does not remember the name of its greatest ever Jewish player](https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player)
-- [Phil Mickelson reportedly ousted from golf club after alleged ‘inappropriate contact’ with woman](https://www.theguardian.com/sport/2026/jun/11/phil-mickelson-membership-cancelled-the-farms-alleged-misconduct)
+- [Knicks beat Spurs to win their first NBA title since 1973 as brilliant Brunson shines again](https://www.theguardian.com/sport/2026/jun/13/new-york-knicks-win-nba-title-san-antonio-spurs)
+- [‘He is him’: indomitable Jalen Brunson quiets doubters as Knicks end 53-year wait](https://www.theguardian.com/sport/2026/jun/14/jalen-brunson-knicks-championship-reaction-finals-mvp-spurs)
+- [Former San Francisco 49ers star Aldon Smith dies at 36: ‘His smile lit up every room’](https://www.theguardian.com/sport/2026/jun/13/aldon-smith-death-49ers-nfl)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [2026 NBA Finals: Knicks win Game 5, Larry O'Brien ...](https://www.espn.com/nba/story/_/id/48940704/2026-nba-finals-biggest-takeaways-highlights-san-antonio-spurs-new-york-knicks-championship)
+- [Knicks cap brilliant run with long-awaited NBA tit...](https://www.espn.com/nba/story/_/id/49056351/knicks-rally-again-vs-spurs-capture-first-nba-title-1973)
+- [Brunson seals Finals MVP with 45-point showcase](https://www.espn.com/nba/story/_/id/49056933/knicks-brunson-seals-finals-mvp-honors-45-points-game-5)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,780**
-vs yesterday's close: 🟢 ▲ +$242 (+0.38%)
-Trend: 📈 Above 7d MA by 1.4%
+**$64,463**
+vs yesterday's close: 🟢 ▲ +$85 (+0.13%)
+Trend: 📈 Above 7d MA by 2.1%
 
 ### 🇺🇸 S&P 500
 **7,431.5**
@@ -72,4 +74,4 @@ Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-06-13 09:20 BST</sub>
+<sub>Last updated: 2026-06-14 09:39 BST</sub>
