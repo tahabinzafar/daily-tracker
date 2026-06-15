@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 14 June 2026
+## 📅 Monday, 15 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 15°C) — Partly cloudy 
-High 20°C / Low 11°C &nbsp;|&nbsp; Humidity 63%
+**17°C** (feels like 17°C) — Sunny
+High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 72%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,52 +20,50 @@ High 20°C / Low 11°C &nbsp;|&nbsp; Humidity 63%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Jubilation as Scotland fans celebrate win](https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&at_campaign=rss)
-- [UK marines board Russian shadow fleet oil tanker in English Channel, PM says](https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss)
-- [Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing](https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss)
+- [When will social media ban start and what platforms are included?](https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss)
+- [The US and Iran have agreed a deal. How soon could things go back to normal?](https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss)
+- [Palestine Action ban is lawful, Court of Appeal rules](https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Signing of US-Iran deal not on Trump’s public schedule](https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss)
-- [UK forces seize Russian shadow fleet tanker in English Channel](https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss)
-- [Switzerland votes on right-wing bid to cap country’s population](https://www.aljazeera.com/news/2026/6/14/switzerland-votes-on-right-wing-bid-to-cap-countrys-population?traffic_source=rss)
+- [Geneva police use force as G7 protest escalates into violence](https://www.aljazeera.com/gallery/2026/6/15/geneva-police-use-force-as-g7-protest-escalates-into-violence?traffic_source=rss)
+- [Kyiv cathedral burns as heavy Russian air raids hit Ukraine](https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss)
+- [Britain announces sweeping social media ban for under-16s](https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Attacks on education, pupils and staff around the world up by 40%, says study](https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study)
 - [London council seizes social housing flat rented by Sierra Leone first lady](https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady)
 - [Trump targeting immigrants from countries hit most by climate shocks](https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis)
-- [Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds](https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Why Haiti v Scotland was antidote to the ills of world football](https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss)
-- [Has Vinicius Jr brilliance just papered over the Brazilian cracks?](https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss)
-- [Refugee who quit Bayern to create Aussie World Cup dream](https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss)
+- [World Cup hydration breaks - who are the winners and losers?](https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss)
+- [Real Madrid complete £51.8m deal for Chelsea's Cucurella](https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss)
+- [From last-chance saloon to World Cup redemption for Potter](https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Fury beats former World's Strongest Man Hall by decision](https://www.skysports.com/boxing/news/12040/13553895/misfits-boxing-tommy-fury-beats-former-worlds-strongest-man-eddie-hall-by-majority-decision-and-reveals-name-of-newborn-son)
-- [McInnes agrees Rangers deal to replace Röhl](https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach)
-- ['Resolute, gritty and determined' - Scotland battle to famous win](https://www.skysports.com/watch/video/13553888/world-cup-scotland-win-first-world-cup-match-for-36-years-the-verdict)
+- [Mercedes request right of review of Monaco result after Gasly reinstatement](https://www.skysports.com/f1/news/12040/13554271/monaco-gp-mercedes-request-right-of-review-of-race-result-after-pierre-gasly-podium-reinstatement)
+- [Royal Ascot day 1 preview: 'Fireworks' expected from Bow Echo](https://www.skysports.com/watch/video/13554284/royal-ascot-day-1-preview-fireworks-expected-from-bow-echo)
+- [Chelsea latest: Is Cucurella sale the right call? Have your say!](https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
 
 ### 🏅 The Guardian Sport
-- [Knicks beat Spurs to win their first NBA title since 1973 as brilliant Brunson shines again](https://www.theguardian.com/sport/2026/jun/13/new-york-knicks-win-nba-title-san-antonio-spurs)
-- [‘He is him’: indomitable Jalen Brunson quiets doubters as Knicks end 53-year wait](https://www.theguardian.com/sport/2026/jun/14/jalen-brunson-knicks-championship-reaction-finals-mvp-spurs)
-- [Former San Francisco 49ers star Aldon Smith dies at 36: ‘His smile lit up every room’](https://www.theguardian.com/sport/2026/jun/13/aldon-smith-death-49ers-nfl)
+- [From captain to coach: Rod Brind’Amour’s two Stanley Cups with the Hurricanes, 20 years apart](https://www.theguardian.com/sport/2026/jun/14/carolina-hurricanes-beat-vegas-golden-knight-to-claim-second-stanley-cup)
+- [Trump’s White House UFC fights marred by ugly Michelle Obama smear](https://www.theguardian.com/sport/2026/jun/15/trump-white-house-ufc-michelle-obama-smear-gaethje-topuria)
+- [Knicks in five and the NBA is alive: New York’s era-defining title is a win for the believers](https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title)
 
 ### 🏈 ESPN
-- [2026 NBA Finals: Knicks win Game 5, Larry O'Brien ...](https://www.espn.com/nba/story/_/id/48940704/2026-nba-finals-biggest-takeaways-highlights-san-antonio-spurs-new-york-knicks-championship)
-- [Knicks cap brilliant run with long-awaited NBA tit...](https://www.espn.com/nba/story/_/id/49056351/knicks-rally-again-vs-spurs-capture-first-nba-title-1973)
-- [Brunson seals Finals MVP with 45-point showcase](https://www.espn.com/nba/story/_/id/49056933/knicks-brunson-seals-finals-mvp-honors-45-points-game-5)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,463**
-vs yesterday's close: 🟢 ▲ +$85 (+0.13%)
-Trend: 📈 Above 7d MA by 2.1%
+**$65,702**
+vs yesterday's close: 🔴 ▼ $-12 (-0.02%)
+Trend: 📈 Above 7d MA by 3.1%
 
 ### 🇺🇸 S&P 500
 **7,431.5**
@@ -74,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-06-14 09:39 BST</sub>
+<sub>Last updated: 2026-06-15 11:54 BST</sub>
