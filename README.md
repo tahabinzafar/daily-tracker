@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Monday, 15 June 2026
+## 📅 Tuesday, 16 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**17°C** (feels like 17°C) — Sunny
-High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 72%
+**20°C** (feels like 20°C) — Cloudy 
+High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 64%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [When will social media ban start and what platforms are included?](https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss)
-- [The US and Iran have agreed a deal. How soon could things go back to normal?](https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss)
-- [Palestine Action ban is lawful, Court of Appeal rules](https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss)
+- [Trump may release US-Iran deal before Friday, Vance says](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss)
+- [Thames Water closer to nationalisation after government objects to rescue deal](https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss)
+- [Married at First Sight Australia allegations 'disturbing', says country's watchdog](https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Geneva police use force as G7 protest escalates into violence](https://www.aljazeera.com/gallery/2026/6/15/geneva-police-use-force-as-g7-protest-escalates-into-violence?traffic_source=rss)
-- [Kyiv cathedral burns as heavy Russian air raids hit Ukraine](https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss)
-- [Britain announces sweeping social media ban for under-16s](https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss)
+- [World Cup: Can Senegal stun France again? Predictions, schedule on Day 6](https://www.aljazeera.com/sports/2026/6/16/world-cup-can-senegal-stun-france-again-predictions-schedule-on-day-6?traffic_source=rss)
+- [Iran says Israeli occupation in Lebanon would breach US deal](https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss)
+- [G7 leaders meet in France with Iran and Ukraine high on agenda](https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Attacks on education, pupils and staff around the world up by 40%, says study](https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study)
+- [South African jazz pianist Abdullah Ibrahim dies aged 91](https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies)
+- [Violent attacks on schools, pupils and staff around the world up by 40%, says study](https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study)
 - [London council seizes social housing flat rented by Sierra Leone first lady](https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady)
-- [Trump targeting immigrants from countries hit most by climate shocks](https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [World Cup hydration breaks - who are the winners and losers?](https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss)
-- [Real Madrid complete £51.8m deal for Chelsea's Cucurella](https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss)
-- [From last-chance saloon to World Cup redemption for Potter](https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss)
+- [What does the future hold for Rashford?](https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss)
+- [Tunisia sack Lamouchi just one game into World Cup](https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss)
+- [VAR official says hand gesture was 'involuntary, subconscious twitch'](https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Mercedes request right of review of Monaco result after Gasly reinstatement](https://www.skysports.com/f1/news/12040/13554271/monaco-gp-mercedes-request-right-of-review-of-race-result-after-pierre-gasly-podium-reinstatement)
-- [Royal Ascot day 1 preview: 'Fireworks' expected from Bow Echo](https://www.skysports.com/watch/video/13554284/royal-ascot-day-1-preview-fireworks-expected-from-bow-echo)
-- [Chelsea latest: Is Cucurella sale the right call? Have your say!](https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [Iran coach hits out at treatment of 'most oppressed team' at World Cup](https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand)
+- [Today at Royal Ascot: Bow Echo and Gstaad lock horns in St James's Palace Stakes](https://www.skysports.com/racing/news/12040/13554266/today-at-royal-ascot-bow-echo-and-gstaad-lock-horns-in-st-jamess-palace-stakes-live-on-tuesday)
+- [NUMBER 272! - Josh Charnley makes history with record breaking Super League try](https://www.skysports.com/watch/video/13554073/super-league-josh-charnley-makes-history-becoming-super-leagues-all-time-leading-try-scorer)
 
 ### 🏅 The Guardian Sport
+- [New York Knicks owner James Dolan urged players to abstain from sex during title run](https://www.theguardian.com/sport/2026/jun/16/knicks-james-dolan-sex-abstinence-playoffs-championship-video)
 - [From captain to coach: Rod Brind’Amour’s two Stanley Cups with the Hurricanes, 20 years apart](https://www.theguardian.com/sport/2026/jun/14/carolina-hurricanes-beat-vegas-golden-knight-to-claim-second-stanley-cup)
-- [Trump’s White House UFC fights marred by ugly Michelle Obama smear](https://www.theguardian.com/sport/2026/jun/15/trump-white-house-ufc-michelle-obama-smear-gaethje-topuria)
-- [Knicks in five and the NBA is alive: New York’s era-defining title is a win for the believers](https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title)
+- [Sorsby reportedly entering NFL supplemental draft after NCAA betting ban](https://www.theguardian.com/sport/2026/jun/15/brendan-sorsby-nfl-supplemental-draft-texas-tech-ncaa-eligibility)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,8 +61,8 @@ High 22°C / Low 12°C &nbsp;|&nbsp; Humidity 72%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$65,702**
-vs yesterday's close: 🔴 ▼ $-12 (-0.02%)
+**$66,475**
+vs yesterday's close: 🟢 ▲ +$174 (+0.26%)
 Trend: 📈 Above 7d MA by 3.1%
 
 ### 🇺🇸 S&P 500
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-06-15 11:54 BST</sub>
+<sub>Last updated: 2026-06-16 11:06 BST</sub>
