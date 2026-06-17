@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Tuesday, 16 June 2026
+## 📅 Wednesday, 17 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 20°C) — Cloudy 
-High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 64%
+**19°C** (feels like 19°C) — Partly cloudy
+High 23°C / Low 16°C &nbsp;|&nbsp; Humidity 88%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,56 +20,58 @@ High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 64%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Trump may release US-Iran deal before Friday, Vance says](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss)
-- [Thames Water closer to nationalisation after government objects to rescue deal](https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss)
-- [Married at First Sight Australia allegations 'disturbing', says country's watchdog](https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss)
+- [PM warns Burnham against immediate leadership challenge if he wins by-election](https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss)
+- [Inflation unexpectedly steady as food price rises slow](https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss)
+- [British couple describe having warning shots fired near them by Russian warship](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [World Cup: Can Senegal stun France again? Predictions, schedule on Day 6](https://www.aljazeera.com/sports/2026/6/16/world-cup-can-senegal-stun-france-again-predictions-schedule-on-day-6?traffic_source=rss)
-- [Iran says Israeli occupation in Lebanon would breach US deal](https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss)
-- [G7 leaders meet in France with Iran and Ukraine high on agenda](https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss)
+- [UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’](https://www.aljazeera.com/news/2026/6/17/uks-starmer-says-russian-warships-warning-shots-in-channel-reckless?traffic_source=rss)
+- [Inside the ‘unacceptable’ UK fair selling property in Israeli settlements](https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss)
+- [World Cup predictions: Portugal vs DR Congo, England vs Croatia and more](https://www.aljazeera.com/news/2026/6/17/world-cup-predictions-portugal-vs-dr-congo-england-vs-croatia-and-more?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [South African jazz pianist Abdullah Ibrahim dies aged 91](https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies)
-- [Violent attacks on schools, pupils and staff around the world up by 40%, says study](https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study)
-- [London council seizes social housing flat rented by Sierra Leone first lady](https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady)
+- [Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk](https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack)
+- [Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms](https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms)
+- [Ghana to advance reparatory justice at first major gathering since landmark UN resolution](https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [What does the future hold for Rashford?](https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss)
-- [Tunisia sack Lamouchi just one game into World Cup](https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss)
-- [VAR official says hand gesture was 'involuntary, subconscious twitch'](https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss)
+- [Extraordinary Messi makes more history in masterclass for the ages](https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss)
+- [England won't change style despite US heat - Tuchel](https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss)
+- [No stage too big - Haaland arrives in style at World Cup](https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Iran coach hits out at treatment of 'most oppressed team' at World Cup](https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand)
-- [Today at Royal Ascot: Bow Echo and Gstaad lock horns in St James's Palace Stakes](https://www.skysports.com/racing/news/12040/13554266/today-at-royal-ascot-bow-echo-and-gstaad-lock-horns-in-st-jamess-palace-stakes-live-on-tuesday)
-- [NUMBER 272! - Josh Charnley makes history with record breaking Super League try](https://www.skysports.com/watch/video/13554073/super-league-josh-charnley-makes-history-becoming-super-leagues-all-time-leading-try-scorer)
+- [England vs New Zealand LIVE! Rain delays toss as Root stands in as captain](https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval)
+- [Real Madrid sign Bernardo Silva](https://www.skysports.com/football/news/12040/13554908/bernardo-silva-real-madrid-sign-manchester-city-midfielder-on-free-transfer-as-jose-mourinho-impact-continues)
+- [Serena Williams defeated ahead of Wimbledon return](https://www.skysports.com/watch/video/13554774/serena-williams-defeated-again-ahead-of-wimbledon-return)
 
 ### 🏅 The Guardian Sport
-- [New York Knicks owner James Dolan urged players to abstain from sex during title run](https://www.theguardian.com/sport/2026/jun/16/knicks-james-dolan-sex-abstinence-playoffs-championship-video)
-- [From captain to coach: Rod Brind’Amour’s two Stanley Cups with the Hurricanes, 20 years apart](https://www.theguardian.com/sport/2026/jun/14/carolina-hurricanes-beat-vegas-golden-knight-to-claim-second-stanley-cup)
-- [Sorsby reportedly entering NFL supplemental draft after NCAA betting ban](https://www.theguardian.com/sport/2026/jun/15/brendan-sorsby-nfl-supplemental-draft-texas-tech-ncaa-eligibility)
+- [MLB critical of Giants players who wrote Bible verses on Pride Night caps](https://www.theguardian.com/sport/2026/jun/16/mlb-critical-of-giants-players-who-wrote-bible-verses-on-pride-night-caps)
+- [Gout Gout flies home for third in rarely-contested 150m behind US great Noah Lyles](https://www.theguardian.com/sport/2026/jun/17/gout-gout-sprinter-third-150m-sprint-behind-usa-noah-lyles-golden-spike-ostrava)
+- [Floyd Mayweather faces theft charge after allegedly using bad check to buy $200,000 watch](https://www.theguardian.com/sport/2026/jun/16/floyd-mayweather-bad-check-allegations-theft-charge)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [On the World Cup's day of stars, Messi towers over Haaland and Mbappe](https://www.espn.com/soccer/story/_/id/49088695/on-world-cups-day-stars-messi-towers-haaland-mbappe)
+- [Messi ties Klose record with 16th World Cup goal](https://www.espn.com/soccer/story/_/id/49089516/messi-nets-hat-trick-ties-klose-record-1th-world-cup-goal)
+- [Mbappé nets stunner, breaks France record in win](https://www.espn.com/soccer/story/_/id/49084969/kylian-mbappe-breaks-goal-record-france-kick-world-cup-senegal-win)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$66,475**
-vs yesterday's close: 🟢 ▲ +$174 (+0.26%)
-Trend: 📈 Above 7d MA by 3.1%
+**$64,919**
+vs yesterday's close: 🔴 ▼ $-680 (-1.04%)
+Trend: ➡️ Flat around 7d MA (+0.1%)
 
 ### 🇺🇸 S&P 500
-**7,431.5**
-vs previous close: 🟢 ▲ +37.2 (+0.50%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**7,511.4**
+vs previous close: 🔴 ▼ -42.9 (-0.57%)
+Trend: 📈 Above 7d MA by 1.2%
 
 ---
 
-<sub>Last updated: 2026-06-16 11:06 BST</sub>
+<sub>Last updated: 2026-06-17 10:50 BST</sub>
