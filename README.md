@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Thursday, 18 June 2026
+## 📅 Friday, 19 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 19°C) — Partly cloudy
-High 28°C / Low 16°C &nbsp;|&nbsp; Humidity 83%
+**21°C** (feels like 21°C) — Sunny
+High 30°C / Low 16°C &nbsp;|&nbsp; Humidity 73%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,56 +20,58 @@ High 28°C / Low 16°C &nbsp;|&nbsp; Humidity 83%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [What's in the US-Iran agreement?](https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss)
-- [This was an England we haven't seen for years - and it was fun](https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss)
-- [Young women now have 'close to zero' risk of cervical cancer death after HPV jab](https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Emphatic win leaves Starmer with big decision on leadership](https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss)
+- [Burnham says 'tonight could be the turning point' in his victory speech](https://www.bbc.com/news/videos/c20ynlkrkzko?at_medium=RSS&at_campaign=rss)
+- [Scottish Conservatives win first Westminster by-election in more than 50 years](https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Is the G7 hearing the Global South?](https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss)
-- [Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war](https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss)
-- [World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more](https://www.aljazeera.com/sports/2026/6/18/world-cup-predictions-mexico-vs-south-korea-canada-vs-qatar-and-more?traffic_source=rss)
+- [For one Yemeni, World Cup serves as a marker of war and peace](https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss)
+- [World Cup: Who is Ayyoub Bouaddi, the French teenager playing for Morocco?](https://www.aljazeera.com/sports/2026/6/19/world-cup-who-is-ayyoub-bouaddi-the-french-teenager-playing-for-morocco?traffic_source=rss)
+- [US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific](https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk](https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack)
-- [Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms](https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms)
-- [Ghana to advance reparatory justice at first major gathering since landmark UN resolution](https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution)
+- [CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda](https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding)
+- [Barbados prime minister announces manifesto for slavery reparations](https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations)
+- [South African men sentenced in ‘world’s largest’ rhino horn trafficking case](https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [This was an England we haven't seen for years - and it was fun](https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss)
-- [From one to 48 - every World Cup team ranked after first game](https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss)
-- [England hit four in World Cup opener against Croatia](https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss)
+- [Coventry play champions Arsenal in Premier League opener](https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss)
+- [Why Morocco game could be greatest of all for Scotland](https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss)
+- [A day of tears, scuffles & history as injury mars Canada's moment](https://www.bbc.com/sport/football/articles/cly7r1zjmmlo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Itauma confirms high-risk clash with Hrgovic](https://www.skysports.com/boxing/news/12040/13555242/moses-itauma-to-fight-filip-hrgovic-in-high-risk-heavyweight-bout-in-august-as-british-boxer-puts-unbeaten-record-on-line)
-- [England look to wrap up New Zealand first innings on day two at The Oval LIVE!](https://www.skysports.com/cricket/live-blog/12040/13555117/england-vs-new-zealand-second-test-day-two-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-for-captain-ben-stokes-at-kia-oval)
-- [England's routes to 2026 World Cup final](https://www.skysports.com/football/news/12040/13479783/englands-world-cup-2026-fixtures-schedule-and-tournament-route-to-final-how-three-lions-could-lift-trophy-on-july-19)
+- [Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky](https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round)
+- [New Zealand hunt early England wickets on day three at The Oval LIVE!](https://www.skysports.com/cricket/live-blog/12040/13555513/england-vs-new-zealand-second-test-day-three-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-at-kia-oval)
+- [HERE THEY ARE: Premier League 2026/27 fixtures revealed LIVE!](https://www.skysports.com/football/live-blog/12040/13555689/premier-league-2026-27-fixtures-release-day-live-every-clubs-opening-weekend-final-weekend-boxing-day-games-and-more)
 
 ### 🏅 The Guardian Sport
-- [Knicks to follow up Trump boos at Madison Square Garden with White House visit, says Dolan](https://www.theguardian.com/sport/2026/jun/17/new-york-knicks-white-house-visit-nba-title)
-- [Scheffler faces mighty Shinnecock test in bid to claim career slam with US Open victory](https://www.theguardian.com/sport/2026/jun/17/scottie-scheffler-us-open-preview-faces-mighty-shinnecock-test-in-bid-to-claim-career-slam)
-- [Three-time Olympian Jenny Simpson in hospital after collapsing at track event](https://www.theguardian.com/sport/2026/jun/17/jenny-simpson-collapse)
+- [Wyndham Clark roars clear at US Open before darkness brings first round to a halt](https://www.theguardian.com/sport/2026/jun/19/wyndham-clark-us-open-day-one-play-suspended)
+- [Professional baseball team cancels game after players refuse to wear Pride jerseys](https://www.theguardian.com/sport/2026/jun/18/professional-baseball-team-cancels-game-after-players-refuse-to-wear-pride-jerseys)
+- [Olivia Miles: the goggled wonder woman pulverizing WNBA opponents in her rookie season](https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Mexico rejoice after second World Cup win in 2026....](https://www.espn.com/soccer/story/_/id/49113986/mexico-south-korea-world-cup-reaction-analysis)
+- [Korea GK gaffe helps Mexico clinch 1st in Group A](https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a)
+- [Clark builds 4-shot lead as U.S. Open suspended](https://www.espn.com/golf/story/_/id/49113190/wyndham-clark-builds-4-shot-lead-us-open-play-suspended)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,290**
-vs yesterday's close: 🔴 ▼ $-133 (-0.21%)
-Trend: ➡️ Flat around 7d MA (-0.9%)
+**$62,375**
+vs yesterday's close: 🔴 ▼ $-525 (-0.84%)
+Trend: 📉 Below 7d MA by 3.4%
 
 ### 🇺🇸 S&P 500
-**7,420.1**
-vs previous close: 🔴 ▼ -91.2 (-1.21%)
-Trend: ➡️ Flat around 7d MA (-0.0%)
+**7,500.6**
+vs previous close: 🟢 ▲ +80.5 (+1.08%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-06-18 10:12 BST</sub>
+<sub>Last updated: 2026-06-19 10:27 BST</sub>
