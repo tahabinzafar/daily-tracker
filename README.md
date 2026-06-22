@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 21 June 2026
+## 📅 Monday, 22 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**22°C** (feels like 25°C) — Cloudy 
-High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 73%
+**24°C** (feels like 26°C) — Sunny
+High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 65%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,14 +20,14 @@ High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 73%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Leadership uncertainty 'enormously disruptive', former top civil servant warns](https://www.bbc.com/news/articles/cpq3n5g218no?at_medium=RSS&at_campaign=rss)
-- [US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz](https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss)
-- [Man charged after suspected anti-Muslim attacks in Edinburgh](https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&at_campaign=rss)
+- [Watch and read Keir Starmer's resignation speech in full](https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss)
+- [First round of US-Iran talks ends with encouraging progress, mediators say](https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss)
+- [Paedophile nursery worker could have been stopped sooner, says former colleague](https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [US and Iran face make-or-break talks in Switzerland](https://www.aljazeera.com/video/newsfeed/2026/6/21/us-and-iran-face-make-or-break-talks-in-switzerland?traffic_source=rss)
-- [Vance arrives in Switzerland for US-Iran talks](https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss)
-- [Iran war day 114: US, Iranian delegations in Switzerland for key talks](https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss)
+- [UK Labour Party Leadership contest may loom after UK PM Starmer resigns](https://www.aljazeera.com/video/newsfeed/2026/6/22/uk-labour-party-leadership-contest-may-loom-after-uk-pm-starmer-resigns?traffic_source=rss)
+- [‘No sense of direction’: The downfall of decent but despised Keir Starmer](https://www.aljazeera.com/news/2026/6/22/decent-but-despised-the-downfall-of-keir-starmer?traffic_source=rss)
+- [‘Daily cuts… infections’: India’s e-waste workers face toxic health risks](https://www.aljazeera.com/news/2026/6/22/daily-cuts-infections-indias-e-waste-workers-face-toxic-health-risks?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon](https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa)
@@ -39,33 +39,33 @@ High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 73%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Meet the record-equalling keeper who helped Curacao make history](https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss)
-- [Scheffler makes move but US Open is Clark's to lose](https://www.bbc.com/sport/golf/articles/cyv0j59py30o?at_medium=RSS&at_campaign=rss)
-- [Country music fan Kane leaves Ella Langley gig early to make curfew](https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss)
+- [Salah's World Cup pain ends as he fires Egypt to historic win](https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss)
+- [The people and places that made Jannik Sinner](https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss)
+- [A defender's view on how to stop the World Cup's best strikers](https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Latest tennis scores: Queen's, Berlin, Halle and Nottingham finals](https://www.skysports.com/tennis/scores-schedule)
-- [Ueda stars as Japan end Tunisia's World Cup with dominant win](https://www.skysports.com/football/tunisia-vs-japan/report/549801)
-- [Key moments and rate the players as Japan sink Tunisia](https://www.skysports.com/football/tunisia-vs-japan/live/549801)
+- [Cape Verde are the story of this World Cup - are they everyone's second team?](https://www.skysports.com/football/news/12040/13556552/cape-verde-at-the-world-cup-african-nation-have-gained-the-hearts-of-the-world-as-everyones-second-team-after-brave-draw-with-uruguay)
+- [Could Eubank Jr launch comeback in Nigeria?](https://www.skysports.com/boxing/news/12040/13556069/chris-eubank-jr-british-boxer-in-nigeria-as-he-considers-options-for-return-to-ring-for-first-fight-since-conor-benn-defeat)
+- [WOW! That's the first punch | Boxing's FASTEST Knockouts](https://www.skysports.com/watch/video/13554664/wow-thats-the-first-punch-boxings-fastest-knockouts)
 
 ### 🏅 The Guardian Sport
-- [US Open glory beckons for Wyndham Clark with six-shot lead going into final round](https://www.theguardian.com/sport/2026/jun/21/us-open-glory-beckons-for-wyndham-clark-with-six-shot-lead-going-into-final-round)
-- [Good food, good genes, good luck: how Ronaldo, Serena and other top athletes compete in their 40s](https://www.theguardian.com/news/ng-interactive/2026/jun/20/how-athletes-keep-competing-into-their-40s)
-- [Brewers ace Misiorowski throws record 47 pitches of 101 mph or faster but ends with loss](https://www.theguardian.com/sport/2026/jun/20/brewers-ace-misiorowski-throws-record-47-pitches-of-101-mph-or-faster-but-ends-with-loss)
+- [Wyndham Clark wins US Open with nerves of steel amid fierce challenge from Burns](https://www.theguardian.com/sport/2026/jun/22/wyndham-clark-wins-us-open-with-nerves-of-steel-amid-fierce-challenge-from-burns)
+- [Serena Williams to make Wimbledon singles comeback after being handed wildcard](https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis)
+- [Frances Tiafoe beats Taylor Fritz in all-American Halle final for biggest title of career](https://www.theguardian.com/sport/2026/jun/21/frances-tiafoe-taylor-fritz-halle-title)
 
 ### 🏈 ESPN
-- [If anyone can catch Wyndham Clark at the 2026 U.S....](https://www.espn.com/golf/story/_/id/49129497/wyndham-clark-2026-us-open-scottie-scheffler-shinnecock)
-- [Clark finishes strong and more from the third roun...](https://www.espn.com/golf/story/_/id/49119510/us-open-2026-third-round-sights-sounds-best-shots)
-- [Schwarber's 3 HRs, Harper's cycle propel Phillies](https://www.espn.com/mlb/story/_/id/49131252/schwarber-homers-twice-inning-harper-hits-cycle)
+- [How Wyndham Clark battled the crowd and the course...](https://www.espn.com/golf/story/_/id/49138277/wyndham-clark-hung-won-2026-us-open-shinnecock-hills)
+- [Clark rides roller coaster to 2nd U.S. Open crown](https://www.espn.com/golf/story/_/id/49138694/wyndham-clark-holds-shinnecock-win-2nd-us-open-title)
+- [Sources: B. Tkachuk to Panthers, joins brother](https://www.espn.com/nhl/story/_/id/49138139/panthers-acquire-brady-tkachuk-senators-sources-say)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,903**
-vs yesterday's close: 🔴 ▼ $-337 (-0.52%)
-Trend: ➡️ Flat around 7d MA (-0.8%)
+**$64,090**
+vs yesterday's close: 🟢 ▲ +$858 (+1.36%)
+Trend: ➡️ Flat around 7d MA (+0.1%)
 
 ### 🇺🇸 S&P 500
 **7,500.6**
@@ -74,4 +74,4 @@ Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-06-21 09:56 BST</sub>
+<sub>Last updated: 2026-06-22 11:36 BST</sub>
