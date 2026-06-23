@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 22 June 2026
+## 📅 Tuesday, 23 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**24°C** (feels like 26°C) — Sunny
-High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 65%
+**22°C** (feels like 25°C) — Sunny
+High 36°C / Low 18°C &nbsp;|&nbsp; Humidity 88%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,18 +20,18 @@ High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 65%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch and read Keir Starmer's resignation speech in full](https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss)
-- [First round of US-Iran talks ends with encouraging progress, mediators say](https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss)
-- [Paedophile nursery worker could have been stopped sooner, says former colleague](https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Questions multiply for the man tipped to replace Starmer](https://www.bbc.com/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss)
+- [Can you refuse to work or send your kids to school during a heatwave?](https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss)
+- [First drug to delay onset of type 1 diabetes made available on NHS](https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [UK Labour Party Leadership contest may loom after UK PM Starmer resigns](https://www.aljazeera.com/video/newsfeed/2026/6/22/uk-labour-party-leadership-contest-may-loom-after-uk-pm-starmer-resigns?traffic_source=rss)
-- [‘No sense of direction’: The downfall of decent but despised Keir Starmer](https://www.aljazeera.com/news/2026/6/22/decent-but-despised-the-downfall-of-keir-starmer?traffic_source=rss)
-- [‘Daily cuts… infections’: India’s e-waste workers face toxic health risks](https://www.aljazeera.com/news/2026/6/22/daily-cuts-infections-indias-e-waste-workers-face-toxic-health-risks?traffic_source=rss)
+- [US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker](https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss)
+- [What to know about Tuesday’s primary elections in Maryland, Utah, New York](https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss)
+- [How a dead extremist Rabbi still shapes Israeli politics today](https://www.aljazeera.com/video/newsfeed/2026/6/23/how-a-dead-extremist-rabbi-still-shapes-israeli-politics-today?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon](https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa)
-- [Global framework for reparatory justice adopted at landmark Ghana conference](https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana)
+- [Ghana conference calls for formal apology for transatlantic slave trade](https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana)
 - [CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda](https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding)
 
 ---
@@ -39,39 +39,39 @@ High 28°C / Low 17°C &nbsp;|&nbsp; Humidity 65%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Salah's World Cup pain ends as he fires Egypt to historic win](https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss)
-- [The people and places that made Jannik Sinner](https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss)
-- [A defender's view on how to stop the World Cup's best strikers](https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss)
+- [A Golden Boot race for the ages - but who will come out on top?](https://www.bbc.com/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss)
+- [Norway win five-goal thriller against Senegal to make last 32](https://www.bbc.com/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss)
+- [What France & Iraq did during 'mentally draining' two-hour weather delay](https://www.bbc.com/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Cape Verde are the story of this World Cup - are they everyone's second team?](https://www.skysports.com/football/news/12040/13556552/cape-verde-at-the-world-cup-african-nation-have-gained-the-hearts-of-the-world-as-everyones-second-team-after-brave-draw-with-uruguay)
-- [Could Eubank Jr launch comeback in Nigeria?](https://www.skysports.com/boxing/news/12040/13556069/chris-eubank-jr-british-boxer-in-nigeria-as-he-considers-options-for-return-to-ring-for-first-fight-since-conor-benn-defeat)
-- [WOW! That's the first punch | Boxing's FASTEST Knockouts](https://www.skysports.com/watch/video/13554664/wow-thats-the-first-punch-boxings-fastest-knockouts)
+- [Creative Queen chasing back-to-back wins at Newbury](https://www.skysports.com/racing/news/12040/13556669/today-on-sky-sports-racing-creative-queen-chasing-back-to-back-wins-at-newbury-plus-action-at-ffos-las-and-newton-abbot)
+- [Who will win the World Cup Golden Boot? Have your say...](https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans)
+- [How far can great British hope Raducanu go at Wimbledon?](https://www.skysports.com/tennis/news/12040/13556774/emma-raducanu-how-far-can-british-no-1-go-at-wimbledon-after-a-successful-run-to-hsbc-championships-final-at-queens-club)
 
 ### 🏅 The Guardian Sport
-- [Wyndham Clark wins US Open with nerves of steel amid fierce challenge from Burns](https://www.theguardian.com/sport/2026/jun/22/wyndham-clark-wins-us-open-with-nerves-of-steel-amid-fierce-challenge-from-burns)
-- [Serena Williams to make Wimbledon singles comeback after being handed wildcard](https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis)
-- [Frances Tiafoe beats Taylor Fritz in all-American Halle final for biggest title of career](https://www.theguardian.com/sport/2026/jun/21/frances-tiafoe-taylor-fritz-halle-title)
+- [Bucks’ Giannis Antetokounmpo reportedly headed to Miami Heat in blockbuster trade](https://www.theguardian.com/sport/2026/jun/23/giannis-antetokounmpo-miami-heat-trade-milwaukee-bucks-blockbuster)
+- [The champion they didn’t want: inside Wyndham Clark’s lonely US Open coronation](https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf)
+- [Wimbledon 2023 champion Vondrousova given four-year ban for refusing anti-doping test](https://www.theguardian.com/sport/2026/jun/22/wimbledon-2023-champion-marketa-vondrousova-four-year-ban-refusing-anti-doping-test-tennis)
 
 ### 🏈 ESPN
-- [How Wyndham Clark battled the crowd and the course...](https://www.espn.com/golf/story/_/id/49138277/wyndham-clark-hung-won-2026-us-open-shinnecock-hills)
-- [Clark rides roller coaster to 2nd U.S. Open crown](https://www.espn.com/golf/story/_/id/49138694/wyndham-clark-holds-shinnecock-win-2nd-us-open-title)
-- [Sources: B. Tkachuk to Panthers, joins brother](https://www.espn.com/nhl/story/_/id/49138139/panthers-acquire-brady-tkachuk-senators-sources-say)
+- [Grades for both sides of the Giannis trade: Winner...](https://www.espn.com/nba/story/_/id/49112635/giannis-antetokounmpo-trade-grades-winners-losers-reaction-bucks-heat)
+- [Giannis traded to Heat: Everything we know about t...](https://www.espn.com/nba/story/_/id/49144931/giannis-traded-heat-faq-blockbuster-move-means-bucks-celtics-draft-playoff-race)
+- [Sources: Heat land Giannis in blockbuster trade](https://www.espn.com/nba/story/_/id/49149967/bucks-trading-giannis-antetokounmpo-bobby-portis-heat-tyler-herro-kelel-ware-jaime-jaquez-jr-kasparas-jakucionis-picks)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,090**
-vs yesterday's close: 🟢 ▲ +$858 (+1.36%)
-Trend: ➡️ Flat around 7d MA (+0.1%)
+**$62,084**
+vs yesterday's close: 🔴 ▼ $-1,873 (-2.93%)
+Trend: 📉 Below 7d MA by 2.2%
 
 ### 🇺🇸 S&P 500
-**7,500.6**
-vs previous close: 🟢 ▲ +80.5 (+1.08%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**7,472.8**
+vs previous close: 🔴 ▼ -27.8 (-0.37%)
+Trend: ➡️ Flat around 7d MA (+0.0%)
 
 ---
 
-<sub>Last updated: 2026-06-22 11:36 BST</sub>
+<sub>Last updated: 2026-06-23 09:28 BST</sub>
