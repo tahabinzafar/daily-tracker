@@ -4,74 +4,74 @@
 
 ---
 
-## 📅 Thursday, 25 June 2026
+## 📅 Friday, 26 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**24°C** (feels like 25°C) — Sunny
-High 32°C / Low 20°C &nbsp;|&nbsp; Humidity 69%
+**28°C** (feels like 29°C) — Sunny
+High 35°C / Low 22°C &nbsp;|&nbsp; Humidity 66%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> ☀️ Warm day in London — rare, enjoy it.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: Moment earthquakes hit airport and buildings in Caracas](https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss)
-- [How to cope in a heatwave - according to you](https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss)
-- [Reeves backs Burnham to become next prime minister](https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss)
+- [King becomes first monarch to reveal tax bill as royal public funding to double to £100m](https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss)
+- [King and Queen will not live in Buckingham Palace after renovations](https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: The anatomy of the prime minister's downfall](https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [South Africa celebrates reaching World Cup knockout stage for first time](https://www.aljazeera.com/video/newsfeed/2026/6/25/south-africa-celebrates-reaching-world-cup-knockout-stage-for-first-time?traffic_source=rss)
-- [ICC judges sue Trump over sanctions, call measures unlawful](https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss)
-- [‘We hugged each other and ran’: Venezuelans recount earthquake horror](https://www.aljazeera.com/news/2026/6/25/we-hugged-each-other-and-ran-venezuelans-recount-earthquake-horror?traffic_source=rss)
+- [Neighbours aid rescue effort as Venezuela quake death toll hits 235](https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss)
+- [Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran](https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss)
+- [US ends deportation protections (TPS) for Haitians and Syrians](https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term](https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term)
 - [France confirms first Ebola case in doctor who had worked in DRC](https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc)
 - [Play puts spotlight on Kenya’s crisis of gender-based violence](https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence)
-- [Kenyan minister orders halt to construction of US Ebola facility](https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Vinicius Jr stops the fun and leaves Scots down... but are they going out?](https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss)
-- ['Think we're going home' - Clarke & McGinn rue Scotland mistakes](https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro?at_medium=RSS&at_campaign=rss)
-- [Scotland hopes on the brink following defeat against Brazil](https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss)
+- [From 42% to 5.26% - how Scotland's World Cup hopes are fading](https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss)
+- [Mbappe v Haaland: Who is more important for their country?](https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss)
+- [Man City agree record fee with Forest for Anderson](https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Raducanu told by former coach what she must do to win another Grand Slam](https://www.skysports.com/tennis/news/12040/13557579/emma-raducanu-former-coach-mark-petchey-believes-british-no-1-can-thrive-again-under-andrew-richardson)
-- [Humphries and Littler take centre stage at US Darts Masters in New York](https://www.skysports.com/darts/news/12040/13557552/luke-littler-world-no-1-bids-for-maiden-us-darts-masters-crown-with-luke-humphries-set-to-defend-his-title-at-madison-square-garden-in-new-york)
-- [Most memorable corner moments in boxing!](https://www.skysports.com/watch/video/13556782/most-memorable-corner-moments-in-boxing)
+- [Mbappe vs Haaland - new Messi-Ronaldo rivalry graces World Cup](https://www.skysports.com/football/news/12040/13557028/kylian-mbappe-vs-erling-haaland-new-lionel-messi-cristiano-ronaldo-rivalry-on-show-as-norway-face-france-in-world-cup)
+- [Is Serena brave to make Wimbledon singles bid at the age of 44?](https://www.skysports.com/tennis/news/12040/13557597/is-serena-williams-brave-to-make-a-wimbledon-singles-comeback-can-23-time-grand-slam-champion-compete-at-the-age-of-44)
+- [Yoon opens Women's PGA Championship with record 63 as Hull, Woad sit well back](https://www.skysports.com/golf/news/12040/13557904/kpmg-womens-pga-championship-ina-yoon-opens-at-hazeltine-with-record-equalling-round-of-63-as-charley-hull-lottie-woad-sit-well-back)
 
 ### 🏅 The Guardian Sport
-- [IOC scraps 130 years of tradition by paying athletes $10,000 at Olympics](https://www.theguardian.com/sport/2026/jun/24/ioc-pay-olympic-athletes-10000-dollars)
-- [NBA draft 2026 first-round winners and losers: triumph of the tankers and the Jalen Brunson Effect](https://www.theguardian.com/sport/2026/jun/24/nba-draft-2026-first-round-winners-and-losers-triumph-of-the-tankers-and-the-jalen-brunson-effect)
-- [Hammon acknowledges Brunson’s greatness but won’t apologize for questioning star](https://www.theguardian.com/sport/2026/jun/24/hammon-acknowledges-brunsons-greatness-but-wont-apologize-for-questioning-star)
+- [Toronto Tempo’s Marina Mabrey ties WNBA scoring record with 53 points](https://www.theguardian.com/sport/2026/jun/25/marina-mabrey-53-points-wnba-scoring-record-toronto-tempo-sparks)
+- [WNBA suspends Alyssa Thomas for ‘cheap shot’ throat hit to Caitlin Clark](https://www.theguardian.com/sport/2026/jun/25/caitlin-clark-stephanie-white-wnba-refs-fever-mercury)
+- [Wimbledon’s big talking points: Serena’s return, Sinner’s recovery and Sabalenka’s slump](https://www.theguardian.com/sport/2026/jun/26/wimbledon-biggest-talking-points-serena-return-djokovics-quest-for-no-25)
 
 ### 🏈 ESPN
-- [Draft grades for all 30 NBA teams: Why the Grizzli...](https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes)
-- [Sources: Hornets engaged in LaMelo trade talks](https://www.espn.com/nba/story/_/id/49172117/sources-hornets-seriously-engaged-lamelo-ball-trade-talks)
-- [Lions' Arnold facing kidnapping, robbery charges](https://www.espn.com/nfl/story/_/id/49172395/lions-terrion-arnold-arrested-faces-felony-charges-kidnapping-armed-robbery)
+- [USMNT must heed World Cup lessons learned in loss ...](https://www.espn.com/soccer/story/_/id/49183383/usmnt-heed-world-cup-lessons-learned-loss-turkiye)
+- [USMNT player ratings: Turner earns 3/10 as U.S. co...](https://www.espn.com/soccer/story/_/id/49182087/usmnt-player-ratings-turner-3-10-first-world-cup-loss-turkiye)
+- [Pulisic subs on as Türkiye beats U.S. on last kick...](https://www.espn.com/soccer/story/_/id/49179213/christian-pulisic-subs-us-loses-turkiye-last-kick)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$61,654**
-vs yesterday's close: 🟢 ▲ +$745 (+1.22%)
-Trend: 📉 Below 7d MA by 2.0%
+**$60,212**
+vs yesterday's close: 🟢 ▲ +$499 (+0.84%)
+Trend: 📉 Below 7d MA by 3.1%
 
 ### 🇺🇸 S&P 500
-**7,358.2**
-vs previous close: 🔴 ▼ -7.2 (-0.10%)
-Trend: 📉 Below 7d MA by 1.3%
+**7,357.5**
+vs previous close: 🔴 ▼ -0.7 (-0.01%)
+Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ---
 
-<sub>Last updated: 2026-06-25 09:22 BST</sub>
+<sub>Last updated: 2026-06-26 09:28 BST</sub>
