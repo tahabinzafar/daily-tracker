@@ -4,68 +4,68 @@
 
 ---
 
-## 📅 Friday, 26 June 2026
+## 📅 Saturday, 27 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**28°C** (feels like 29°C) — Sunny
-High 35°C / Low 22°C &nbsp;|&nbsp; Humidity 66%
+**21°C** (feels like 21°C) — Partly cloudy 
+High 31°C / Low 20°C &nbsp;|&nbsp; Humidity 83%
 
-> ☀️ Warm day in London — rare, enjoy it.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [King becomes first monarch to reveal tax bill as royal public funding to double to £100m](https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss)
-- [King and Queen will not live in Buckingham Palace after renovations](https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: The anatomy of the prime minister's downfall](https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss)
+- [US strikes Iran after attack on cargo ship](https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss)
+- [Mahmood announces new refugee sponsorship route into UK](https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss)
+- [Are we in for a summer of serial heatwaves?](https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Neighbours aid rescue effort as Venezuela quake death toll hits 235](https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss)
-- [Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran](https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss)
-- [US ends deportation protections (TPS) for Haitians and Syrians](https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss)
+- [Somali intelligence helps US arrest alleged ringleader of Minnesota fraud](https://www.aljazeera.com/news/2026/6/27/somali-intelligence-helps-us-arrest-alleged-ringleader-of-minnesota-fraud?traffic_source=rss)
+- [Iran war day 120: Tehran condemns US strikes, says it violates MoU](https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss)
+- [Who profits from Africa’s gold?](https://www.aljazeera.com/economy/2026/6/27/who-profits-from-africas-gold?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term](https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term)
-- [France confirms first Ebola case in doctor who had worked in DRC](https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc)
-- [Play puts spotlight on Kenya’s crisis of gender-based violence](https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence)
+- [‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK](https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk)
+- [Whereabouts of nearly 300 people with Ebola unknown in DR Congo](https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc)
+- [Outrage as woman jailed for three years after criticising Somali government online](https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [From 42% to 5.26% - how Scotland's World Cup hopes are fading](https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss)
-- [Mbappe v Haaland: Who is more important for their country?](https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss)
-- [Man City agree record fee with Forest for Anderson](https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss)
+- ['I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign](https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss)
+- [How Cape Verde stunned World Cup to set up Argentina tie](https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss)
+- [England qualify for World Cup knockout stage](https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Mbappe vs Haaland - new Messi-Ronaldo rivalry graces World Cup](https://www.skysports.com/football/news/12040/13557028/kylian-mbappe-vs-erling-haaland-new-lionel-messi-cristiano-ronaldo-rivalry-on-show-as-norway-face-france-in-world-cup)
-- [Is Serena brave to make Wimbledon singles bid at the age of 44?](https://www.skysports.com/tennis/news/12040/13557597/is-serena-williams-brave-to-make-a-wimbledon-singles-comeback-can-23-time-grand-slam-champion-compete-at-the-age-of-44)
-- [Yoon opens Women's PGA Championship with record 63 as Hull, Woad sit well back](https://www.skysports.com/golf/news/12040/13557904/kpmg-womens-pga-championship-ina-yoon-opens-at-hazeltine-with-record-equalling-round-of-63-as-charley-hull-lottie-woad-sit-well-back)
+- [Why England's backline remains Tuchel's biggest conundrum](https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs)
+- [Yoon widens Women's PGA Championship lead to five strokes with Korda in chase](https://www.skysports.com/golf/news/12040/13558210/kpmg-womens-pga-championship-ina-yoon-widens-lead-to-five-strokes-with-nelly-korda-in-chase-charley-hull-lottie-woad-fall-further-back)
+- [Humphries claims back-to-back US Darts Masters titles after beating Littler](https://www.skysports.com/darts/news/12040/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens)
 
 ### 🏅 The Guardian Sport
-- [Toronto Tempo’s Marina Mabrey ties WNBA scoring record with 53 points](https://www.theguardian.com/sport/2026/jun/25/marina-mabrey-53-points-wnba-scoring-record-toronto-tempo-sparks)
-- [WNBA suspends Alyssa Thomas for ‘cheap shot’ throat hit to Caitlin Clark](https://www.theguardian.com/sport/2026/jun/25/caitlin-clark-stephanie-white-wnba-refs-fever-mercury)
-- [Wimbledon’s big talking points: Serena’s return, Sinner’s recovery and Sabalenka’s slump](https://www.theguardian.com/sport/2026/jun/26/wimbledon-biggest-talking-points-serena-return-djokovics-quest-for-no-25)
+- [Yukon’s Gavin McKenna becomes only second Indigenous player selected No 1 in NHL draft](https://www.theguardian.com/sport/2026/jun/26/maple-leafs-gavin-mckenna-no-1-pick-nhl-draft)
+- [Serena Williams sprinkles stardust at Wimbledon with top female players toiling](https://www.theguardian.com/sport/2026/jun/26/serena-williams-sprinkles-stardust-at-wimbledon-with-top-female-players-toiling)
+- [Jaron ‘Boots’ Ennis and Xander Zayas put promise to test in Brooklyn clash](https://www.theguardian.com/sport/2026/jun/26/jaron-boots-ennis-xander-zayas-fight-preview)
 
 ### 🏈 ESPN
-- [USMNT must heed World Cup lessons learned in loss ...](https://www.espn.com/soccer/story/_/id/49183383/usmnt-heed-world-cup-lessons-learned-loss-turkiye)
-- [USMNT player ratings: Turner earns 3/10 as U.S. co...](https://www.espn.com/soccer/story/_/id/49182087/usmnt-player-ratings-turner-3-10-first-world-cup-loss-turkiye)
-- [Pulisic subs on as Türkiye beats U.S. on last kick...](https://www.espn.com/soccer/story/_/id/49179213/christian-pulisic-subs-us-loses-turkiye-last-kick)
+- [NHL draft tracker: Leafs select McKenna at No. 1; ...](https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes)
+- [As expected, Maple Leafs draft McKenna at No. 1](https://www.espn.com/nhl/story/_/id/49190403/toronto-maple-leafs-select-gavin-mckenna-open-nhl-draft)
+- [Brewers' Misiorowski hurls 105.5 mph pitch in win](https://www.espn.com/mlb/story/_/id/49194044/jacob-misiorowski-throws-heater-clocked-1055-mph-vs-cubs)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$60,212**
-vs yesterday's close: 🟢 ▲ +$499 (+0.84%)
-Trend: 📉 Below 7d MA by 3.1%
+**$60,399**
+vs yesterday's close: 🟢 ▲ +$417 (+0.70%)
+Trend: 📉 Below 7d MA by 1.9%
 
 ### 🇺🇸 S&P 500
 **7,357.5**
@@ -74,4 +74,4 @@ Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ---
 
-<sub>Last updated: 2026-06-26 09:28 BST</sub>
+<sub>Last updated: 2026-06-27 08:48 BST</sub>
