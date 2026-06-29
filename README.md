@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Sunday, 28 June 2026
+## 📅 Monday, 29 June 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**21°C** (feels like 21°C) — Overcast
-High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 69%
+**17°C** (feels like 17°C) — Partly cloudy
+High 26°C / Low 13°C &nbsp;|&nbsp; Humidity 68%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [England top group - but they will not win World Cup unless they improve](https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss)
-- [Families calling out to loved ones trapped in rubble by Venezuela quakes](https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss)
-- [Harry reconsiders bringing Meghan and children on UK trip](https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Burnham begins to sketch out vision but faces huge questions about policy](https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss)
+- [Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss)
+- [White working-class children failed by education system, says inquiry](https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [South Africa vs Canada: World Cup 2026 – prediction, team news and lineups](https://www.aljazeera.com/sports/2026/6/28/south-africa-vs-canada-fifa-world-cup-2026-prediction-team-news-start-lineups?traffic_source=rss)
-- [DR Congo fans celebrate reaching World Cup knockout stage](https://www.aljazeera.com/video/newsfeed/2026/6/28/dr-congo-fans-celebrate-reaching-world-cup-knockout-stage?traffic_source=rss)
-- [‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks](https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss)
+- [FIFA World Cup: Round of 32 schedule, predictions and latest news](https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss)
+- [Venezuela rescuers race against the clock to find more survivors](https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-rescuers-race-against-the-clock-to-find-more-survivors?traffic_source=rss)
+- [Will Andy Burnham mark a shift in the UK’s Gaza policy?](https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK](https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk)
@@ -39,19 +39,19 @@ High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 69%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [New deal, new beginnings & a sudden exit - Clarke's Scotland timeline](https://www.bbc.co.uk/sport/football/articles/ce8mqmg327vo?at_medium=RSS&at_campaign=rss)
-- [Job done - but England will not win World Cup unless they improve](https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss)
-- [Best team, moments, matches and players of World Cup group stage](https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss)
+- [When five Wimbledon titles in one weekend changed British tennis](https://www.bbc.co.uk/sport/tennis/articles/cgev5n0vqv3o?at_medium=RSS&at_campaign=rss)
+- [Unconventional exit for an English great - Agnew](https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss)
+- [Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw](https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Overnight heads Prix Eugene Adam field at Saint-Cloud](https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud)
-- [Draper draw could have been kinder, says Gigi Salmon as she previews Wimbledon](https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament)
-- [Austria survive huge scare to progress with Algeria and knock Iran out](https://www.skysports.com/football/algeria-vs-austria/report/549832)
+- [Wimbledon Day One LIVE! Sinner, Sabalenka, Djokovic and Norrie in action](https://www.skysports.com/tennis/live-blog/12040/13558132/wimbledon-day-one-live-scores-updates-news-results-with-emma-raducanu-jannik-sinner-aryna-sabalenka-novak-djokovic-in-action)
+- [Stokes' retirement looms large over final day of England vs NZ series LIVE!](https://www.skysports.com/cricket/live-blog/12040/13558691/england-vs-new-zealand-third-test-day-five-live-score-updates-video-and-analysis-as-ben-stokes-retires-from-international-cricket)
+- [Today on Sky Sports Racing: Regal Envoy chases Windsor double](https://www.skysports.com/racing/news/12040/13558375/today-on-sky-sports-racing-ffos-las-and-windsor)
 
 ### 🏅 The Guardian Sport
-- [Jaron Ennis survives scare to stop Xander Zayas and unify 154lb titles in instant classic](https://www.theguardian.com/sport/2026/jun/28/jaron-ennis-xander-zayas-fight-boxing-result)
-- [‘Inspirational and epic’: Djokovic inspired by Serena Williams as he targets Wimbledon history](https://www.theguardian.com/sport/2026/jun/27/novak-djokovic-inspired-serena-williams-wimbledon-tennis)
-- [Russell snatches controversial F1 Austrian GP pole after Verstappen’s late crash](https://www.theguardian.com/sport/2026/jun/27/russell-snatches-controversial-austrian-grand-prix-pole-after-verstappens-late-crash)
+- [Lewis Hamilton rues Ferrari’s ‘reality check’ after F1 Austrian GP struggles](https://www.theguardian.com/sport/2026/jun/28/lewis-hamilton-ferrari-f1-austrian-gp)
+- [Audrey Werro edges closer to women’s 800m world record at Paris Diamond League](https://www.theguardian.com/sport/2026/jun/28/audrey-werro-edges-closer-womens-800m-world-record-paris-diamond-league-athletics)
+- [Emma Raducanu pulls out of Wimbledon after ‘niggle develops into stress fracture’](https://www.theguardian.com/sport/2026/jun/28/emma-raducanu-pledges-to-do-everything-in-race-for-fitness-at-wimbledon)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 69%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$60,104**
-vs yesterday's close: 🟢 ▲ +$161 (+0.27%)
-Trend: 📉 Below 7d MA by 1.5%
+**$59,890**
+vs yesterday's close: 🟢 ▲ +$278 (+0.47%)
+Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ### 🇺🇸 S&P 500
 **7,354.0**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ---
 
-<sub>Last updated: 2026-06-28 09:20 BST</sub>
+<sub>Last updated: 2026-06-29 10:25 BST</sub>
