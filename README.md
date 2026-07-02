@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Wednesday, 01 July 2026
+## 📅 Thursday, 02 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 18°C) — Sunny
-High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
+**18°C** (feels like 18°C) — Partly cloudy
+High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 83%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Woman raped by Superdry co-founder tells BBC she was working for him at the time](https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: Starmer's defence plan leaves crunching trade‑offs for Burnham to confront](https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&at_campaign=rss)
-- [Households urged to submit meter readings as energy prices rise](https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss)
+- [People smuggler convicted in France found by BBC living in UK and seeking asylum](https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss)
+- [Watch: People smuggler tracked down and confronted by BBC](https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&at_campaign=rss)
+- [At least 13 killed in large-scale Russian missile and drone strikes on Kyiv](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Rescuers race to reach survivors in Venezuela](https://www.aljazeera.com/video/newsfeed/2026/7/1/rescuers-race-to-reach-survivors-in-venezuela?traffic_source=rss)
-- [FIFA World Cup: Wednesday schedule, predictions and bracket update](https://www.aljazeera.com/sports/2026/7/1/fifa_world-cup-wednesday-schedule-predictions-bracket-update?traffic_source=rss)
-- [Trump official says White House will fight birthright citizenship decision](https://www.aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss)
+- [In Pictures: Hunger, despair as Venezuela quake death toll rises](https://www.aljazeera.com/gallery/2026/7/2/in-pictures-hunger-despair-as-venezuela-quake-death-toll-rises?traffic_source=rss)
+- [Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news](https://www.aljazeera.com/sports/2026/7/2/spain-vs-austria-world-cup-round-of-32-preview-predictions-team-news?traffic_source=rss)
+- [More than 900 arrested during South Africa’s antimigrant protests](https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says](https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing)
 - [‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population](https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population)
 - [‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests](https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests)
-- [Police units deployed across South Africa before anti-immigration marches](https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Mexico rampant at fortress Azteca - and England could be next](https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss)
-- [Tuchel will stick to Southgate's penalty plan](https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss)
-- [United, free and brilliant - can anyone stop France masterclass?](https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss)
+- [Let children stay up for England-Mexico - Tuchel](https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss)
+- [USA march on but will Balogun red card prove costly?](https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss)
+- [Norris 'happy I have the pain of this year for the glory of last'](https://www.bbc.co.uk/sport/formula1/articles/c36y3p1xj4jo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Who could rival Warriors to sign LeBron?](https://www.skysports.com/nba/news/12040/13559419/lebron-james-which-teams-will-rival-golden-state-warriors-to-sign-nba-superstar-following-los-angeles-lakers-exit)
-- [Everton latest: Club in talks over return for former loan player](https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights)
-- ['I'd love to do it' - Molinari eyes European captaincy after next Ryder Cup role](https://www.skysports.com/golf/news/12040/13558314/francesco-molinari-exclusive-on-ryder-cup-vice-captaincy-supporting-luke-donald-and-his-future-team-europe-captaincy-hopes)
+- [Musical Times looks to make it two from two at Yarmouth](https://www.skysports.com/racing/news/12040/13559438/today-on-sky-sports-racing-newbury-and-yarmouth)
+- [British GP storylines to look out for as Sprint weekend returns](https://www.skysports.com/f1/news/12040/13559495/british-gp-silverstone-storylines-to-look-out-for-as-kimi-antonelli-vs-george-russell-battle-continues-on-sprint-weekend)
+- [England out to end semi-final hoodoo against bogey side South Africa](https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords)
 
 ### 🏅 The Guardian Sport
-- [Tennis has moved on but Serena devotion at sporting vigil is still at a high | Jonathan Liew](https://www.theguardian.com/sport/2026/jul/01/serena-williams-wimbledon-tennis)
-- [Alyssa Thomas calls out WNBA after receiving death threats, racial abuse from Caitlin Clark foul incident](https://www.theguardian.com/sport/2026/jun/30/alyssa-thomas-wnba-caitlin-clark-death-threats-cathy-engelbert)
-- [Gravity is undefeated: Ja Morant’s spectacular fall back to Earth is complete](https://www.theguardian.com/sport/2026/jun/30/ja-morant-trade-grizzlies-trail-blazers-nba)
+- [Celtics reportedly trade 2024 NBA finals MVP Jaylen Brown to 76ers after stormy few weeks](https://www.theguardian.com/sport/2026/jul/01/jaylen-brown-boston-celtics-philadelphia-76ers-trade-nba)
+- [Mirra Andreeva’s Wimbledon hopes dashed by resurgent Krejcikova](https://www.theguardian.com/sport/2026/jul/01/mirra-andreevas-wimbledon-hopes-dashed-by-resurgent-krejcikova)
+- [The eternal whirring of the Caitlin Clark conspiracy machine has shifted into a new gear](https://www.theguardian.com/sport/2026/jul/01/caitlin-clark-wnba-treatment-alyssa-thomas)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$58,641**
-vs yesterday's close: 🟢 ▲ +$90 (+0.15%)
-Trend: 📉 Below 7d MA by 1.5%
+**$60,257**
+vs yesterday's close: 🟢 ▲ +$277 (+0.46%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ### 🇺🇸 S&P 500
-**7,499.4**
-vs previous close: 🟢 ▲ +58.9 (+0.79%)
-Trend: 📈 Above 7d MA by 1.2%
+**7,483.2**
+vs previous close: 🔴 ▼ -16.1 (-0.22%)
+Trend: 📈 Above 7d MA by 1.0%
 
 ---
 
-<sub>Last updated: 2026-07-01 09:48 BST</sub>
+<sub>Last updated: 2026-07-02 09:10 BST</sub>
