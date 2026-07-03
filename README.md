@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Thursday, 02 July 2026
+## 📅 Friday, 03 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 18°C) — Partly cloudy
-High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 83%
+**15°C** (feels like 15°C) — Sunny
+High 27°C / Low 14°C &nbsp;|&nbsp; Humidity 72%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 83%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [People smuggler convicted in France found by BBC living in UK and seeking asylum](https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss)
-- [Watch: People smuggler tracked down and confronted by BBC](https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&at_campaign=rss)
-- [At least 13 killed in large-scale Russian missile and drone strikes on Kyiv](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)
+- [NHS to reward people who walk 30 minutes a day](https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss)
+- [On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns](https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss)
+- [Pubs allowed to stay open until 5am for England Mexico match](https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [In Pictures: Hunger, despair as Venezuela quake death toll rises](https://www.aljazeera.com/gallery/2026/7/2/in-pictures-hunger-despair-as-venezuela-quake-death-toll-rises?traffic_source=rss)
-- [Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news](https://www.aljazeera.com/sports/2026/7/2/spain-vs-austria-world-cup-round-of-32-preview-predictions-team-news?traffic_source=rss)
-- [More than 900 arrested during South Africa’s antimigrant protests](https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss)
+- [Ukraine strike hits Belgorod, causing fire and power outages](https://www.aljazeera.com/video/newsfeed/2026/7/3/ukraine-strike-hits-belgorod-causing-fire-and-power-outages?traffic_source=rss)
+- [Argentina vs Cape Verde: World Cup Round of 32: Messi, prediction, kickoff](https://www.aljazeera.com/sports/2026/7/3/argentina-vs-cape-verde-world-cup-round-of-32-messi-vozinha-prediction-kickoff?traffic_source=rss)
+- [Man holding Tibetan flag dies after setting himself on fire outside UN](https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says](https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing)
-- [‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population](https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population)
-- [‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests](https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests)
+- [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)
+- [Côte d’Ivoire floods kill 59 as west Africa endures torrential rains](https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains)
+- [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Let children stay up for England-Mexico - Tuchel](https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss)
-- [USA march on but will Balogun red card prove costly?](https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss)
-- [Norris 'happy I have the pain of this year for the glory of last'](https://www.bbc.co.uk/sport/formula1/articles/c36y3p1xj4jo?at_medium=RSS&at_campaign=rss)
+- [Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's](https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss)
+- [Four-time Tour de France winner Froome retires](https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss)
+- [Hard work and a disco jacket - England turn fielding woes around to reach final](https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Musical Times looks to make it two from two at Yarmouth](https://www.skysports.com/racing/news/12040/13559438/today-on-sky-sports-racing-newbury-and-yarmouth)
-- [British GP storylines to look out for as Sprint weekend returns](https://www.skysports.com/f1/news/12040/13559495/british-gp-silverstone-storylines-to-look-out-for-as-kimi-antonelli-vs-george-russell-battle-continues-on-sprint-weekend)
-- [England out to end semi-final hoodoo against bogey side South Africa](https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords)
+- [Sunderland latest: Rennes in talks over Mayenda](https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [Stanway joins Arsenal after Bayern exit](https://www.skysports.com/football/news/12040/13560001/georgia-stanway-arsenal-sign-lionesses-midfielder-after-bayern-munich-departure)
+- ['I knew it was over' - Froome retires almost a year after near-fatal crash](https://www.skysports.com/cycling/news/12040/13560042/chris-froome-four-time-tour-de-france-champion-retires-from-cycling-almost-a-year-on-from-near-fatal-crash)
 
 ### 🏅 The Guardian Sport
-- [Celtics reportedly trade 2024 NBA finals MVP Jaylen Brown to 76ers after stormy few weeks](https://www.theguardian.com/sport/2026/jul/01/jaylen-brown-boston-celtics-philadelphia-76ers-trade-nba)
-- [Mirra Andreeva’s Wimbledon hopes dashed by resurgent Krejcikova](https://www.theguardian.com/sport/2026/jul/01/mirra-andreevas-wimbledon-hopes-dashed-by-resurgent-krejcikova)
-- [The eternal whirring of the Caitlin Clark conspiracy machine has shifted into a new gear](https://www.theguardian.com/sport/2026/jul/01/caitlin-clark-wnba-treatment-alyssa-thomas)
+- [France’s feisty Fils wins over Centre Court but Berrettini has too much savvy](https://www.theguardian.com/sport/2026/jul/02/savvy-matteo-berrettini-has-too-much-for-frances-feisty-arthur-fils)
+- [Nationals’ Cavalli suspended seven games after ‘Sit down, boy’ comment sparks brawl](https://www.theguardian.com/sport/2026/jul/02/cade-cavalli-willson-contreras-suspension-brawl)
+- [Tour de France braced for historic stage cancellations amid 44C European heatwave](https://www.theguardian.com/sport/2026/jul/02/tour-de-france-historic-stage-cancellations-44c-european-heatwave-cycling)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 83%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$60,257**
-vs yesterday's close: 🟢 ▲ +$277 (+0.46%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**$61,701**
+vs yesterday's close: 🟢 ▲ +$214 (+0.35%)
+Trend: 📈 Above 7d MA by 2.5%
 
 ### 🇺🇸 S&P 500
 **7,483.2**
-vs previous close: 🔴 ▼ -16.1 (-0.22%)
-Trend: 📈 Above 7d MA by 1.0%
+vs previous close: 🟢 ▲ +0.0 (+0.00%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-07-02 09:10 BST</sub>
+<sub>Last updated: 2026-07-03 09:08 BST</sub>
