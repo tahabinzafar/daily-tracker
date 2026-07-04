@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 03 July 2026
+## 📅 Saturday, 04 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 15°C) — Sunny
-High 27°C / Low 14°C &nbsp;|&nbsp; Humidity 72%
+**16°C** (feels like 16°C) — Overcast
+High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 88%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 27°C / Low 14°C &nbsp;|&nbsp; Humidity 72%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [NHS to reward people who walk 30 minutes a day](https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss)
-- [On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns](https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss)
-- [Pubs allowed to stay open until 5am for England Mexico match](https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss)
+- [Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning](https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss)
+- [England-Mexico kick-off unchanged at 1am after Fifa u-turn](https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss)
+- [Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler](https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Ukraine strike hits Belgorod, causing fire and power outages](https://www.aljazeera.com/video/newsfeed/2026/7/3/ukraine-strike-hits-belgorod-causing-fire-and-power-outages?traffic_source=rss)
-- [Argentina vs Cape Verde: World Cup Round of 32: Messi, prediction, kickoff](https://www.aljazeera.com/sports/2026/7/3/argentina-vs-cape-verde-world-cup-round-of-32-messi-vozinha-prediction-kickoff?traffic_source=rss)
-- [Man holding Tibetan flag dies after setting himself on fire outside UN](https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss)
+- [Trump praises army, rails against communism in US 250th anniversary speech](https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss)
+- [At 250, America is still deciding who belongs](https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss)
+- [France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff](https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)
@@ -39,19 +39,19 @@ High 27°C / Low 14°C &nbsp;|&nbsp; Humidity 72%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's](https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss)
-- [Four-time Tour de France winner Froome retires](https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss)
-- [Hard work and a disco jacket - England turn fielding woes around to reach final](https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss)
+- [Farewell Cape Verde - the underdogs the World Cup will never forget](https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss)
+- [Five and a half hours that left England's World Cup tie in chaos](https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss)
+- [Hamilton takes pole for Silverstone sprint race](https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Sunderland latest: Rennes in talks over Mayenda](https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [Stanway joins Arsenal after Bayern exit](https://www.skysports.com/football/news/12040/13560001/georgia-stanway-arsenal-sign-lionesses-midfielder-after-bayern-munich-departure)
-- ['I knew it was over' - Froome retires almost a year after near-fatal crash](https://www.skysports.com/cycling/news/12040/13560042/chris-froome-four-time-tour-de-france-champion-retires-from-cycling-almost-a-year-on-from-near-fatal-crash)
+- [Swift and Kelce get married in star-studded ceremony at MSG](https://www.skysports.com/nfl/news/12040/13560311/taylor-swift-and-travis-kelce-get-married-at-madison-square-garden-in-ceremony-officiated-by-adam-sandler)
+- [Elmonjed seeks Deauville riches](https://www.skysports.com/racing/news/12040/13560076/today-on-sky-sports-racing-deauville-and-saratoga)
+- [Explained: Why weather could STILL affect kick-off for Mexico and England](https://www.skysports.com/watch/video/13560309/explained-how-the-weather-could-still-affect-kick-off-between-mexico-and-england)
 
 ### 🏅 The Guardian Sport
-- [France’s feisty Fils wins over Centre Court but Berrettini has too much savvy](https://www.theguardian.com/sport/2026/jul/02/savvy-matteo-berrettini-has-too-much-for-frances-feisty-arthur-fils)
-- [Nationals’ Cavalli suspended seven games after ‘Sit down, boy’ comment sparks brawl](https://www.theguardian.com/sport/2026/jul/02/cade-cavalli-willson-contreras-suspension-brawl)
-- [Tour de France braced for historic stage cancellations amid 44C European heatwave](https://www.theguardian.com/sport/2026/jul/02/tour-de-france-historic-stage-cancellations-44c-european-heatwave-cycling)
+- [Sinner makes net gains to storm past Brooksby and book place in Wimbledon last 16](https://www.theguardian.com/sport/2026/jul/03/sinner-makes-net-gains-to-storm-past-brooksby-and-book-place-in-wimbledon-last-16)
+- [‘None of that is OK’: Caitlin Clark speaks out against online abuse of WNBA players](https://www.theguardian.com/sport/2026/jul/03/caitlin-clark-alyssa-thomas-online-harassment-wnba)
+- [Lewis Hamilton delights home crowd with pole position for British GP sprint race](https://www.theguardian.com/sport/2026/jul/03/lewis-hamilton-british-grand-prix-formula-one-ferrari)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 27°C / Low 14°C &nbsp;|&nbsp; Humidity 72%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$61,701**
-vs yesterday's close: 🟢 ▲ +$214 (+0.35%)
-Trend: 📈 Above 7d MA by 2.5%
+**$62,458**
+vs yesterday's close: 🔴 ▼ $-79 (-0.13%)
+Trend: 📈 Above 7d MA by 2.9%
 
 ### 🇺🇸 S&P 500
 **7,483.2**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-07-03 09:08 BST</sub>
+<sub>Last updated: 2026-07-04 08:45 BST</sub>
