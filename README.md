@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 04 July 2026
+## 📅 Sunday, 05 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 16°C) — Overcast
-High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 88%
+**17°C** (feels like 17°C) — Partly cloudy
+High 30°C / Low 17°C &nbsp;|&nbsp; Humidity 88%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 88%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning](https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss)
-- [England-Mexico kick-off unchanged at 1am after Fifa u-turn](https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss)
-- [Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler](https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss)
+- [US marks 250th birthday with fireworks, flyovers and extreme weather](https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss)
+- [Tuchel praises respectful Mexico fans amid increased security](https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss)
+- [Farage denies rules broken after reports benefits from ally were not declared](https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Trump praises army, rails against communism in US 250th anniversary speech](https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss)
-- [At 250, America is still deciding who belongs](https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss)
-- [France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff](https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff?traffic_source=rss)
+- [Egypt and Morocco fans celebrate World Cup wins by singing for Palestine](https://www.aljazeera.com/video/newsfeed/2026/7/5/egypt-and-morocco-fans-celebrate-world-cup-wins-by-singing-for-palestine?traffic_source=rss)
+- [Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction](https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss)
+- [Native Americans Resisting ICE](https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)
-- [Côte d’Ivoire floods kill 59 as west Africa endures torrential rains](https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains)
-- [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak)
+- [Archaeologists uncover ancient Byzantine city in Egypt’s western desert](https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert)
+- [‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes](https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes)
+- [Overseas education project for women and girls axed by UK after two years](https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Farewell Cape Verde - the underdogs the World Cup will never forget](https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss)
-- [Five and a half hours that left England's World Cup tie in chaos](https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss)
-- [Hamilton takes pole for Silverstone sprint race](https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss)
+- [Why England won't fear Mexico or the Azteca - Shearer](https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss)
+- [France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts](https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss)
+- [Boks unleash big-game brutality on Borthwick's faltering England](https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Swift and Kelce get married in star-studded ceremony at MSG](https://www.skysports.com/nfl/news/12040/13560311/taylor-swift-and-travis-kelce-get-married-at-madison-square-garden-in-ceremony-officiated-by-adam-sandler)
-- [Elmonjed seeks Deauville riches](https://www.skysports.com/racing/news/12040/13560076/today-on-sky-sports-racing-deauville-and-saratoga)
-- [Explained: Why weather could STILL affect kick-off for Mexico and England](https://www.skysports.com/watch/video/13560309/explained-how-the-weather-could-still-affect-kick-off-between-mexico-and-england)
+- [Highlights: Glover & Hodges share lead as John Deere Classic heads into final day](https://www.skysports.com/watch/video/13560548/john-deere-classic-third-round-highlights)
+- [Walsh vows 'career best performance' with Denny knockout](https://www.skysports.com/boxing/news/12040/13560511/callum-walsh-gunning-for-career-best-performance-with-tyler-denny-knockout-on-big-august-8-in-dublin-live-on-sky)
+- [Calandagan looks to defend Grand Prix de Saint-Cloud crown](https://www.skysports.com/racing/news/12040/13560174/today-on-sky-sports-racing-calandagan-looks-to-defend-grand-prix-de-saint-cloud-crown)
 
 ### 🏅 The Guardian Sport
-- [Sinner makes net gains to storm past Brooksby and book place in Wimbledon last 16](https://www.theguardian.com/sport/2026/jul/03/sinner-makes-net-gains-to-storm-past-brooksby-and-book-place-in-wimbledon-last-16)
-- [‘None of that is OK’: Caitlin Clark speaks out against online abuse of WNBA players](https://www.theguardian.com/sport/2026/jul/03/caitlin-clark-alyssa-thomas-online-harassment-wnba)
-- [Lewis Hamilton delights home crowd with pole position for British GP sprint race](https://www.theguardian.com/sport/2026/jul/03/lewis-hamilton-british-grand-prix-formula-one-ferrari)
+- [British wildcard Arthur Fery fights back to beat Zizou Bergs in Wimbledon epic](https://www.theguardian.com/sport/2026/jul/04/british-wildcard-arthur-fery-fights-back-to-beat-zizou-bergs-in-wimbledon-epic)
+- [Tour de France 2026: Jonas Vingegaard in yellow after Barcelona team time trial](https://www.theguardian.com/sport/2026/jul/04/tour-de-france-2026-jonas-vingegaard-barcelona-team-time-trial-cycling)
+- [Kimi Antonelli takes pole for British F1 Grand Prix with Hamilton third on grid](https://www.theguardian.com/sport/2026/jul/04/british-grand-prix-f1-qualifying-report)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 88%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,458**
-vs yesterday's close: 🔴 ▼ $-79 (-0.13%)
-Trend: 📈 Above 7d MA by 2.9%
+**$62,948**
+vs yesterday's close: 🔴 ▼ $-146 (-0.23%)
+Trend: 📈 Above 7d MA by 2.8%
 
 ### 🇺🇸 S&P 500
 **7,483.2**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-07-04 08:45 BST</sub>
+<sub>Last updated: 2026-07-05 08:55 BST</sub>
