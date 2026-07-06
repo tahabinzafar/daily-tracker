@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Sunday, 05 July 2026
+## 📅 Monday, 06 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**17°C** (feels like 17°C) — Partly cloudy
-High 30°C / Low 17°C &nbsp;|&nbsp; Humidity 88%
+**20°C** (feels like 20°C) — Sunny
+High 32°C / Low 18°C &nbsp;|&nbsp; Humidity 64%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [US marks 250th birthday with fireworks, flyovers and extreme weather](https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss)
-- [Tuchel praises respectful Mexico fans amid increased security](https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss)
-- [Farage denies rules broken after reports benefits from ally were not declared](https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss)
+- [Watch key moments from England's 3-2 win at the Azteca](https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&at_campaign=rss)
+- [Pizza Express held inquiry into Andrew's Woking claim](https://www.bbc.co.uk/news/articles/c1my27lyjx9o?at_medium=RSS&at_campaign=rss)
+- [Buckingham Palace says Prince Harry will not stay at palace](https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Egypt and Morocco fans celebrate World Cup wins by singing for Palestine](https://www.aljazeera.com/video/newsfeed/2026/7/5/egypt-and-morocco-fans-celebrate-world-cup-wins-by-singing-for-palestine?traffic_source=rss)
-- [Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction](https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss)
-- [Native Americans Resisting ICE](https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss)
+- [At least 19 people killed in Sri Lanka prison clashes](https://www.aljazeera.com/news/2026/7/6/at-least-19-people-killed-in-sri-lanka-prison-clashes?traffic_source=rss)
+- [Impeachment trial of Philippines VP Sara Duterte begins](https://www.aljazeera.com/video/newsfeed/2026/7/6/impeachment-trial-of-philippines-vp-sara-duterte-begins?traffic_source=rss)
+- [Moment Israeli soldier hurls stun grenade into Palestinians’ car](https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Archaeologists uncover ancient Byzantine city in Egypt’s western desert](https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert)
@@ -39,19 +39,19 @@ High 30°C / Low 17°C &nbsp;|&nbsp; Humidity 88%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Why England won't fear Mexico or the Azteca - Shearer](https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss)
-- [France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts](https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss)
-- [Boks unleash big-game brutality on Borthwick's faltering England](https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss)
+- [An incredible night when England heroes were made](https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss)
+- [England win epic tie against Mexico to reach quarter-finals](https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&at_campaign=rss)
+- [Tuchel criticises Fifa over Balogun - where does this end?](https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Highlights: Glover & Hodges share lead as John Deere Classic heads into final day](https://www.skysports.com/watch/video/13560548/john-deere-classic-third-round-highlights)
-- [Walsh vows 'career best performance' with Denny knockout](https://www.skysports.com/boxing/news/12040/13560511/callum-walsh-gunning-for-career-best-performance-with-tyler-denny-knockout-on-big-august-8-in-dublin-live-on-sky)
-- [Calandagan looks to defend Grand Prix de Saint-Cloud crown](https://www.skysports.com/racing/news/12040/13560174/today-on-sky-sports-racing-calandagan-looks-to-defend-grand-prix-de-saint-cloud-crown)
+- [Ref Watch: World Cup special LIVE!](https://www.skysports.com/football/live-blog/12040/13560892/ref-watch-live-world-cup-2026-incidents-analysed-by-former-premier-league-referee-dermot-gallagher)
+- [Why England should take the positives as road to Ashes begins](https://www.skysports.com/cricket/news/12040/13560872/england-should-take-positives-from-t20-world-cup-final-defeat-to-australia-but-have-big-decisions-to-make-before-ashes)
+- [Gotterup wins by ONE shot after Kohles mishap at John Deere Classic](https://www.skysports.com/watch/video/13560891/john-deere-classic-day-one-highlights)
 
 ### 🏅 The Guardian Sport
-- [British wildcard Arthur Fery fights back to beat Zizou Bergs in Wimbledon epic](https://www.theguardian.com/sport/2026/jul/04/british-wildcard-arthur-fery-fights-back-to-beat-zizou-bergs-in-wimbledon-epic)
-- [Tour de France 2026: Jonas Vingegaard in yellow after Barcelona team time trial](https://www.theguardian.com/sport/2026/jul/04/tour-de-france-2026-jonas-vingegaard-barcelona-team-time-trial-cycling)
-- [Kimi Antonelli takes pole for British F1 Grand Prix with Hamilton third on grid](https://www.theguardian.com/sport/2026/jul/04/british-grand-prix-f1-qualifying-report)
+- [Osaka’s inspired win leaves Sabalenka wanting ‘to get drunk and forget’ Wimbledon](https://www.theguardian.com/sport/2026/jul/05/osaka-inspired-win-over-sabalenka-wimbledon-2026-tennis)
+- [‘Pretty bad from the get-go’: Lewis Hamilton rues Ferrari’s decision at British Grand Prix](https://www.theguardian.com/sport/2026/jul/05/lewis-hamilton-ferrari-british-grand-prix-christian-horner-f1-formula-one)
+- [Tour de France 2026: third stage to go ahead without spectators; Del Toro wins stage two](https://www.theguardian.com/sport/2026/jul/05/tour-de-france-2026-isaac-del-toro-tadej-pogacar-cycling-remco-evenepoel-jonas-vingegaard)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 30°C / Low 17°C &nbsp;|&nbsp; Humidity 88%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,948**
-vs yesterday's close: 🔴 ▼ $-146 (-0.23%)
-Trend: 📈 Above 7d MA by 2.8%
+**$62,830**
+vs yesterday's close: 🔴 ▼ $-716 (-1.13%)
+Trend: 📈 Above 7d MA by 1.8%
 
 ### 🇺🇸 S&P 500
 **7,483.2**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-07-05 08:55 BST</sub>
+<sub>Last updated: 2026-07-06 09:59 BST</sub>
