@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Wednesday, 08 July 2026
+## 📅 Thursday, 09 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 20°C) — Sunny
-High 34°C / Low 20°C &nbsp;|&nbsp; Humidity 68%
+**24°C** (feels like 26°C) — Sunny
+High 35°C / Low 21°C &nbsp;|&nbsp; Humidity 57%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,14 +20,14 @@ High 34°C / Low 20°C &nbsp;|&nbsp; Humidity 68%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Farage's rivals rule out standing in Clacton by-election](https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: Farage attempts to seize back the agenda](https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss)
-- [Amber heat-health alerts in effect as UK set for one of longest-lasting heatwaves since 1976](https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss)
+- [Disability benefit not fit for purpose, minister leading review says](https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss)
+- [Met investigates donation to Jenrick's Tory leadership campaign](https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&at_campaign=rss)
+- [Starmer hints at bank holiday if England win World Cup](https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [NATO summit live: Trump, world leaders meet in Turkiye’s Ankara](https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss)
-- [Iran’s economy faces long road to recovery as fragile truce tested](https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss)
-- [Egypt fans react to emotional World Cup exit after unforgettable campaign](https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_egypt-fans-react-080726?traffic_source=rss)
+- [Flooding from Tropical Storm Maysak kills 39 in southern China](https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china?traffic_source=rss)
+- [Photos: Israeli attacks kill nine people, including two children, in Gaza](https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss)
+- [Lord’s Cricket Ground set for first-ever women’s Test as England host India](https://www.aljazeera.com/sports/2026/7/9/lords-cricket-ground-set-for-first-ever-womens-test-as-england-host-india?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Catnip lotion as effective as Deet at repelling mosquitoes, study finds](https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds)
@@ -39,37 +39,39 @@ High 34°C / Low 20°C &nbsp;|&nbsp; Humidity 68%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Egypt fume at 'injustice' and make Messi favouritism claims after exit](https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss)
-- ['It is not normal' - but extraordinary Djokovic defies odds once again](https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss)
-- [Tears of relief? Messi adds another incredible chapter to World Cup career](https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss)
+- [How Kane and Haaland compare - who would you pick?](https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss)
+- [France fail with Olise appeal & Saibari ruled out](https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss)
+- [High tennis IQ & bags of belief - how Fery reached shock Wimbledon semi](https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Waterford Castle chases first success at Yarmouth](https://www.skysports.com/racing/news/12040/13561076/today-on-sky-sports-racing-chepstow-and-yarmouth)
-- [Russell: I need to be better to fight for championship](https://www.skysports.com/f1/news/12040/13561229/george-russell-mercedes-driver-says-kimi-antonelli-deserves-to-be-ahead-in-f1-title-fight-and-i-need-to-be-better)
-- [Highlights: England THUMP India in 3rd T20I thrashing](https://www.skysports.com/watch/video/13561435/england-vs-india-3rd-t20i-highlights)
+- [GB Paralympic great Storey announces retirement](https://www.skysports.com/olympics/news/12040/13561847/dame-sarah-storey-great-britains-most-successful-paralympian-announces-retirement-ahead-of-2028-games-in-los-angeles)
+- [Jansen set for debut as Ireland make nine changes for Japan clash](https://www.skysports.com/rugby-union/news/12040/13561840/japan-vs-ireland-sean-jansen-to-make-international-debut-as-andy-farrell-makes-nine-changes-for-newcastle-contest)
+- [Count Bezukhov looks to strike again on St Leger trials day](https://www.skysports.com/racing/news/12040/13561383/today-on-sky-sports-racing-count-bezukhov-looks-to-strike-again-on-st-leger-trials-day)
 
 ### 🏅 The Guardian Sport
-- [Djokovic sees off Auger-Aliassime in Wimbledon epic to set up Sinner semi-final](https://www.theguardian.com/sport/2026/jul/07/novak-djokovic-wins-felix-auger-aliassime-wimbledon-epic-tennis)
-- [Former Cowboys defensive end Marshawn Kneeland had early stage CTE when he died at 24](https://www.theguardian.com/sport/2026/jul/07/marshawn-kneeland-death-cte)
-- [‘Grateful’ Træen takes yellow jersey after Pedersen wins stage four amid 40C heat](https://www.theguardian.com/sport/2026/jul/07/cancer-survivor-torstein-treen-yellow-jersey-pedersen-wins-stage-four-tour-de-france-cycling)
+- [Arthur Fery sails past Flavio Cobolli and storms into fairytale Wimbledon semi](https://www.theguardian.com/sport/2026/jul/08/arthur-fery-crushes-flavio-cobolli-to-storm-into-fairytale-wimbledon-semi-final)
+- [Arsenal on alert after Bruno Guimarães tells Newcastle he wants to leave](https://www.theguardian.com/football/2026/jul/08/arsenal-on-alert-after-bruno-guimaraes-tells-newcastle-he-wants-to-leave)
+- [NBA free agency winners and losers: Sixers cash in while Celtics pay price](https://www.theguardian.com/sport/2026/jul/08/nba-free-agency-2026-winners-losers-sixers-celtics-lakers-lebron)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [What we're hearing after the first week of NBA fre...](https://www.espn.com/nba/story/_/id/49287883/2026-free-agency-intel-lebron-giannis-lakers-rockets-knicks-free-agents-superlatives)
+- [NBA offseason buzz: Latest signings, trades, exten...](https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason)
+- [Cuban accuses Mavs owner of freezing him out](https://www.espn.com/nba/story/_/id/49309627/cuban-accuses-mavs-owner-freezing-proposed-move)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,757**
-vs yesterday's close: 🔴 ▼ $-594 (-0.94%)
-Trend: ➡️ Flat around 7d MA (-0.4%)
+**$62,973**
+vs yesterday's close: 🟢 ▲ +$724 (+1.16%)
+Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ### 🇺🇸 S&P 500
-**7,503.9**
-vs previous close: 🔴 ▼ -33.6 (-0.45%)
-Trend: ➡️ Flat around 7d MA (+0.4%)
+**7,482.7**
+vs previous close: 🔴 ▼ -21.1 (-0.28%)
+Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-07-08 08:28 BST</sub>
+<sub>Last updated: 2026-07-09 09:26 BST</sub>
