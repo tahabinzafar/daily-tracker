@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 10 July 2026
+## 📅 Saturday, 11 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**25°C** (feels like 27°C) — Sunny
-High 31°C / Low 22°C &nbsp;|&nbsp; Humidity 61%
+**19°C** (feels like 19°C) — Sunny
+High 31°C / Low 18°C &nbsp;|&nbsp; Humidity 78%
 
-> ☀️ Warm day in London — rare, enjoy it.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Bayeux Tapestry arrives overnight at British Museum under police guard](https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss)
-- [Former Tory minister Ann Widdecombe dies at 78](https://www.bbc.co.uk/news/articles/ced47jqyg1eo?at_medium=RSS&at_campaign=rss)
-- [Police investigating Reform donations - reports](https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss)
+- [Pugnacious, charismatic and she always answered the question - Chris Mason on Ann Widdecombe](https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss)
+- [US wants Iran to pledge to stop shooting at ships in Strait of Hormuz](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss)
+- [Spain battles to contain one of its deadliest wildfires as at least 12 killed](https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Wildfires in southern Spain kill at least 12](https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss)
-- [The US is building a new pressure architecture against Iran](https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss)
-- [‘Unstoppable force’: Mbappe’s France crush Morocco’s World Cup dreams](https://www.aljazeera.com/sports/2026/7/10/unstoppable-force-mbappes-france-crush-moroccos-world-cup-dreams?traffic_source=rss)
+- [Argentina vs Switzerland: World Cup quarterfinal – Messi, prediction, news](https://www.aljazeera.com/sports/2026/7/11/argentina-switzerland-fifa-world-cup-quarterfinal-messi-prediction-news?traffic_source=rss)
+- [Venezuelan doctors convert restaurant into a clinic after earthquake](https://www.aljazeera.com/video/newsfeed/2026/7/11/venezuelan-doctors-convert-restaurant-into-a-clinic-after-earthquake?traffic_source=rss)
+- [Meta backtracks on AI-image feature for Instagram due to privacy backlash](https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Developing countries spend more repaying foreign debt than on education, UN reveals](https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco)
@@ -39,39 +39,37 @@ High 31°C / Low 22°C &nbsp;|&nbsp; Humidity 61%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [France cruise into semi-finals - could this be the best Les Bleus ever?](https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss)
-- [Guehi a doubt for Norway game and Rice ill with bug](https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss)
-- [To Wimbledon and back - Fery's voyage to Centre Court spotlight](https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&at_campaign=rss)
+- [Merino the unlikely hero again - as Spain wait for Lamine Yamal show](https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss)
+- [Lammens' error spells end for Belgium's golden generation](https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss)
+- [Is it time to give record-breaker Pickford the credit he deserves?](https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Guehi a serious doubt for quarter-final clash with Norway](https://www.skysports.com/football/news/12040/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway)
-- [York Knights secure third consecutive Super League victory for first time in history](https://www.skysports.com/watch/video/13562160/york-knights-20-16-hull-fc-super-league-highlights)
-- [World Cup bracket: Who will join France in semi-finals?](https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final)
+- [More Thunder, Zeus Olympios and Docklands clash at Ascot](https://www.skysports.com/racing/news/12040/13562063/today-on-sky-sports-racing-flat-action-from-ascot-and-chester-features-live-on-saturday)
+- [Vitality Blast: Notts earn home quarter-final; Surrey go top in South](https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions)
+- [Belgian GP: UK schedule and how to watch on Sky Sports](https://www.skysports.com/f1/news/12040/13561703/belgian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-spa-francorchamps-live-on-sky-sports)
 
 ### 🏅 The Guardian Sport
-- [Tall order: the tactics Arthur Fery must employ to shock 6ft 6in Zverev](https://www.theguardian.com/sport/2026/jul/10/tennis-tactics-arthur-fery-alexander-zverev-wimbledon-semi-final)
-- [Tadej Pogacar demolishes Tour de France rivals on the Tourmalet to take ominous lead](https://www.theguardian.com/sport/2026/jul/09/pogacar-vingegaard-col-du-tourmalet-lead-tour-de-france-stage-six)
-- [Republicans ask WNBA to protect Caitlin Clark from possible ‘racially motivated’ attacks](https://www.theguardian.com/sport/2026/jul/09/republicans-ask-wnba-to-protect-caitlin-clark-from-possible-racially-motivated-attacks)
+- [Sinner dismantles Djokovic’s dreams of 25th slam in one-sided Wimbledon semi-final](https://www.theguardian.com/sport/2026/jul/10/jannik-sinner-novak-djokovic-wimbledon-semi-final-tennis)
+- [Conor McGregor is back, but the sensation who changed the UFC is long gone](https://www.theguardian.com/sport/2026/jul/10/conor-mcgregor-return-ufc-max-holloway-legacy-ireland-comeback)
+- [Tadej Pogacar’s Tour de France mastery leaves rivals in his wake and asking: ‘What now?’](https://www.theguardian.com/sport/2026/jul/10/tim-merlier-tour-de-france-stage-seven-tadej-pogacar)
 
 ### 🏈 ESPN
-- [Copy of Dybantsa vs. Peterson, Round 1: Biggest takeaways ...](https://www.espn.com/nba/story/_/id/49317237/nba-summer-league-takeaways-aj-dybantsa-debut-darryn-peterson-washington-wizards-utah-jazz)
-- [Mbappé allays WC injury concern: 'I'm all good'](https://www.espn.com/soccer/story/_/id/49319548/france-kylian-mbappe-allays-world-cup-injury-concern-all-good-morocco)
-- [Dybantsa outduels Peterson in Las Vegas debut](https://www.espn.com/nba/story/_/id/49321789/wizards-dybantsa-outduels-jazz-peterson-summer-league-debut)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,232**
-vs yesterday's close: 🟢 ▲ +$1,011 (+1.60%)
-Trend: 📈 Above 7d MA by 1.3%
+**$64,134**
+vs yesterday's close: 🟢 ▲ +$52 (+0.08%)
+Trend: ➡️ Flat around 7d MA (+1.0%)
 
 ### 🇺🇸 S&P 500
-**7,543.6**
-vs previous close: 🟢 ▲ +60.9 (+0.81%)
-Trend: ➡️ Flat around 7d MA (+0.5%)
+**7,575.4**
+vs previous close: 🟢 ▲ +31.8 (+0.42%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-07-10 09:21 BST</sub>
+<sub>Last updated: 2026-07-11 08:10 BST</sub>
