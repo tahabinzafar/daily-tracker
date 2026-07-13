@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 12 July 2026
+## 📅 Monday, 13 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 18°C) — Overcast
-High 29°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
+**18°C** (feels like 18°C) — Partly cloudy
+High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 73%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 29°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch full highlights as England ride luck in fierce Miami heat](https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss)
-- [Man arrested in South Yorkshire on suspicion of Ann Widdecombe murder](https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss)
-- [US launches fresh strikes as Iran closes Strait of Hormuz](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss)
+- [More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales](https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss)
+- [Home secretary to set out plan to deport Rochdale grooming gang leader](https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss)
+- [At least 27 killed, 22 critically injured after fire engulfs Bangkok bar](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [US Senator Lindsey Graham passes away](https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss)
-- [Ghana slavery apology: Why many descendants say words are not enough](https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss)
-- [Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar](https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss)
+- [More than 2,700 deaths in UK linked to May, June heatwaves](https://www.aljazeera.com/news/2026/7/13/more-than-2700-deaths-in-uk-linked-to-may-june-heatwaves?traffic_source=rss)
+- [Kimmit: Renewed US-Iran fighting could reignite wider regional conflict](https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss)
+- [In Iran, Pezeshkian will be the scapegoat for the failed MoU](https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [First patients enrolled in record-breaking Ebola treatment trial in DRC](https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc)
 - [Nigeria says army has killed 300 bandits in north-western state of Zamfara](https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara)
 - [Developing countries spend more repaying foreign debt than on education, UN reveals](https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco)
-- [Furore in Nigeria over fake federal agency set up in government HQ](https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Tuchel angry at 'lucky' England - but Bellingham defends players](https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss)
-- [Bellingham reaching heights of World Cup legends with Messi next](https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss)
-- [McGregor injured 69 seconds into UFC comeback](https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c9w2zgpnrqeo?at_medium=RSS&at_campaign=rss)
+- [These are unprecedented times for England - enjoy them](https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss)
+- [From shock loss to Wimbledon title - resilient Sinner rises back to top](https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&at_campaign=rss)
+- [Infantino opens door to 64-team World Cup](https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [England player ratings: This is Bellingham's summer as Kane has an off day](https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win)
-- [Alvarez scores extra-time stunner as Argentina set up blockbuster semi vs England](https://www.skysports.com/football/argentina-vs-switzerland/report/549865)
-- ['An absolute superstar' - Bellingham England's hero again](https://www.skysports.com/football/news/12040/13562664/world-cup-2026-jude-bellingham-englands-hero-again-as-three-lions-beat-norway-to-reach-semi-finals)
+- [Kalokalo and Cristo clash at Windsor](https://www.skysports.com/racing/news/12040/13562749/today-on-sky-sports-racing-lingfield-newton-abbot-and-windsor)
+- [Jussaume hat-trick leads Toulouse to HUGE victory over St Helens](https://www.skysports.com/watch/video/13562850/st-helens-0-46-toulouse-super-league-highlights)
+- [The key talking points for F1's crucial Belgium-Hungary double header](https://www.skysports.com/f1/news/12040/13562900/f1-title-battle-max-verstappens-future-and-aston-martin-upgrades-among-key-talking-points-ahead-of-belgium-hungary-double-header)
 
 ### 🏅 The Guardian Sport
-- [Conor McGregor’s long-awaited UFC return ends after 69 seconds with knee injury](https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway)
-- [Linda Noskova fends off Muchova fightback to win first grand slam title at Wimbledon](https://www.theguardian.com/sport/2026/jul/11/linda-noskova-karolina-muchova-wimbledon-tennis-womens-final)
-- [Bam Adebayo and Tyler Herro reportedly involved in physical altercation at NBA Summer League](https://www.theguardian.com/sport/2026/jul/11/bam-adebayo-tyler-herro-altercation-summer-league-las-vegas)
+- [Jannik Sinner powers past Alexander Zverev in four sets to retain Wimbledon title](https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-alexander-zverev-wimbledon-2026-mens-singles-final-match-report)
+- [Conor McGregor’s UFC return ends after 69 seconds with knee injury: ‘I am beyond dark here’](https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway)
+- [Tadej Pogacar urges radical overhaul of Tour de France amid stifling heatwave](https://www.theguardian.com/sport/2026/jul/12/tadej-pogacar-tour-de-france-2026-heatwave-calendar-ninth-stage-mathieu-van-der-poel-cycling)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 29°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,825**
-vs yesterday's close: 🔴 ▼ $-68 (-0.11%)
-Trend: ➡️ Flat around 7d MA (+0.5%)
+**$62,980**
+vs yesterday's close: 🔴 ▼ $-766 (-1.20%)
+Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ### 🇺🇸 S&P 500
 **7,575.4**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-07-12 08:27 BST</sub>
+<sub>Last updated: 2026-07-13 09:15 BST</sub>
