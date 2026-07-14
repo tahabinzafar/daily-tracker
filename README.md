@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 13 July 2026
+## 📅 Tuesday, 14 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 18°C) — Partly cloudy
-High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 73%
+**18°C** (feels like 18°C) — Overcast
+High 30°C / Low 16°C &nbsp;|&nbsp; Humidity 77%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 73%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales](https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss)
-- [Home secretary to set out plan to deport Rochdale grooming gang leader](https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss)
-- [At least 27 killed, 22 critically injured after fire engulfs Bangkok bar](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss)
+- [Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation](https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Investigation into Widdecombe's death rekindles debate over how to protect politicians](https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&at_campaign=rss)
+- [No significant rain forecast for at least a week as UK heatwave continues](https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [More than 2,700 deaths in UK linked to May, June heatwaves](https://www.aljazeera.com/news/2026/7/13/more-than-2700-deaths-in-uk-linked-to-may-june-heatwaves?traffic_source=rss)
-- [Kimmit: Renewed US-Iran fighting could reignite wider regional conflict](https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss)
-- [In Iran, Pezeshkian will be the scapegoat for the failed MoU](https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss)
+- [With US-Iran trust broken again, can Pakistan bring them back to talks?](https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss)
+- [Why is India blocking film on a man who counted Punjab insurgency killings?](https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss)
+- [Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira](https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security](https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s)
 - [First patients enrolled in record-breaking Ebola treatment trial in DRC](https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc)
 - [Nigeria says army has killed 300 bandits in north-western state of Zamfara](https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara)
-- [Developing countries spend more repaying foreign debt than on education, UN reveals](https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [These are unprecedented times for England - enjoy them](https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss)
-- [From shock loss to Wimbledon title - resilient Sinner rises back to top](https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&at_campaign=rss)
-- [Infantino opens door to 64-team World Cup](https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss)
+- [Who will win the World Cup? The view from the semi-finalists](https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss)
+- [England to make late call on Rice for World Cup semi-final](https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss)
+- ['Easy to create divisions' - Kane says England are 'completely together'](https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Kalokalo and Cristo clash at Windsor](https://www.skysports.com/racing/news/12040/13562749/today-on-sky-sports-racing-lingfield-newton-abbot-and-windsor)
-- [Jussaume hat-trick leads Toulouse to HUGE victory over St Helens](https://www.skysports.com/watch/video/13562850/st-helens-0-46-toulouse-super-league-highlights)
-- [The key talking points for F1's crucial Belgium-Hungary double header](https://www.skysports.com/f1/news/12040/13562900/f1-title-battle-max-verstappens-future-and-aston-martin-upgrades-among-key-talking-points-ahead-of-belgium-hungary-double-header)
+- ['A little lost' - Why has Mainoo become England's forgotten man?](https://www.skysports.com/football/news/12040/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer)
+- [Rice fit and available to start for England vs Argentina](https://www.skysports.com/football/news/12040/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease)
+- [Dubois blasts 'joker' Turhan and plans Han fight before end of 2026](https://www.skysports.com/boxing/news/12040/13563147/caroline-dubois-seeking-next-piece-of-the-undisputed-puzzle-but-blasts-ibf-champion-elif-nur-turhan-as-she-turns-to-stephanie-han)
 
 ### 🏅 The Guardian Sport
-- [Jannik Sinner powers past Alexander Zverev in four sets to retain Wimbledon title](https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-alexander-zverev-wimbledon-2026-mens-singles-final-match-report)
-- [Conor McGregor’s UFC return ends after 69 seconds with knee injury: ‘I am beyond dark here’](https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway)
-- [Tadej Pogacar urges radical overhaul of Tour de France amid stifling heatwave](https://www.theguardian.com/sport/2026/jul/12/tadej-pogacar-tour-de-france-2026-heatwave-calendar-ninth-stage-mathieu-van-der-poel-cycling)
+- [How Tadej Pogacar became the new ‘patron’ of the Tour de France peloton | Jeremy Whittle](https://www.theguardian.com/sport/2026/jul/13/how-tadej-pogacar-became-the-new-patron-of-the-tour-de-france-peloton)
+- [Conor McGregor plans to fight again in UFC despite return lasting just 69 seconds](https://www.theguardian.com/sport/2026/jul/13/conor-mcgregor-plans-to-fight-again-in-ufc-despite-return-lasting-just-69-seconds)
+- [Former Kansas basketball star Lagerald Vick charged with attempted murder](https://www.theguardian.com/sport/2026/jul/13/lagerald-vick-kansas-basketball-arrest-murder-charge)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 29°C / Low 15°C &nbsp;|&nbsp; Humidity 73%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,980**
-vs yesterday's close: 🔴 ▼ $-766 (-1.20%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**$62,537**
+vs yesterday's close: 🟢 ▲ +$295 (+0.47%)
+Trend: ➡️ Flat around 7d MA (-1.0%)
 
 ### 🇺🇸 S&P 500
-**7,575.4**
-vs previous close: 🟢 ▲ +31.8 (+0.42%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**7,515.3**
+vs previous close: 🔴 ▼ -60.1 (-0.79%)
+Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-07-13 09:15 BST</sub>
+<sub>Last updated: 2026-07-14 08:09 BST</sub>
