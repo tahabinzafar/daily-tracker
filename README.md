@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 18 July 2026
+## 📅 Sunday, 19 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 16°C) — Sunny
-High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
+**13°C** (feels like 12°C) — Partly cloudy
+High 24°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Burnham to announce plans for new North Sea oil and gas drilling](https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss)
-- [Labour pins hopes on Burnham reboot as he plans policy blitz](https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&at_campaign=rss)
-- [US strikes hit Iran for seventh consecutive night](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss)
+- [Watch: Highlights as England beat France 6-4 in third-place play-off](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss)
+- [Burnham to scrap digital ID to focus on cost of living in first major policy pledge](https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss)
+- [The hidden cost of the night shift and how to sleep it off](https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Kolkata sings for Messi as World Cup fever takes hold](https://www.aljazeera.com/features/longform/2026/7/18/kolkata-sings-for-messi-as-world-cup-fever-takes-hold-2?traffic_source=rss)
-- [France vs England: Deschamps set for final World Cup match as Zidane waits](https://www.aljazeera.com/sports/2026/7/18/world-cup-france-england-third-place-playoff-deschamps-zidane-coach?traffic_source=rss)
-- [Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank](https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss)
+- [US bombs Iran for eighth-straight night](https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss)
+- [Moment Iranian missiles hit airbase in Jordan killing US soldiers](https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss)
+- [At least one killed as Russian ballistic missiles hit Kyiv](https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)
 - [‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art](https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art)
 - [Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group](https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya)
-- [UK aid cuts ‘reduce bilateral support to some African countries by 90%’](https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Defiant Tuchel defends decisions and says loss is 'scar we carry now'](https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss)
-- [Two-shot penalty 'fires up' Open contender DeChambeau](https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss)
-- ['They made him a defensive player' - Trump questions Kane role in semi](https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss)
+- [Best England team for a long time? That's a fact, says Rice](https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss)
+- [England beat France in 10-goal thriller to win third-place play-off](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss)
+- [England's discipline 'verging on comical' - Dawson](https://www.bbc.co.uk/sport/rugby-union/articles/c75g629k44zo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Joshua vs Itauma is 'perfect story' for Nigeria fight, says promoter](https://www.skysports.com/boxing/news/12040/13563737/anthony-joshua-vs-moses-itauma-bigger-than-rumble-in-the-jungle-if-staged-in-nigeria-says-promoter-dr-ezekiel-adamu)
-- [Bint Archange features in the Super Sprint at Newbury](https://www.skysports.com/racing/news/12040/13564102/today-on-sky-sports-racing-doncaster-newbury-and-ripon)
-- [Nations Championship LIVE! All Blacks host depleted Ireland at Eden Park](https://www.skysports.com/rugby-union/live-blog/12040/13564551/nations-championship-live-new-zealand-vs-ireland-south-africa-vs-wales-argentina-vs-england-updates-latest-score-team-news-commentary)
+- [Tokaido takes on two in the Prix Robert Papin](https://www.skysports.com/racing/news/12040/13564502/today-on-sky-sports-racing-newton-abbot-and-chantilly)
+- [England claim third at World Cup with win in 10-goal thriller over France](https://www.skysports.com/football/france-vs-england/report/549868)
+- [Hull FC 22-32 Leigh Leopards | Super League highlights](https://www.skysports.com/watch/video/13564790/hull-fc-22-32-leigh-leopards-super-league-highlights)
 
 ### 🏅 The Guardian Sport
-- [DeChambeau will play on at the Open despite anger over two-stroke penalty](https://www.theguardian.com/sport/2026/jul/17/bryson-dechambeau-the-open-participation-in-doubt-two-stroke-penalty-golf)
-- [Caitlin Clark pours in career-high 45 points as Fever edge Storm in thriller](https://www.theguardian.com/sport/2026/jul/17/caitlin-clark-45-points-10-assists-fever-storm-wnba-record)
-- [Tom Pidcock surges up standings while Mauro Schmid wins Tour de France stage 13](https://www.theguardian.com/sport/2026/jul/17/tom-pidcock-surges-up-standings-while-mauro-schmid-wins-tour-de-france-stage-13)
+- [Nappy factor? New dad Sam Burns steals march on chasing pack to lead Open](https://www.theguardian.com/sport/2026/jul/18/new-dad-sam-burns-steals-march-on-chasing-pack-to-lead-open-after-third-day)
+- [Tempo coach Sandy Brondello suspended over ‘protected species’ comment about Angel Reese](https://www.theguardian.com/sport/2026/jul/18/sandy-brondello-suspended-angel-reese-protected-species-wnba-toronto-tempo)
+- [New York Mets reject concerns over in-game AI use after Ottavino claims](https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,938**
-vs yesterday's close: 🟢 ▲ +$12 (+0.02%)
-Trend: ➡️ Flat around 7d MA (+0.1%)
+**$64,671**
+vs yesterday's close: 🔴 ▼ $-122 (-0.19%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ### 🇺🇸 S&P 500
 **7,457.7**
@@ -72,4 +72,4 @@ Trend: 📉 Below 7d MA by 1.0%
 
 ---
 
-<sub>Last updated: 2026-07-18 07:59 BST</sub>
+<sub>Last updated: 2026-07-19 08:26 BST</sub>
