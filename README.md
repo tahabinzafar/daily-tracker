@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 19 July 2026
+## 📅 Monday, 20 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 12°C) — Partly cloudy
-High 24°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
+**13°C** (feels like 13°C) — Partly cloudy 
+High 25°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 24°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: Highlights as England beat France 6-4 in third-place play-off](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss)
-- [Burnham to scrap digital ID to focus on cost of living in first major policy pledge](https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss)
-- [The hidden cost of the night shift and how to sleep it off](https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend](https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss)
+- [Victory for football? Spain beat Argentina to win World Cup](https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss)
+- [Moment fans in Madrid celebrate World Cup win](https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [US bombs Iran for eighth-straight night](https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss)
-- [Moment Iranian missiles hit airbase in Jordan killing US soldiers](https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss)
-- [At least one killed as Russian ballistic missiles hit Kyiv](https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss)
+- [Singapore minister resigns over ‘interactions with a woman’, PM says](https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss)
+- [Infantino tries to usher Trump away as Spain lift World Cup](https://www.aljazeera.com/video/newsfeed/2026/7/20/infantino-tries-to-usher-trump-away-as-spain-lift-world-cup?traffic_source=rss)
+- [Last night, I was Spanish, and so were millions around the world](https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)
@@ -39,19 +39,19 @@ High 24°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Best England team for a long time? That's a fact, says Rice](https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss)
-- [England beat France in 10-goal thriller to win third-place play-off](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss)
-- [England's discipline 'verging on comical' - Dawson](https://www.bbc.co.uk/sport/rugby-union/articles/c75g629k44zo?at_medium=RSS&at_campaign=rss)
+- [Victory for football? Spain beat Argentina to win World Cup](https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss)
+- [Lamine Yamal 'completes football' at 19 as Argentina betray Messi](https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss)
+- [Dominant Spain beat Argentina to win World Cup after extra time](https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Tokaido takes on two in the Prix Robert Papin](https://www.skysports.com/racing/news/12040/13564502/today-on-sky-sports-racing-newton-abbot-and-chantilly)
-- [England claim third at World Cup with win in 10-goal thriller over France](https://www.skysports.com/football/france-vs-england/report/549868)
-- [Hull FC 22-32 Leigh Leopards | Super League highlights](https://www.skysports.com/watch/video/13564790/hull-fc-22-32-leigh-leopards-super-league-highlights)
+- [England's World Cup assessed - by Sky Sports readers](https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028)
+- [Bay Bridge's full brother set for first start at Windsor](https://www.skysports.com/racing/news/12040/13564745/today-on-sky-sports-racing-bay-bridges-full-brother-castlemont-set-for-first-start-at-windsor)
+- ['We were the better team' - Spain beat Argentina to win World Cup](https://www.skysports.com/football/spain-vs-argentina/report/549869)
 
 ### 🏅 The Guardian Sport
-- [Nappy factor? New dad Sam Burns steals march on chasing pack to lead Open](https://www.theguardian.com/sport/2026/jul/18/new-dad-sam-burns-steals-march-on-chasing-pack-to-lead-open-after-third-day)
-- [Tempo coach Sandy Brondello suspended over ‘protected species’ comment about Angel Reese](https://www.theguardian.com/sport/2026/jul/18/sandy-brondello-suspended-angel-reese-protected-species-wnba-toronto-tempo)
-- [New York Mets reject concerns over in-game AI use after Ottavino claims](https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report)
+- [Ryan Fox crowned Open champion as heavyweights wilt under pressure](https://www.theguardian.com/sport/2026/jul/19/open-championship-final-round-ryan-fox-tommy-fleetwood-scottie-scheffler-rory-mcilroy-golf)
+- [Vingegaard crashes out of Tour de France after ‘inhuman’ 2am doping control](https://www.theguardian.com/sport/2026/jul/19/jonas-vingegaard-crashes-out-tour-de-france-remco-evenepoel-wins-stage-15)
+- [Kimi Antonelli tightens F1 title grip with Belgian GP win after Russell crashes out](https://www.theguardian.com/sport/2026/jul/19/kimi-antonelli-f1-title-grip-belgian-grand-prix-george-russell-formula-one)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 24°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,671**
-vs yesterday's close: 🔴 ▼ $-122 (-0.19%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**$64,189**
+vs yesterday's close: 🔴 ▼ $-491 (-0.76%)
+Trend: ➡️ Flat around 7d MA (-0.4%)
 
 ### 🇺🇸 S&P 500
 **7,457.7**
@@ -72,4 +72,4 @@ Trend: 📉 Below 7d MA by 1.0%
 
 ---
 
-<sub>Last updated: 2026-07-19 08:26 BST</sub>
+<sub>Last updated: 2026-07-20 08:57 BST</sub>
