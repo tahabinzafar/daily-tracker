@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 20 July 2026
+## 📅 Tuesday, 21 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 13°C) — Partly cloudy 
-High 25°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
+**15°C** (feels like 15°C) — Sunny
+High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 25°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend](https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss)
-- [Victory for football? Spain beat Argentina to win World Cup](https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss)
-- [Moment fans in Madrid celebrate World Cup win](https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: New chancellor faces tough spending choices](https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss)
+- [Who's in Andy Burnham's cabinet?](https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss)
+- [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Singapore minister resigns over ‘interactions with a woman’, PM says](https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss)
-- [Infantino tries to usher Trump away as Spain lift World Cup](https://www.aljazeera.com/video/newsfeed/2026/7/20/infantino-tries-to-usher-trump-away-as-spain-lift-world-cup?traffic_source=rss)
-- [Last night, I was Spanish, and so were millions around the world](https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss)
+- [World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’](https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss)
+- [‘Active in BDS’: Document reveals how Israel scrutinised global NGOs](https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss)
+- [‘We just want to live’: Palestinians in Gaza react to Hamas election](https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)
@@ -39,19 +39,19 @@ High 25°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Victory for football? Spain beat Argentina to win World Cup](https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss)
-- [Lamine Yamal 'completes football' at 19 as Argentina betray Messi](https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss)
-- [Dominant Spain beat Argentina to win World Cup after extra time](https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss)
+- [Fifa opens investigation into Argentina post-final trouble - what happens next?](https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss)
+- [Guardiola in reported talks with Italy - would England come calling?](https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss)
+- [Earl wants changes to 'brutal' Nations Championship format](https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [England's World Cup assessed - by Sky Sports readers](https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028)
-- [Bay Bridge's full brother set for first start at Windsor](https://www.skysports.com/racing/news/12040/13564745/today-on-sky-sports-racing-bay-bridges-full-brother-castlemont-set-for-first-start-at-windsor)
-- ['We were the better team' - Spain beat Argentina to win World Cup](https://www.skysports.com/football/spain-vs-argentina/report/549869)
+- ['Fery can improve but that's exciting' - Henman optimistic as Brit eyes US Open run](https://www.skysports.com/tennis/news/12040/13564275/arthur-fery-british-no-1-heads-into-american-hard-court-swing-with-areas-he-can-improve-ahead-of-us-open-according-to-tim-henman)
+- [Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract](https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united)
+- [NEW ANGLES! Was Hamilton's penalty fair after Russell collision?](https://www.skysports.com/watch/video/13565218/belgian-gp-all-angles-was-lewis-hamiltons-penalty-fair-after-george-russell-collision)
 
 ### 🏅 The Guardian Sport
-- [Ryan Fox crowned Open champion as heavyweights wilt under pressure](https://www.theguardian.com/sport/2026/jul/19/open-championship-final-round-ryan-fox-tommy-fleetwood-scottie-scheffler-rory-mcilroy-golf)
+- [DeChambeau accused of threatening to call Trump in row over Open penalty](https://www.theguardian.com/sport/2026/jul/20/bryson-dechambeau-donald-trump-open-championshiup-penalty-golf-royal-birkdale)
 - [Vingegaard crashes out of Tour de France after ‘inhuman’ 2am doping control](https://www.theguardian.com/sport/2026/jul/19/jonas-vingegaard-crashes-out-tour-de-france-remco-evenepoel-wins-stage-15)
-- [Kimi Antonelli tightens F1 title grip with Belgian GP win after Russell crashes out](https://www.theguardian.com/sport/2026/jul/19/kimi-antonelli-f1-title-grip-belgian-grand-prix-george-russell-formula-one)
+- [Angel Reese accepts Brondello’s apology after ‘protected species’ comment lands ban](https://www.theguardian.com/sport/2026/jul/20/angel-reese-accepts-brondellos-apology-after-protected-species-comments-lands-ban)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 25°C / Low 13°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,189**
-vs yesterday's close: 🔴 ▼ $-491 (-0.76%)
-Trend: ➡️ Flat around 7d MA (-0.4%)
+**$65,900**
+vs yesterday's close: 🟢 ▲ +$701 (+1.07%)
+Trend: 📈 Above 7d MA by 1.8%
 
 ### 🇺🇸 S&P 500
-**7,457.7**
-vs previous close: 🔴 ▼ -76.1 (-1.01%)
+**7,443.3**
+vs previous close: 🔴 ▼ -14.4 (-0.19%)
 Trend: 📉 Below 7d MA by 1.0%
 
 ---
 
-<sub>Last updated: 2026-07-20 08:57 BST</sub>
+<sub>Last updated: 2026-07-21 08:31 BST</sub>
