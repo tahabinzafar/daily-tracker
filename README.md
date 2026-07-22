@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Tuesday, 21 July 2026
+## 📅 Wednesday, 22 July 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 15°C) — Sunny
-High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
+**16°C** (feels like 16°C) — Cloudy 
+High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 82%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Chris Mason: New chancellor faces tough spending choices](https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss)
-- [Who's in Andy Burnham's cabinet?](https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss)
-- [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Another Starmer critic gets promotion as Sarwar joins Burnham government](https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&at_campaign=rss)
+- [US renews strikes on Iran as Trump threatens to attack underground nuclear site](https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss)
+- [Zelensky sacks Ukraine's top army commander after days of protests](https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’](https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss)
-- [‘Active in BDS’: Document reveals how Israel scrutinised global NGOs](https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss)
-- [‘We just want to live’: Palestinians in Gaza react to Hamas election](https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss)
+- [Can Pakistan-administered Kashmir’s election overcome a violent summer?](https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss)
+- [Goats of football: Indian village holds tournament with an indigenous twist](https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss)
+- [US expands strikes on 11th straight night of attacks](https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Health worker monitored for Ebola in London hospital after working in DRC](https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc)
+- [Healthy diet too expensive for one in three people globally, UN report finds](https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds)
 - [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)
-- [‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art](https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art)
-- [Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group](https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Fifa opens investigation into Argentina post-final trouble - what happens next?](https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss)
-- [Guardiola in reported talks with Italy - would England come calling?](https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss)
-- [Earl wants changes to 'brutal' Nations Championship format](https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss)
+- [Chelsea sign £117m Rogers - what will he bring?](https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss)
+- [Why Chelsea have signed so many Man City academy graduates](https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss)
+- [Littler throws nine-darter in superb Matchplay win](https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- ['Fery can improve but that's exciting' - Henman optimistic as Brit eyes US Open run](https://www.skysports.com/tennis/news/12040/13564275/arthur-fery-british-no-1-heads-into-american-hard-court-swing-with-areas-he-can-improve-ahead-of-us-open-according-to-tim-henman)
-- [Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract](https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united)
-- [NEW ANGLES! Was Hamilton's penalty fair after Russell collision?](https://www.skysports.com/watch/video/13565218/belgian-gp-all-angles-was-lewis-hamiltons-penalty-fair-after-george-russell-collision)
+- [Kelly promises to let loose in 'spiteful' takedown of Agyarko](https://www.skysports.com/boxing/news/12040/13565759/josh-kelly-promises-spiteful-caoimhin-agyarko-clash-ibf-light-middleweight-title-worth-its-weight-in-gold)
+- [Lingfield and Worcester host competitive Wednesday cards](https://www.skysports.com/racing/news/12040/13565287/today-on-sky-sports-racing-lingfield-and-worcester-host-competitive-wednesday-cards)
+- [Red Bull getting calls from 'good drivers' over future seat - Mekies](https://www.skysports.com/f1/news/12040/13565601/f1-driver-market-red-bull-getting-calls-from-good-drivers-says-laurent-mekies-but-optimistic-on-max-verstappen-stay)
 
 ### 🏅 The Guardian Sport
-- [DeChambeau accused of threatening to call Trump in row over Open penalty](https://www.theguardian.com/sport/2026/jul/20/bryson-dechambeau-donald-trump-open-championshiup-penalty-golf-royal-birkdale)
-- [Vingegaard crashes out of Tour de France after ‘inhuman’ 2am doping control](https://www.theguardian.com/sport/2026/jul/19/jonas-vingegaard-crashes-out-tour-de-france-remco-evenepoel-wins-stage-15)
-- [Angel Reese accepts Brondello’s apology after ‘protected species’ comment lands ban](https://www.theguardian.com/sport/2026/jul/20/angel-reese-accepts-brondellos-apology-after-protected-species-comments-lands-ban)
+- [Evenepoel pips Pogacar again as Tour de France night-time doping test row deepens](https://www.theguardian.com/sport/2026/jul/21/remco-evenepoel-tadej-pogacar-tour-de-france-nightime-doping-test-row-cycling)
+- [NBA Summer League takeaways: an outstanding top four, a Warriors gem and a Cavaliers steal](https://www.theguardian.com/sport/2026/jul/21/nba-summer-league-takeaways-an-outstanding-top-four-a-warriors-gem-and-a-cavaliers-steal)
+- [NFL pundit Ryan Clark informed of ESPN firing mid-show amid wider layoffs](https://www.theguardian.com/sport/2026/jul/21/espn-layoffs-ryan-clark-karl-ravech-nfl-network-disney)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 27°C / Low 15°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$65,900**
-vs yesterday's close: 🟢 ▲ +$701 (+1.07%)
-Trend: 📈 Above 7d MA by 1.8%
+**$65,813**
+vs yesterday's close: 🔴 ▼ $-694 (-1.04%)
+Trend: 📈 Above 7d MA by 1.3%
 
 ### 🇺🇸 S&P 500
-**7,443.3**
-vs previous close: 🔴 ▼ -14.4 (-0.19%)
-Trend: 📉 Below 7d MA by 1.0%
+**7,509.2**
+vs previous close: 🟢 ▲ +65.9 (+0.89%)
+Trend: ➡️ Flat around 7d MA (-0.0%)
 
 ---
 
-<sub>Last updated: 2026-07-21 08:31 BST</sub>
+<sub>Last updated: 2026-07-22 08:33 BST</sub>
