@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 01 August 2026
+## 📅 Sunday, 02 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 16°C) — Sunny
-High 27°C / Low 16°C &nbsp;|&nbsp; Humidity 55%
+**18°C** (feels like 16°C) — Sunny
+High 28°C / Low 16°C &nbsp;|&nbsp; Humidity 52%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 27°C / Low 16°C &nbsp;|&nbsp; Humidity 55%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Fifa scraps World Cup investment plan after outcry](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
-- [Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham](https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss)
-- [Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
+- [Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+- [Three killed after bomb detonated at Moscow restaurant, state media say](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
+- [Young guns for hire - the teenage hitmen recruited to kill across Europe](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Protesters detained at rally in support of Pakistan-administered Kashmir](https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss)
-- [US drops charges against Olympian for damage to Reflecting Pool](https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss)
-- [Peru’s ex-president Humala released after conviction overturned](https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss)
+- [At least three dead in Idaho shopping mall mass shooting](https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss)
+- [Gaza students overcome Israel’s genocide to mark Tawjihi results](https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss)
+- [Three dead including female bomber in Moscow restaurant attack](https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn](https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn)
+- [EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis](https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing)
 - [At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco](https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths)
-- [Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement](https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement)
-- [Ebola outbreak in DRC the fastest growing in the history of the virus](https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Fifa scraps controversial World Cup investment plan](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
-- [Infantino on the brink? Who might replace him if he goes?](https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss)
-- [Same start but different outlook at Rangers as McInnes era begins](https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss)
+- [A bruising 24 hours - what next for Fifa and under-pressure Infantino?](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss)
+- [Emotional Kerr delivers moment Glasgow 2026 has waited for](https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss)
+- [Root in 'very different place' over Test captaincy](https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Haaderr and Suspicious Mindz clash at Doncaster](https://www.skysports.com/racing/news/12040/13568835/today-on-sky-sports-racing-doncaster-and-lingfield-park)
-- [Leeds thrash Toulouse as Wigan beat Leigh](https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls)
-- [Hunter-Bell wins 800m gold at Commonwealth Games on mixed day for British boxers](https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals)
+- [Today on Sky Sports Racing: Blue Bolt and Precise clash again in Prix Rothschild](https://www.skysports.com/racing/news/12040/13568987/today-on-sky-sports-racing-chester-yarmouth-and-deauville-feature-live-on-sunday)
+- [York Knights claim first win over St Helens in 80 years](https://www.skysports.com/watch/video/13569096/york-knights-34-32-st-helens-rugby-super-league-highlights)
+- [Wolves move into fourth with dominant display over Tigers](https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights)
 
 ### 🏅 The Guardian Sport
-- [Fifa scraps proposal to sell off stakes in World Cup after widespread backlash](https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash)
-- [Tony Romo placed on leave from CBS Sports after OWI arrest in Wisconsin](https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast)
-- [How does MLS pick up the World Cup mantle? Casemiro helps, but it’ll take much more](https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players)
+- [Gianni Infantino could face leadership challenge as Fifa Council members rebel](https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel)
+- [Sophie Cunningham says protests over transgender sports stance are not distracting Fever](https://www.theguardian.com/sport/2026/aug/01/sophie-cunningham-transgender-sports-protests-fever-wnba-portland)
+- [The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson](https://www.theguardian.com/football/2026/aug/02/premier-league-managers-arteta-alonso-de-zerbi-carrick-klopp-guardiola)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 27°C / Low 16°C &nbsp;|&nbsp; Humidity 55%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,019**
-vs yesterday's close: 🟢 ▲ +$199 (+0.32%)
-Trend: 📉 Below 7d MA by 1.4%
+**$63,428**
+vs yesterday's close: 🟢 ▲ +$655 (+1.04%)
+Trend: ➡️ Flat around 7d MA (-0.3%)
 
 ### 🇺🇸 S&P 500
 **7,489.7**
@@ -72,4 +72,4 @@ Trend: 📈 Above 7d MA by 1.0%
 
 ---
 
-<sub>Last updated: 2026-08-01 08:26 BST</sub>
+<sub>Last updated: 2026-08-02 08:30 BST</sub>
