@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 03 August 2026
+## 📅 Tuesday, 04 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**22°C** (feels like 21°C) — Sunny
-High 33°C / Low 17°C &nbsp;|&nbsp; Humidity 54%
+**21°C** (feels like 20°C) — Sunny
+High 30°C / Low 20°C &nbsp;|&nbsp; Humidity 54%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,38 +20,38 @@ High 33°C / Low 17°C &nbsp;|&nbsp; Humidity 54%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Trump suggests new talks with Iran to begin on Monday](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
-- [Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body](https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss)
-- [Uefa threatens Fifa with legal action over investment plan](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
+- [Breast cancer checks missing most women under 50 who are at risk, says study](https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss)
+- [There's a reason child vaccination rates are falling - and it's not social media](https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss)
+- [EU calls for stronger borders after Ceuta migrant crossings](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Jasprit Bumrah ruled out of Sri Lanka Test series due to injury](https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss)
-- [‘Tell us’: Gaza family trapped between hope and pain over missing brothers](https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss)
-- [Grid failure plunges Cuba into nationwide blackout](https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss)
+- [Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal](https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss)
+- [Why are the Washington wildfires so severe? Spokane fires explained](https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss)
+- [Bodycam video shows firefighters battling blaze in Spokane, US](https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets](https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco)
-- [Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn](https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn)
-- [EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis](https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing)
+- [Stronger EU borders needed after Ceuta crisis, von der Leyen says](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)
+- [How Ceuta migrant crisis exposes divisions within Europe - The Latest](https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest)
+- [Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing](https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Uefa threatens Fifa with legal action over investment plan](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
-- [Liverpool ship four second-half goals to leave Iraola with much to ponder](https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss)
-- [Man Utd boss Skinner leaves role before WSL season](https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss)
+- [Stokes would love to coach England in future](https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss)
+- [Record number of new managers for season like no other](https://www.bbc.co.uk/sport/football/articles/cddjmd6189yo?at_medium=RSS&at_campaign=rss)
+- [Itauma v Hrgovic upgraded to IBF world-title bout](https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Newcastle sign goalkeeper Hornicek](https://www.skysports.com/football/news/12040/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m)
-- ['I have talent, they don't!' - Trump taunts opponents after winning club titles](https://www.skysports.com/golf/news/12040/13569322/donald-trump-us-president-wins-bedminster-senior-club-championship-and-taunts-opponents-in-truth-social-post)
-- [Skinner leaves Man Utd Women](https://www.skysports.com/football/news/12040/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge)
+- ['Hull must step up and lead Team Europe at Solheim Cup'](https://www.skysports.com/golf/news/12040/13569570/solheim-cup-2026-charley-hull-must-step-up-and-lead-team-europe-in-netherlands-says-dame-laura-davies)
+- [UFC fighter Nascimento dies aged 34](https://www.skysports.com/mma/news/12040/13569592/allan-nascimento-ufc-fighter-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep)
+- [Norrie wins in straight sets to move into next round of Canandian Open](https://www.skysports.com/watch/video/13569589/camilo-ugo-carabelli-vs-cam-norrie-canadian-open-highlights)
 
 ### 🏅 The Guardian Sport
-- [Pressure on Gianni Infantino increases as Uefa members prepare to oppose re-election](https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election)
-- [Sophie Cunningham isn’t rejecting politics. She’s cashing in on them](https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment)
-- [Kelsey Plum traded to Mercury for first-round pick and Monique Akoa Makani](https://www.theguardian.com/sport/2026/aug/02/kelsey-plum-trade-sparks-mercury-wnba)
+- [Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens](https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return)
+- [LAFC co-managing owner Larry Berg voted as next MLS commissioner](https://www.theguardian.com/football/2026/aug/03/larry-berg-mls-commissioner-vote)
+- [UFC flyweight Allan Nascimento dies aged 34 after apparent heart attack](https://www.theguardian.com/sport/2026/aug/03/allan-nascimento-dies-aged-34-ufc-flyweight-apparent-heart-attack)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 33°C / Low 17°C &nbsp;|&nbsp; Humidity 54%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$62,360**
-vs yesterday's close: 🔴 ▼ $-443 (-0.70%)
-Trend: 📉 Below 7d MA by 1.8%
+**$63,643**
+vs yesterday's close: 🟢 ▲ +$178 (+0.28%)
+Trend: ➡️ Flat around 7d MA (+0.1%)
 
 ### 🇺🇸 S&P 500
 **7,489.7**
@@ -72,4 +72,4 @@ Trend: 📈 Above 7d MA by 1.0%
 
 ---
 
-<sub>Last updated: 2026-08-03 09:27 BST</sub>
+<sub>Last updated: 2026-08-04 08:38 BST</sub>
