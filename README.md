@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Tuesday, 04 August 2026
+## 📅 Wednesday, 05 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**21°C** (feels like 20°C) — Sunny
-High 30°C / Low 20°C &nbsp;|&nbsp; Humidity 54%
+**18°C** (feels like 16°C) — Patchy rain nearby
+High 26°C / Low 18°C &nbsp;|&nbsp; Humidity 76%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Breast cancer checks missing most women under 50 who are at risk, says study](https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss)
-- [There's a reason child vaccination rates are falling - and it's not social media](https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss)
-- [EU calls for stronger borders after Ceuta migrant crossings](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss)
+- [Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
+- [Burnham 'looking into' conducting Epstein inquiry, says victims minister](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
+- [Russian ballistic missile strike on Kyiv kills at least 17](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal](https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss)
-- [Why are the Washington wildfires so severe? Spokane fires explained](https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss)
-- [Bodycam video shows firefighters battling blaze in Spokane, US](https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss)
+- [Why the Trump administration is helping support Japan’s weakening yen](https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss)
+- [Pakistan and Uganda athletes ‘missing’ after Commonwealth Games](https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss)
+- [Nigeria cannot build safe schools in unsafe communities](https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint](https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint)
+- [Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones](https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones)
 - [Stronger EU borders needed after Ceuta crisis, von der Leyen says](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)
-- [How Ceuta migrant crisis exposes divisions within Europe - The Latest](https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest)
-- [Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing](https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Stokes would love to coach England in future](https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss)
-- [Record number of new managers for season like no other](https://www.bbc.co.uk/sport/football/articles/cddjmd6189yo?at_medium=RSS&at_campaign=rss)
-- [Itauma v Hrgovic upgraded to IBF world-title bout](https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss)
+- [Why Liverpool are ready to make Barcola third £100m signing](https://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo?at_medium=RSS&at_campaign=rss)
+- [What happens next with Rashford and Man Utd?](https://www.bbc.co.uk/sport/football/articles/cx25y63wr51o?at_medium=RSS&at_campaign=rss)
+- [Arsenal set to sign Newcastle captain Guimaraes](https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- ['Hull must step up and lead Team Europe at Solheim Cup'](https://www.skysports.com/golf/news/12040/13569570/solheim-cup-2026-charley-hull-must-step-up-and-lead-team-europe-in-netherlands-says-dame-laura-davies)
-- [UFC fighter Nascimento dies aged 34](https://www.skysports.com/mma/news/12040/13569592/allan-nascimento-ufc-fighter-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep)
-- [Norrie wins in straight sets to move into next round of Canandian Open](https://www.skysports.com/watch/video/13569589/camilo-ugo-carabelli-vs-cam-norrie-canadian-open-highlights)
+- [Alcaraz withdraws from Cincinnati Open](https://www.skysports.com/tennis/news/12040/13569917/carlos-alcaraz-withdraws-from-cincinnati-open-due-to-ongoing-wrist-injury-with-worries-over-us-open-defence)
+- [Silca Bay and Sea Suite face off as Brighton Festival begins](https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins)
+- [Draper in tears amid injury concern during defeat in Montreal](https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal)
 
 ### 🏅 The Guardian Sport
-- [Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens](https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return)
-- [LAFC co-managing owner Larry Berg voted as next MLS commissioner](https://www.theguardian.com/football/2026/aug/03/larry-berg-mls-commissioner-vote)
-- [UFC flyweight Allan Nascimento dies aged 34 after apparent heart attack](https://www.theguardian.com/sport/2026/aug/03/allan-nascimento-dies-aged-34-ufc-flyweight-apparent-heart-attack)
+- [Fifa accused of using ‘blackmail’ to force support for Infantino’s re-election bid](https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa)
+- [Doubts grow over Carlos Alcaraz’s US Open defence after latest withdrawal](https://www.theguardian.com/sport/2026/aug/05/carlos-alcaraz-injury-us-open-defence-cincinnati-masters-1000)
+- [UFC’s White House spectacle led to losses of around $30m, company reveals](https://www.theguardian.com/sport/2026/aug/04/ufc-freedom-250-white-house-losses-trump)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 30°C / Low 20°C &nbsp;|&nbsp; Humidity 54%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,643**
-vs yesterday's close: 🟢 ▲ +$178 (+0.28%)
-Trend: ➡️ Flat around 7d MA (+0.1%)
+**$64,024**
+vs yesterday's close: 🔴 ▼ $-38 (-0.06%)
+Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ### 🇺🇸 S&P 500
-**7,489.7**
-vs previous close: 🟢 ▲ +52.1 (+0.70%)
-Trend: 📈 Above 7d MA by 1.0%
+**7,736.5**
+vs previous close: 🟢 ▲ +136.0 (+1.79%)
+Trend: 📈 Above 7d MA by 3.3%
 
 ---
 
-<sub>Last updated: 2026-08-04 08:38 BST</sub>
+<sub>Last updated: 2026-08-05 08:37 BST</sub>
