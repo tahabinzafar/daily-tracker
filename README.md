@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 05 August 2026
+## 📅 Thursday, 06 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 16°C) — Patchy rain nearby
-High 26°C / Low 18°C &nbsp;|&nbsp; Humidity 76%
+**14°C** (feels like 11°C) — Sunny
+High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 66%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
-- [Burnham 'looking into' conducting Epstein inquiry, says victims minister](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
-- [Russian ballistic missile strike on Kyiv kills at least 17](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
+- [Young women tell BBC of rape, assault and harassment at Army training college for teenagers](https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss)
+- [Cambridge professor at centre of plagiarism row resigns](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
+- [Infantino sorry for errors but stays Fifa president](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Why the Trump administration is helping support Japan’s weakening yen](https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss)
-- [Pakistan and Uganda athletes ‘missing’ after Commonwealth Games](https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss)
-- [Nigeria cannot build safe schools in unsafe communities](https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss)
+- [Messi scores his first goals since World Cup as Inter Miami beat San Luis](https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss)
+- [Pakistan beat West Indies to end 8 away Test losing streak and draw series](https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss)
+- [A US proposal for missile defense that’s been tried before](https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [US to shut five consulates as critics fear China could fill diplomatic vacuum](https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures)
+- [El Niño could push 50m people into acute hunger before end of next year](https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year)
 - [Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint](https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint)
-- [Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones](https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones)
-- [Stronger EU borders needed after Ceuta crisis, von der Leyen says](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Why Liverpool are ready to make Barcola third £100m signing](https://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo?at_medium=RSS&at_campaign=rss)
-- [What happens next with Rashford and Man Utd?](https://www.bbc.co.uk/sport/football/articles/cx25y63wr51o?at_medium=RSS&at_campaign=rss)
-- [Arsenal set to sign Newcastle captain Guimaraes](https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss)
+- [Infantino sorry for errors but stays Fifa president](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
+- [A wanted man - but would Liverpool's Gakpo be a good fit at Spurs?](https://www.bbc.co.uk/sport/football/articles/c98vnel56q6o?at_medium=RSS&at_campaign=rss)
+- [Olympic champion curler Muirhead comes out of retirement](https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Alcaraz withdraws from Cincinnati Open](https://www.skysports.com/tennis/news/12040/13569917/carlos-alcaraz-withdraws-from-cincinnati-open-due-to-ongoing-wrist-injury-with-worries-over-us-open-defence)
-- [Silca Bay and Sea Suite face off as Brighton Festival begins](https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins)
-- [Draper in tears amid injury concern during defeat in Montreal](https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal)
+- [Joe Ward: The unluckiest man in Irish boxing](https://www.skysports.com/boxing/news/12040/13570207/joe-ward-the-unluckiest-man-in-irish-boxing-ive-been-through-it-all-and-now-i-can-fight-through-this)
+- [Rockets march on after easy win while Buttler makes history in The Hundred](https://www.skysports.com/cricket/news/12040/13570084/the-hundred-trent-rockets-continue-dominant-form-with-fifth-straight-win-as-jos-buttler-makes-history-for-manchester-super-giants)
+- [Infantino remains FIFA president following crisis meeting](https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off)
 
 ### 🏅 The Guardian Sport
-- [Fifa accused of using ‘blackmail’ to force support for Infantino’s re-election bid](https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa)
-- [Doubts grow over Carlos Alcaraz’s US Open defence after latest withdrawal](https://www.theguardian.com/sport/2026/aug/05/carlos-alcaraz-injury-us-open-defence-cincinnati-masters-1000)
-- [UFC’s White House spectacle led to losses of around $30m, company reveals](https://www.theguardian.com/sport/2026/aug/04/ufc-freedom-250-white-house-losses-trump)
+- [Game, set, Chat: how tennis players use AI to scout opponents and run their lives](https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology)
+- [NWSL sets plans for early start, summer break next season to account for 2027 World Cup](https://www.theguardian.com/football/2026/aug/05/nwsl-2027-schedule-womens-world-cup)
+- [Washington Commanders to sign four-time Pro Bowl receiver Stefon Diggs](https://www.theguardian.com/sport/2026/aug/05/stefon-diggs-washington-commanders-contract-nfl-news)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 26°C / Low 18°C &nbsp;|&nbsp; Humidity 76%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,024**
-vs yesterday's close: 🔴 ▼ $-38 (-0.06%)
-Trend: ➡️ Flat around 7d MA (+0.6%)
+**$64,812**
+vs yesterday's close: 🟢 ▲ +$203 (+0.31%)
+Trend: 📈 Above 7d MA by 1.7%
 
 ### 🇺🇸 S&P 500
-**7,736.5**
-vs previous close: 🟢 ▲ +136.0 (+1.79%)
-Trend: 📈 Above 7d MA by 3.3%
+**7,723.5**
+vs previous close: 🔴 ▼ -13.0 (-0.17%)
+Trend: 📈 Above 7d MA by 2.5%
 
 ---
 
-<sub>Last updated: 2026-08-05 08:37 BST</sub>
+<sub>Last updated: 2026-08-06 08:37 BST</sub>
