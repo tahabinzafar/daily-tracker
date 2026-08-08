@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 07 August 2026
+## 📅 Saturday, 08 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 13°C) — Sunny
-High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 52%
+**15°C** (feels like 14°C) — Sunny
+High 28°C / Low 15°C &nbsp;|&nbsp; Humidity 56%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 52%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Officer who led PC Harper investigation 'appalled' killers could be released early](https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss)
-- [Arrests in Norfolk town as disorder continues for third night](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
-- [Meta fined $567m in largest child safety ruling against social media giant](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
+- [Police officers investigated over handling of sex offender who murdered two women](https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss)
+- [Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry](https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss)
+- [Infantino denies claims Uefa paid off alleged 'lover'](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Bodies of climbers killed in avalanche retrieved from Broad Peak](https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss)
-- [Mexico deploys troops to secure avocado region after US halts imports](https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss)
-- [Record-high heat soars through South Korea](https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss)
+- [FIFA’s Infantino backed in Colombia where he attends president inauguration](https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss)
+- [Norway Football Federation calls for FIFA president to resign](https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss)
+- [Armenia puts Church leader on trial for allegedly being a Russian spy](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)
+- [Judge approves Trump effort to end South Sudan TPS protections](https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps)
 - [Ebola virus behind massive outbreak in DRC could be mutating, officials say](https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating)
-- [US to shut five consulates as critics fear China could fill diplomatic vacuum](https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures)
-- [Top Ugandan footballer killed by robbers armed with paving stones](https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Who will leave Chelsea? How Blues could cut 41-man squad](https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss)
-- [Old habits haunt Rangers in early McInnes tenure](https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss)
-- [Guimaraes future decided before I arrived - Jaissle](https://www.bbc.co.uk/sport/football/articles/c62el1507p1o?at_medium=RSS&at_campaign=rss)
+- [Infantino denies claims Uefa paid off alleged 'lover'](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss)
+- [Liverpool close to signing Barcelona's Araujo on loan](https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss)
+- [Life as a Wag in the transfer window](https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Tenbob Tommy chases the hat-trick at Brighton](https://www.skysports.com/racing/news/12040/13570134/today-on-sky-sports-racing-brighton-summer-festival)
-- [Undrafted King leads Panthers to comeback win vs Cardinals in Hall of Fame game](https://www.skysports.com/nfl/news/12040/13570561/nfl-undrafted-quarterback-haynes-king-leads-carolina-panthers-to-33-30-comeback-win-vs-arizona-cardinals-in160hall-of-fame-game)
-- [Is red-hot Norrie now favourite to win Montreal? Brit dumps out third seed De Minaur](https://www.skysports.com/tennis/news/12040/13570424/national-bank-open-is-red-hot-cameron-norrie-now-favourite-to-win-montreal-brit-dumps-out-third-seed-alex-de-minaur)
+- [Araujo set for surprise Liverpool loan move](https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back)
+- [Papers: Arsenal could hijack Liverpool's move for Barcola](https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk)
+- [Late winner sees Leeds edge Wakefield](https://www.skysports.com/watch/video/13570851/wakefield-trinity-22-24-leeds-rhinos-super-league-highlights)
 
 ### 🏅 The Guardian Sport
-- [One potential breakout star for each Premier League club this season](https://www.theguardian.com/football/2026/aug/06/breakout-star-premier-league-club-season)
-- [Tour de France Femmes: Reusser stays ahead as Le Court savours stage win](https://www.theguardian.com/sport/2026/aug/06/tour-de-france-femmes-reusser-stayys-ahead-as-le-court-savours-stage-win)
-- [‘It just means more’: Black college gymnasts competing in a divided south](https://www.theguardian.com/sport/2026/aug/06/it-just-means-more-black-college-gymnasts-in-a-divided-south)
+- [‘This is where I belong’: Katelyn Ohashi’s Olympic comeback is fueled by joy, not redemption](https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics)
+- [Will Lankshear starts off in style to see Middlesbrough past Wrexham](https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report)
+- [Panthers rally past Cardinals behind undrafted rookie QB in NFL preseason opener](https://www.theguardian.com/sport/2026/aug/07/haynes-king-panthers-cardinals-hall-of-fame-game)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 52%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,300**
-vs yesterday's close: 🟢 ▲ +$37 (+0.06%)
-Trend: ➡️ Flat around 7d MA (+0.7%)
+**$64,982**
+vs yesterday's close: 🟢 ▲ +$693 (+1.08%)
+Trend: 📈 Above 7d MA by 1.6%
 
 ### 🇺🇸 S&P 500
-**7,710.0**
-vs previous close: 🔴 ▼ -13.6 (-0.18%)
-Trend: 📈 Above 7d MA by 1.8%
+**7,757.6**
+vs previous close: 🟢 ▲ +47.7 (+0.62%)
+Trend: 📈 Above 7d MA by 1.6%
 
 ---
 
-<sub>Last updated: 2026-08-07 07:08 BST</sub>
+<sub>Last updated: 2026-08-08 06:41 BST</sub>
