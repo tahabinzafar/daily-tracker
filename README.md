@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 09 August 2026
+## 📅 Monday, 10 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 16°C) — Sunny
-High 31°C / Low 18°C &nbsp;|&nbsp; Humidity 41%
+**18°C** (feels like 17°C) — Sunny
+High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 64%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 31°C / Low 18°C &nbsp;|&nbsp; Humidity 41%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Andy Burnham to embark on cost of living tour through the UK](https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss)
-- [Fifa criticises campaign to oust president Infantino](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
-- [Killed a month after his wedding - why PC Andrew Harper's death touched so many](https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss)
+- [Travelodge staff gave domestic abuser key to his victim's room](https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss)
+- [Burnham brings forward ban on 'subscription traps' to ease cost of living](https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss)
+- [Suspected crime boss Daniel Kinahan appears in court after extradition](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Lionel Messi returns to Argentina after father Jorge’s death](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss)
-- [Iran issues new demands as Pezeshkian seeks deal](https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss)
-- [‘Very painful’: Joe Biden’s cancer has spread, son Hunter says](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss)
+- [Wildfires bear down on homes in Canada’s Okanagan region](https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss)
+- [Trump names Will Scharf as White House counsel ahead of midterms](https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss)
+- [Brazilian player falls into tunnel celebrating goal](https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)
@@ -39,19 +39,19 @@ High 31°C / Low 18°C &nbsp;|&nbsp; Humidity 41%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Fifa criticises campaign to oust president Infantino](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
-- [New season, new boss - will Alexander-Arnold be key figure at Real Madrid?](https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss)
-- [Tielemans cameo against PSG hints at Man Utd future](https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss)
+- [Mourinho says he agreed to replace Ferguson at Man Utd](https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss)
+- [Defiant Hodgkinson says home European title would mean as much as Olympic gold](https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss)
+- [How Liverpool are shaping up under Iraola](https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [True Love seeks Prix Maurice de Gheest crown at Deauville](https://www.skysports.com/racing/news/12040/13570933/today-on-sky-sports-racing-true-love-seeks-prix-maurice-de-gheest-crown-at-deauville)
-- [Papers: Romero open to joining Arsenal but Spurs resist](https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk)
-- [Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia](https://www.skysports.com/football/news/12040/13571236/valencia-1-2-newcastle-yoane-wissas-double-gives-matthias-jaissle-winning-start-as-anthony-elanga-stretchered-off)
+- [Today on Sky Sports Racing: Badri chases four-timer at Windsor](https://www.skysports.com/racing/news/12040/13571329/today-on-sky-sports-racing-flat-action-from-windsor-live-on-monday-evening-with-badri-chasing-a-four-timer)
+- [Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win](https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory)
+- [Papers: Man Utd and Arsenal chase Club Brugge full-back Seys](https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys)
 
 ### 🏅 The Guardian Sport
-- [Fred Richard coasts to first national title at US gymnastics championships](https://www.theguardian.com/sport/2026/aug/09/frederick-richard-us-gymnastics-all-around-title)
-- [Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham](https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba)
-- [Fifa launches new attack on media over alleged ‘concerted effort’ to undermine Gianni Infantino](https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino)
+- [Don Nelson, legendary coach and five-time NBA champion as player, dies at 86](https://www.theguardian.com/sport/2026/aug/09/don-nelson-legendary-coach-and-five-time-nba-champion-as-player-dies-at-86)
+- [Tour de France Femmes: Vollering wins second title but tactics row rumbles on](https://www.theguardian.com/sport/2026/aug/09/tour-de-france-femmes-demi-vollering-cycling)
+- [La Liga president Javier Tebas says ‘Infantino era is over’ at Fifa](https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 31°C / Low 18°C &nbsp;|&nbsp; Humidity 41%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,746**
-vs yesterday's close: 🔴 ▼ $-171 (-0.26%)
-Trend: ➡️ Flat around 7d MA (+0.5%)
+**$65,200**
+vs yesterday's close: 🟢 ▲ +$344 (+0.53%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ### 🇺🇸 S&P 500
 **7,757.6**
@@ -72,4 +72,4 @@ Trend: 📈 Above 7d MA by 1.6%
 
 ---
 
-<sub>Last updated: 2026-08-09 06:45 BST</sub>
+<sub>Last updated: 2026-08-10 07:09 BST</sub>
