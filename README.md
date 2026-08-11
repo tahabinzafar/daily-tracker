@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 10 August 2026
+## 📅 Tuesday, 11 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 17°C) — Sunny
-High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 64%
+**17°C** (feels like 16°C) — Sunny
+High 26°C / Low 17°C &nbsp;|&nbsp; Humidity 72%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 64%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Travelodge staff gave domestic abuser key to his victim's room](https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss)
-- [Burnham brings forward ban on 'subscription traps' to ease cost of living](https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss)
-- [Suspected crime boss Daniel Kinahan appears in court after extradition](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+- [PM asks justice secretary to find way to keep PC Harper's killers in jail](https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss)
+- [Amber heat health alerts for almost all of England as next heatwave begins](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
+- [Councils to get more powers to stop vape and betting shops, PM announces](https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Wildfires bear down on homes in Canada’s Okanagan region](https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss)
-- [Trump names Will Scharf as White House counsel ahead of midterms](https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss)
-- [Brazilian player falls into tunnel celebrating goal](https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss)
+- [Somali referee arrives for UEFA Super Cup after World Cup exclusion](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss)
+- [Family watches helplessly as Colombia quake destroys home](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
+- [Trump’s media company reports $238m loss](https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)
@@ -39,19 +39,19 @@ High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 64%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Mourinho says he agreed to replace Ferguson at Man Utd](https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss)
-- [Defiant Hodgkinson says home European title would mean as much as Olympic gold](https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss)
-- [How Liverpool are shaping up under Iraola](https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss)
+- [Trump says it would be 'terrible mistake' to remove Infantino](https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss)
+- [GB's Hunt comes of age with European 100m gold](https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss)
+- [Who could Arsenal sign after missing out on Vinicius Jr?](https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Today on Sky Sports Racing: Badri chases four-timer at Windsor](https://www.skysports.com/racing/news/12040/13571329/today-on-sky-sports-racing-flat-action-from-windsor-live-on-monday-evening-with-badri-chasing-a-four-timer)
-- [Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win](https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory)
-- [Papers: Man Utd and Arsenal chase Club Brugge full-back Seys](https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys)
+- [Why Dutchwoman Weber is ineligible for 'amazing' home Solheim Cup](https://www.skysports.com/golf/news/12040/13571590/solheim-cup-2026-why-dutchwoman-dewi-weber-was-ineligible-to-be-potential-team-europe-captains-pick-for-home-edition)
+- [Rockets relying on others to avoid eliminator after loss to Brave](https://www.skysports.com/cricket/news/12040/13571707/the-hundred-trent-rockets-relying-on-others-to-avoid-eliminator-after-loss-to-southern-brave)
+- [Britain's Hunt claims European Championships 100m gold](https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete)
 
 ### 🏅 The Guardian Sport
-- [Don Nelson, legendary coach and five-time NBA champion as player, dies at 86](https://www.theguardian.com/sport/2026/aug/09/don-nelson-legendary-coach-and-five-time-nba-champion-as-player-dies-at-86)
-- [Tour de France Femmes: Vollering wins second title but tactics row rumbles on](https://www.theguardian.com/sport/2026/aug/09/tour-de-france-femmes-demi-vollering-cycling)
-- [La Liga president Javier Tebas says ‘Infantino era is over’ at Fifa](https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa)
+- [Panathinaikos owner says he attempted to lure three-time NBA MVP Nikola Jokić to Europe](https://www.theguardian.com/sport/2026/aug/10/panathinaikos-owner-says-he-attempted-to-lure-three-time-nba-mvp-nikola-jokic-to-europe)
+- [Donald Trump says it would be a ‘terrible mistake’ to replace Fifa’s Gianni Infantino](https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino)
+- [Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol](https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 27°C / Low 18°C &nbsp;|&nbsp; Humidity 64%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$65,200**
-vs yesterday's close: 🟢 ▲ +$344 (+0.53%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**$63,978**
+vs yesterday's close: 🟢 ▲ +$62 (+0.10%)
+Trend: ➡️ Flat around 7d MA (-0.8%)
 
 ### 🇺🇸 S&P 500
-**7,757.6**
-vs previous close: 🟢 ▲ +47.7 (+0.62%)
-Trend: 📈 Above 7d MA by 1.6%
+**7,753.1**
+vs previous close: 🔴 ▼ -4.5 (-0.06%)
+Trend: ➡️ Flat around 7d MA (+0.9%)
 
 ---
 
-<sub>Last updated: 2026-08-10 07:09 BST</sub>
+<sub>Last updated: 2026-08-11 06:52 BST</sub>
