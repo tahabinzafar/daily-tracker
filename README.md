@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Tuesday, 11 August 2026
+## 📅 Wednesday, 12 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**17°C** (feels like 16°C) — Sunny
-High 26°C / Low 17°C &nbsp;|&nbsp; Humidity 72%
+**15°C** (feels like 15°C) — Sunny
+High 31°C / Low 17°C &nbsp;|&nbsp; Humidity 94%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 26°C / Low 17°C &nbsp;|&nbsp; Humidity 72%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [PM asks justice secretary to find way to keep PC Harper's killers in jail](https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss)
-- [Amber heat health alerts for almost all of England as next heatwave begins](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
-- [Councils to get more powers to stop vape and betting shops, PM announces](https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss)
+- [Early release scheme risks more serious crimes, probation chief warns](https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss)
+- [Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again](https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss)
+- [UK to get best eclipse since 1999 as Moon blocks out Sun across Europe](https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Somali referee arrives for UEFA Super Cup after World Cup exclusion](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss)
-- [Family watches helplessly as Colombia quake destroys home](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
-- [Trump’s media company reports $238m loss](https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss)
+- [Why have several nations raised red flags over Indian farm exports?](https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss)
+- [Zelenskyy says Ukraine has sent proposals to US to end war with Russia](https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss)
+- [Can Trump keep his ‘irritation’ with Netanyahu in check?](https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)
@@ -39,19 +39,19 @@ High 26°C / Low 17°C &nbsp;|&nbsp; Humidity 72%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Trump says it would be 'terrible mistake' to remove Infantino](https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss)
-- [GB's Hunt comes of age with European 100m gold](https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss)
-- [Who could Arsenal sign after missing out on Vinicius Jr?](https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss)
+- [GB's Glave and Azu claim European 100m one-two](https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss)
+- [Emery chases first Super Cup - but does it matter?](https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss)
+- [A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?](https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Why Dutchwoman Weber is ineligible for 'amazing' home Solheim Cup](https://www.skysports.com/golf/news/12040/13571590/solheim-cup-2026-why-dutchwoman-dewi-weber-was-ineligible-to-be-potential-team-europe-captains-pick-for-home-edition)
-- [Rockets relying on others to avoid eliminator after loss to Brave](https://www.skysports.com/cricket/news/12040/13571707/the-hundred-trent-rockets-relying-on-others-to-avoid-eliminator-after-loss-to-southern-brave)
-- [Britain's Hunt claims European Championships 100m gold](https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete)
+- [Jodar on course for tennis history as Rybakina fights past Osaka](https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka)
+- ['Everyone can have an opinion' - F1 president responds to regulations criticism](https://www.skysports.com/f1/news/12040/13569682/f1-2026-regulations-stefano-domenicali-responds-to-criticism-about-current-power-unit-regulations)
+- [Today on Sky Sports Racing: Ffos Las hosts six-race card](https://www.skysports.com/racing/news/12040/13571636/today-on-sky-sports-racing-ffos-las-hosts-six-race-card-live-on-wednesday)
 
 ### 🏅 The Guardian Sport
-- [Panathinaikos owner says he attempted to lure three-time NBA MVP Nikola Jokić to Europe](https://www.theguardian.com/sport/2026/aug/10/panathinaikos-owner-says-he-attempted-to-lure-three-time-nba-mvp-nikola-jokic-to-europe)
-- [Donald Trump says it would be a ‘terrible mistake’ to replace Fifa’s Gianni Infantino](https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino)
-- [Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol](https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football)
+- [Infantino’s opponents developing new framework for running world football](https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa)
+- [CBS Sports chief says ‘no timetable’ on Tony Romo’s future after OWI arrest](https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt)
+- [High school football player in Arkansas practices with viper in helmet](https://www.theguardian.com/sport/2026/aug/12/arkansas-football-player-cottonmouth-snake-helmet)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 26°C / Low 17°C &nbsp;|&nbsp; Humidity 72%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,978**
-vs yesterday's close: 🟢 ▲ +$62 (+0.10%)
-Trend: ➡️ Flat around 7d MA (-0.8%)
+**$63,689**
+vs yesterday's close: 🟢 ▲ +$151 (+0.24%)
+Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ### 🇺🇸 S&P 500
-**7,753.1**
-vs previous close: 🔴 ▼ -4.5 (-0.06%)
-Trend: ➡️ Flat around 7d MA (+0.9%)
+**7,728.2**
+vs previous close: 🔴 ▼ -24.9 (-0.32%)
+Trend: ➡️ Flat around 7d MA (+0.2%)
 
 ---
 
-<sub>Last updated: 2026-08-11 06:52 BST</sub>
+<sub>Last updated: 2026-08-12 07:12 BST</sub>
