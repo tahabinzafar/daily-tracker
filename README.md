@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Thursday, 13 August 2026
+## 📅 Friday, 14 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 20°C) — Sunny
-High 37°C / Low 20°C &nbsp;|&nbsp; Humidity 54%
+**22°C** (feels like 22°C) — Sunny
+High 34°C / Low 22°C &nbsp;|&nbsp; Humidity 57%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,38 +20,38 @@ High 37°C / Low 20°C &nbsp;|&nbsp; Humidity 54%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Once-in-a-generation solar eclipse wows millions in UK and Europe](https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss)
-- [Temperatures to soar to 38C as amber extreme heat warning comes into force](https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss)
-- [Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss)
+- [Farage's by-election victory won't stop questions about finances](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
+- [NHS service admits data breach due to pager use](https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss)
+- [Final day of heatwave for many before weekend cooldown](https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [How clinic closures left 3.7 million Afghan children acutely malnourished](https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss)
-- [Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors](https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss)
-- [Why tariffs are not the right tool to bolster US production](https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss)
+- [North Korea fumes over upcoming US-South Korea military drills](https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss)
+- [Fear and attacks grip Taybeh, the last all-Christian town in the West Bank](https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss)
+- [Record rainfall leaves four dead, thousands stranded in Japan](https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province)
+- [French ambassador to CAR investigated over claims he hosted dozens of women](https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher)
 - [Zambia elections haunted by ghost of incumbent president’s arch-rival](https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu)
-- [At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe](https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize)
-- [Halting the march of the African armyworm: a natural cure offers hope to farmers](https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Fearless Madjo, 17, ends eight-month wait with dream Villa debut](https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss)
-- [GB's Hudson-Smith wins historic 400m gold on home track - highlights & report](https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss)
-- [Only wins can stop England's curfew hokey-cokey](https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss)
+- ['Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple](https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss)
+- [What's going wrong for Rangers and McInnes?](https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss)
+- [How Maresca's Man City are shaping up compared with Guardiola side](https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Gold medallist Thomas chases 'own legacy' after AJ comparisons](https://www.skysports.com/boxing/news/12040/13572325/damar-thomas-unfazed-by-anthony-joshua-comparisons-as-commonwealth-games-gold-medallist-chases-own-legacy-ahead-of-la-olympics)
-- [Jodar's bid for history halted in Nakashima defeat as Rybakina beats Gauff](https://www.skysports.com/tennis/news/12040/13572450/canadian-open-rafael-jodar-bid-for-atp-rankings-history-put-on-hold-while-elena-rybakina-beats-coco-gauff-in-semi-finals)
-- [Today on Sky Sports Racing: Windsor and Lingfield feature on Thursday](https://www.skysports.com/racing/news/12040/13571992/today-on-sky-sports-racing-windsor-and-lingfield-feature-live-on-thursday)
+- [Swiatek beats Rybakina to end title drought in Toronto](https://www.skysports.com/tennis/news/12040/13572813/canadian-open-iga-swiatek-defeats-elena-rybakina-to-end-title-drought)
+- [Today on Sky Sports Racing: Efsixteen returns in hot Newbury race](https://www.skysports.com/racing/news/12040/13572338/today-on-sky-sports-racing-newbury-and-yarmouth-feature-live-on-friday-as-efsixteen-returns-in-hot-contest)
+- [Records broken, huge sixes & stunning catches! | Best moments from The Hundred](https://www.skysports.com/watch/video/13571696/best-moments-from-the-hundred-records-broken-huge-sixes-stunning-catches)
 
 ### 🏅 The Guardian Sport
-- [Josh Kushner and Bob Iger reportedly buying Los Angeles Lakers for $12.5bn](https://www.theguardian.com/sport/2026/aug/12/josh-kushner-and-bob-iger-reportedly-buying-los-angeles-lakers-for-12bn)
-- [Swim hero Katie Ledecky extends 16-year winning streak with Pan Pacs gold](https://www.theguardian.com/sport/2026/aug/13/katie-ledecky-1500m-pan-pacific-championships-swimming-gold)
-- [Triple-double king Russell Westbrook calls time on 18-year NBA career](https://www.theguardian.com/sport/2026/aug/12/russell-westbrook-retires-nba-triple-doubles-record-mvp)
+- [No 1 pick Fernando Mendoza throws for touchdown in Las Vegas Raiders preseason debut](https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut)
+- [Superb Summer McIntosh bounces back with 400m medley gold at Pan Pacs](https://www.theguardian.com/sport/2026/aug/14/summer-mcintosh-400m-medley-pan-pacific-championships-swimming)
+- [Major League Baseball comes to rural Iowa for Field of Dreams game – in pictures](https://www.theguardian.com/sport/gallery/2026/aug/14/mlb-field-of-dreams-iowa-baseball-game-pictures)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 37°C / Low 20°C &nbsp;|&nbsp; Humidity 54%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,777**
-vs yesterday's close: 🟢 ▲ +$368 (+0.58%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**$63,258**
+vs yesterday's close: 🔴 ▼ $-171 (-0.27%)
+Trend: ➡️ Flat around 7d MA (-1.0%)
 
 ### 🇺🇸 S&P 500
-**7,748.5**
-vs previous close: 🟢 ▲ +20.3 (+0.26%)
-Trend: ➡️ Flat around 7d MA (+0.2%)
+**7,799.0**
+vs previous close: 🟢 ▲ +50.5 (+0.65%)
+Trend: ➡️ Flat around 7d MA (+0.7%)
 
 ---
 
-<sub>Last updated: 2026-08-13 07:15 BST</sub>
+<sub>Last updated: 2026-08-14 07:12 BST</sub>
