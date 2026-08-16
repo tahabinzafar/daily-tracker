@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Saturday, 15 August 2026
+## 📅 Sunday, 16 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 19°C) — Patchy rain nearby
-High 27°C / Low 20°C &nbsp;|&nbsp; Humidity 70%
+**16°C** (feels like 15°C) — Partly cloudy 
+High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 65%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead](https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss)
-- [Fires prompt national alert as 19 homes destroyed](https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss)
-- [Temporary ban on disposable BBQs as military deployed to help battle wildfires](https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss)
+- [Reform UK plan would overhaul welfare system with £50bn in savings](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
+- [Major incidents across UK putting firefighters under 'incredible pressure', fire chief says](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
+- [Ariana Grande leaves problems at home as her tour hits the UK](https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Morocco boosts Ceuta security amid calls for mass migrant crossing](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss)
-- [On the ground in Indonesia following 7.7 magnitude earthquake](https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss)
-- [Taiwan passes defence budget after record delay, retains drone funding](https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss)
+- [Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania](https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss)
+- [Israel strikes south Lebanon again as families flee north](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
+- [Australia gun buyback spurred by Bondi attack to start in November, PM says](https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered](https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident)
+- [Moroccan police arrest more than 100 people as they attempt to enter Ceuta](https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta)
 - [American missionary kidnapped in Niger freed after nine months](https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping)
-- [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province)
-- [French ambassador to CAR investigated over claims he hosted dozens of women](https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Hodgkinson beaten to European gold by rival Werro](https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss)
-- [Britain's Finlay Tarling dies in Volta a Portugal accident](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss)
-- [Bezos-backed consortium buys a third of Liverpool](https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss)
+- [Hunt wins third gold as Asher-Smith makes history](https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss)
+- [Rashford returns as AC Milan highlight issues facing Carrick](https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss)
+- ['Fury' at Tarling death as cycling union calls for better helmets](https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [McIlroy toils as Scheffler produces stunning 61 at St Jude Championship](https://www.skysports.com/golf/news/12040/13573068/fedexcup-playoffs-scottie-scheffler-produces-stunning-round-of-61-at-fedex-st-jude-championship-as-rory-mcilroy-toils)
-- [Championship play-off changes, new managers & star players - the EFL is BACK!](https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players)
-- [Jimenez salvages dramatic point for Wolves on Molineux return](https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498)
+- [Scheffler retains lead in Memphis as Burns stars and McIlroy toils again](https://www.skysports.com/golf/news/12040/13573540/fedex-st-jude-championship-scottie-scheffler-retains-lead-ahead-of-final-round-as-rory-mcilroy-endures-another-tough-day)
+- [Tennis scores: Norrie faces top seed Zverev in Cincinnati overnight](https://www.skysports.com/tennis/scores-schedule)
+- [Djokovic knocked out early in Cincinnati after struggling in sapping heat](https://www.skysports.com/tennis/news/12040/13573406/novak-djokovic-out-of-cincinnati-open-in-second-round-after-struggling-with-heat-and-humidity-against-thiago-agustin-tirante)
 
 ### 🏅 The Guardian Sport
-- [Europe’s top clubs threatened Club World Cup boycott before Fifa plan collapsed](https://www.theguardian.com/football/2026/aug/14/europe-top-clubs-threatened-club-world-cup-boycott-fifa-plan-collapsed)
-- [NFL preseason storylines: are the Rams inevitable and will the Pats survive scandal?](https://www.theguardian.com/sport/2026/aug/14/nfl-preseason-storylines-are-the-rams-inevitable-and-will-the-pats-survive-scandal)
-- [Struggling Venus Williams suffers 14th straight defeat in Cincinnati rout](https://www.theguardian.com/sport/2026/aug/14/venus-williams-emilia-arango-cincinnati-masters-tennis)
+- [American Kate Douglass breaks 50m freestyle world record twice in one day](https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs)
+- [Cardinals rookie Joshua Báez makes MLB history with three homers in first three at-bats](https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record)
+- [Novak Djokovic suffers in Cincinnati heat as Thiago Agustín Tirante inflicts shock defeat](https://www.theguardian.com/sport/2026/aug/15/novak-djokovic-suffers-in-cincinnati-heat-as-thiago-agustin-tirante-inflicts-shock-defeat)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 27°C / Low 20°C &nbsp;|&nbsp; Humidity 70%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,094**
-vs yesterday's close: 🟢 ▲ +$110 (+0.17%)
-Trend: ➡️ Flat around 7d MA (-0.8%)
+**$63,020**
+vs yesterday's close: 🔴 ▼ $-11 (-0.02%)
+Trend: ➡️ Flat around 7d MA (-0.5%)
 
 ### 🇺🇸 S&P 500
 **7,785.8**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-08-15 06:22 BST</sub>
+<sub>Last updated: 2026-08-16 06:26 BST</sub>
