@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Sunday, 16 August 2026
+## 📅 Monday, 17 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 15°C) — Partly cloudy 
-High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 65%
+**-2°C** (feels like -11°C) — Blizzard
+High -1°C / Low -2°C &nbsp;|&nbsp; Humidity 65%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 🧥 Heavy coat weather. Don't leave without one.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Reform UK plan would overhaul welfare system with £50bn in savings](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
-- [Major incidents across UK putting firefighters under 'incredible pressure', fire chief says](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
-- [Ariana Grande leaves problems at home as her tour hits the UK](https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss)
+- [Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+- [Parents pushed to breaking point by Child Maintenance Service, BBC told](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
+- [UK to turn cooler with rain after exceptional heat and dry spell](https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania](https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss)
-- [Israel strikes south Lebanon again as families flee north](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
-- [Australia gun buyback spurred by Bondi attack to start in November, PM says](https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss)
+- [Iran’s top negotiator declares victory in war against the US and Israel](https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss)
+- [Lawyer says Israel’s targeting of Palestinian women is a form of genocide](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss)
+- [Thieves steal Renaissance artworks in museum heist during Italian holiday](https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)
 - [Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered](https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident)
 - [Moroccan police arrest more than 100 people as they attempt to enter Ceuta](https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta)
-- [American missionary kidnapped in Niger freed after nine months](https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Hunt wins third gold as Asher-Smith makes history](https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss)
-- [Rashford returns as AC Milan highlight issues facing Carrick](https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss)
-- ['Fury' at Tarling death as cycling union calls for better helmets](https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss)
+- [History for Hunt and Asher-Smith in golden finish for GB](https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss)
+- [Brook on Test captaincy, batting and Wellington](https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss)
+- [Barcelona agree £65m Rodri deal - who could replace him at Man City?](https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Scheffler retains lead in Memphis as Burns stars and McIlroy toils again](https://www.skysports.com/golf/news/12040/13573540/fedex-st-jude-championship-scottie-scheffler-retains-lead-ahead-of-final-round-as-rory-mcilroy-endures-another-tough-day)
-- [Tennis scores: Norrie faces top seed Zverev in Cincinnati overnight](https://www.skysports.com/tennis/scores-schedule)
-- [Djokovic knocked out early in Cincinnati after struggling in sapping heat](https://www.skysports.com/tennis/news/12040/13573406/novak-djokovic-out-of-cincinnati-open-in-second-round-after-struggling-with-heat-and-humidity-against-thiago-agustin-tirante)
+- [Who's really in F1's title race and what factors will decide fight?](https://www.skysports.com/f1/news/12040/13572982/f1-title-race-assessing-rivals-to-kimi-antonelli-and-factors-that-will-decide-2026-fight-ahead-of-dutch-gp-season-resumption)
+- [Root made 'grown up' call on curfew but does he have the feel for captaincy?](https://www.skysports.com/cricket/news/12040/13573762/joe-root-england-test-captain-right-to-remove-curfew-says-nasser-hussain-ahead-of-three-test-pakistan-series)
+- [Lingfield, Windsor and Wolverhampton feature on Monday](https://www.skysports.com/racing/news/12040/13573655/today-on-sky-sports-racing-lingfield-windsor-and-wolverhampton-host-live-action)
 
 ### 🏅 The Guardian Sport
-- [American Kate Douglass breaks 50m freestyle world record twice in one day](https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs)
-- [Cardinals rookie Joshua Báez makes MLB history with three homers in first three at-bats](https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record)
-- [Novak Djokovic suffers in Cincinnati heat as Thiago Agustín Tirante inflicts shock defeat](https://www.theguardian.com/sport/2026/aug/15/novak-djokovic-suffers-in-cincinnati-heat-as-thiago-agustin-tirante-inflicts-shock-defeat)
+- [Tommy John, pitcher whose surgery changed baseball, dies at age of 83](https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83)
+- [Djokovic’s medical malaise in Cincinnati exposes fraying edges of ageing great’s game](https://www.theguardian.com/sport/2026/aug/16/novak-djokovic-cincinnati-open-2026-tennis-us-open)
+- [Arsenal’s midfield depth signals ominous warning to title rivals – and Maresca’s City | Ed Aarons](https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 26°C / Low 16°C &nbsp;|&nbsp; Humidity 65%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,020**
-vs yesterday's close: 🔴 ▼ $-11 (-0.02%)
-Trend: ➡️ Flat around 7d MA (-0.5%)
+**$63,445**
+vs yesterday's close: 🟢 ▲ +$601 (+0.96%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ### 🇺🇸 S&P 500
 **7,785.8**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-08-16 06:26 BST</sub>
+<sub>Last updated: 2026-08-17 06:33 BST</sub>
