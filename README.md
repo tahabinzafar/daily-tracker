@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Tuesday, 18 August 2026
+## 📅 Wednesday, 19 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 18°C) — Overcast 
-High 25°C / Low 19°C &nbsp;|&nbsp; Humidity 78%
+**18°C** (feels like 15°C) — Patchy rain nearby
+High 24°C / Low 17°C &nbsp;|&nbsp; Humidity 71%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
-- [Russia warns UK over supplying drones to Ukraine](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
-- [Fifa official sacked after Infantino plan criticism](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
+- [Sacked Ukrainian defence minister calls for presidential election](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
+- [Three dead after family get into difficulty in sea](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
+- ['Everyone in for Christmas' - Burnham unveils rough sleeping plan](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [A hero’s welcome as Cameroon parades its first Women’s AFCON title](https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss)
-- [Hichilema wins second term as president of copper-rich Zambia](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss)
-- [Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death](https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss)
+- [Lebanon no longer a safe haven for former Syrian regime officials](https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss)
+- [Former US official calls shift in relations with Syria ‘surreal’](https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss)
+- [South Korea, US scale back annual military drills after Trump’s order](https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)
@@ -39,19 +39,19 @@ High 25°C / Low 19°C &nbsp;|&nbsp; Humidity 78%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Top Fifa official sacked after Infantino plan criticism](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
-- [Guardiola-Walker fallout revealed in new documentary](https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss)
-- [LIV cancels final event to focus on 'next chapter'](https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss)
+- [How will your club fare? Phil McNulty's Premier League predictions](https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss)
+- [Premier League chief says Fifa self-destructed over World Cup plan](https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss)
+- [Root's great challenge to finish captaincy story](https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Chepstow, Lingfield and Wolverhampton host today's live racing action](https://www.skysports.com/racing/news/12040/13573965/today-on-sky-sports-racing-chepstow-lingfield-and-wolverhampton-host-action)
-- [How can Hamilton and Ferrari turbocharge a title challenge?](https://www.skysports.com/f1/news/12040/13573081/lewis-hamilton-what-driver-and-ferrari-team-need-to-do-to-launch-full-f1-title-challenge-to-mercedes-from-dutch-gp)
-- [Rugby's greatest rivalry? The history of All Blacks vs Springboks](https://www.skysports.com/rugby-union/news/12040/13571891/new-zealand-vs-south-africa-live-on-sky-sports-the-history-of-rugbys-greatest-rivalry-ahead-of-four-test-series)
+- [Arteta: We want to be the best club in the world](https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world)
+- [Gauff impresses in win over Li to make Cincinnati Open last 16](https://www.skysports.com/tennis/news/12040/13574433/cincinnati-open-coco-gauff-impresses-in-win-over-ann-li-to-make-last-16-as-elina-svitolina-pulls-out-injured)
+- ['Disappointed' Peters: 'Just not good enough from Hull KR in Warrington loss'](https://www.skysports.com/rugby-league/live-blog/12040/13573960/hull-kr-v-warrington-wolves-live-super-league-updates-videos-analysis-scores-from-sewell-group-craven-park)
 
 ### 🏅 The Guardian Sport
-- [Jeanie Buss reportedly attempting to halt her siblings’ attempt to sell remaining stake in Lakers](https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers)
-- [Enzo Maresca’s Manchester City opener was startlingly bad](https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad)
-- [Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan](https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour)
+- [Israel withdraws support for embattled Fifa president Gianni Infantino](https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino)
+- [Brewers shell Mariners 22-0, tied for largest shutout win in 139 years](https://www.theguardian.com/sport/2026/aug/18/brewers-mariners-22-0-modern-era-shutout-record)
+- [Multiple brawls overshadow Saints-Cowboys joint practice session](https://www.theguardian.com/sport/2026/aug/18/ronnie-bell-overheating-saints-cowboys-joint-practice-fights)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 25°C / Low 19°C &nbsp;|&nbsp; Humidity 78%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,163**
-vs yesterday's close: 🔴 ▼ $-328 (-0.51%)
-Trend: 📈 Above 7d MA by 1.1%
+**$64,308**
+vs yesterday's close: 🔴 ▼ $-378 (-0.58%)
+Trend: ➡️ Flat around 7d MA (+1.0%)
 
 ### 🇺🇸 S&P 500
-**7,785.8**
-vs previous close: 🔴 ▼ -13.2 (-0.17%)
-Trend: ➡️ Flat around 7d MA (+0.4%)
+**7,691.8**
+vs previous close: 🔴 ▼ -53.3 (-0.69%)
+Trend: ➡️ Flat around 7d MA (-0.8%)
 
 ---
 
-<sub>Last updated: 2026-08-18 06:27 BST</sub>
+<sub>Last updated: 2026-08-19 06:28 BST</sub>
