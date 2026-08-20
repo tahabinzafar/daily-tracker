@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 19 August 2026
+## 📅 Thursday, 20 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 15°C) — Patchy rain nearby
-High 24°C / Low 17°C &nbsp;|&nbsp; Humidity 71%
+**15°C** (feels like 13°C) — Clear 
+High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 76%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Sacked Ukrainian defence minister calls for presidential election](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
-- [Three dead after family get into difficulty in sea](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
-- ['Everyone in for Christmas' - Burnham unveils rough sleeping plan](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
+- [Prince Harry and Meghan moving back to UK later this month](https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss)
+- [Harry and Meghan are experts in surprise - but is their UK return forever?](https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss)
+- [Russia launches missile strikes on Kyiv and surrounding region, killing at least eight](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Lebanon no longer a safe haven for former Syrian regime officials](https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss)
-- [Former US official calls shift in relations with Syria ‘surreal’](https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss)
-- [South Korea, US scale back annual military drills after Trump’s order](https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss)
+- [Exclusive: Pentagon sends ‘political loyalty’ survey to US allies](https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss)
+- [At least 6 killed in multiple Russian missile strikes across Ukraine](https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss)
+- [Trump vows ‘economic warfare’ on countries helping Iran](https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)
-- [Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered](https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident)
-- [Moroccan police arrest more than 100 people attempting to enter Ceuta](https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta)
+- [More than 100 dead after goldmine collapses in Central African Republic](https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic)
+- [Five Americans among seven killed in safari helicopter crash in Kenya](https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash)
+- [Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn](https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [How will your club fare? Phil McNulty's Premier League predictions](https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss)
-- [Premier League chief says Fifa self-destructed over World Cup plan](https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss)
-- [Root's great challenge to finish captaincy story](https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss)
+- [How Root brought welcome calm on return as England captain](https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss)
+- [Athletics coach believed missing is in jail for sexual assault](https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss)
+- [Aguero and Shearer star in best opening-round debuts](https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Arteta: We want to be the best club in the world](https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world)
-- [Gauff impresses in win over Li to make Cincinnati Open last 16](https://www.skysports.com/tennis/news/12040/13574433/cincinnati-open-coco-gauff-impresses-in-win-over-ann-li-to-make-last-16-as-elina-svitolina-pulls-out-injured)
-- ['Disappointed' Peters: 'Just not good enough from Hull KR in Warrington loss'](https://www.skysports.com/rugby-league/live-blog/12040/13573960/hull-kr-v-warrington-wolves-live-super-league-updates-videos-analysis-scores-from-sewell-group-craven-park)
+- [Who will win title? Will Max leave Red Bull? - Key questions as F1 returns](https://www.skysports.com/f1/news/12040/13574080/formula-1-who-will-win-the-title-will-max-verstappen-leave-red-bull-key-questions-and-predictions-from-karun-chandhok-as-2026-season-resumes)
+- [England skittle Pakistan at Headingley on Root's return as Test captain](https://www.skysports.com/cricket/news/12040/13574818/england-skittle-pakistan-for-171-on-joe-roots-return-as-test-captain-with-ollie-robinson-and-josh-tongue-taking-five-wicket-hauls-at-headingley)
+- [Woman struggled to speak about alleged abuse by Dott, court told](https://www.skysports.com/snooker/news/12040/13574834/woman-struggled-to-speak-about-alleged-abuse-by-graeme-dott-court-told)
 
 ### 🏅 The Guardian Sport
-- [Israel withdraws support for embattled Fifa president Gianni Infantino](https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino)
-- [Brewers shell Mariners 22-0, tied for largest shutout win in 139 years](https://www.theguardian.com/sport/2026/aug/18/brewers-mariners-22-0-modern-era-shutout-record)
-- [Multiple brawls overshadow Saints-Cowboys joint practice session](https://www.theguardian.com/sport/2026/aug/18/ronnie-bell-overheating-saints-cowboys-joint-practice-fights)
+- [Fifth Fifa vice-president turns against Infantino, saying he has ‘lost confidence’ in him](https://www.theguardian.com/football/2026/aug/19/fifth-fifa-vice-president-turns-against-infantino-saying-he-has-lost-confidence-in-him)
+- [Dallas Wings’ No 1 overall pick Azzi Fudd ruled out for remainder of season](https://www.theguardian.com/sport/2026/aug/19/azzi-fudd-knee-injury-dallas-wings-wnba-season)
+- [Teenage ace Rafael Jódar endures defeat by Cobolli but his star is rising](https://www.theguardian.com/sport/2026/aug/19/jodar-beaten-cobolli-teenager-continues-impress-cincinnati-open-tennis)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 24°C / Low 17°C &nbsp;|&nbsp; Humidity 71%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,308**
-vs yesterday's close: 🔴 ▼ $-378 (-0.58%)
-Trend: ➡️ Flat around 7d MA (+1.0%)
+**$69,608**
+vs yesterday's close: 🟢 ▲ +$317 (+0.46%)
+Trend: 📈 Above 7d MA by 6.6%
 
 ### 🇺🇸 S&P 500
-**7,691.8**
-vs previous close: 🔴 ▼ -53.3 (-0.69%)
-Trend: ➡️ Flat around 7d MA (-0.8%)
+**7,708.0**
+vs previous close: 🟢 ▲ +16.2 (+0.21%)
+Trend: ➡️ Flat around 7d MA (-0.5%)
 
 ---
 
-<sub>Last updated: 2026-08-19 06:28 BST</sub>
+<sub>Last updated: 2026-08-20 06:28 BST</sub>
