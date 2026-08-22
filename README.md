@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 21 August 2026
+## 📅 Saturday, 22 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 12°C) — Clear 
-High 21°C / Low 13°C &nbsp;|&nbsp; Humidity 78%
+**13°C** (feels like 11°C) — Clear 
+High 22°C / Low 13°C &nbsp;|&nbsp; Humidity 67%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 21°C / Low 13°C &nbsp;|&nbsp; Humidity 78%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [El Niño weather system set to be 'strongest in living memory', warns Met Office](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
-- [Will Harry's return heal rift with his brother? Don't hold your breath](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
-- [Meghan could return to acting once back in UK](https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss)
+- [Canada says it will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
+- [Girl, 6, dies days after Shoreham sea tragedy killed three family members](https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss)
+- [TikTok to pay $400m to US in one of largest child privacy settlements](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Dozens of migrants land on Spanish coast surprising beachgoers](https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss)
-- [Hong Kong Tiananmen activists found guilty of national security charges](https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss)
-- [Pakistan’s Imran Khan back to prison after evaluation at hospital](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+- [Inundated Philippine communities seek answers over flood control funds](https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss)
+- [Palestinian teen shot and killed in West Bank attack, UN responds](https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss)
+- [Nigeria and the Sahel: A growing security divide](https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal](https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement)
@@ -39,19 +39,19 @@ High 21°C / Low 13°C &nbsp;|&nbsp; Humidity 78%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Brook as talented as Gower and Pietersen but not ready to be captain - Agnew](https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss)
-- [McInnes' Rangers serve up stodgy 12-course banquet of huff and puff](https://www.bbc.co.uk/sport/football/articles/c98v73n24j2o?at_medium=RSS&at_campaign=rss)
-- [Liverpool have £50m bid rejected for Brighton's Minteh](https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss)
+- [Swaggering Arsenal want title attack, not defence](https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss)
+- [Lessons learned, but Coventry's top-flight return about more than result](https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss)
+- [Arsenal start title defence with comfortable win over Coventry](https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Football is back (with no hydration breaks!) - How to watch the new season](https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now)
-- ['Here we go!' - Romano helps Alcaraz announce US Open comeback](https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows)
-- [Kevin Blake's 33/1 Nunthorpe pick: York day three tips](https://www.skysports.com/racing/news/12040/13575113/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-picks-out-33-1-nunthorpe-stakes-fancy-on-day-three)
+- [Papers: Atletico Madrid ready to sell Alvarez to Arsenal](https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk)
+- [Tottenham latest: De Zerbi says Bergvall is '100 per cent' staying at Spurs](https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [Leopards thrash Bulls to help play-off contention](https://www.skysports.com/watch/video/13575647/leigh-leopards-62-10-bradford-bulls-rugby-super-league-highlights)
 
 ### 🏅 The Guardian Sport
-- [Premier League returns and Arsenal sense opportunity with rivals in flux](https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity)
-- [Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna](https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback)
-- [‘Here we go’: Carlos Alcaraz confirms US Open return after four-month injury absence](https://www.theguardian.com/sport/2026/aug/20/carlos-alcaraz-us-open-return-wrist-injury)
+- [Arsenal sweep Coventry aside to start Premier League title defence in style](https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report)
+- [From Showtime to Insurance Time: how the LA Lakers became a $12.5bn hedge fund play](https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba)
+- [Former 1500m world champion Jenny Simpson steps away from running after cardiac arrest](https://www.theguardian.com/sport/2026/aug/21/former-1500m-world-champion-jenny-simpson-steps-away-from-running-after-cardiac-arrest)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 21°C / Low 13°C &nbsp;|&nbsp; Humidity 78%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$75,228**
-vs yesterday's close: 🟢 ▲ +$2,207 (+3.02%)
-Trend: 📈 Above 7d MA by 11.4%
+**$76,906**
+vs yesterday's close: 🔴 ▼ $-1,412 (-1.80%)
+Trend: 📈 Above 7d MA by 10.0%
 
 ### 🇺🇸 S&P 500
-**7,641.2**
-vs previous close: 🔴 ▼ -66.8 (-0.87%)
-Trend: 📉 Below 7d MA by 1.2%
+**7,674.4**
+vs previous close: 🟢 ▲ +33.2 (+0.43%)
+Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ---
 
-<sub>Last updated: 2026-08-21 06:31 BST</sub>
+<sub>Last updated: 2026-08-22 06:25 BST</sub>
