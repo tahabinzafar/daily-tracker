@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 22 August 2026
+## 📅 Sunday, 23 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 11°C) — Clear 
-High 22°C / Low 13°C &nbsp;|&nbsp; Humidity 67%
+**15°C** (feels like 14°C) — Overcast 
+High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 67%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 22°C / Low 13°C &nbsp;|&nbsp; Humidity 67%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Canada says it will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
-- [Girl, 6, dies days after Shoreham sea tragedy killed three family members](https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss)
-- [TikTok to pay $400m to US in one of largest child privacy settlements](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
+- [Mayors to get powers to overrule local councils on planning decisions](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
+- [Two police officers among seven killed in wrong-way car crash](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
+- [Struggling households need more help with bills, energy industry says](https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Inundated Philippine communities seek answers over flood control funds](https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss)
-- [Palestinian teen shot and killed in West Bank attack, UN responds](https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss)
-- [Nigeria and the Sahel: A growing security divide](https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss)
+- [‘You just can’t trust Trump’: Canadian premiers fire back in trade war](https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss)
+- [In rural Chad, solar kiosks bring healthcare closer](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss)
+- [Chinese robot beats Usain Bolt’s 100m world record at humanoid games](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal](https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement)
@@ -39,19 +39,19 @@ High 22°C / Low 13°C &nbsp;|&nbsp; Humidity 67%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Swaggering Arsenal want title attack, not defence](https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss)
-- [Lessons learned, but Coventry's top-flight return about more than result](https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss)
-- [Arsenal start title defence with comfortable win over Coventry](https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss)
+- [Hull shock Man Utd with dream Premier League return](https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss)
+- [Brentford beat lacklustre Spurs in comfortable opening day win](https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss)
+- [Late drama as Ipswich stun Sunderland](https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Papers: Atletico Madrid ready to sell Alvarez to Arsenal](https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk)
-- [Tottenham latest: De Zerbi says Bergvall is '100 per cent' staying at Spurs](https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [Leopards thrash Bulls to help play-off contention](https://www.skysports.com/watch/video/13575647/leigh-leopards-62-10-bradford-bulls-rugby-super-league-highlights)
+- [Saints keep Super League play-off hopes alive over 10-man Castleford](https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win)
+- [St Helens beat Castleford despite Hastings red card](https://www.skysports.com/watch/video/13576143/st-helens-v-castleford-hls-mxf)
+- [McIlroy pulls himself back into contention at BMW Championship](https://www.skysports.com/golf/news/12040/13576081/rory-mcilroy-world-no-2-pulls-himself-back-into-contention-at-the-bmw-championship-after-five-under-par-third-round)
 
 ### 🏅 The Guardian Sport
-- [Arsenal sweep Coventry aside to start Premier League title defence in style](https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report)
-- [From Showtime to Insurance Time: how the LA Lakers became a $12.5bn hedge fund play](https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba)
-- [Former 1500m world champion Jenny Simpson steps away from running after cardiac arrest](https://www.theguardian.com/sport/2026/aug/21/former-1500m-world-champion-jenny-simpson-steps-away-from-running-after-cardiac-arrest)
+- [Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday](https://www.theguardian.com/football/2026/aug/22/meet-the-new-spurs-same-as-the-old-spurs)
+- [Browns QB Deshaun Watson laments ‘disrespectful’ booing by team’s own fans](https://www.theguardian.com/sport/2026/aug/22/browns-qb-deshaun-watson-says-being-booed-by-teams-own-fans-is-disrespectful)
+- [José Mourinho marks Real Madrid return with late drama and touch of humility | Sid Lowe](https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 22°C / Low 13°C &nbsp;|&nbsp; Humidity 67%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,906**
-vs yesterday's close: 🔴 ▼ $-1,412 (-1.80%)
-Trend: 📈 Above 7d MA by 10.0%
+**$76,216**
+vs yesterday's close: 🔴 ▼ $-865 (-1.12%)
+Trend: 📈 Above 7d MA by 6.0%
 
 ### 🇺🇸 S&P 500
 **7,674.4**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ---
 
-<sub>Last updated: 2026-08-22 06:25 BST</sub>
+<sub>Last updated: 2026-08-23 06:28 BST</sub>
