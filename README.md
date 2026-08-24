@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 23 August 2026
+## 📅 Monday, 24 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 14°C) — Overcast 
-High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 67%
+**15°C** (feels like 13°C) — Overcast 
+High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 67%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 67%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Mayors to get powers to overrule local councils on planning decisions](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
-- [Two police officers among seven killed in wrong-way car crash](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
-- [Struggling households need more help with bills, energy industry says](https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss)
+- [Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+- [Families of two police officers killed in crash say they were heroes](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
+- [How easy is it to find an NHS dentist? It depends where you live](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [‘You just can’t trust Trump’: Canadian premiers fire back in trade war](https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss)
-- [In rural Chad, solar kiosks bring healthcare closer](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss)
-- [Chinese robot beats Usain Bolt’s 100m world record at humanoid games](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
+- [Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m](https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss)
+- [Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc](https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss)
+- [‘We know this movie’: Iran mocks latest US sanctions](https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Landslide at waste mound in Guinea capital kills 30, government says](https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens)
 - [US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal](https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement)
 - [More than 100 dead after goldmine collapses in Central African Republic](https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic)
-- [Five Americans among seven killed in safari helicopter crash in Kenya](https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Hull shock Man Utd with dream Premier League return](https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss)
-- [Brentford beat lacklustre Spurs in comfortable opening day win](https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss)
-- [Late drama as Ipswich stun Sunderland](https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo?at_medium=RSS&at_campaign=rss)
+- [Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle](https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss)
+- [What will it take to stop the England hangovers?](https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss)
+- [Norris and McLaren 'don't have car' to fight for title despite Dutch GP win](https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Saints keep Super League play-off hopes alive over 10-man Castleford](https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win)
-- [St Helens beat Castleford despite Hastings red card](https://www.skysports.com/watch/video/13576143/st-helens-v-castleford-hls-mxf)
-- [McIlroy pulls himself back into contention at BMW Championship](https://www.skysports.com/golf/news/12040/13576081/rory-mcilroy-world-no-2-pulls-himself-back-into-contention-at-the-bmw-championship-after-five-under-par-third-round)
+- [Today on Sky Sports Racing: Exciting Camarda Rc returns at Windsor](https://www.skysports.com/racing/news/12040/13576203/today-on-sky-sports-racing-exciting-debut-winner-camarda-rc-returns-at-windsor)
+- [Is Fils favourite to win US Open? Frenchman beats Tiafoe to win Cincinnati title](https://www.skysports.com/tennis/news/12040/13576338/cincinnati-open-arthur-fils-defeats-frances-tiafoe-in-historic-atp-masters-1000-final-between-two-black-players)
+- [Late Clark magic holds off McIlroy and Cantlay in PGA Tour thriller](https://www.skysports.com/golf/news/12040/13576414/bmw-championship-rory-mcilroy-third-as-wyndham-clark-blows-big-lead-before-closing-out-pga-tour-victory)
 
 ### 🏅 The Guardian Sport
-- [Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday](https://www.theguardian.com/football/2026/aug/22/meet-the-new-spurs-same-as-the-old-spurs)
-- [Browns QB Deshaun Watson laments ‘disrespectful’ booing by team’s own fans](https://www.theguardian.com/sport/2026/aug/22/browns-qb-deshaun-watson-says-being-booed-by-teams-own-fans-is-disrespectful)
-- [José Mourinho marks Real Madrid return with late drama and touch of humility | Sid Lowe](https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga)
+- [Frustrated Lewis Hamilton claims Ferrari strategy cost him F1 Dutch GP podium](https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium)
+- [Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race](https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc)
+- [Enes Kanter Freedom ejected from WNBA game after confrontation with Natasha Cloud](https://www.theguardian.com/sport/2026/aug/23/enes-kanter-wnba-ejected-natasha-cloud)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 24°C / Low 14°C &nbsp;|&nbsp; Humidity 67%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,216**
-vs yesterday's close: 🔴 ▼ $-865 (-1.12%)
-Trend: 📈 Above 7d MA by 6.0%
+**$76,923**
+vs yesterday's close: 🔴 ▼ $-789 (-1.02%)
+Trend: 📈 Above 7d MA by 4.1%
 
 ### 🇺🇸 S&P 500
 **7,674.4**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ---
 
-<sub>Last updated: 2026-08-23 06:28 BST</sub>
+<sub>Last updated: 2026-08-24 06:37 BST</sub>
