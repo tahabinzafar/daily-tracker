@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 26 August 2026
+## 📅 Thursday, 27 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 19°C) — Partly cloudy 
-High 28°C / Low 18°C &nbsp;|&nbsp; Humidity 84%
+**22°C** (feels like 23°C) — Light rain shower
+High 23°C / Low 18°C &nbsp;|&nbsp; Humidity 77%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [How Dolly Parton told her life story through six iconic songs](https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss)
-- [NHS failing child sex abuse victims in adulthood, say psychiatrists](https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss)
-- [Winter energy prices expected to rise to three-year high](https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss)
+- [Watch: How the collapse of a glacier caused such devastation](https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss)
+- [Uefa pursuing criminal legal action against Infantino](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
+- [Convicted Bosnian Serb war criminal Mladić dies aged 84](https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Iran bets economic pain will pressure Trump in game of ‘chicken’](https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss)
-- [Fireworks factory goes up in smoke in Mexico](https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss)
-- [Massive natural gas leak in Wisconsin puts community on alert](https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss)
+- [Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others](https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others?traffic_source=rss)
+- [LIVE: Barcelona vs Athletic Club – La Liga](https://www.aljazeera.com/sports/liveblog/2026/8/27/live-barcelona-vs-athletic-club-la-liga?traffic_source=rss)
+- [Ratko Mladic, ‘Butcher of Bosnia’, dies aged 84](https://www.aljazeera.com/video/newsfeed/2026/8/27/ratko-mladic-butcher-of-bosnia-dies-aged-84?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Prince Harry quits board of wildlife charity after rangers’ human rights abuses](https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses)
-- [Video shows hundreds held captive after Nigeria mosque kidnapping](https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping)
-- [Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads](https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa)
+- [UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’](https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism)
+- [South African police arrest two Thai men for allegedly smuggling parrot eggs](https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs)
+- [Mpox is back – and in new countries. How can this outbreak be contained?](https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [O'Neill takes responsibility with nowhere to hide for Celtic](https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss)
-- [Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing](https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss)
-- [Man Utd's midfield spending is done - now for a left-back?](https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss)
+- [Uefa pursuing criminal legal action against Infantino](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
+- [Carragher facing bankruptcy petition over unpaid tax claim](https://www.bbc.co.uk/sport/football/articles/cr4vl0lw4qwo?at_medium=RSS&at_campaign=rss)
+- [Villa sign Goretzka - what went wrong at Bayern and what will he bring?](https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [St Helens legend Lomax announces retirment at end of season](https://www.skysports.com/rugby-league/news/12040/13577194/jonny-lomax-st-helens-legend-to-retire-at-end-of-2026-super-league-season)
-- [Williams and Alcaraz reach mixed doubles quarters before exit](https://www.skysports.com/tennis/news/12040/13577085/serena-williams-and-carlos-alcaraz-exit-us-open-mixed-doubles-in-quarter-finals-top-seeds-novak-djokovic-and-aryna-sabalenka-out-in-first-round)
-- [Leeds earn second win at Forest in three days in Carabao Cup](https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/577433)
+- [Jablonec vs Rangers LIVE!](https://www.skysports.com/football/fk-jablonec-vs-rangers/live/577512)
+- [Tottenham sign Marmoush on loan with obligation to buy](https://www.skysports.com/football/news/12040/13577796/omar-marmoush-transfer-news-tottenham-sign-man-city-forward-on-loan-with-60m-obligation-to-buy)
+- [Kim joins Rangers in £8.5m deal](https://www.skysports.com/football/news/12040/13576566/rangers-transfer-news-minsu-kim-joins-from-girona160as-ibrox-clubs-12th-summer-signing)
 
 ### 🏅 The Guardian Sport
-- [Serena Williams thrills New York crowd on US Open return with Alcaraz](https://www.theguardian.com/sport/2026/aug/26/serena-williams-carlos-alcaraz-us-open-tennis-mixed-doubles)
-- [Chicago Sky ban Enes Kanter Freedom from home games, calling him ‘a potential threat’](https://www.theguardian.com/sport/2026/aug/26/enes-kanter-freedom-chicago-sky-ban-wnba-natasha-cloud)
-- [Olympic hero Alysa Liu to sit out figure skating season before 2027 return](https://www.theguardian.com/sport/2026/aug/25/olympic-hero-alysa-liu-to-sit-out-figure-skating-season-before-2027-return)
+- [Uefa Champions League 2026-27: league phase draw – live](https://www.theguardian.com/football/live/2026/aug/27/uefa-champions-league-2026-27-league-phase-draw-live)
+- [NFL finally calls time on beleaguered Pro Bowl after years of format changes](https://www.theguardian.com/sport/2026/aug/26/nfl-pro-bowl-games-scrapped-all-star-event)
+- [Muchová and Menšík win $1m US Open mixed doubles title in late-night thriller](https://www.theguardian.com/sport/2026/aug/27/muchova-mensik-us-open-mixed-doubles-title-bencic-cobolli)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 28°C / Low 18°C &nbsp;|&nbsp; Humidity 84%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$79,019**
-vs yesterday's close: 🟢 ▲ +$508 (+0.65%)
-Trend: 📈 Above 7d MA by 1.9%
+**$80,399**
+vs yesterday's close: 🟢 ▲ +$1,381 (+1.75%)
+Trend: 📈 Above 7d MA by 2.3%
 
 ### 🇺🇸 S&P 500
-**7,677.3**
-vs previous close: 🟢 ▲ +24.4 (+0.32%)
-Trend: ➡️ Flat around 7d MA (-0.1%)
+**7,723.5**
+vs previous close: 🟢 ▲ +47.8 (+0.62%)
+Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ---
 
-<sub>Last updated: 2026-08-26 06:33 BST</sub>
+<sub>Last updated: 2026-08-27 17:06 BST</sub>
