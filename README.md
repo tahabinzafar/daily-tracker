@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 28 August 2026
+## 📅 Saturday, 29 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**22°C** (feels like 17°C) — Overcast 
-High 25°C / Low 16°C &nbsp;|&nbsp; Humidity 51%
+**16°C** (feels like 15°C) — Light rain
+High 20°C / Low 16°C &nbsp;|&nbsp; Humidity 87%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [What we know about the 33 British nationals missing in Nepal](https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss)
-- [Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says](https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss)
-- [BBC tracks one week of Israeli settler violence in occupied West Bank](https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss)
+- [97-year-old woman rescued after Nepali floods looked like 'a warrior'](https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss)
+- [Christian festival 'devastated' as man dies after sign falls](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
+- [Burnham's summer tour is over - now he has to prove himself in Parliament](https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Kenyan police fire tear gas at Nairobi protest against import duty hike](https://www.aljazeera.com/news/2026/8/28/kenyan-police-fire-tear-gas-at-nairobi-protest-against-import-duty-hike?traffic_source=rss)
-- [The two types of Israeli settlers](https://www.aljazeera.com/video/newsfeed/2026/8/28/the-two-types-of-israeli-settlers?traffic_source=rss)
-- [LIVE: Crystal Palace vs Manchester City – Premier League](https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss)
+- [Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports](https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss)
+- [Russian attack on warehouse near Ukraine’s Kyiv kills at least 27](https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss)
+- [Far-right commentator Milo Yiannopoulos detained by ICE](https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid](https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid)
@@ -39,19 +39,19 @@ High 25°C / Low 16°C &nbsp;|&nbsp; Humidity 51%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Departing Watkins apologised for refusing to play - Emery](https://www.bbc.co.uk/sport/football/articles/ckg7z1wyn1no?at_medium=RSS&at_campaign=rss)
-- [Division, drama and power - what next for Infantino and Uefa?](https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss)
-- [I'd hate to finish career like this - O'Sullivan](https://www.bbc.co.uk/sport/snooker/articles/cp93zj22v3zo?at_medium=RSS&at_campaign=rss)
+- [Liverpool agree £123m deal for PSG's Barcola](https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss)
+- [Slow start makes me want to stay - Norris extends McLaren deal to 2030](https://www.bbc.co.uk/sport/formula1/articles/cj06j11ej4lo?at_medium=RSS&at_campaign=rss)
+- [Lampard 'somewhere in the middle' of Mourinho and Ancelotti](https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Itauma slapped after pushing Hrgovic off stage at fiery weigh-in](https://www.skysports.com/boxing/news/12040/13578198/moses-itauma-vs-filip-hrgovic-weigh-in-turns-heated-with-push-and-slap-after-final-face-off-for-ibf-heavyweight-world-title-fight)
-- [Europa League and Conference League draws: British teams learn opponents](https://www.skysports.com/football/news/12040/13578045/europa-league-and-conference-league-draws-celtic-bournemouth-sunderland-crystal-palace-brighton-hearts-learn-opponents)
-- [Mayer and Cameron split by security after clash at weigh-in](https://www.skysports.com/boxing/news/12040/13578101/mayer-vs-cameron-mikaela-mayer-and-chantelle-cameron-split-by-security-after-clashing-at-fiery-weigh-in)
+- [Champions League fixture schedule confirmed](https://www.skysports.com/football/news/12040/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe)
+- [Derby, Wolves, Middlesbrough in action - EFL LIVE on Sky!](https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two)
+- [Start delayed at Lord's as rain halts England's dominance against Pakistan LIVE!](https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win)
 
 ### 🏅 The Guardian Sport
-- [Vulnerable Sabalenka and wide-open men’s draw set stage for US Open drama](https://www.theguardian.com/sport/2026/aug/28/vulnerable-sabalenka-and-wide-open-mens-draw-set-stage-for-us-open-drama)
-- [College football is booming, chaotic and more confusing than ever](https://www.theguardian.com/sport/2026/aug/28/college-football-2026-season-preview-indiana-nil-transfer-portal)
-- [Emery and Watkins ‘shed tears’ saying goodbye; transfer latest; Celtic and Rangers punished: football – live](https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live)
+- [Shaky Sabalenka and wide-open men’s draw set stage for US Open drama](https://www.theguardian.com/sport/2026/aug/28/vulnerable-sabalenka-and-wide-open-mens-draw-set-stage-for-us-open-drama)
+- [‘Utterly baffled’: the 17-year-old girl who struck out Babe Ruth and Lou Gehrig](https://www.theguardian.com/sport/2026/aug/29/babe-ruth-lou-gehrig-strikeouts-jackie-mitchell)
+- [Liverpool v Nottingham Forest: Premier League – live](https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 25°C / Low 16°C &nbsp;|&nbsp; Humidity 51%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,720**
-vs yesterday's close: 🔴 ▼ $-2,548 (-3.17%)
-Trend: ➡️ Flat around 7d MA (-0.9%)
+**$77,681**
+vs yesterday's close: 🔴 ▼ $-140 (-0.18%)
+Trend: 📉 Below 7d MA by 1.1%
 
 ### 🇺🇸 S&P 500
-**7,704.5**
-vs previous close: 🔴 ▼ -26.5 (-0.34%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**7,731.0**
+vs previous close: 🟢 ▲ +55.3 (+0.72%)
+Trend: ➡️ Flat around 7d MA (+0.7%)
 
 ---
 
-<sub>Last updated: 2026-08-28 18:09 BST</sub>
+<sub>Last updated: 2026-08-29 12:28 BST</sub>
