@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Sunday, 30 August 2026
+## 📅 Monday, 31 August 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 17°C) — Overcast 
-High 23°C / Low 15°C &nbsp;|&nbsp; Humidity 68%
+**17°C** (feels like 14°C) — Patchy rain nearby
+High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 71%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [PC Harper's killers to stay in jail as PM announces changes to early release scheme](https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss)
-- [Burnham gets the early prison release changes he wanted - but at what cost?](https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss)
-- [Church names pastor killed by falling sign at Christian festival](https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss)
+- [Early release scheme could see dangerous criminals released, Conservatives warn](https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss)
+- [US and Iran trade strikes for first time in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+- [Dolly Parton laid to rest alongside husband in Nashville](https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Chelsea sign Argentinian goalkeeper Emiliano Martinez from Aston Villa](https://www.aljazeera.com/sports/2026/8/30/chelsea-sign-argentina-goalkeeper-emiliano-martinez-from-aston-villa?traffic_source=rss)
-- [LIVE: Chelsea vs Brighton – Premier League](https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss)
-- [Photos: Nepal issues alerts as region’s flash flood death toll reaches 750](https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss)
+- [The looming failure of Operation Economic Outcast](https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss)
+- [Nepal tunnel traps hinder flood rescue: How many are dead or missing?](https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss)
+- [After the flash flood disaster, here is what Nepal really needs](https://www.aljazeera.com/opinions/2026/8/31/after-the-flash-flood-disaster-here-is-what-nepal-really-needs?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)
+- [Morocco not to blame for Ceuta border breach, says Spanish PM](https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez)
+- [People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)
 - [Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid](https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid)
-- [What could Meta’s US settlement mean around the world – and what now for other claims against firm?](https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Everton call off Armstrong sale after fan backlash](https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss)
-- [Martinez is eighth Chelsea-Villa deal in four years](https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss)
-- [Heavyweight Itauma handed harsh world-title lesson](https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss)
+- [The transfers to watch before window closes](https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss)
+- [Djokovic in tears during US Open first-round exit](https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss)
+- [Driven & hungry Rashford a Man Utd asset - Maguire](https://www.bbc.co.uk/sport/football/articles/c24j71ep0lno?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Spurs and Everton in advanced talks over Ndiaye and Richarlison](https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals)
-- [England lose Lawrence early but lead Pakistan by more than 360 LIVE!](https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win)
-- [Chelsea sign Martinez in £7.5m deal from Villa](https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa)
+- [How Scheffler broke another Tiger record to cap off dominant FedExCup season](https://www.skysports.com/golf/news/12040/13578963/scottie-scheffler-overtakes-tiger-woods-in-pga-tour-career-money-list-at-tour-championship-to-cap-off-dominant-fedexcup-season)
+- ['It's like the first day of school' - Earps on being part of LCL's new superstar squad](https://www.skysports.com/football/news/12040/13570623/mary-earps-exclusive-london-city-lionesses-goalkeeper-on-busy-summer-transfer-window-and-facing-man-utd-in-wsl-opener)
+- ['He belongs at the top of the game' - Fery faces world No 14 Musetti at US Open](https://www.skysports.com/tennis/news/12040/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1)
 
 ### 🏅 The Guardian Sport
-- [Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea](https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea)
-- [William Jewell running back MicahJo Barnett dies after medical emergency during game](https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown)
-- [Filip Hrgovic stuns Britain’s Moses Itauma to claim IBF world heavyweight title](https://www.theguardian.com/sport/2026/aug/30/filip-hrgovic-stuns-moses-itauma-ibf-world-boxing-heavyweight-title)
+- [All-time great Aaron Donald comes out of retirement to rejoin stacked LA Rams](https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams)
+- [Ailing Novak Djokovic falls in US Open first round for earliest grand slam exit in 20 years](https://www.theguardian.com/sport/2026/aug/31/novak-djokovic-defeated-mariano-navone-us-open-first-round-earliest-exit-in-20-years)
+- [Venus Williams bows out after 2am following latest start in US Open history](https://www.theguardian.com/sport/2026/aug/31/venus-williams-sofia-kenin-us-open-first-round)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 23°C / Low 15°C &nbsp;|&nbsp; Humidity 68%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,015**
-vs yesterday's close: 🔴 ▼ $-210 (-0.27%)
-Trend: ➡️ Flat around 7d MA (-0.9%)
+**$78,578**
+vs yesterday's close: 🟢 ▲ +$920 (+1.18%)
+Trend: ➡️ Flat around 7d MA (-0.0%)
 
 ### 🇺🇸 S&P 500
 **7,711.8**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-08-30 11:16 BST</sub>
+<sub>Last updated: 2026-08-31 12:21 BST</sub>
