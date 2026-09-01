@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Monday, 31 August 2026
+## 📅 Tuesday, 01 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**17°C** (feels like 14°C) — Patchy rain nearby
-High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 71%
+**16°C** (feels like 13°C) — Partly cloudy 
+High 23°C / Low 13°C &nbsp;|&nbsp; Humidity 62%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Early release scheme could see dangerous criminals released, Conservatives warn](https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss)
-- [US and Iran trade strikes for first time in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
-- [Dolly Parton laid to rest alongside husband in Nashville](https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss)
+- [Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
+- [Man charged with murder of woman and girl after fatal Teesside house fire](https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss)
+- ['I've never been to Afghanistan': Six million deportees forced to start over under the Taliban](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [The looming failure of Operation Economic Outcast](https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss)
-- [Nepal tunnel traps hinder flood rescue: How many are dead or missing?](https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss)
-- [After the flash flood disaster, here is what Nepal really needs](https://www.aljazeera.com/opinions/2026/8/31/after-the-flash-flood-disaster-here-is-what-nepal-really-needs?traffic_source=rss)
+- [Football power struggle caused FIFA World Cup plan fallout, says Kushner](https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss)
+- [Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv](https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss)
+- [Heavy monsoon rains submerge Islamabad roads and underground](https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [South African airline defends dramatic low-level flyby before rugby union clash](https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand)
+- [Countries legally obliged to consider slavery reparations, says UN committee](https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee)
 - [Morocco not to blame for Ceuta border breach, says Spanish PM](https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez)
-- [People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)
-- [Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid](https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [The transfers to watch before window closes](https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss)
-- [Djokovic in tears during US Open first-round exit](https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss)
-- [Driven & hungry Rashford a Man Utd asset - Maguire](https://www.bbc.co.uk/sport/football/articles/c24j71ep0lno?at_medium=RSS&at_campaign=rss)
+- [Arteta joins elite 250 club - but where does he rank?](https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss)
+- [Man City open talks with Chelsea over Fernandez move](https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss)
+- [What does Norris deal mean for Piastri? F1 Q&A](https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [How Scheffler broke another Tiger record to cap off dominant FedExCup season](https://www.skysports.com/golf/news/12040/13578963/scottie-scheffler-overtakes-tiger-woods-in-pga-tour-career-money-list-at-tour-championship-to-cap-off-dominant-fedexcup-season)
-- ['It's like the first day of school' - Earps on being part of LCL's new superstar squad](https://www.skysports.com/football/news/12040/13570623/mary-earps-exclusive-london-city-lionesses-goalkeeper-on-busy-summer-transfer-window-and-facing-man-utd-in-wsl-opener)
-- ['He belongs at the top of the game' - Fery faces world No 14 Musetti at US Open](https://www.skysports.com/tennis/news/12040/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1)
+- [Today on Sky Sports Racing: Jessica chases first success at Wolverhampton](https://www.skysports.com/racing/news/12040/13579352/today-on-sky-sports-racing-brighton-lingfield-ripon-and-wolverhampton-feature-live-on-tuesday)
+- [Every Deadline Day deal....](https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more)
+- [Chelsea close to agreeing deal for Roma's Kone](https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way)
 
 ### 🏅 The Guardian Sport
-- [All-time great Aaron Donald comes out of retirement to rejoin stacked LA Rams](https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams)
-- [Ailing Novak Djokovic falls in US Open first round for earliest grand slam exit in 20 years](https://www.theguardian.com/sport/2026/aug/31/novak-djokovic-defeated-mariano-navone-us-open-first-round-earliest-exit-in-20-years)
-- [Venus Williams bows out after 2am following latest start in US Open history](https://www.theguardian.com/sport/2026/aug/31/venus-williams-sofia-kenin-us-open-first-round)
+- [Stefanos Tsitsipas says Nick Kyrgios’s cocaine ban was ‘pretty much expected’](https://www.theguardian.com/sport/2026/aug/31/stefanos-tsitsipas-says-nick-kyrgioss-cocaine-ban-was-pretty-much-expected)
+- [Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start](https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report)
+- [Who would fall in love with a fake NFL player? Plenty of sensible people](https://www.theguardian.com/sport/2026/aug/31/nfl-alleged-scam-daejon-love)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 71%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,578**
-vs yesterday's close: 🟢 ▲ +$920 (+1.18%)
-Trend: ➡️ Flat around 7d MA (-0.0%)
+**$77,982**
+vs yesterday's close: 🔴 ▼ $-571 (-0.73%)
+Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ### 🇺🇸 S&P 500
-**7,711.8**
-vs previous close: 🔴 ▼ -19.2 (-0.25%)
-Trend: ➡️ Flat around 7d MA (+0.4%)
+**7,686.1**
+vs previous close: 🔴 ▼ -25.6 (-0.33%)
+Trend: ➡️ Flat around 7d MA (-0.0%)
 
 ---
 
-<sub>Last updated: 2026-08-31 12:21 BST</sub>
+<sub>Last updated: 2026-09-01 10:45 BST</sub>
