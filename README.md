@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 02 September 2026
+## 📅 Thursday, 03 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 16°C) — Overcast 
-High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 64%
+**20°C** (feels like 18°C) — Overcast 
+High 27°C / Low 17°C &nbsp;|&nbsp; Humidity 76%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?](https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss)
-- [BBC travels inside occupied Lebanon as officials say Israel expanding positions](https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss)
-- [Four charged with murder after baby stabbed to death](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
+- [Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss)
+- [Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day](https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss)
+- [UN warns of 'supersized' El Niño as countries prepare for impact](https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Iran, US exchange new attacks: Who was hit in latest strikes?](https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss)
-- [Alex Eala cruises into US Open second round, top seed Zverev survives](https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss)
-- [Ed Markey wins: Key takeaways from Massachusetts primary election results](https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss)
+- [Photos: Symbolic funerals held in Nepal for missing flood victims](https://www.aljazeera.com/gallery/2026/9/3/photos-symbolic-funerals-held-in-nepal-for-missing-flood-victims?traffic_source=rss)
+- [Good Good Golf CEO, president quit amid advertisement controversy](https://www.aljazeera.com/sports/2026/9/3/good-good-golf-ceo-president-quit-amid-advertisement-controversy?traffic_source=rss)
+- [NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe](https://www.aljazeera.com/sports/2026/9/3/nba-fines-clippers-30m-suspends-several-executives-in-kawhi-leonard-probe?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [New constitution in Guinea-Bissau will undermine democracy, opponents say](https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections)
 - [Almost half of world’s farmers poisoned by pesticides every year, experts find](https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts)
 - [South African airline defends dramatic low-level flyby before rugby union clash](https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand)
-- [Countries legally obliged to consider slavery reparations, says UN committee](https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal](https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss)
-- [Have title contenders done enough in transfer window to challenge Arsenal?](https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss)
-- [Balogun has medical at Everton before abandoning move](https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss)
+- [Ashes ticket price increase 'really poor' - Vaughan](https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss)
+- [Ranking the most game-changing transfers in Premier League history](https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss)
+- ['What kind of question is that?' - Sabalenka spiky after ruthless win](https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Etienne chases first success at Bath](https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle)
-- ['Fans will crucify them' - Hakkinen issues warning over team orders in title battle](https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen)
-- ['I know what I have to work on' - Fery ready to take on best despite US Open exit](https://www.skysports.com/tennis/news/12040/13580206/us-open-britains-arthur-fery-admitted-he-still-has-plenty-to-work-on-after-his-new-york-debut-was-cut-short)
+- [Italian GP declared heat hazard race](https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza)
+- [Graffard's Drazinda faces Armor Supreme](https://www.skysports.com/racing/news/12040/13580265/today-on-sky-sports-racing-francis-henri-graffards-drazinda-faces-armor-supreme)
+- [Solheim Cup | Best winning moments!](https://www.skysports.com/watch/video/12961988/solheim-cup-best-winning-moments)
 
 ### 🏅 The Guardian Sport
-- [In-form Coco Gauff serves notice with assured start to US Open title pursuit](https://www.theguardian.com/sport/2026/sep/01/coco-gauff-zeynep-sonmez-us-open-first-round-tennis)
-- [Tiger Woods set for plea change in Florida DUI case after rollover crash](https://www.theguardian.com/sport/2026/sep/02/tiger-woods-change-plea-dui-florida-crash)
-- [Everton left with only one striker after Balogun deal collapses late on deadline day](https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales)
+- [Clippers docked five first-round draft picks and fined $30m over Kawhi Leonard scandal](https://www.theguardian.com/sport/2026/sep/02/la-clippers-kawhi-leonard-fine-salary-cap-nba)
+- [Columbia’s Michael Zheng comes full circle as Americans advance at US Open](https://www.theguardian.com/sport/2026/sep/03/michael-zheng-us-open-americans-shelton-tiafoe-pegula)
+- [Jordan Chiles announces comeback bid for third Olympics at LA 2028](https://www.theguardian.com/sport/2026/sep/02/jordan-chiles-gymnastics-comeback-la-2028-olympics-michael-jordan)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 64%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,909**
-vs yesterday's close: 🔴 ▼ $-507 (-0.66%)
-Trend: 📉 Below 7d MA by 1.6%
+**$77,797**
+vs yesterday's close: 🟢 ▲ +$500 (+0.65%)
+Trend: ➡️ Flat around 7d MA (-0.0%)
 
 ### 🇺🇸 S&P 500
-**7,631.5**
-vs previous close: 🔴 ▼ -54.7 (-0.71%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**7,666.6**
+vs previous close: 🟢 ▲ +35.1 (+0.46%)
+Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ---
 
-<sub>Last updated: 2026-09-02 10:18 BST</sub>
+<sub>Last updated: 2026-09-03 10:28 BST</sub>
