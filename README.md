@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Saturday, 05 September 2026
+## 📅 Sunday, 06 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 11°C) — Overcast 
-High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 71%
+**20°C** (feels like 17°C) — Overcast 
+High 26°C / Low 15°C &nbsp;|&nbsp; Humidity 51%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Cleveland police chief proud of force but being 'let down' by funding](https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss)
-- ['I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash](https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss)
-- [Reform promises to increase tax-free personal allowance to £15,000](https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss)
+- [US envoys set for Ukraine talks after meeting Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
+- [TV presenter among 12 sentenced to death in Egypt drugs case](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss)
+- [Aviation faces hotter, stormier skies – and passengers might have to accept more disruption](https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Pentagon polygraphs dozens of US military staff over media leaks: Report](https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss)
-- [UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison](https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss)
-- [UK art show explores Muslim life, Europe’s Islamic history and Islamophobia](https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss)
+- [Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic](https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss)
+- [How do you arrest 50,000 people quietly?](https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss)
+- [Ireland’s boxing great Katie Taylor bows out as undisputed champion](https://www.aljazeera.com/sports/2026/9/6/irelands-boxing-great-katie-taylor-bows-out-as-undisputed-champion?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Egyptian TV presenter among 12 sentenced to death for drug crime](https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug)
 - [UN votes to adopt new world map that shows Africa’s true scale](https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa)
 - [Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach](https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach)
-- [‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation](https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Isak finally arrives as Gakpo proves value to Liverpool](https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss)
-- ['Best bend I've ever run' - Hunt's strong season continues in Brussels](https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss)
-- ['It's so strong' - Sabalenka halts play over cannabis smell](https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss)
+- [Taylor's place among greats set in stone after extraordinary swansong](https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss)
+- [Hunt 'not afraid of anyone' after second podium in two days](https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss)
+- [Arsenal had more than 20 players on shortlist to capitalise on title win](https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Sky Sports and Audi launch unique 'Flying Lap' track guide series](https://www.skysports.com/f1/news/12040/13537118/sky-sports-and-audi-launch-flying-lap-series-in-unique-storytelling-experience-from-f1-race-tracks)
-- [EFL latest: SEVEN games live on Sky at 12.30pm](https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two)
-- [Erasmus and Rennie's war of words escalates ahead of third Test](https://www.skysports.com/rugby-union/news/12040/13580305/south-africa-vs-new-zealand-rassie-erasmus-and-dave-rennies-war-of-words-escalates-with-series-finely-poised)
+- ['The highlight of my whole career' - Taylor ecstatic with Croke Park swansong](https://www.skysports.com/boxing/news/12040/13582203/katie-taylor-ecstatic-after-beating-flora-pili-to-make-perfect-end-to-dream-career-at-dublins-croke-park)
+- [Daryz, Gstaad and Opera Ballo feature on stellar Arc Trials Day](https://www.skysports.com/racing/news/12040/13581619/today-on-sky-sports-racing-daryz-gstaad-and-opera-ballo-feature-on-stellar-arc-trials-day-from-parislongchamp)
+- [Osaka takes care of business while Jovic ends Eala Mania in US Open thriller](https://www.skysports.com/tennis/news/12040/13582169/us-open-naomi-osaka-takes-care-of-business-against-elise-mertens-while-iva-jovic-edges-out-good-friend-alex-eala-in-thriller)
 
 ### 🏅 The Guardian Sport
-- [Williams sisters’ US Open return ends in heartbreak with third-set tie-break defeat](https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat)
-- [Andy Ruiz Jr’s comeback bid in tatters after sobering defeat to Damian Knyba](https://www.theguardian.com/sport/2026/sep/05/andy-ruiz-jr-damian-knyba-boxing-heavyweight-result)
-- [Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay](https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates)
+- [Francisco Cerundolo roars back from brink to stun home hope Taylor Fritz at US Open](https://www.theguardian.com/sport/2026/sep/05/francisco-cerundolo-roars-back-stun-home-hope-taylor-fritz-us-open-tennis)
+- [Michigan deny minnows Western Michigan with controversial last-second Hail Mary](https://www.theguardian.com/sport/2026/sep/06/michigan-controversy-western-michigan-hail-mary)
+- [Katie Taylor bows out from boxing as undisputed champion after dominating Flora Pili](https://www.theguardian.com/sport/2026/sep/05/katie-taylor-bows-out-boxing-undisputed-world-champion-dominating-flora-pili)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 71%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$79,616**
-vs yesterday's close: 🔴 ▼ $-55 (-0.07%)
-Trend: 📈 Above 7d MA by 1.1%
+**$79,858**
+vs yesterday's close: 🟢 ▲ +$36 (+0.05%)
+Trend: ➡️ Flat around 7d MA (+0.9%)
 
 ### 🇺🇸 S&P 500
 **7,718.6**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-09-05 09:49 BST</sub>
+<sub>Last updated: 2026-09-06 10:09 BST</sub>
