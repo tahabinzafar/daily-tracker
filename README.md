@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Tuesday, 08 September 2026
+## 📅 Wednesday, 09 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 14°C) — Light rain
-High 18°C / Low 13°C &nbsp;|&nbsp; Humidity 92%
+**15°C** (feels like 12°C) — Partly cloudy 
+High 18°C / Low 11°C &nbsp;|&nbsp; Humidity 61%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: Pupils return to West Bank school behind barbed wire to protect against settlers](https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss)
-- [Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals](https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss)
-- [A&E did not get the basics right - my son's life was ruined at 32](https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions](https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss)
+- [Drug gangs exploited and raped us as teens, then police failed us, women tell BBC](https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss)
+- [Oil hits $100 a barrel for first time since July after flare up in US-Iran conflict](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Houthi attacks on southern Saudi Arabia reportedly injure dozens](https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss)
-- [As fuel prices rise again, Iran’s government urges citizens to cut back](https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss)
-- [Indonesia airports reopen after volcanic ash disrupts thousands of flights](https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss)
+- [Flash floods surge through Morocco’s Atlas Mountains](https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss)
+- [In maps and charts: Russian and Ukrainian attacks on civilian targets](https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss)
+- [Video: Protesters shut down UNHCR headquarters in Tripoli, Libya](https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Babies born to anaemic mothers have smaller brains, study finds](https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds)
 - [Hijacking pirates exploit regional chaos to return to seas off Somalia](https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos)
 - [Weather tracker: Typhoon Saudel causes mass evacuations in south-east China](https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker)
-- [Egyptian TV presenter among 12 sentenced to death for drug crime](https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Champions League returns - who are favourites and players to watch?](https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss)
-- [Gauff's dominant win completes stacked US Open last eight](https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss)
-- [Newcastle were 'preparing for months' for Howe departure](https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss)
+- [Shelton beats Alcaraz in latest-ever US Open finish to reach semis](https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss)
+- [LIV files for bankruptcy protection with over $45m owed to players](https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss)
+- [McLaren talks, 'numb' cars and being 'captain of the ship' - Verstappen Q&A](https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for](https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic)
-- [Bosa and Kittle return for 49ers in Melbourne opener](https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl)
-- [Should England rotate bowlers or be ruthless in final Pakistan Test?](https://www.skysports.com/cricket/news/12040/13582810/england-vs-pakistan-should-hosts-rotate-bowling-attack-by-resting-likes-of-jofra-archer-in-third-test-at-edgbaston)
+- [England face much-changed Pakistan in final Test of series LIVE!](https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep)
+- [Shelton beats Alcaraz at 3.33am in New York epic](https://www.skysports.com/tennis/news/12040/13583380/us-open-ben-shelton-beats-carlos-alcaraz-in-five-set-thriller-in-latest-ever-finish-to-us-open-match-at-3-33am)
+- [F1's toughest street track ever? Why new Madring could cause Spanish GP chaos](https://www.skysports.com/f1/news/12040/13583094/spanish-gp-what-to-expect-from-new-madring-track-in-madrid-with-carlos-sainz-predicting-safety-cars-and-red-flags)
 
 ### 🏅 The Guardian Sport
-- [Coco Gauff dismantles Iva Jovic to reach quarter-finals in confident US Open run](https://www.theguardian.com/sport/2026/sep/08/coco-gauff-iva-jovic-us-open-quarter-finals-mirra-andreeva)
-- [Caitlin Clark and Sophie Cunningham have been stalked. They’re far from alone in the WNBA](https://www.theguardian.com/sport/2026/sep/08/wnba-stalkers-basketball)
-- [Man City-bound 16-year-old Cavan Sullivan is MLS’s chaotic revelation](https://www.theguardian.com/football/2026/sep/08/cavan-sullivan-analyisis-mls-philadelphia-union)
+- [Ben Shelton dethrones Carlos Alcaraz in five-set thriller after latest US Open finish](https://www.theguardian.com/sport/2026/sep/09/ben-shelton-dethrones-carlos-alcaraz-five-set-thriller-latest-us-open-tennis-finish)
+- [NFL 2026 season predictions: which teams can bring down the Rams juggernaut?](https://www.theguardian.com/sport/2026/sep/09/nfl-2026-season-predictions-which-teams-can-bring-down-the-rams-juggernaut)
+- [More than a game: NFL hopes Melbourne visit will advance case for Olympic flag football](https://www.theguardian.com/sport/2026/sep/09/nfl-2026-game-australia-rams-vs-49ers-melbourne-mcg-flag-football)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 18°C / Low 13°C &nbsp;|&nbsp; Humidity 92%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,401**
-vs yesterday's close: 🔴 ▼ $-692 (-0.88%)
-Trend: 📉 Below 7d MA by 1.3%
+**$79,467**
+vs yesterday's close: 🟢 ▲ +$1,016 (+1.30%)
+Trend: ➡️ Flat around 7d MA (-0.3%)
 
 ### 🇺🇸 S&P 500
-**7,718.6**
-vs previous close: 🔴 ▼ -29.1 (-0.38%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**7,673.5**
+vs previous close: 🔴 ▼ -45.1 (-0.58%)
+Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ---
 
-<sub>Last updated: 2026-09-08 10:22 BST</sub>
+<sub>Last updated: 2026-09-09 10:24 BST</sub>
