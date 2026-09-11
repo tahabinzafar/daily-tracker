@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Thursday, 10 September 2026
+## 📅 Friday, 11 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 13°C) — Overcast 
-High 21°C / Low 12°C &nbsp;|&nbsp; Humidity 62%
+**19°C** (feels like 17°C) — Sunny
+High 23°C / Low 15°C &nbsp;|&nbsp; Humidity 69%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Trump says every adult American would get $5,000 if Republicans win midterm elections](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss)
-- [Watch: Is Trump's $5,000 election pledge legal?](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
-- [England's mayors to be given power to introduce tourist tax](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
+- [Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt](https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss)
+- [AI boom helps drive surprise UK growth in July](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
+- [Anthropic blocks possible attempt to use AI to make biological weapons](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels](https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss)
-- [Enrique hails Dembele, praises Toure after PSG’s win over Bratislava](https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss)
-- [Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic](https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss)
+- [World Athletics Ultimate Championship opens with record $10m prize pot](https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss)
+- [Pro-Palestine student suspended by King’s College London returns to campus](https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss)
+- [What did 25 years of the “war on terror” leave behind?](https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide](https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide)
+- [Secret son revelation ignites bitter succession dispute in Ugandan kingdom](https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute)
 - [Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief](https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles)
-- [Babies born to anaemic mothers have smaller brains, study finds](https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds)
-- [Hijacking pirates exploit regional chaos to return to seas off Somalia](https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Spurs should be awarded 2016-17 title - Pochettino](https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss)
-- [Arsenal are passing every test - and Odegaard is in form of his life](https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss)
-- ['It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid](https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss)
+- [Hall signs new contract with Newcastle until 2031](https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss)
+- [$10m on line at inaugural Ultimate Championship](https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss)
+- [Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes](https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [How to watch Sky Sport's Big Weekend](https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now)
-- [England look to build on lead over Pakistan, with Nasser Q&A at lunch LIVE!](https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep)
-- [Garcia reveals why he snubbed face-off with Benn](https://www.skysports.com/boxing/news/12040/13583873/ryan-garcia-vs-conor-benn-american-reveals-why-he-snubbed-face-off-as-brit-says-he-went-through-hell-to-make-weight)
+- [England look to wrap up Test series sweep of Pakistan on day three LIVE!](https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep)
+- [Hall signs new deal at Newcastle after Man Utd interest](https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park)
+- [Merson: Spurs, Man City and Man Utd have defining games this weekend](https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson)
 
 ### 🏅 The Guardian Sport
-- [Seahawks pick off Patriots’ Maye three times to stage comeback in Super Bowl rematch](https://www.theguardian.com/sport/2026/sep/10/seahawks-patriots-drew-lock-sam-darnold-drake-maye)
-- [Coco Gauff draws on Tiafoe and ‘delusional’ self-belief in US Open escape](https://www.theguardian.com/sport/2026/sep/09/coco-gauff-belief-mirra-andreeva-us-open-semi-finals)
-- [Ultrarunner Megan Eckert shatters US men’s and women’s records with 636 miles in six days](https://www.theguardian.com/sport/2026/sep/09/ultrarunner-meg-eckert-world-record-636-miles)
+- [Crowd of 100,000 laps up relentless sensory experience as NFL woos Melbourne | Jack Snape](https://www.theguardian.com/sport/2026/sep/11/nfl-melbourne-mcg-fans-crowds-score-rams-49ers)
+- [Five-set tennis is under attack. Killing it would be a colossal unforced error | Andrew Lawrence](https://www.theguardian.com/sport/2026/sep/11/us-open-five-set-tennis-shelton-alcaraz-late-night-matches)
+- [Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka](https://www.theguardian.com/sport/2026/sep/11/elena-rybakina-beats-coco-gauff-us-open-womens-semi-final)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 21°C / Low 12°C &nbsp;|&nbsp; Humidity 62%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,153**
-vs yesterday's close: 🔴 ▼ $-130 (-0.17%)
-Trend: 📉 Below 7d MA by 1.2%
+**$77,252**
+vs yesterday's close: 🟢 ▲ +$697 (+0.91%)
+Trend: 📉 Below 7d MA by 1.6%
 
 ### 🇺🇸 S&P 500
-**7,636.4**
-vs previous close: 🔴 ▼ -37.2 (-0.48%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**7,591.7**
+vs previous close: 🔴 ▼ -44.7 (-0.58%)
+Trend: ➡️ Flat around 7d MA (-1.0%)
 
 ---
 
-<sub>Last updated: 2026-09-10 10:23 BST</sub>
+<sub>Last updated: 2026-09-11 10:22 BST</sub>
