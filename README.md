@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 11 September 2026
+## 📅 Saturday, 12 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 17°C) — Sunny
-High 23°C / Low 15°C &nbsp;|&nbsp; Humidity 69%
+**15°C** (feels like 13°C) — Overcast 
+High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 73%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt](https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss)
-- [AI boom helps drive surprise UK growth in July](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
-- [Anthropic blocks possible attempt to use AI to make biological weapons](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
+- [Reform receives record £36m donation from crypto billionaire](https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss)
+- [Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
+- [Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [World Athletics Ultimate Championship opens with record $10m prize pot](https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss)
-- [Pro-Palestine student suspended by King’s College London returns to campus](https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss)
-- [What did 25 years of the “war on terror” leave behind?](https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss)
+- [Trump may be BRICS’s best recruitment agent](https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss)
+- [BRICS summit opens in New Delhi amid wars, global tensions, tariffs](https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss)
+- [How to plan a wedding when you don’t know what tomorrow will bring](https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide](https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide)
@@ -39,19 +39,19 @@ High 23°C / Low 15°C &nbsp;|&nbsp; Humidity 69%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Hall signs new contract with Newcastle until 2031](https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss)
-- [$10m on line at inaugural Ultimate Championship](https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss)
-- [Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes](https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss)
+- [Signed instead of Rashford, Gordon is proving worth at Barca](https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss)
+- [American Shelton to face Zverev in US Open final](https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss)
+- ['Out of control' - Cook questions England tactics](https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [England look to wrap up Test series sweep of Pakistan on day three LIVE!](https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep)
-- [Hall signs new deal at Newcastle after Man Utd interest](https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park)
-- [Merson: Spurs, Man City and Man Utd have defining games this weekend](https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson)
+- [Enceladus takes on Christmas Day and Pienne Bonnard in 250th St Leger](https://www.skysports.com/racing/news/12040/13583974/today-on-sky-sports-racing-enceladus-takes-on-christmas-day-and-pienne-bonnard-in-250th-st-leger-from-doncaster)
+- ['Let's do this for the USA' - Shelton sets up Zverev showdown in US Open final](https://www.skysports.com/tennis/news/12040/13584674/us-open-ben-shelton-takes-down-frances-tiafoe-to-seal-alexander-zverev-showdown-in-final-on-sunday-in-new-york)
+- [Papers: Amorim takes swipe at Man Utd players-turned-pundits](https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk)
 
 ### 🏅 The Guardian Sport
-- [Crowd of 100,000 laps up relentless sensory experience as NFL woos Melbourne | Jack Snape](https://www.theguardian.com/sport/2026/sep/11/nfl-melbourne-mcg-fans-crowds-score-rams-49ers)
-- [Five-set tennis is under attack. Killing it would be a colossal unforced error | Andrew Lawrence](https://www.theguardian.com/sport/2026/sep/11/us-open-five-set-tennis-shelton-alcaraz-late-night-matches)
-- [Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka](https://www.theguardian.com/sport/2026/sep/11/elena-rybakina-beats-coco-gauff-us-open-womens-semi-final)
+- [Shelton tips Tiafoe at US Open to move one win from ending 23-year drought](https://www.theguardian.com/sport/2026/sep/12/shelton-tips-tiafoe-at-us-open-to-move-one-win-from-ending-23-year-drought)
+- [This week’s soccer questions: were we wrong about Man City and does the Ballon d’Or ignore Americans?](https://www.theguardian.com/football/2026/sep/12/manchester-city-ballon-dor-uswnt-raphina-barcelona)
+- [All change for Maresca: the data behind Manchester City’s rapid player turnover](https://www.theguardian.com/football/2026/sep/12/all-change-for-maresca-the-data-behind-manchester-citys-rapid-player-turnover)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 23°C / Low 15°C &nbsp;|&nbsp; Humidity 69%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,252**
-vs yesterday's close: 🟢 ▲ +$697 (+0.91%)
-Trend: 📉 Below 7d MA by 1.6%
+**$77,341**
+vs yesterday's close: 🟢 ▲ +$137 (+0.18%)
+Trend: 📉 Below 7d MA by 1.1%
 
 ### 🇺🇸 S&P 500
-**7,591.7**
-vs previous close: 🔴 ▼ -44.7 (-0.58%)
-Trend: ➡️ Flat around 7d MA (-1.0%)
+**7,657.0**
+vs previous close: 🟢 ▲ +65.3 (+0.86%)
+Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ---
 
-<sub>Last updated: 2026-09-11 10:22 BST</sub>
+<sub>Last updated: 2026-09-12 10:01 BST</sub>
