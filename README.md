@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Saturday, 12 September 2026
+## 📅 Sunday, 13 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 13°C) — Overcast 
-High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 73%
+**20°C** (feels like 20°C) — Patchy rain nearby
+High 21°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Reform receives record £36m donation from crypto billionaire](https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss)
-- [Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
-- [Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
+- [AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
+- [Reform's £72m donations 'entirely in line with law', Jenrick says](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
+- [Will the Thirlwall report change the debate about Lucy Letby?](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Trump may be BRICS’s best recruitment agent](https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss)
-- [BRICS summit opens in New Delhi amid wars, global tensions, tariffs](https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss)
-- [How to plan a wedding when you don’t know what tomorrow will bring](https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss)
+- [Niger military government reshuffles army command weeks after deadly mutiny](https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss)
+- [Voting under way in Sweden election that could see far right in government](https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss)
+- [Mosque and homes damaged in Saudi Arabia after alleged Houthi strike](https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Burial of King Oyo takes place in Uganda as news anchor prepares for throne](https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda)
+- [Six Nigerians extradited to US over $6m online romance scam](https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams)
 - [$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide](https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide)
-- [Secret son revelation ignites bitter succession dispute in Ugandan kingdom](https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute)
-- [Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief](https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Signed instead of Rashford, Gordon is proving worth at Barca](https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss)
-- [American Shelton to face Zverev in US Open final](https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss)
-- ['Out of control' - Cook questions England tactics](https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss)
+- [Garcia crushes overmatched Benn in two rounds](https://www.bbc.co.uk/sport/boxing/articles/cr7dm1vk7pgo?at_medium=RSS&at_campaign=rss)
+- [Fixed v fluid - the opposing approaches of Maresca and Carrick](https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss)
+- [From struggling to walk to lifting trophy - how Rybakina triumphed](https://www.bbc.co.uk/sport/tennis/articles/cp3kdzlnzneo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Enceladus takes on Christmas Day and Pienne Bonnard in 250th St Leger](https://www.skysports.com/racing/news/12040/13583974/today-on-sky-sports-racing-enceladus-takes-on-christmas-day-and-pienne-bonnard-in-250th-st-leger-from-doncaster)
-- ['Let's do this for the USA' - Shelton sets up Zverev showdown in US Open final](https://www.skysports.com/tennis/news/12040/13584674/us-open-ben-shelton-takes-down-frances-tiafoe-to-seal-alexander-zverev-showdown-in-final-on-sunday-in-new-york)
-- [Papers: Amorim takes swipe at Man Utd players-turned-pundits](https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk)
+- [Touleen faces Forty Years On at Doncaster](https://www.skysports.com/racing/news/12040/13584516/today-on-sky-sports-racing-touleen-faces-forty-years-on-at-doncaster)
+- [Garcia takes out Benn in just two rounds](https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas)
+- [Garcia targets Lopez next | ‘Benn will be back’](https://www.skysports.com/boxing/news/12040/13585279/ryan-garcia-targets-world-championship-unification-with-teofimo-lopez-next-conor-benn-will-be-back)
 
 ### 🏅 The Guardian Sport
-- [Shelton tips Tiafoe at US Open to move one win from ending 23-year drought](https://www.theguardian.com/sport/2026/sep/12/shelton-tips-tiafoe-at-us-open-to-move-one-win-from-ending-23-year-drought)
-- [This week’s soccer questions: were we wrong about Man City and does the Ballon d’Or ignore Americans?](https://www.theguardian.com/football/2026/sep/12/manchester-city-ballon-dor-uswnt-raphina-barcelona)
-- [All change for Maresca: the data behind Manchester City’s rapid player turnover](https://www.theguardian.com/football/2026/sep/12/all-change-for-maresca-the-data-behind-manchester-citys-rapid-player-turnover)
+- [Solheim Cup golf 2026: final day – live](https://www.theguardian.com/sport/live/2026/sep/13/solheim-cup-golf-2026-final-day-live)
+- [Elena Rybakina beats Aryna Sabalenka to seal dramatic US Open title triumph](https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis)
+- [FastPasses, Mega Honey Deuces and $55 chopped cheese: welcome to the US Open in 2041 | Bryan Armen Graham](https://www.theguardian.com/sport/2026/sep/13/us-open-disneyland-tennis-premiumization-craig-tiley)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 73%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,341**
-vs yesterday's close: 🟢 ▲ +$137 (+0.18%)
-Trend: 📉 Below 7d MA by 1.1%
+**$76,744**
+vs yesterday's close: 🔴 ▼ $-518 (-0.67%)
+Trend: 📉 Below 7d MA by 1.2%
 
 ### 🇺🇸 S&P 500
 **7,657.0**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ---
 
-<sub>Last updated: 2026-09-12 10:01 BST</sub>
+<sub>Last updated: 2026-09-13 11:00 BST</sub>
