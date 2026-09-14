@@ -4,30 +4,27 @@
 
 ---
 
-## 📅 Sunday, 13 September 2026
+## 📅 Monday, 14 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 20°C) — Patchy rain nearby
-High 21°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
-
-> 😎 Nice out. You can get away with just a t-shirt.
+Could not fetch weather: The read operation timed out
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
-- [Reform's £72m donations 'entirely in line with law', Jenrick says](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
-- [Will the Thirlwall report change the debate about Lucy Letby?](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
+- [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+- [Watch: Why Russian strike on train could be sign of escalation](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
+- [MPs and Lords call for new law to address AI threat to human rights](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Niger military government reshuffles army command weeks after deadly mutiny](https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss)
-- [Voting under way in Sweden election that could see far right in government](https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss)
-- [Mosque and homes damaged in Saudi Arabia after alleged Houthi strike](https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss)
+- [At least one dead, 25 missing after boat carrying migrants sinks off Greece](https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss)
+- [Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia](https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss)
+- [Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival](https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Burial of King Oyo takes place in Uganda as news anchor prepares for throne](https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda)
@@ -39,19 +36,19 @@ High 21°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Garcia crushes overmatched Benn in two rounds](https://www.bbc.co.uk/sport/boxing/articles/cr7dm1vk7pgo?at_medium=RSS&at_campaign=rss)
-- [Fixed v fluid - the opposing approaches of Maresca and Carrick](https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss)
-- [From struggling to walk to lifting trophy - how Rybakina triumphed](https://www.bbc.co.uk/sport/tennis/articles/cp3kdzlnzneo?at_medium=RSS&at_campaign=rss)
+- [Refereeing body admits judgement error over Haaland derby winner](https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss)
+- ['This is what women in sport look like' - Hunt responds to Sweeney advert](https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss)
+- [Zverev turns US Open tears into triumph in transformational year](https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Touleen faces Forty Years On at Doncaster](https://www.skysports.com/racing/news/12040/13584516/today-on-sky-sports-racing-touleen-faces-forty-years-on-at-doncaster)
-- [Garcia takes out Benn in just two rounds](https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas)
-- [Garcia targets Lopez next | ‘Benn will be back’](https://www.skysports.com/boxing/news/12040/13585279/ryan-garcia-targets-world-championship-unification-with-teofimo-lopez-next-conor-benn-will-be-back)
+- ['Obvious changes' - F1 drivers want Madring overtaking improvements](https://www.skysports.com/f1/news/12040/13585296/f1-drivers-team-bosses-hopeful-over-madring-track-changes-for-overtaking-after-new-venues-first-spanish-gp)
+- [We know Haaland's goal was a mistake - but WHY did it happen?](https://www.skysports.com/football/news/12040/13585716/erling-haalands-goal-for-man-city-against-man-utd-was-a-mistake-but-why-did-it-happen)
+- [Windsor’s flat season finale headlines Monday’s action](https://www.skysports.com/racing/news/12040/13585370/today-on-sky-sports-racing-windsors-flat-season-finale-headlines-mondays-action)
 
 ### 🏅 The Guardian Sport
-- [Solheim Cup golf 2026: final day – live](https://www.theguardian.com/sport/live/2026/sep/13/solheim-cup-golf-2026-final-day-live)
-- [Elena Rybakina beats Aryna Sabalenka to seal dramatic US Open title triumph](https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis)
-- [FastPasses, Mega Honey Deuces and $55 chopped cheese: welcome to the US Open in 2041 | Bryan Armen Graham](https://www.theguardian.com/sport/2026/sep/13/us-open-disneyland-tennis-premiumization-craig-tiley)
+- [NFL roundup: Bears and Panthers set scoring record; Bills beat Texans in thriller](https://www.theguardian.com/sport/2026/sep/13/nfl-roundup-sunday-football-scores)
+- [Alexander Zverev claims first US Open after four-set battle with Ben Shelton](https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton)
+- [JJ Watt proves to be a solid replacement for Tony Romo as CBS’s No 1 analyst](https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +58,9 @@ High 21°C / Low 17°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,744**
-vs yesterday's close: 🔴 ▼ $-518 (-0.67%)
-Trend: 📉 Below 7d MA by 1.2%
+**$77,992**
+vs yesterday's close: 🟢 ▲ +$1,173 (+1.53%)
+Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ### 🇺🇸 S&P 500
 **7,657.0**
@@ -72,4 +69,4 @@ Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ---
 
-<sub>Last updated: 2026-09-13 11:00 BST</sub>
+<sub>Last updated: 2026-09-14 11:19 BST</sub>
