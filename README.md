@@ -4,51 +4,51 @@
 
 ---
 
-## 📅 Monday, 14 September 2026
+## 📅 Tuesday, 15 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-Could not fetch weather: The read operation timed out
+Could not fetch weather: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
-- [Watch: Why Russian strike on train could be sign of escalation](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
-- [MPs and Lords call for new law to address AI threat to human rights](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
+- [State pension likely to top £13,000 a year as UK wage growth slows to 3.9%](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
+- [Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)
+- [Welsh actor Matthew Rhys makes Emmy Awards history with double win](https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [At least one dead, 25 missing after boat carrying migrants sinks off Greece](https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss)
-- [Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia](https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss)
-- [Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival](https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss)
+- [US Supreme Court rejects Trump’s plans on postal ballots: Why it matters](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss)
+- [Mitch McConnell returns to US Senate after three-month absence](https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss)
+- [Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response](https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Burial of King Oyo takes place in Uganda as news anchor prepares for throne](https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda)
-- [Six Nigerians extradited to US over $6m online romance scam](https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams)
-- [$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide](https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide)
+- [‘I believed the hype’: the white South Africans denied refugee status in the US](https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us)
+- [Ebola outbreak in DRC has peaked, say authorities, as infection rates slow](https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow)
+- [The London hospital funded by donors who invested in the slave trade](https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Refereeing body admits judgement error over Haaland derby winner](https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss)
-- ['This is what women in sport look like' - Hunt responds to Sweeney advert](https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss)
-- [Zverev turns US Open tears into triumph in transformational year](https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss)
+- [London misses out to Nairobi in World Athletics bid](https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss)
+- [Sweeney ad a barrier for girls in sport - Hunt](https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss)
+- [Spurs' Richarlison posts crying emoji after being left out of Liverpool tie](https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- ['Obvious changes' - F1 drivers want Madring overtaking improvements](https://www.skysports.com/f1/news/12040/13585296/f1-drivers-team-bosses-hopeful-over-madring-track-changes-for-overtaking-after-new-venues-first-spanish-gp)
-- [We know Haaland's goal was a mistake - but WHY did it happen?](https://www.skysports.com/football/news/12040/13585716/erling-haalands-goal-for-man-city-against-man-utd-was-a-mistake-but-why-did-it-happen)
-- [Windsor’s flat season finale headlines Monday’s action](https://www.skysports.com/racing/news/12040/13585370/today-on-sky-sports-racing-windsors-flat-season-finale-headlines-mondays-action)
+- [Coventry latest: Lampard hints at changes for Villa cup tie](https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights)
+- [Littler needs 'crucial days off' as he chases history](https://www.skysports.com/darts/news/12040/13586059/luke-littler-says-he-needs-crucial-days-off-as-he-continues-chase-for-history-ahead-of-world-series-of-darts-finals)
+- [Hunt reiterates need for 'role models' after Sweeney advert backlash](https://www.skysports.com/athletics/news/12040/13586054/amy-hunt-british-athletics-star-reiterates-need-for-role-models-after-sydney-sweeney-advert-backlash)
 
 ### 🏅 The Guardian Sport
-- [NFL roundup: Bears and Panthers set scoring record; Bills beat Texans in thriller](https://www.theguardian.com/sport/2026/sep/13/nfl-roundup-sunday-football-scores)
-- [Alexander Zverev claims first US Open after four-set battle with Ben Shelton](https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton)
-- [JJ Watt proves to be a solid replacement for Tony Romo as CBS’s No 1 analyst](https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts)
+- [Patrick Mahomes triumphant on NFL return as Chiefs beat up misfiring Broncos](https://www.theguardian.com/sport/2026/sep/14/patrick-mahomes-triumphant-on-nfl-return-as-chiefs-beat-up-misfiring-broncos)
+- [From influencers to brutal finishes, US Open 2026 was worst grand slam in recent memory | Tumaini Carayol](https://www.theguardian.com/sport/2026/sep/14/us-open-2026-worst-grand-slam-tournament-in-recent-memory)
+- [How Promise David emerged from Maltese shadows into the Premier League](https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -58,15 +58,15 @@ Could not fetch weather: The read operation timed out
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,992**
-vs yesterday's close: 🟢 ▲ +$1,173 (+1.53%)
-Trend: ➡️ Flat around 7d MA (+0.6%)
+**$76,962**
+vs yesterday's close: 🔴 ▼ $-1,211 (-1.55%)
+Trend: ➡️ Flat around 7d MA (-0.5%)
 
 ### 🇺🇸 S&P 500
-**7,657.0**
-vs previous close: 🟢 ▲ +65.3 (+0.86%)
-Trend: ➡️ Flat around 7d MA (-0.2%)
+**7,620.0**
+vs previous close: 🔴 ▼ -37.0 (-0.48%)
+Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ---
 
-<sub>Last updated: 2026-09-14 11:19 BST</sub>
+<sub>Last updated: 2026-09-15 10:46 BST</sub>
