@@ -4,51 +4,54 @@
 
 ---
 
-## 📅 Tuesday, 15 September 2026
+## 📅 Wednesday, 16 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-Could not fetch weather: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>
+**15°C** (feels like 12°C) — Sunny
+High 18°C / Low 13°C &nbsp;|&nbsp; Humidity 69%
+
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [State pension likely to top £13,000 a year as UK wage growth slows to 3.9%](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
-- [Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)
-- [Welsh actor Matthew Rhys makes Emmy Awards history with double win](https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss)
+- [Petrol and diesel price rises push UK inflation higher](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
+- [Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
+- [OpenAI boss says world 'right to be afraid' but should trust AI firms](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [US Supreme Court rejects Trump’s plans on postal ballots: Why it matters](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss)
-- [Mitch McConnell returns to US Senate after three-month absence](https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss)
-- [Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response](https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss)
+- [At least five killed in Russian drone strike near Ukraine front line](https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss)
+- [Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds](https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss)
+- [Lionel Messi set for Argentina farewell in October 6 friendly against Benin](https://www.aljazeera.com/sports/2026/9/16/lionel-messi-set-for-argentina-farewell-in-oct-6-friendly-against-benin?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [‘I believed the hype’: the white South Africans denied refugee status in the US](https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us)
-- [Ebola outbreak in DRC has peaked, say authorities, as infection rates slow](https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow)
-- [The London hospital funded by donors who invested in the slave trade](https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade)
+- [‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa](https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa)
+- [Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year](https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year)
+- [Slave-trade wealth was embedded in Britain’s financial system, research finds](https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [London misses out to Nairobi in World Athletics bid](https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss)
-- [Sweeney ad a barrier for girls in sport - Hunt](https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss)
-- [Spurs' Richarlison posts crying emoji after being left out of Liverpool tie](https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss)
+- ['Superstar' Dowman shows his class - but Arsenal know caution is needed](https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss)
+- [F1 to have 10 sprint races in 2027, including Monaco](https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss)
+- ['He's an idiot, but he's our idiot' - Saints fans on Pollock contract stand-off](https://www.bbc.co.uk/sport/rugby-union/articles/c6d08yve0n8no?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Coventry latest: Lampard hints at changes for Villa cup tie](https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights)
-- [Littler needs 'crucial days off' as he chases history](https://www.skysports.com/darts/news/12040/13586059/luke-littler-says-he-needs-crucial-days-off-as-he-continues-chase-for-history-ahead-of-world-series-of-darts-finals)
-- [Hunt reiterates need for 'role models' after Sweeney advert backlash](https://www.skysports.com/athletics/news/12040/13586054/amy-hunt-british-athletics-star-reiterates-need-for-role-models-after-sydney-sweeney-advert-backlash)
+- [F1 announce 2027 calendar and increase in Sprint rounds](https://www.skysports.com/f1/news/12040/13588439/f1-2027-calendar-announced-with-bahrain-to-host-season-opener-and-increase-in-sprint-weekends-in-24-race-schedule)
+- [Liverpool latest: Koumas and McConnell deserve to play, says Szoboszlai](https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [Man City latest: Maresca set to speak ahead of Norwich cup tie](https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
 
 ### 🏅 The Guardian Sport
+- [Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow](https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report)
+- [Arch Manning apologizes for ‘insensitive’ joke about AI video of ESPN’s Holly Rowe](https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video)
 - [Patrick Mahomes triumphant on NFL return as Chiefs beat up misfiring Broncos](https://www.theguardian.com/sport/2026/sep/14/patrick-mahomes-triumphant-on-nfl-return-as-chiefs-beat-up-misfiring-broncos)
-- [From influencers to brutal finishes, US Open 2026 was worst grand slam in recent memory | Tumaini Carayol](https://www.theguardian.com/sport/2026/sep/14/us-open-2026-worst-grand-slam-tournament-in-recent-memory)
-- [How Promise David emerged from Maltese shadows into the Premier League](https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -58,15 +61,15 @@ Could not fetch weather: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certifi
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,962**
-vs yesterday's close: 🔴 ▼ $-1,211 (-1.55%)
-Trend: ➡️ Flat around 7d MA (-0.5%)
+**$75,852**
+vs yesterday's close: 🟢 ▲ +$262 (+0.35%)
+Trend: 📉 Below 7d MA by 1.2%
 
 ### 🇺🇸 S&P 500
-**7,620.0**
-vs previous close: 🔴 ▼ -37.0 (-0.48%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**7,585.7**
+vs previous close: 🔴 ▼ -34.2 (-0.45%)
+Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ---
 
-<sub>Last updated: 2026-09-15 10:46 BST</sub>
+<sub>Last updated: 2026-09-16 10:41 BST</sub>
