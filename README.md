@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 16 September 2026
+## 📅 Thursday, 17 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 12°C) — Sunny
-High 18°C / Low 13°C &nbsp;|&nbsp; Humidity 69%
+**14°C** (feels like 11°C) — Patchy rain nearby
+High 20°C / Low 13°C &nbsp;|&nbsp; Humidity 81%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Petrol and diesel price rises push UK inflation higher](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
-- [Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-- [OpenAI boss says world 'right to be afraid' but should trust AI firms](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
+- [Palace in war of words with Earl Spencer over claims in Diana book](https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss)
+- [Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss)
+- ['Everybody was as one': Reverend reflects on search effort for Noah Woods](https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [At least five killed in Russian drone strike near Ukraine front line](https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss)
-- [Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds](https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss)
-- [Lionel Messi set for Argentina farewell in October 6 friendly against Benin](https://www.aljazeera.com/sports/2026/9/16/lionel-messi-set-for-argentina-farewell-in-oct-6-friendly-against-benin?traffic_source=rss)
+- [Syrian man uncovers library hidden behind wall for 15 years](https://www.aljazeera.com/video/newsfeed/2026/9/17/17-09-sv-syrian-man-finds-his-books-sy?traffic_source=rss)
+- [Netanyahu threatens to revoke Israeli citizenship of NAZA filmmakers](https://www.aljazeera.com/news/2026/9/17/netanyahu-threatens-to-revoke-israeli-citizenship-of-naza-filmmakers?traffic_source=rss)
+- [Palestinians use radio to navigate Israeli occupation and pogroms](https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-reported-nida-ibrahim-owb-violence-mp4?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey](https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe)
 - [‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa](https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa)
-- [Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year](https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year)
-- [Slave-trade wealth was embedded in Britain’s financial system, research finds](https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans)
+- [US to bar some South Africans over claims of anti-white discrimination](https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['Superstar' Dowman shows his class - but Arsenal know caution is needed](https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss)
-- [F1 to have 10 sprint races in 2027, including Monaco](https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss)
-- ['He's an idiot, but he's our idiot' - Saints fans on Pollock contract stand-off](https://www.bbc.co.uk/sport/rugby-union/articles/c6d08yve0n8no?at_medium=RSS&at_campaign=rss)
+- [Carrick 'not bothered' by pressure - but should he be after this latest mess?](https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss)
+- [Real Madrid keen on Man Utd forward Gabriel, 15](https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss)
+- [A team that offered hope... then, four months later, Hamas attacked Israel](https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [F1 announce 2027 calendar and increase in Sprint rounds](https://www.skysports.com/f1/news/12040/13588439/f1-2027-calendar-announced-with-bahrain-to-host-season-opener-and-increase-in-sprint-weekends-in-24-race-schedule)
-- [Liverpool latest: Koumas and McConnell deserve to play, says Szoboszlai](https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [Man City latest: Maresca set to speak ahead of Norwich cup tie](https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [45 players! Klopp picks TWO separate Germany squads for international break](https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip)
+- [McManamon to fight Yu on undercard of heavyweight world title fight](https://www.skysports.com/mma/news/12040/13588715/marie-mcmanamon-to-fight-yu-yau-pui-on-the-undercard-paul-elliotts-heavyweight-world-title-fight-against-shamil-erdogan)
+- [McIlroy and Rai get off to flying starts at Wentworth LIVE!](https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature)
 
 ### 🏅 The Guardian Sport
-- [Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow](https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report)
-- [Arch Manning apologizes for ‘insensitive’ joke about AI video of ESPN’s Holly Rowe](https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video)
-- [Patrick Mahomes triumphant on NFL return as Chiefs beat up misfiring Broncos](https://www.theguardian.com/sport/2026/sep/14/patrick-mahomes-triumphant-on-nfl-return-as-chiefs-beat-up-misfiring-broncos)
+- [USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies](https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt)
+- [Brian Dubiski: ‘Everything I do is about Madison. It’s a big reason I did this game at Wembley’](https://www.theguardian.com/sport/2026/sep/17/brian-dubiski-us-college-football-wembley-interview)
+- [LeBron James once raged against the machine. Increasingly, he helps prop it up](https://www.theguardian.com/sport/2026/sep/17/lebron-james-angola-will-smith-predictions-markets)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 18°C / Low 13°C &nbsp;|&nbsp; Humidity 69%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$75,852**
-vs yesterday's close: 🟢 ▲ +$262 (+0.35%)
-Trend: 📉 Below 7d MA by 1.2%
+**$76,519**
+vs yesterday's close: 🟢 ▲ +$372 (+0.49%)
+Trend: ➡️ Flat around 7d MA (-0.4%)
 
 ### 🇺🇸 S&P 500
-**7,585.7**
-vs previous close: 🔴 ▼ -34.2 (-0.45%)
-Trend: ➡️ Flat around 7d MA (-0.7%)
+**7,551.8**
+vs previous close: 🔴 ▼ -33.9 (-0.45%)
+Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ---
 
-<sub>Last updated: 2026-09-16 10:41 BST</sub>
+<sub>Last updated: 2026-09-17 10:49 BST</sub>
