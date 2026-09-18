@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Thursday, 17 September 2026
+## 📅 Friday, 18 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 11°C) — Patchy rain nearby
-High 20°C / Low 13°C &nbsp;|&nbsp; Humidity 81%
+**13°C** (feels like 10°C) — Overcast 
+High 21°C / Low 11°C &nbsp;|&nbsp; Humidity 69%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Palace in war of words with Earl Spencer over claims in Diana book](https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss)
-- [Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss)
-- ['Everybody was as one': Reverend reflects on search effort for Noah Woods](https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss)
+- [Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
+- [Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC](https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss)
+- [War may be coming. Are we psychologically ready?](https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Syrian man uncovers library hidden behind wall for 15 years](https://www.aljazeera.com/video/newsfeed/2026/9/17/17-09-sv-syrian-man-finds-his-books-sy?traffic_source=rss)
-- [Netanyahu threatens to revoke Israeli citizenship of NAZA filmmakers](https://www.aljazeera.com/news/2026/9/17/netanyahu-threatens-to-revoke-israeli-citizenship-of-naza-filmmakers?traffic_source=rss)
-- [Palestinians use radio to navigate Israeli occupation and pogroms](https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-reported-nida-ibrahim-owb-violence-mp4?traffic_source=rss)
+- [Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season](https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss)
+- [Why the Kremlin fears even the ‘managed opposition’ in Russia](https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss)
+- [Video: Influencers accused of exploiting Nepal flood survivors](https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers](https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers)
+- [Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol](https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink)
 - [‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey](https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe)
-- [‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa](https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa)
-- [US to bar some South Africans over claims of anti-white discrimination](https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Carrick 'not bothered' by pressure - but should he be after this latest mess?](https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss)
-- [Real Madrid keen on Man Utd forward Gabriel, 15](https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss)
-- [A team that offered hope... then, four months later, Hamas attacked Israel](https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss)
+- ['Just the beginning' - Samba, 17, steals Man City show](https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss)
+- [How the race they said women couldn't run took centre stage](https://www.bbc.co.uk/sport/olympics/articles/clyk12vrv21o?at_medium=RSS&at_campaign=rss)
+- [Poor imitation of Ange team - where do Celtic & O'Neill go from here?](https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [45 players! Klopp picks TWO separate Germany squads for international break](https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip)
-- [McManamon to fight Yu on undercard of heavyweight world title fight](https://www.skysports.com/mma/news/12040/13588715/marie-mcmanamon-to-fight-yu-yau-pui-on-the-undercard-paul-elliotts-heavyweight-world-title-fight-against-shamil-erdogan)
-- [McIlroy and Rai get off to flying starts at Wentworth LIVE!](https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature)
+- ['Tuchel has learned from his mistakes' | Who's in and out of Tuchel's England squad](https://www.skysports.com/watch/video/13589218/england-squad-whos-in-and-whos-out)
+- [Will Carrick navigate choppy waters to steer Man Utd ship back on course?](https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats)
+- [Merson: 'Huge game' between Spurs and Aston Villa is a 'momentum swinger'](https://www.skysports.com/football/news/12040/13589087/tottenham-vs-aston-villa-paul-merson-believes-saturdays-huge-premier-league-match-is-a-momentum-swinger)
 
 ### 🏅 The Guardian Sport
-- [USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies](https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt)
-- [Brian Dubiski: ‘Everything I do is about Madison. It’s a big reason I did this game at Wembley’](https://www.theguardian.com/sport/2026/sep/17/brian-dubiski-us-college-football-wembley-interview)
-- [LeBron James once raged against the machine. Increasingly, he helps prop it up](https://www.theguardian.com/sport/2026/sep/17/lebron-james-angola-will-smith-predictions-markets)
+- [Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions](https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football)
+- [Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live](https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live)
+- [Sports quiz of the week: records, hazards, complaints and boring events](https://www.theguardian.com/sport/2026/sep/18/sports-quiz-football-cricket-racing-tennis-cycling-golf-athletics)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 20°C / Low 13°C &nbsp;|&nbsp; Humidity 81%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$76,519**
-vs yesterday's close: 🟢 ▲ +$372 (+0.49%)
-Trend: ➡️ Flat around 7d MA (-0.4%)
+**$78,287**
+vs yesterday's close: 🟢 ▲ +$1,916 (+2.51%)
+Trend: 📈 Above 7d MA by 1.7%
 
 ### 🇺🇸 S&P 500
-**7,551.8**
-vs previous close: 🔴 ▼ -33.9 (-0.45%)
-Trend: ➡️ Flat around 7d MA (-0.9%)
+**7,637.8**
+vs previous close: 🟢 ▲ +85.9 (+1.14%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-09-17 10:49 BST</sub>
+<sub>Last updated: 2026-09-18 10:23 BST</sub>
