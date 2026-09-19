@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 18 September 2026
+## 📅 Saturday, 19 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 10°C) — Overcast 
-High 21°C / Low 11°C &nbsp;|&nbsp; Humidity 69%
+**18°C** (feels like 15°C) — Overcast 
+High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 75%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 21°C / Low 11°C &nbsp;|&nbsp; Humidity 69%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
-- [Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC](https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss)
-- [War may be coming. Are we psychologically ready?](https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss)
+- [US and Denmark reach deal over Greenland after Trump annexation threats](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+- ['I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
+- [Watch: Diana's brother says Charles 'went ballistic' in phone call after her death](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season](https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss)
-- [Why the Kremlin fears even the ‘managed opposition’ in Russia](https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss)
-- [Video: Influencers accused of exploiting Nepal flood survivors](https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss)
+- [Can Trump ban CNN, news outlets he doesn’t like from the White House?](https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss)
+- [Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul](https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss)
+- [NAZA: Why are old Gaza allegations causing new fury in Israel?](https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers](https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers)
-- [Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol](https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink)
-- [‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey](https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe)
+- [Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say](https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea)
+- [Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died](https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna)
+- [British woman who was kidnapped in Malawi rescued by police after shootout](https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['Just the beginning' - Samba, 17, steals Man City show](https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss)
-- [How the race they said women couldn't run took centre stage](https://www.bbc.co.uk/sport/olympics/articles/clyk12vrv21o?at_medium=RSS&at_campaign=rss)
-- [Poor imitation of Ange team - where do Celtic & O'Neill go from here?](https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss)
+- [Chelsea miss Joao Pedro... and can't stop conceding goals](https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss)
+- [Hodgkinson powers to Athlos win in speed suit](https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss)
+- [Arsenal open to Dowman loan in right circumstances](https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- ['Tuchel has learned from his mistakes' | Who's in and out of Tuchel's England squad](https://www.skysports.com/watch/video/13589218/england-squad-whos-in-and-whos-out)
-- [Will Carrick navigate choppy waters to steer Man Utd ship back on course?](https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats)
-- [Merson: 'Huge game' between Spurs and Aston Villa is a 'momentum swinger'](https://www.skysports.com/football/news/12040/13589087/tottenham-vs-aston-villa-paul-merson-believes-saturdays-huge-premier-league-match-is-a-momentum-swinger)
+- [Pirotton pledges Fisher upset: 'I know his mind is broke'](https://www.skysports.com/boxing/news/12040/13589323/johnny-fisher-michael-pirotton-pledges-september-26-copper-box-upset-his-mind-is-broke-too-much-pressure)
+- [Unbeaten Arapaho Gold tackles Mill Reef test](https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef)
+- ['Bullied' and 'out of control' - Chelsea's defensive issues laid bare](https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat)
 
 ### 🏅 The Guardian Sport
-- [Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions](https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football)
-- [Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live](https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live)
-- [Sports quiz of the week: records, hazards, complaints and boring events](https://www.theguardian.com/sport/2026/sep/18/sports-quiz-football-cricket-racing-tennis-cycling-golf-athletics)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend)
+- [Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup](https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak)
+- [Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT](https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 21°C / Low 11°C &nbsp;|&nbsp; Humidity 69%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$78,287**
-vs yesterday's close: 🟢 ▲ +$1,916 (+2.51%)
-Trend: 📈 Above 7d MA by 1.7%
+**$81,452**
+vs yesterday's close: 🟢 ▲ +$578 (+0.72%)
+Trend: 📈 Above 7d MA by 4.5%
 
 ### 🇺🇸 S&P 500
-**7,637.8**
-vs previous close: 🟢 ▲ +85.9 (+1.14%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**7,650.5**
+vs previous close: 🟢 ▲ +12.7 (+0.17%)
+Trend: ➡️ Flat around 7d MA (+0.5%)
 
 ---
 
-<sub>Last updated: 2026-09-18 10:23 BST</sub>
+<sub>Last updated: 2026-09-19 10:11 BST</sub>
