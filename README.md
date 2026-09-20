@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 19 September 2026
+## 📅 Sunday, 20 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 15°C) — Overcast 
-High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 75%
+**15°C** (feels like 12°C) — Overcast 
+High 19°C / Low 15°C &nbsp;|&nbsp; Humidity 62%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 75%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [US and Denmark reach deal over Greenland after Trump annexation threats](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
-- ['I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
-- [Watch: Diana's brother says Charles 'went ballistic' in phone call after her death](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
+- [Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC](https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss)
+- [Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives](https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss)
+- [Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Can Trump ban CNN, news outlets he doesn’t like from the White House?](https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss)
-- [Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul](https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss)
-- [NAZA: Why are old Gaza allegations causing new fury in Israel?](https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss)
+- [Echoicide: Who decides which truths survive in Gaza?](https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss)
+- [Former England and Tottenham star Andros Townsend run over by pitch roller](https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss)
+- [Mass Ukrainian drone attack on Moscow kills two, Russia says](https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say](https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea)
@@ -39,19 +39,19 @@ High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 75%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Chelsea miss Joao Pedro... and can't stop conceding goals](https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss)
-- [Hodgkinson powers to Athlos win in speed suit](https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss)
-- [Arsenal open to Dowman loan in right circumstances](https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss)
+- ['Beat the Aussies' - new England coach Fleming's key aim](https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo?at_medium=RSS&at_campaign=rss)
+- [Townsend run over by pitch roller in Thailand](https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss)
+- [Littler could boycott Dutch events over booing](https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Pirotton pledges Fisher upset: 'I know his mind is broke'](https://www.skysports.com/boxing/news/12040/13589323/johnny-fisher-michael-pirotton-pledges-september-26-copper-box-upset-his-mind-is-broke-too-much-pressure)
-- [Unbeaten Arapaho Gold tackles Mill Reef test](https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef)
-- ['Bullied' and 'out of control' - Chelsea's defensive issues laid bare](https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat)
+- [Latest golf leaderboards: BMW PGA Championship and more](https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more)
+- [Brown delivers Hatton tribute after winning British and Commonwealth titles](https://www.skysports.com/boxing/news/12040/13589987/pat-brown-delivers-ricky-hatton-tribute-after-winning-british-and-commonwealth-titles-as-isaac-cruz-calls-out-ryan-garcia)
+- [Fleming wants England back top of Test rankings as 'work to be done' on discipline](https://www.skysports.com/cricket/news/12040/13589620/stephen-fleming-englands-new-head-coach-targets-no-1-spot-in-test-rankings-but-says-work-to-be-done-on-discipline)
 
 ### 🏅 The Guardian Sport
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend)
-- [Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup](https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak)
-- [Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT](https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt)
+- [Brighton demolish champions Arsenal 3-0 to mark anniversary in style](https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report)
+- [Belmont Park is back: inside New York’s $555m bet on horse racing](https://www.theguardian.com/sport/2026/sep/19/belmont-park-reopening-horse-racing-new-york)
+- [Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley](https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 22°C / Low 15°C &nbsp;|&nbsp; Humidity 75%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$81,452**
-vs yesterday's close: 🟢 ▲ +$578 (+0.72%)
-Trend: 📈 Above 7d MA by 4.5%
+**$80,384**
+vs yesterday's close: 🔴 ▼ $-852 (-1.05%)
+Trend: 📈 Above 7d MA by 2.5%
 
 ### 🇺🇸 S&P 500
 **7,650.5**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.5%)
 
 ---
 
-<sub>Last updated: 2026-09-19 10:11 BST</sub>
+<sub>Last updated: 2026-09-20 10:36 BST</sub>
