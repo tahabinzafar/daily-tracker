@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Sunday, 20 September 2026
+## 📅 Monday, 21 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 12°C) — Overcast 
-High 19°C / Low 15°C &nbsp;|&nbsp; Humidity 62%
+**16°C** (feels like 14°C) — Sunny
+High 23°C / Low 13°C &nbsp;|&nbsp; Humidity 44%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 19°C / Low 15°C &nbsp;|&nbsp; Humidity 62%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC](https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss)
-- [Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives](https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss)
-- [Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
+- [Young people aren't snowflakes - mental distress is rising, says head of official review](https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss)
+- [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
+- [Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free](https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Echoicide: Who decides which truths survive in Gaza?](https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss)
-- [Former England and Tottenham star Andros Townsend run over by pitch roller](https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss)
-- [Mass Ukrainian drone attack on Moscow kills two, Russia says](https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss)
+- [Mystery object spotted hovering over Tehran](https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss)
+- [A simple guide to the Yemen conflict](https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss)
+- [Do Israelis feel any safer now than they did on October 6, 2023?](https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Banished to alien lands: Trump’s secret deportation deals](https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals)
 - [Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say](https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea)
 - [Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died](https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna)
-- [British woman who was kidnapped in Malawi rescued by police after shootout](https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['Beat the Aussies' - new England coach Fleming's key aim](https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo?at_medium=RSS&at_campaign=rss)
-- [Townsend run over by pitch roller in Thailand](https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss)
-- [Littler could boycott Dutch events over booing](https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss)
+- [Gibbs-White set to replace Palmer in England squad](https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss)
+- ['I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict](https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss)
+- ['Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season](https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Latest golf leaderboards: BMW PGA Championship and more](https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more)
-- [Brown delivers Hatton tribute after winning British and Commonwealth titles](https://www.skysports.com/boxing/news/12040/13589987/pat-brown-delivers-ricky-hatton-tribute-after-winning-british-and-commonwealth-titles-as-isaac-cruz-calls-out-ryan-garcia)
-- [Fleming wants England back top of Test rankings as 'work to be done' on discipline](https://www.skysports.com/cricket/news/12040/13589620/stephen-fleming-englands-new-head-coach-targets-no-1-spot-in-test-rankings-but-says-work-to-be-done-on-discipline)
+- [Merson: There's no way Man City win the league](https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland)
+- [Ref Watch & Premier League weekend reaction LIVE!](https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions)
+- [Palmer withdrawing from England squad](https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break)
 
 ### 🏅 The Guardian Sport
-- [Brighton demolish champions Arsenal 3-0 to mark anniversary in style](https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report)
-- [Belmont Park is back: inside New York’s $555m bet on horse racing](https://www.theguardian.com/sport/2026/sep/19/belmont-park-reopening-horse-racing-new-york)
-- [Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley](https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley)
+- [NFL roundup: Bears QB Caleb Williams carted off in loss to Vikings; Saints stun Ravens](https://www.theguardian.com/sport/2026/sep/20/nfl-roundup-sunday-football-scores)
+- [‘I needed an IV’: shoes melt as turf temperature reaches 157F in Eagles-Titans game](https://www.theguardian.com/sport/2026/sep/21/titans-eagles-game-heat-cleats-melt-nfl-temperature)
+- [Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg](https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 19°C / Low 15°C &nbsp;|&nbsp; Humidity 62%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,384**
-vs yesterday's close: 🔴 ▼ $-852 (-1.05%)
-Trend: 📈 Above 7d MA by 2.5%
+**$84,535**
+vs yesterday's close: 🟢 ▲ +$3,366 (+4.15%)
+Trend: 📈 Above 7d MA by 6.4%
 
 ### 🇺🇸 S&P 500
 **7,650.5**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.5%)
 
 ---
 
-<sub>Last updated: 2026-09-20 10:36 BST</sub>
+<sub>Last updated: 2026-09-21 11:24 BST</sub>
