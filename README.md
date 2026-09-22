@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 21 September 2026
+## 📅 Tuesday, 22 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 14°C) — Sunny
-High 23°C / Low 13°C &nbsp;|&nbsp; Humidity 44%
+**18°C** (feels like 19°C) — Overcast 
+High 23°C / Low 17°C &nbsp;|&nbsp; Humidity 65%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,38 +20,38 @@ High 23°C / Low 13°C &nbsp;|&nbsp; Humidity 44%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Young people aren't snowflakes - mental distress is rising, says head of official review](https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss)
-- [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
-- [Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free](https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss)
+- [Martha's Rule rolled out at every A&E department in England](https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss)
+- [Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)
+- [Burnham expects to find 'common ground' with Trump in first meeting](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Mystery object spotted hovering over Tehran](https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss)
-- [A simple guide to the Yemen conflict](https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss)
-- [Do Israelis feel any safer now than they did on October 6, 2023?](https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss)
+- [India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final](https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss)
+- [Gunman opens fire near high school in western Turkiye, wounding eight](https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss)
+- [‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation](https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns](https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl)
 - [Banished to alien lands: Trump’s secret deportation deals](https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals)
 - [Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say](https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea)
-- [Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died](https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Gibbs-White set to replace Palmer in England squad](https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss)
-- ['I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict](https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss)
-- ['Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season](https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss)
+- [England fast bowler Wood retires from internationals](https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss)
+- [Pollock signs new Northampton deal in excess of £400K](https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss)
+- [Chelsea struggles to Villa bench - Garnacho faces defining season](https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Merson: There's no way Man City win the league](https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland)
-- [Ref Watch & Premier League weekend reaction LIVE!](https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions)
-- [Palmer withdrawing from England squad](https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break)
+- [England Q&A! Send in your questions to be answered live on SSN!](https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions)
+- ['Just getting started' - Pollock signs new multi-year deal with Saints](https://www.skysports.com/rugby-union/news/12040/13590545/henry-pollock-england-star-signs-new-multi-year-deal-with-northampton-saints-to-stay-with-defending-prem-champions)
+- [Red Bull's Hadjar to return from injury at Azerbaijan GP](https://www.skysports.com/f1/news/12040/13590366/isack-hadjar-red-bull-driver-to-return-to-action-at-azerbaijan-gp-after-missing-three-races-with-wrist-injury)
 
 ### 🏅 The Guardian Sport
-- [NFL roundup: Bears QB Caleb Williams carted off in loss to Vikings; Saints stun Ravens](https://www.theguardian.com/sport/2026/sep/20/nfl-roundup-sunday-football-scores)
-- [‘I needed an IV’: shoes melt as turf temperature reaches 157F in Eagles-Titans game](https://www.theguardian.com/sport/2026/sep/21/titans-eagles-game-heat-cleats-melt-nfl-temperature)
-- [Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg](https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration)
+- [Rams crush Giants on Donald’s return to NFL as Dart hobbles off with knee injury](https://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return)
+- [Ten lessons from Jakob Ingebrigtsen, one of the world’s most beguiling athletes | Sean Ingle](https://www.theguardian.com/sport/2026/sep/21/10-lessons-jakob-ingebrigtsen-athletics)
+- [Cubs’ Bregman suffers reported facial fractures after being hit by foul ball in ‘terrible accident’](https://www.theguardian.com/sport/2026/sep/21/alex-bregman-foul-ball-injury-baseball)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 23°C / Low 13°C &nbsp;|&nbsp; Humidity 44%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$84,535**
-vs yesterday's close: 🟢 ▲ +$3,366 (+4.15%)
-Trend: 📈 Above 7d MA by 6.4%
+**$85,874**
+vs yesterday's close: 🔴 ▼ $-723 (-0.83%)
+Trend: 📈 Above 7d MA by 5.8%
 
 ### 🇺🇸 S&P 500
-**7,650.5**
-vs previous close: 🟢 ▲ +12.7 (+0.17%)
-Trend: ➡️ Flat around 7d MA (+0.5%)
+**7,764.7**
+vs previous close: 🟢 ▲ +114.2 (+1.49%)
+Trend: 📈 Above 7d MA by 1.7%
 
 ---
 
-<sub>Last updated: 2026-09-21 11:24 BST</sub>
+<sub>Last updated: 2026-09-22 10:38 BST</sub>
