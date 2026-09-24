@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 23 September 2026
+## 📅 Thursday, 24 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 17°C) — Overcast 
-High 23°C / Low 17°C &nbsp;|&nbsp; Humidity 61%
+**15°C** (feels like 14°C) — Overcast 
+High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [UK to review Chagos Islands deal over lack of US support, Streeting tells BBC](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
-- [UK to step up fight against Russian disinformation and push global AI standards, PM says](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: From inside the room, how Burnham survived first Trump meeting](https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss)
+- [NHS trust to reexamine 4,500 breast cancer cases after unnecessary surgeries found](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
+- [Anti-migrant activist arrested over video of dinghy slashing](https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss)
+- [Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [UN General Assembly quiz: Who said these 10 famous quotes?](https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss)
-- [Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold](https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss)
-- [Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record](https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss)
+- [‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat](https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss)
+- [‘Source of anxiety’: Pakistan cracks down before march to free Imran Khan](https://www.aljazeera.com/news-analysis/2026/9/24/source-of-anxiety-pakistan-cracks-down-before-march-to-free-imran-khan?traffic_source=rss)
+- [Liberia is squandering the moral authority it claims at the UN](https://www.aljazeera.com/opinions/2026/9/24/liberia-is-squandering-the-moral-authority-it-claims-at-the-un?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Indian billionaire’s payments firm plots biggest London flotation in years](https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money)
 - [Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl](https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming)
 - [Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns](https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl)
-- [Banished to alien lands: Trump’s secret deportation deals](https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Hunting hidden gems - is there anywhere in the world left to scout?](https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss)
-- ['Be comfortable in your own identity' - Agassi's advice to Raducanu](https://www.bbc.co.uk/sport/tennis/articles/cwd08m2x93mpo?at_medium=RSS&at_campaign=rss)
-- [Germany's saviour? How Klopp is looking to turn fortunes around](https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss)
+- [How Man City overhauled their squad from a 650,000-strong database](https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss)
+- [Debbie Beard and Amanda Thorpe lost their husbands - this is their story](https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss)
+- [Man Utd selling Old Trafford turf cubes for £125](https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [The other Sessegnon: Ryan's twin Steven rebuilding at AFC Wimbledon](https://www.skysports.com/football/news/12040/13582837/steven-sessegnon-interview)
-- [Arsenal latest: YOUR VIEWS on new Arteta deal - and where does he rank?](https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [Hadjar to remain at Red Bull for 2027](https://www.skysports.com/f1/news/12040/13590906/isack-hadjar-confirmed-as-max-verstappens-red-bull-team-mate-for-2027-formula-1-season-ahead-of-azerbaijan-grand-prix)
+- [How Barry Hearn is helping shape the future of his local non-league club](https://www.skysports.com/football/news/12040/13582843/brentwood-town-how-former-leyton-orient-owner-barry-hearn-is-helping-shape-the-future-of-his-local-non-league-club)
+- [Azerbaijan GP: Russell fastest as Antonelli stops on track in first practice LIVE!](https://www.skysports.com/f1/live-blog/12040/13590644/f1-azerbaijan-gp-live-thursday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-baku)
+- [Man Utd latest: Fans able to buy sections of Old Trafford pitch](https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
 
 ### 🏅 The Guardian Sport
-- [Giants’ Jaxson Dart could reportedly miss rest of season with knee injury](https://www.theguardian.com/sport/2026/sep/22/jaxson-dart-giants-knee-injury-update)
-- [Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle](https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle)
-- [‘Hardships never last’: Jenn Lichter’s path from Colombian orphanage to ultrarunning records](https://www.theguardian.com/sport/2026/sep/22/jenn-lichter-ultrarunning)
+- [Former NFL star Antonio Brown to avoid possibility of 30 years in prison with plea deal](https://www.theguardian.com/sport/2026/sep/23/former-nfl-star-antonio-brown-to-avoid-possibility-of-30-years-in-prison-with-plea-deal)
+- [Giants’ Jaxson Dart set for season-ending surgery after serious knee injury](https://www.theguardian.com/sport/2026/sep/22/jaxson-dart-giants-knee-injury-update)
+- [Harry Kane admits England’s World Cup 2026 exit ‘hurt more than any other’](https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 23°C / Low 17°C &nbsp;|&nbsp; Humidity 61%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$85,802**
-vs yesterday's close: 🔴 ▼ $-381 (-0.44%)
-Trend: 📈 Above 7d MA by 3.9%
+**$83,230**
+vs yesterday's close: 🔴 ▼ $-1,152 (-1.37%)
+Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ### 🇺🇸 S&P 500
-**7,764.7**
-vs previous close: 🟢 ▲ +114.2 (+1.49%)
-Trend: 📈 Above 7d MA by 1.7%
+**7,706.0**
+vs previous close: 🔴 ▼ -58.7 (-0.76%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-09-23 10:45 BST</sub>
+<sub>Last updated: 2026-09-24 10:43 BST</sub>
