@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 25 September 2026
+## 📅 Saturday, 26 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 16°C) — Sunny
-High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
+**14°C** (feels like 13°C) — Overcast 
+High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 61%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Families failed by decision to bail sex offender to flat near playground, victims commissioner says](https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss)
-- [Noah Woods left playground through gap in fence, inquest hears](https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss)
-- [Xi got Trump's red carpet welcome - but not everything he wanted](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
+- [Clubs seek legal advice after Man City found guilty over financial rule breaches](https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss)
+- [The computer hacker who tried to take down Man City](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss)
+- [Iran offers US deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Switzerland’s neutrality vote is asking the wrong question](https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question?traffic_source=rss)
-- [Nepal PM says global order is broken in fighting climate crisis](https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss)
-- [Saudi Arabia allies line up support as Houthi attacks mount](https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss)
+- [Trump reportedly rejects Iran’s seven-day ceasefire proposal. What’s next?](https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss)
+- [Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash](https://www.aljazeera.com/sports/2026/9/26/senegal-draw-in-vieira-debut-nigeria-survive-scare-but-cape-verde-crash?traffic_source=rss)
+- [China, US to open AI ‘communication channel’ after summit, White House says](https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Rebel offensive against Ethiopian army stokes fears of return to civil war](https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army)
@@ -39,19 +39,19 @@ High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Our son's death could have been prevented by FA - Billy Vigar's parents](https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss)
-- [Bellamy wants more from Wales after loss to Portugal](https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss)
-- [Zidane waited for France - now can he harness their star power?](https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss)
+- [The computer hacker who tried to take down Man City](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss)
+- [Clubs seek legal advice over Man City charges compensation](https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss)
+- [Joshua fight at risk over promoter row, says Fury](https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Chelsea in landmark fertility policy: 'Being a player and mum are both possible now'](https://www.skysports.com/football/news/12040/13590628/chelsea-women-sonia-bompastor-and-carly-telford-discuss-new-fertility-and-player-maternity-policies-in-wsl-first)
-- [Azerbaijan GP: Verstappen usurps Mercedes ahead of Qualifying LIVE!](https://www.skysports.com/f1/live-blog/12040/13591653/f1-azerbaijan-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-baku)
-- [Fisher outweighs rival as Pirotton issues knockout threat](https://www.skysports.com/boxing/news/12040/13591714/johnny-fisher-outweighs-heavyweight-rival-as-michael-pirotton-issues-knockout-threat-ahead-of-saturdays-copper-box-clash)
+- [Azerbaijan GP: Russell on pole as Antonelli starts 16th for 12pm race LIVE!](https://www.skysports.com/f1/live-blog/12040/13591657/azerbaijan-gp-live-race-updates-results-stream-highlights-from-15th-round-of-2026-formula-1-season-in-baku)
+- ['Littler can become greatest ever but won't surpass legendary Taylor'](https://www.skysports.com/darts/news/12040/13583230/luke-littler-can-become-the-greatest-darts-player-ever-8211-but-may-never-surpass-phil-taylor-says-stephen-bunting)
+- [Fury claims all-British heavyweight blockbuster with AJ in jeopardy](https://www.skysports.com/boxing/news/12040/13591987/fury-vs-joshua-tyson-fury-claims-heavyweight-super-fight-with-anthony-joshua-in-jeopardy)
 
 ### 🏅 The Guardian Sport
-- [Falcons trample punchless Packers as Bijan Robinson runs riot in Penix return](https://www.theguardian.com/sport/2026/sep/24/falcons-packers-bijan-robinson-michael-penix-nfl)
-- [Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live](https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live)
-- [Mauricio Pochettino regrets not being ‘more involved’ with Balogun decision](https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments)
+- [Manchester City found guilty of breaking Premier League’s financial fair play rules](https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules)
+- [WNBA 2026 playoff predictions: can the dynastic Aces – or anybody – deny the dominant Lynx?](https://www.theguardian.com/sport/2026/sep/26/wnba-2026-playoff-predictions-lynx-aces)
+- [Carlos Alcaraz leads by example as Europe take early lead in Laver Cup](https://www.theguardian.com/sport/2026/sep/25/carlos-alcaraz-continues-comeback-as-europe-take-charge-of-laver-cup)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 25°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$84,589**
-vs yesterday's close: 🟢 ▲ +$211 (+0.25%)
-Trend: ➡️ Flat around 7d MA (+0.6%)
+**$84,001**
+vs yesterday's close: 🔴 ▼ $-75 (-0.09%)
+Trend: ➡️ Flat around 7d MA (-0.5%)
 
 ### 🇺🇸 S&P 500
-**7,704.1**
-vs previous close: 🔴 ▼ -1.9 (-0.02%)
-Trend: ➡️ Flat around 7d MA (+0.6%)
+**7,743.4**
+vs previous close: 🟢 ▲ +39.3 (+0.51%)
+Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-09-25 11:00 BST</sub>
+<sub>Last updated: 2026-09-26 10:42 BST</sub>
