@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Tuesday, 29 September 2026
+## 📅 Wednesday, 30 September 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 18°C) — Overcast 
-High 25°C / Low 15°C &nbsp;|&nbsp; Humidity 83%
+**21°C** (feels like 19°C) — Patchy rain nearby
+High 23°C / Low 17°C &nbsp;|&nbsp; Humidity 74%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,14 +20,14 @@ High 25°C / Low 15°C &nbsp;|&nbsp; Humidity 83%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
-- [Sir Ranulph Fiennes' relatives say it's 'very painful' not being able to visit him](https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss)
-- ['We don't know where he is,' family of Sir Ranulph Fiennes tell BBC](https://www.bbc.co.uk/news/videos/ck8d3v9635vvo?at_medium=RSS&at_campaign=rss)
+- [Move to rejoin EU among options for UK, says Burnham](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
+- [One of the five men arrested near RAF Fairford called 999 himself](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
+- [Household energy bills forecast to see biggest rise in four years](https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Lebanese are watching Israel’s upcoming election, but few expect change](https://www.aljazeera.com/news/2026/9/29/lebanese-are-watching-israels-upcoming-election-but-few-expect-change?traffic_source=rss)
-- [Malaysia begins sending back Rohingya refugees despite safety warnings](https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss)
-- [Argentina’s Milei threatens legal action over Falklands oil project](https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss)
+- [Former American Idol contestant found guilty of murdering wife](https://www.aljazeera.com/video/newsfeed/2026/9/30/former-american-idol-contestant-found-guilty-of-murdering-wife?traffic_source=rss)
+- [Flydubai flight to Israel diverted to Saudi Arabia after emergency alert](https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss)
+- [‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation](https://www.aljazeera.com/news/2026/9/30/i-wanted-to-live-a-ukrainian-orphans-journey-through-russian-occupation?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [DRC politician beaten to death after radio appearance about Ebola outbreak](https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola)
@@ -39,19 +39,19 @@ High 25°C / Low 15°C &nbsp;|&nbsp; Humidity 83%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['Period of deception' - Pochettino on Man City verdict](https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss)
-- [Toone and Kelly miss out on Lionesses squad](https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&at_campaign=rss)
-- ['I'm better than that other guy' - Alonso on why he's staying in F1](https://www.bbc.co.uk/sport/formula1/articles/cde0gz51g36o?at_medium=RSS&at_campaign=rss)
+- [Richards 'devastated' by Man City guilty verdicts](https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss)
+- [£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'](https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss)
+- [Ocon to leave Haas putting F1 future in doubt](https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Hallgrimsson says Ireland squad are ‘all uncomfortable’ ahead of Israel tie](https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip)
-- [Fury vs Joshua set to go ahead after issues resolved](https://www.skysports.com/boxing/news/12040/13593101/tyson-fury-and-anthony-joshua-expected-to-go-head-to-head-at-press-conference-in-london-on-wednesday)
-- [Arsenal latest: Vieira reveals interest from Man Utd and met with Ferguson](https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [Inside Rangers' summer transfer window - but will it deliver success?](https://www.skysports.com/football/news/12040/13593167/rangers-transfers-inside-the-summer-window-that-lay-foundations-for-consecutive-celtic-wins-but-will-it-deliver-long-term-success)
+- [Ocon to leave Haas at end of 2026 season](https://www.skysports.com/f1/news/12040/13593556/esteban-ocon-haas-driver-to-leave-team-at-end-of-2026-f1-season-after-two-years-with-american-owned-squad)
+- [Williams aiming to change course of Warrington's history with Grand Final victory](https://www.skysports.com/rugby-league/news/12040/13592782/super-league-grand-final-george-williams-hoping-to-change-course-of-warrington-wolves-history-with-victory-in-his-final-game)
 
 ### 🏅 The Guardian Sport
-- [Scale of City’s punishment is the only story but Premier League must bear some responsibility | Barney Ronay](https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges)
-- [Former snooker world champion Graeme Dott jailed for child sexual abuse](https://www.theguardian.com/uk-news/2026/sep/29/former-snooker-world-champion-graeme-dott-jailed-child-sexual-abuse)
-- [Aston Villa sack manager Natalia Arroyo with club second-bottom of WSL](https://www.theguardian.com/football/2026/sep/29/aston-villa-women-sack-manager-natalia-arroyo-wsl)
+- [Jameis Winston is now the New York Giants’ starter. He’s far from a goofball hero though](https://www.theguardian.com/sport/2026/sep/30/jameis-winston-new-york-giants-nfl)
+- [WNBA playoffs: Caitlin Clark shines in Fever win as A’ja Wilson confronts fan after Cunningham foul](https://www.theguardian.com/sport/2026/sep/29/caitlin-clark-wnba-playoffs-aja-wilson-fan)
+- [USMNT youth shines again in contentious 4-2 win over Chile](https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,13 +61,15 @@ High 25°C / Low 15°C &nbsp;|&nbsp; Humidity 83%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-Could not fetch BTC: HTTP Error 403: Forbidden
+**$83,895**
+vs yesterday's close: 🟢 ▲ +$255 (+0.30%)
+Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ### 🇺🇸 S&P 500
-**7,683.7**
-vs previous close: 🔴 ▼ -59.7 (-0.77%)
-Trend: ➡️ Flat around 7d MA (-0.4%)
+**7,670.8**
+vs previous close: 🔴 ▼ -12.9 (-0.17%)
+Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ---
 
-<sub>Last updated: 2026-09-29 12:07 BST</sub>
+<sub>Last updated: 2026-09-30 11:54 BST</sub>
