@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 30 September 2026
+## 📅 Thursday, 01 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**21°C** (feels like 19°C) — Patchy rain nearby
-High 23°C / Low 17°C &nbsp;|&nbsp; Humidity 74%
+**18°C** (feels like 15°C) — Sunny
+High 21°C / Low 14°C &nbsp;|&nbsp; Humidity 54%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Move to rejoin EU among options for UK, says Burnham](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
-- [One of the five men arrested near RAF Fairford called 999 himself](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
-- [Household energy bills forecast to see biggest rise in four years](https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss)
+- [We fear for our lives after being told our abusive exes will be freed from jail early](https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss)
+- [US death row inmate survives execution attempt after two lethal injections](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
+- [Watch: The many questions raised by the failed execution of Christa Pike](https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Former American Idol contestant found guilty of murdering wife](https://www.aljazeera.com/video/newsfeed/2026/9/30/former-american-idol-contestant-found-guilty-of-murdering-wife?traffic_source=rss)
-- [Flydubai flight to Israel diverted to Saudi Arabia after emergency alert](https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss)
-- [‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation](https://www.aljazeera.com/news/2026/9/30/i-wanted-to-live-a-ukrainian-orphans-journey-through-russian-occupation?traffic_source=rss)
+- [Christa Pike execution fails: What next when a lethal injection is botched?](https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss)
+- [How will investigation into Flydubai flight attack unfold?](https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss)
+- [Iraq’s Kurdish forces look to a new era after US withdrawal](https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [DRC politician beaten to death after radio appearance about Ebola outbreak](https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola)
-- [At least 27 dead after two mass shootings in South Africa, police say](https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town)
-- [‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys](https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe)
+- [Trump administration diverts human rights funds to push far-right agenda abroad](https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund)
+- [South African leader urges men to speak up on gender-based violence after series of killings](https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings)
+- [Burundi agrees to receive ‘third-country’ migrant deportees from US](https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Richards 'devastated' by Man City guilty verdicts](https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss)
-- [£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'](https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss)
-- [Ocon to leave Haas putting F1 future in doubt](https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss)
+- [Ranking the best British football exports this century](https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss)
+- [England call up Crane and rest Archer for Pakistan series](https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss)
+- [Punish Man City this season, say other club chiefs](https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Inside Rangers' summer transfer window - but will it deliver success?](https://www.skysports.com/football/news/12040/13593167/rangers-transfers-inside-the-summer-window-that-lay-foundations-for-consecutive-celtic-wins-but-will-it-deliver-long-term-success)
-- [Ocon to leave Haas at end of 2026 season](https://www.skysports.com/f1/news/12040/13593556/esteban-ocon-haas-driver-to-leave-team-at-end-of-2026-f1-season-after-two-years-with-american-owned-squad)
-- [Williams aiming to change course of Warrington's history with Grand Final victory](https://www.skysports.com/rugby-league/news/12040/13592782/super-league-grand-final-george-williams-hoping-to-change-course-of-warrington-wolves-history-with-victory-in-his-final-game)
+- [Rashid, Curran return from injury as England rest Archer for ODI tri-series](https://www.skysports.com/cricket/news/12040/13593907/england-recall-fit-again-adil-rashid-and-sam-curran-as-jofra-archer-rested-for-odi-tri-series-against-pakistan-and-sri-lanka)
+- ['Point fingers somewhere else!' - Hamilton backs Vasseur but calls for other Ferrari change](https://www.skysports.com/f1/news/12040/13593821/lewis-hamilton-ferrari-driver-makes-impassioned-frederic-vasseur-defence-but-wants-other-structural-leadership-change)
+- ['A risk not worth taking' - PL execs not expecting clubs to vote for Man City expulsion](https://www.skysports.com/football/news/12040/13593861/man-city-charges-premier-league-executives-would-be-staggered-if-clubs-vote-for-expulsion-as-punishment)
 
 ### 🏅 The Guardian Sport
-- [Jameis Winston is now the New York Giants’ starter. He’s far from a goofball hero though](https://www.theguardian.com/sport/2026/sep/30/jameis-winston-new-york-giants-nfl)
-- [WNBA playoffs: Caitlin Clark shines in Fever win as A’ja Wilson confronts fan after Cunningham foul](https://www.theguardian.com/sport/2026/sep/29/caitlin-clark-wnba-playoffs-aja-wilson-fan)
-- [USMNT youth shines again in contentious 4-2 win over Chile](https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report)
+- [Pleasant surprises of the NFL season so far: Brock Purdy for MVP and actual Raiders competence](https://www.theguardian.com/sport/2026/oct/01/pleasant-surprises-of-the-nfl-season-so-far-brock-purdy-for-mvp-and-actual-raiders-competence)
+- [US soccer’s youth system is expensive, chaotic and overdue for reform](https://www.theguardian.com/football/2026/oct/01/us-soccer-youth-development-pay-to-play-travel-soccer)
+- [White Sox end 21-year playoff drought as Yankees and Padres complete sweeps](https://www.theguardian.com/sport/2026/sep/30/white-sox-astros-al-wild-card-series-sweep)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 23°C / Low 17°C &nbsp;|&nbsp; Humidity 74%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$83,895**
-vs yesterday's close: 🟢 ▲ +$255 (+0.30%)
+**$83,801**
+vs yesterday's close: 🟢 ▲ +$225 (+0.27%)
 Trend: ➡️ Flat around 7d MA (-0.2%)
 
 ### 🇺🇸 S&P 500
-**7,670.8**
-vs previous close: 🔴 ▼ -12.9 (-0.17%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**7,651.5**
+vs previous close: 🔴 ▼ -19.3 (-0.25%)
+Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ---
 
-<sub>Last updated: 2026-09-30 11:54 BST</sub>
+<sub>Last updated: 2026-10-01 12:23 BST</sub>
