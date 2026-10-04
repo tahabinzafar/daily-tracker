@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 03 October 2026
+## 📅 Sunday, 04 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**18°C** (feels like 17°C) — Overcast 
-High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
+**16°C** (feels like 16°C) — Sunny
+High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 66%
 
 > 🙂 Decent enough. Light jacket should be fine.
 
@@ -20,14 +20,14 @@ High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
-- [Widdecombe suspect charged with planning terror act against Farage](https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss)
-- [Russia strikes second major bridge in Kyiv, mayor says](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
+- [Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
+- [Burnham scraps controversial plans to curb jury trials](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
+- [Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [G7 to release 100 million barrels of oil and diesel, will it curb prices?](https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss)
-- [Who is the mystery co-pilot behind the Flydubai attack?](https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss)
-- [Yemen’s army claims over 1,500 Houthi casualties in past 24 hours](https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss)
+- [Spain protests flare after housing bill rejected: Will it cause snap poll?](https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss)
+- [Netanyahu’s fight to own the election narrative](https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss)
+- [Tributes as Bosnian football star Edin Dzeko retires](https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities](https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar)
@@ -39,19 +39,19 @@ High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Verstappen takes first 2026 pole ahead of Hamilton](https://www.bbc.co.uk/sport/formula1/articles/cm1j3l9867jwo?at_medium=RSS&at_campaign=rss)
-- [Which clubs did Man City's 'inflated' money flow to in transfer market?](https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss)
-- [Pretorius breaks Gayle's T20 record score](https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss)
+- [Bellingham unlocks new level and potential to be 'one of the greatest'](https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss)
+- [Bowie seizing Scotland shot after World Cup disappointment](https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss)
+- ['An unbelievable story' - inside unfancied Wakefield's rapid ascent](https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Ten injured as car drives into crowd gathered to support NRL team](https://www.skysports.com/rugby-league/news/12040/13594605/newcastle-knights-ceo-extends-support-to-victims-after-car-drives-into-crowd-of-nrl-fans-leaving-10-injured)
-- [Verstappen beats Hamilton to pole in Malaysia](https://www.skysports.com/f1/news/12040/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season)
-- [Bahrain GP in Malaysia: Reaction to Verstappen-Hamilton front row LIVE!](https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang)
+- [Verstappen wins 'absolutely wild' Bahrain GP for first 2026 victory](https://www.skysports.com/f1/news/12040/13594860/bahrain-gp-in-malaysia-max-verstappen-wins-first-race-of-2026-f1-season-in-wild-rain-hit-grand-prix-as-lewis-hamilton-surges-back)
+- [Rampant Roosters bash Broncos to claim third NRLW premiership](https://www.skysports.com/rugby-league/news/12040/13594911/nrlw-premiership-sydney-roosters-crush-brisbane-broncos-to-claim-third-nrlw-title-and-complete-perfect-season)
+- [Sabalenka follows Rybakina out of China Open after shock defeat](https://www.skysports.com/tennis/news/12040/13594878/china-open-aryna-sabalenka-suffers-shock-beijing-exit-8212-a-day-after-new-world-no-1-elena-rybakina-was-knocked-out)
 
 ### 🏅 The Guardian Sport
+- [Max Verstappen wins his first race of season at Bahrain GP after rain delay causes chaos – live reaction](https://www.theguardian.com/sport/live/2026/oct/04/bahrain-grand-prix-formula-one-2026-live)
 - [Manchester City’s guilty verdict brings football’s great sell-off crashing to earth](https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football)
-- [Clay Travis: inside the Maga permadad’s world of sports bros, trans panic and mortgages](https://www.theguardian.com/sport/2026/oct/02/clay-travis-sport-and-state)
-- [49ers owner Jed York suspended, fined $500K after prostitution sting arrest](https://www.theguardian.com/sport/2026/oct/02/jed-york-49ers-nfl-suspension-arrest)
+- [Cavan Sullivan’s long-range chip highlights USMNT’s 3-0 romp over Mexico](https://www.theguardian.com/football/2026/oct/04/usmnt-mexico-match-report)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 20°C / Low 14°C &nbsp;|&nbsp; Humidity 68%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$84,578**
-vs yesterday's close: 🟢 ▲ +$72 (+0.08%)
-Trend: ➡️ Flat around 7d MA (+0.5%)
+**$85,320**
+vs yesterday's close: 🟢 ▲ +$577 (+0.68%)
+Trend: 📈 Above 7d MA by 1.2%
 
 ### 🇺🇸 S&P 500
 **7,722.7**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-10-03 11:12 BST</sub>
+<sub>Last updated: 2026-10-04 11:55 BST</sub>
