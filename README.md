@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Sunday, 04 October 2026
+## 📅 Monday, 05 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**16°C** (feels like 16°C) — Sunny
-High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 66%
+**19°C** (feels like 18°C) — Sunny
+High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 62%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
-- [Burnham scraps controversial plans to curb jury trials](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
-- [Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
+- [US removes all bombers from RAF Fairford base](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
+- [Andrew takes legal action over search warrants before his arrest](https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss)
+- [Spanish PM Sánchez calls early election after housing protests](https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Spain protests flare after housing bill rejected: Will it cause snap poll?](https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss)
-- [Netanyahu’s fight to own the election narrative](https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss)
-- [Tributes as Bosnian football star Edin Dzeko retires](https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss)
+- [Growing outrage in Japan after US Marine arrested in woman’s killing](https://www.aljazeera.com/news/2026/10/5/growing-outrage-in-japan-after-us-marine-arrested-in-womans-killing?traffic_source=rss)
+- [US abruptly withdraws bombers from UK’s RAF Fairford](https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss)
+- [Photos: Yemen’s hospitals struggle to operate amid persistent power outages](https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Skull fractures suggest servants of Egypt’s ancient kings were sacrificed](https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed)
+- [Egyptian journalist faces terrorism charges after entire newsroom detained](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom)
 - [Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities](https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar)
-- [Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin](https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin)
-- [Trump administration diverts human rights funds to push far-right agenda abroad](https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Bellingham unlocks new level and potential to be 'one of the greatest'](https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss)
-- [Bowie seizing Scotland shot after World Cup disappointment](https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss)
-- ['An unbelievable story' - inside unfancied Wakefield's rapid ascent](https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss)
+- [£800m in, £800m out - Why Man City scandal shines light on Man Utd finances](https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss)
+- [England to play 50-over warm-up in stark Ashes contrast](https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss)
+- [Scott out of England squad and faces injury lay-off](https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Verstappen wins 'absolutely wild' Bahrain GP for first 2026 victory](https://www.skysports.com/f1/news/12040/13594860/bahrain-gp-in-malaysia-max-verstappen-wins-first-race-of-2026-f1-season-in-wild-rain-hit-grand-prix-as-lewis-hamilton-surges-back)
-- [Rampant Roosters bash Broncos to claim third NRLW premiership](https://www.skysports.com/rugby-league/news/12040/13594911/nrlw-premiership-sydney-roosters-crush-brisbane-broncos-to-claim-third-nrlw-title-and-complete-perfect-season)
-- [Sabalenka follows Rybakina out of China Open after shock defeat](https://www.skysports.com/tennis/news/12040/13594878/china-open-aryna-sabalenka-suffers-shock-beijing-exit-8212-a-day-after-new-world-no-1-elena-rybakina-was-knocked-out)
+- [Humphries ready to win another World title - and wants Littler in the final](https://www.skysports.com/darts/news/12040/13595292/luke-humphries-hoping-to-face-luke-littler-in-world-championship-final-after-ending-major-drought-at-world-grand-prix)
+- [Why Verstappen's 'special' Malaysia win was so significant](https://www.skysports.com/f1/news/12040/13595198/max-verstappen-why-red-bull-drivers-victory-at-bahrain-grand-prix-in-malaysia-was-so-special)
+- ['What a pass!' - Jokic pulls off OUTRAGEOUS behind-the-back dime across court!](https://www.skysports.com/watch/video/13595270/nikola-jokic-stuns-with-outrageous-behind-the-back-assist-in-nuggets-preseason-opener)
 
 ### 🏅 The Guardian Sport
-- [Max Verstappen wins his first race of season at Bahrain GP after rain delay causes chaos – live reaction](https://www.theguardian.com/sport/live/2026/oct/04/bahrain-grand-prix-formula-one-2026-live)
-- [Manchester City’s guilty verdict brings football’s great sell-off crashing to earth](https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football)
-- [Cavan Sullivan’s long-range chip highlights USMNT’s 3-0 romp over Mexico](https://www.theguardian.com/football/2026/oct/04/usmnt-mexico-match-report)
+- [The terrifying, unbeaten Chiefs would like you to know your predictions were wrong](https://www.theguardian.com/sport/2026/oct/05/kansas-city-chiefs-las-vegas-raiders-nfl-football)
+- [Next Generation 2026: 20 of the best talents at Premier League clubs](https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs)
+- [‘Unequivocally false’: WNBA players push back on Fever GM’s defense of fans’ behavior](https://www.theguardian.com/sport/2026/oct/04/indiana-fever-fans-criticism)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 22°C / Low 14°C &nbsp;|&nbsp; Humidity 66%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$85,320**
-vs yesterday's close: 🟢 ▲ +$577 (+0.68%)
-Trend: 📈 Above 7d MA by 1.2%
+**$86,166**
+vs yesterday's close: 🔴 ▼ $-324 (-0.37%)
+Trend: 📈 Above 7d MA by 1.5%
 
 ### 🇺🇸 S&P 500
 **7,722.7**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-10-04 11:55 BST</sub>
+<sub>Last updated: 2026-10-05 13:03 BST</sub>
