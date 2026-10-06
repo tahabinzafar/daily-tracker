@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 05 October 2026
+## 📅 Tuesday, 06 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**19°C** (feels like 18°C) — Sunny
-High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 62%
+**20°C** (feels like 20°C) — Overcast 
+High 21°C / Low 15°C &nbsp;|&nbsp; Humidity 61%
 
 > 😎 Nice out. You can get away with just a t-shirt.
 
@@ -20,38 +20,38 @@ High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 62%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [US removes all bombers from RAF Fairford base](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
-- [Andrew takes legal action over search warrants before his arrest](https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss)
-- [Spanish PM Sánchez calls early election after housing protests](https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss)
+- [Watch: At the scene of student protests on the streets of Lille](https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss)
+- [Former German spy chief arrested for espionage and treason](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)
+- [Tories pledge £10bn for British anti-missile defence system](https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Growing outrage in Japan after US Marine arrested in woman’s killing](https://www.aljazeera.com/news/2026/10/5/growing-outrage-in-japan-after-us-marine-arrested-in-womans-killing?traffic_source=rss)
-- [US abruptly withdraws bombers from UK’s RAF Fairford](https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss)
-- [Photos: Yemen’s hospitals struggle to operate amid persistent power outages](https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss)
+- [Russia plague quarantine following lab death: Should we be worried?](https://www.aljazeera.com/news/2026/10/6/russia-plague-quarantine-following-lab-death-should-we-be-worried?traffic_source=rss)
+- [India opposition leaders briefly arrested in protest against election chief](https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief?traffic_source=rss)
+- [Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat](https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Skull fractures suggest servants of Egypt’s ancient kings were sacrificed](https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed)
-- [Egyptian journalist faces terrorism charges after entire newsroom detained](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom)
-- [Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities](https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar)
+- [Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province](https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc)
+- [Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads](https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes)
+- [Guardian readers fund life-changing surgery for Somali boy injured in US airstrike](https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [£800m in, £800m out - Why Man City scandal shines light on Man Utd finances](https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss)
-- [England to play 50-over warm-up in stark Ashes contrast](https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss)
-- [Scott out of England squad and faces injury lay-off](https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss)
+- [Messi set for emotional final Argentina game - what will he do next?](https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss)
+- [LIV Golf secures potential $300m investment](https://www.bbc.co.uk/sport/golf/articles/ckjwe02v4xdlo?at_medium=RSS&at_campaign=rss)
+- [Captain apologises for gloating over military service exemption](https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Humphries ready to win another World title - and wants Littler in the final](https://www.skysports.com/darts/news/12040/13595292/luke-humphries-hoping-to-face-luke-littler-in-world-championship-final-after-ending-major-drought-at-world-grand-prix)
-- [Why Verstappen's 'special' Malaysia win was so significant](https://www.skysports.com/f1/news/12040/13595198/max-verstappen-why-red-bull-drivers-victory-at-bahrain-grand-prix-in-malaysia-was-so-special)
-- ['What a pass!' - Jokic pulls off OUTRAGEOUS behind-the-back dime across court!](https://www.skysports.com/watch/video/13595270/nikola-jokic-stuns-with-outrageous-behind-the-back-assist-in-nuggets-preseason-opener)
+- [Alcaraz wins Japan Open in first final since wrist injury](https://www.skysports.com/tennis/news/12040/13595696/carlos-alcaraz-spaniard-wins-japan-open-in-first-final-since-coming-back-from-injury-lay-off-for-wrist-injury)
+- [Packer to miss Red Roses' tour of North America](https://www.skysports.com/rugby-union/news/12040/13595705/red-roses-englands-marlie-packer-to-miss-wxv-global-series-matches-against-canada-and-usa-in-north-america)
+- [Russell set for Singapore GP grid penalty after engine failure](https://www.skysports.com/f1/news/12040/13595451/george-russell-mercedes-driver-set-to-start-singapore-gp-from-back-of-grid-due-to-penalty-caused-by-bahrain-gp-engine-failure)
 
 ### 🏅 The Guardian Sport
-- [The terrifying, unbeaten Chiefs would like you to know your predictions were wrong](https://www.theguardian.com/sport/2026/oct/05/kansas-city-chiefs-las-vegas-raiders-nfl-football)
-- [Next Generation 2026: 20 of the best talents at Premier League clubs](https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs)
-- [‘Unequivocally false’: WNBA players push back on Fever GM’s defense of fans’ behavior](https://www.theguardian.com/sport/2026/oct/04/indiana-fever-fans-criticism)
+- [Deion Sanders created Prime Time so he could get paid. Why deny college athletes the same chance?](https://www.theguardian.com/sport/2026/oct/06/deion-sanders-protect-college-sports-act-football)
+- [‘I will not be moving on’: sale of WNBA’s Connecticut Sun leaves Native fans facing cultural loss](https://www.theguardian.com/sport/2026/oct/06/wnba-connecticut-sun-move-native-american-fans)
+- [Next Generation 2026: 60 of the best young talents in world football](https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 23°C / Low 14°C &nbsp;|&nbsp; Humidity 62%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$86,166**
-vs yesterday's close: 🔴 ▼ $-324 (-0.37%)
-Trend: 📈 Above 7d MA by 1.5%
+**$86,329**
+vs yesterday's close: 🟢 ▲ +$558 (+0.65%)
+Trend: 📈 Above 7d MA by 1.3%
 
 ### 🇺🇸 S&P 500
-**7,722.7**
-vs previous close: 🟢 ▲ +56.3 (+0.73%)
-Trend: ➡️ Flat around 7d MA (+0.4%)
+**7,774.0**
+vs previous close: 🟢 ▲ +51.2 (+0.66%)
+Trend: ➡️ Flat around 7d MA (+0.9%)
 
 ---
 
-<sub>Last updated: 2026-10-05 13:03 BST</sub>
+<sub>Last updated: 2026-10-06 12:48 BST</sub>
