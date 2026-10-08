@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Wednesday, 07 October 2026
+## 📅 Thursday, 08 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 14°C) — Light rain
-High 16°C / Low 10°C &nbsp;|&nbsp; Humidity 88%
+**13°C** (feels like 9°C) — Partly cloudy 
+High 15°C / Low 8°C &nbsp;|&nbsp; Humidity 40%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Man admits sexually assaulting woman drugged by husband](https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss)
-- [How did Christa Pike survive execution attempt - and what happens next?](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
-- [Royal Mail plans to cut 2,500 jobs](https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss)
+- [Three sisters who drowned in sea off Brighton took own lives, inquest finds](https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss)
+- [Asos hackers took more personal details than first revealed, BBC finds](https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss)
+- [Royal Navy sailor charged with spying for a foreign power](https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Doha Debates: Should We Trust the News?](https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss)
-- [Israeli attacks across Gaza kill at least four Palestinians](https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss)
-- [US sets new demands for Iran deal: What are they?](https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss)
+- [School protests, blockades resume in France despite PM’s promise to act](https://www.aljazeera.com/news/2026/10/8/school-protests-blockades-resume-in-france-despite-pms-promise-to-act?traffic_source=rss)
+- [The Hormuz bonus: Sailor salaries soar for transits amid Iran war](https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war?traffic_source=rss)
+- [Photos: Protests erupt after 87-year-old evicted woman dies in Madrid](https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province](https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc)
@@ -39,19 +39,19 @@ High 16°C / Low 10°C &nbsp;|&nbsp; Humidity 88%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Arteta signs new contract with champions Arsenal](https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss)
-- [Russell to start from back of Singapore grid after penalty](https://www.bbc.co.uk/sport/formula1/articles/cm0qkdk37gy0o?at_medium=RSS&at_campaign=rss)
-- [Midfield options and a fab front four - what we've learned about England](https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&at_campaign=rss)
+- [Clubs fear political interference in Man City appeal](https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss)
+- [Faster than F1: The extreme motorsport where women keep winning](https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o?at_medium=RSS&at_campaign=rss)
+- [Snakes and jungle mind games as Bottas cycles to Singapore GP](https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [ARSENAL PODCAST: Listen to an Arteta new contract special!](https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [How does Arteta turn champions into serial winners?](https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success)
-- ['We want a winning era' - Arteta signs new Arsenal contract](https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions)
+- [Guardiola set to attend Man City's first home game since guilty verdict](https://www.skysports.com/football/news/12040/13596452/pep-guardiola-set-to-attend-man-citys-first-home-game-since-guilty-verdict)
+- [James: England must keep looking forward in quest for World Cup place](https://www.skysports.com/football/news/12040/13595901/england-lauren-james-says-sarina-wiegmans-side-must-have-no-regrets-as-greece-world-cup-play-off-awaits)
+- ['Void of leaders' - The problems for bottom-side Spurs after winless start](https://www.skysports.com/football/news/12040/13596052/tottenham-sky-sports-special-podcast-tim-sherwood-and-michael-bridge-assess-spurs-problems-after-winless-start)
 
 ### 🏅 The Guardian Sport
-- [Justin Ellis helps US cap a perfect international window with 1-0 win over Canada](https://www.theguardian.com/football/2026/oct/06/usa-canada-report-justin-ellis)
-- [Lionel Messi bids tearful farewell to Argentina after scoring in 3-0 win over Benin](https://www.theguardian.com/football/2026/oct/06/lionel-messi-argentina-benin-international-retirement)
-- [Harry Kane doubles up on landmark night as England cruise past Czechia](https://www.theguardian.com/football/2026/oct/06/england-czechia-nations-league-match-report)
+- [Rays sweep Yankees out of playoffs after ‘crazy’ fan interference downgrades New York home run](https://www.theguardian.com/sport/2026/oct/07/mlb-playoffs-2026-division-series-results-scores-highlights)
+- [Inside NBA Europe’s $10bn plan that has football clubs queuing to join](https://www.theguardian.com/sport/2026/oct/08/basketball-nba-europe-launch-franchise-football)
+- [Indiana Fever and the Magasphere: a WNBA team’s dangerous path to popularity | Howard Bryant](https://www.theguardian.com/sport/2026/oct/08/indiana-fever-and-the-magasphere-a-wnba-teams-dangerous-path-to-popularity)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 16°C / Low 10°C &nbsp;|&nbsp; Humidity 88%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$83,708**
-vs yesterday's close: 🔴 ▼ $-1,832 (-2.14%)
-Trend: 📉 Below 7d MA by 1.7%
+**$82,572**
+vs yesterday's close: 🔴 ▼ $-2,968 (-3.47%)
+Trend: 📉 Below 7d MA by 2.8%
 
 ### 🇺🇸 S&P 500
-**7,818.9**
-vs previous close: 🟢 ▲ +45.0 (+0.58%)
-Trend: 📈 Above 7d MA by 1.4%
+**7,801.8**
+vs previous close: 🔴 ▼ -17.2 (-0.22%)
+Trend: ➡️ Flat around 7d MA (+0.9%)
 
 ---
 
-<sub>Last updated: 2026-10-07 12:31 BST</sub>
+<sub>Last updated: 2026-10-08 12:47 BST</sub>
