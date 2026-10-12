@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Sunday, 11 October 2026
+## 📅 Monday, 12 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 10°C) — Overcast 
-High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 60%
+**15°C** (feels like 13°C) — Patchy rain nearby
+High 17°C / Low 13°C &nbsp;|&nbsp; Humidity 83%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [UK does not support Trump's Russia diesel deal, says Streeting](https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss)
-- [Buildings swept away as flash floods hit central Nepal](https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss)
-- [Man dies after tiger attack at wildlife park](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
+- [Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
+- [Saudi minister vows 'serious response' to Houthi attacks on airports](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
+- [Watch: CCTV shows people take cover as missile hits Riyadh airport](https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Mohamed Salah sets Turkish Super Lig record for Trabzonspor](https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss)
-- [Yemen fighting expands as Houthis attack Saudi airport: What to know](https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss)
-- [Fear and uncertainty for civilians as Yemen’s capital comes under attack](https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss)
+- [Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford](https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss)
+- [Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?](https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss)
+- [Which banners did Liverpool fans display at Anfield against Man City?](https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
@@ -39,19 +39,19 @@ High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 60%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Toxicity and uncertainty await Man City - will their season even matter?](https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss)
-- [Australia bowlers take control of first Test v South Africa - scorecard](https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss)
-- [Kipchoge, 41, breaks course record at Melbourne Marathon](https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss)
+- [Key suggests Carse can return as England reveal contract list](https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&at_campaign=rss)
+- [South Africa face fight to save Test after Australia declare - scorecard](https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss)
+- [The 'Kane-esque' striker Spurs may regret letting go](https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Singapore GP: Verstappen on pole ahead of Leclerc, Hamilton LIVE!](https://www.skysports.com/f1/live-blog/12040/13597657/f1-singapore-gp-live-race-updates-results-stream-highlights-from-17th-round-of-2026-formula-1-season-at-marina-bay-circuit)
-- [Yamashita wins Korea Championship with course-record finish](https://www.skysports.com/golf/news/12040/13597680/aramco-korea-championship-miyu-yamashita-produces-course-record-finish-to-clinch-ladies-european-tour-title)
-- [Brennan holds on for one-shot victory at Baycurrent Classic in Japan](https://www.skysports.com/golf/news/12040/13597656/baycurrent-classic-michael-brennan-holds-on-to-win-title-in-japan-ahead-of-jacob-bridgeman-and-keith-mitchell)
+- [Alcaraz dumped out of Shanghai Masters in third round](https://www.skysports.com/tennis/news/12040/13598151/carlos-alcaraz-dumped-out-of-shanghai-masters-in-third-round-by-zizou-bergs)
+- [Bashir, Pope given new England contracts as Crocombe, Cox handed first deals](https://www.skysports.com/cricket/news/12040/13592978/england-cricket-central-contracts-shoaib-bashir-ollie-pope-deals-renewed-as-henry-crocombe-jordan-cox-sign-for-two-years)
+- [Aberdeen 0-1 St Johnstone](https://www.skysports.com/watch/video/13597930/aberdeen-0-1-st-johnstone-scottish-premiership-highlights)
 
 ### 🏅 The Guardian Sport
-- [Singapore Grand Prix: Formula One 2026 race updates – live](https://www.theguardian.com/sport/live/2026/oct/11/singapore-grand-prix-formula-one-2026-race-updates-live)
-- [Southampton v Portsmouth, Crystal Palace v Nottingham Forest, Hull v Everton: football – live](https://www.theguardian.com/football/live/2026/oct/11/crystal-palace-v-nottingham-forest-hull-v-everton-and-more-football-live)
-- [South Africa v Australia: first men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2026/oct/11/south-africa-v-australia-first-test-day-three-durban-kingsmead-cricket-ground-live-updates)
+- [The Deshaun Watson revival derailed, much to the joy of those with a functional memory](https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action)
+- [Brewers edge Dodgers in NLCS opener as Turang homers and bullpen holds](https://www.theguardian.com/sport/2026/oct/11/brewers-dodgers-nlcs-game-1-turang-skubal)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 60%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$82,937**
-vs yesterday's close: 🟢 ▲ +$19 (+0.02%)
-Trend: ➡️ Flat around 7d MA (-0.7%)
+**$82,731**
+vs yesterday's close: 🔴 ▼ $-960 (-1.15%)
+Trend: ➡️ Flat around 7d MA (-0.5%)
 
 ### 🇺🇸 S&P 500
 **7,811.5**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ---
 
-<sub>Last updated: 2026-10-11 12:14 BST</sub>
+<sub>Last updated: 2026-10-12 13:45 BST</sub>
