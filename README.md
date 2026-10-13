@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Monday, 12 October 2026
+## 📅 Tuesday, 13 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**15°C** (feels like 13°C) — Patchy rain nearby
-High 17°C / Low 13°C &nbsp;|&nbsp; Humidity 83%
+**20°C** (feels like 16°C) — Partly cloudy 
+High 21°C / Low 14°C &nbsp;|&nbsp; Humidity 49%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 😎 Nice out. You can get away with just a t-shirt.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
-- [Saudi minister vows 'serious response' to Houthi attacks on airports](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
-- [Watch: CCTV shows people take cover as missile hits Riyadh airport](https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss)
+- [MI5 chief warns of threats to UK from Russia, Iran and AI](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
+- [Three things we've learnt about the UK economy from the IMF](https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Why the prime minister wants to talk about Brexit again](https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford](https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss)
-- [Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?](https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss)
-- [Which banners did Liverpool fans display at Anfield against Man City?](https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss)
+- [How protests have shaped India: From anti-Hindi agitation to farm laws](https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss)
+- [India’s $87bn river-linking plan leaves villagers fighting for their homes](https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss)
+- [‘My son was killed’ France faces backlash over proposed police firearms law](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
@@ -39,19 +39,19 @@ High 17°C / Low 13°C &nbsp;|&nbsp; Humidity 83%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Key suggests Carse can return as England reveal contract list](https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&at_campaign=rss)
-- [South Africa face fight to save Test after Australia declare - scorecard](https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss)
-- [The 'Kane-esque' striker Spurs may regret letting go](https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss)
+- [How much did Man City's rule breaking cost your team?](https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss)
+- [Hazlewood takes six as Australia beat South Africa by 214 runs - scorecard](https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss)
+- [Rwanda to host F1's first race in Africa since 1993](https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Alcaraz dumped out of Shanghai Masters in third round](https://www.skysports.com/tennis/news/12040/13598151/carlos-alcaraz-dumped-out-of-shanghai-masters-in-third-round-by-zizou-bergs)
-- [Bashir, Pope given new England contracts as Crocombe, Cox handed first deals](https://www.skysports.com/cricket/news/12040/13592978/england-cricket-central-contracts-shoaib-bashir-ollie-pope-deals-renewed-as-henry-crocombe-jordan-cox-sign-for-two-years)
-- [Aberdeen 0-1 St Johnstone](https://www.skysports.com/watch/video/13597930/aberdeen-0-1-st-johnstone-scottish-premiership-highlights)
+- ['What do you want us to do?' - Maresca defends Anfield celebrations](https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict)
+- [Hazlewood fires Australia to convincing first-Test win over South Africa](https://www.skysports.com/cricket/news/12040/13598797/south-africa-vs-australia-josh-hazlewood-claims-career-best-test-figures-of-6-49-as-australia-take-1-0-series-lead)
+- [A PL giant to fall? Newly-promoted clubs changing relegation equation](https://www.skysports.com/football/news/12040/13598758/a-premier-league-giant-to-fall-hull-ipswich-and-coventry-are-changing-the-relegation-equation-this-season)
 
 ### 🏅 The Guardian Sport
-- [The Deshaun Watson revival derailed, much to the joy of those with a functional memory](https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action)
-- [Brewers edge Dodgers in NLCS opener as Turang homers and bullpen holds](https://www.theguardian.com/sport/2026/oct/11/brewers-dodgers-nlcs-game-1-turang-skubal)
+- [Josh Allen finally gets first OT victory of his career as Bills beat Rams in thriller](https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl)
+- [The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu](https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium)
+- [Athletics wishes it could scrub the women’s marathon world record – what can be done? | Sean Ingle](https://www.theguardian.com/sport/2026/oct/13/athletics-scrub-womens-marathon-world-record-ruth-chepngetich)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 17°C / Low 13°C &nbsp;|&nbsp; Humidity 83%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$82,731**
-vs yesterday's close: 🔴 ▼ $-960 (-1.15%)
-Trend: ➡️ Flat around 7d MA (-0.5%)
+**$83,289**
+vs yesterday's close: 🟢 ▲ +$1,494 (+1.83%)
+Trend: ➡️ Flat around 7d MA (+0.7%)
 
 ### 🇺🇸 S&P 500
-**7,811.5**
-vs previous close: 🟢 ▲ +46.2 (+0.59%)
-Trend: ➡️ Flat around 7d MA (+0.6%)
+**7,807.2**
+vs previous close: 🔴 ▼ -4.3 (-0.06%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ---
 
-<sub>Last updated: 2026-10-12 13:45 BST</sub>
+<sub>Last updated: 2026-10-13 13:28 BST</sub>
