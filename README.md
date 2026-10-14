@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Tuesday, 13 October 2026
+## 📅 Wednesday, 14 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**20°C** (feels like 16°C) — Partly cloudy 
-High 21°C / Low 14°C &nbsp;|&nbsp; Humidity 49%
+**14°C** (feels like 12°C) — Sunny
+High 20°C / Low 12°C &nbsp;|&nbsp; Humidity 67%
 
-> 😎 Nice out. You can get away with just a t-shirt.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [MI5 chief warns of threats to UK from Russia, Iran and AI](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
-- [Three things we've learnt about the UK economy from the IMF](https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss)
-- [Chris Mason: Why the prime minister wants to talk about Brexit again](https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss)
+- [Family pays tribute to 'warm and engaging' man killed in tiger attack](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
+- [One stolen every four minutes - inside the police battle against vehicle thieves](https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss)
+- [Watch: BBC joins police on front line against car theft](https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [How protests have shaped India: From anti-Hindi agitation to farm laws](https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss)
-- [India’s $87bn river-linking plan leaves villagers fighting for their homes](https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss)
-- [‘My son was killed’ France faces backlash over proposed police firearms law](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
+- [China’s exports surge amid AI-driven demand](https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss)
+- [India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site](https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss)
+- [Jerry Seinfeld dances as pro-Palestine protesters interrupt show](https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
@@ -39,19 +39,19 @@ High 21°C / Low 14°C &nbsp;|&nbsp; Humidity 49%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [How much did Man City's rule breaking cost your team?](https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss)
-- [Hazlewood takes six as Australia beat South Africa by 214 runs - scorecard](https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss)
-- [Rwanda to host F1's first race in Africa since 1993](https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss)
+- [Man Utd defender Martinez issues scathing attack on board](https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss)
+- ['No excuses' - but is Villa's stadium rebuild affecting team?](https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&at_campaign=rss)
+- [Saka responds to Arteta's challenge with 'huge impact'](https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- ['What do you want us to do?' - Maresca defends Anfield celebrations](https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict)
-- [Hazlewood fires Australia to convincing first-Test win over South Africa](https://www.skysports.com/cricket/news/12040/13598797/south-africa-vs-australia-josh-hazlewood-claims-career-best-test-figures-of-6-49-as-australia-take-1-0-series-lead)
-- [A PL giant to fall? Newly-promoted clubs changing relegation equation](https://www.skysports.com/football/news/12040/13598758/a-premier-league-giant-to-fall-hull-ipswich-and-coventry-are-changing-the-relegation-equation-this-season)
+- [Britain's Kartal earns big win over world No 12 Bencic in Wuhan](https://www.skysports.com/tennis/news/12040/13599153/wuhan-open-britains-sonay-kartal-earns-huge-win-over-belinda-bencic-to-set-up-meeting-with-jasmine-paolini-in-china)
+- [NFL player Hill found liable for two counts of battery](https://www.skysports.com/nfl/news/12040/13599132/tyreek-hill-nfl-free-agent-receiver-found-liable-for-two-counts-of-battery-as-jury-awards-estranged-wife-500k)
+- [England Women's World Cup half-back dilemma](https://www.skysports.com/rugby-league/news/12040/13596190/rugby-league-world-cup-england-women-face-halfback-selection-dilemma-as-jenna-foubister-izzy-rowe-and-georgia-roche-battle-for-spots)
 
 ### 🏅 The Guardian Sport
-- [Josh Allen finally gets first OT victory of his career as Bills beat Rams in thriller](https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl)
-- [The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu](https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium)
-- [Athletics wishes it could scrub the women’s marathon world record – what can be done? | Sean Ingle](https://www.theguardian.com/sport/2026/oct/13/athletics-scrub-womens-marathon-world-record-ruth-chepngetich)
+- [USWNT returnees earn 2-2 draw against Spain, an early World Cup wake-up call](https://www.theguardian.com/football/2026/oct/13/uswnt-spain-friendly-ashley-sanchez-mallory-swanson)
+- [Peralta shines as Rays seize on Ramírez error to level ALCS against Guardians](https://www.theguardian.com/sport/2026/oct/13/rays-guardians-alcs-game-two-freddy-peralta-jose-ramirez)
+- [‘Chip on his shoulder’: Brian Flores lawyers condemn racial stereotypes in NFL coaching report](https://www.theguardian.com/sport/2026/oct/13/brian-flores-nfl-racial-discrimination-korn-ferry-report)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 21°C / Low 14°C &nbsp;|&nbsp; Humidity 49%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$83,289**
-vs yesterday's close: 🟢 ▲ +$1,494 (+1.83%)
-Trend: ➡️ Flat around 7d MA (+0.7%)
+**$83,204**
+vs yesterday's close: 🟢 ▲ +$89 (+0.11%)
+Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ### 🇺🇸 S&P 500
-**7,807.2**
-vs previous close: 🔴 ▼ -4.3 (-0.06%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**7,805.5**
+vs previous close: 🔴 ▼ -1.8 (-0.02%)
+Trend: ➡️ Flat around 7d MA (+0.1%)
 
 ---
 
-<sub>Last updated: 2026-10-13 13:28 BST</sub>
+<sub>Last updated: 2026-10-14 10:55 BST</sub>
