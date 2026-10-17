@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 16 October 2026
+## 📅 Saturday, 17 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 10°C) — Light drizzle
-High 16°C / Low 11°C &nbsp;|&nbsp; Humidity 84%
+**9°C** (feels like 6°C) — Sunny
+High 14°C / Low 9°C &nbsp;|&nbsp; Humidity 79%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
-- [Community 'heartbroken and horrified' after Oregon school shooting](https://www.bbc.co.uk/news/videos/cjy56wl6l90ro?at_medium=RSS&at_campaign=rss)
-- [Banks expect to be hit with higher taxes in Budget](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)
+- [Trump waives several Russia sanctions as row with Zelensky intensifies](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+- [Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+- [Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond](https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed](https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss)
-- [Norway wealth fund urged to ease nuclear arms ban after Gaza investment row](https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss)
-- [Tesla unveils car that can drive upside down and jump through the air](https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss)
+- [Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners](https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss)
+- [Oregon school shooter was former special-needs student, police say](https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss)
+- [Wildfire prompts thousands of evacuation orders in Orange County](https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
@@ -39,19 +39,19 @@ High 16°C / Low 11°C &nbsp;|&nbsp; Humidity 84%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [The Olympic sprinter now bedbound for 22 hours a day](https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss)
-- [Chelsea's Reece James has surgery for knee issue](https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss)
-- [The rapid rise of a former art dealer to Europe's hottest young manager](https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&at_campaign=rss)
+- [England's 41-match unbeaten run ended by Canada](https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss)
+- [England crush Women's World Cup debutants Wales](https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss)
+- [Ranking the Premier League's all-time greatest super subs](https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Britain's Kartal upsets Svitolina to storm into Wuhan Open semi-finals](https://www.skysports.com/tennis/news/12040/13599803/sonay-kartal-brit-breaks-new-ground-by-upsetting-elina-svitolina-to-reach-wuhan-open-semi-finals)
-- [Kartal shocks Svitolina to reach first WTA 1000 semi-final](https://www.skysports.com/watch/video/13599844/elina-svitolina-vs-sonay-kartal-wuhan-open-highlights)
-- [Broncos overpower Seahawks to win in OT](https://www.skysports.com/nfl/news/12040/13599666/denver-broncos-17-14-seattle-seahawks-ot-denver-defense-overpowers-sam-darnold-and-defending-champions)
+- [South Africa look to re-establish Test credentials after Australia mauling](https://www.skysports.com/cricket/news/12040/13600114/south-africa-vs-australia-hosts-welcome-8203back-paceman-kagiso-rabada-for-his-first-outing-since-ipl)
+- [Red Roses' 41-game unbeaten run ended in dramatic fashion](https://www.skysports.com/rugby-union/news/12040/13600098/wxv-global-series-england-stunned-by-a-late-rally-from-canada-as-red-roses-41-match-unbeaten-run-ends-with-24-21-loss)
+- [Rugby League World Cup LIVE! England face Tonga after women's side claim big win](https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament)
 
 ### 🏅 The Guardian Sport
-- [Brilliant Brewers reach first World Series since 1982 as Dodgers blow 4-0 lead](https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs)
-- [Super Bowl champions slump again as Darnold’s picks cost Seahawks against Broncos](https://www.theguardian.com/sport/2026/oct/16/seahawks-broncos-nfl-thursday-night-football)
 - [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend)
+- [Hall of Famers v bunch of gamers: the Dodgers’ exit proves money can’t buy everything](https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series)
+- [WNBA finals 2026 predictions: Is Angel Reese about to win a Dream title?](https://www.theguardian.com/sport/2026/oct/16/wnba-finals-2026-predictions-atlanta-dream-golden-state-valkyries)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 16°C / Low 11°C &nbsp;|&nbsp; Humidity 84%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$82,095**
-vs yesterday's close: 🔴 ▼ $-61 (-0.07%)
-Trend: ➡️ Flat around 7d MA (-0.5%)
+**$81,618**
+vs yesterday's close: 🟢 ▲ +$94 (+0.12%)
+Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ### 🇺🇸 S&P 500
-**7,744.1**
-vs previous close: 🟢 ▲ +25.1 (+0.33%)
-Trend: ➡️ Flat around 7d MA (-0.5%)
+**7,659.4**
+vs previous close: 🔴 ▼ -84.6 (-1.09%)
+Trend: 📉 Below 7d MA by 1.3%
 
 ---
 
-<sub>Last updated: 2026-10-16 10:30 BST</sub>
+<sub>Last updated: 2026-10-17 10:00 BST</sub>
