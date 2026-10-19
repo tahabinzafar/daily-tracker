@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Sunday, 18 October 2026
+## 📅 Monday, 19 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 8°C) — Sunny
-High 15°C / Low 10°C &nbsp;|&nbsp; Humidity 55%
+**12°C** (feels like 10°C) — Sunny
+High 14°C / Low 10°C &nbsp;|&nbsp; Humidity 67%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Urgent plan needed to end 'corridor care' for children, health secretary says](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
-- [Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)
-- [Watch: Moment historic French town hall spire collapses in flames amid protests](https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss)
+- [Katya Adler: France's government under pressure after widespread violence](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)
+- [Companies exploiting welfare system by using residents as 'cash cows', BBC finds](https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss)
+- [Inside the shadowy world of anti-Putin sabotage from within Russia](https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Haaland’s record scoring spree helps Man City to seventh Premier League win](https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss)
-- [Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’](https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss)
-- [‘No Kings’ protests spread across the US ahead of midterm elections](https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss)
+- [WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages](https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss)
+- [Mexican protesters demanding clean water storm state congress](https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss)
+- [Qatar warns global energy shockwaves from Iran war have yet to peak](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
@@ -39,19 +39,19 @@ High 15°C / Low 10°C &nbsp;|&nbsp; Humidity 55%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [After Dubois' dominant win, what's next for heavyweight boxing?](https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss)
-- [Martinez 'back in a few weeks' after operation](https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss)
-- [Can Hearts prove credentials at scene of title heartbreak?](https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss)
+- [England manager Wiegman signs contract extension](https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss)
+- [Mbeumo offers Carrick solace as Man Utd winless run goes on](https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss)
+- [How one rule change is altering the face of one-day cricket](https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Van Gerwen suffers another early exit as Van Veen makes history](https://www.skysports.com/darts/news/12040/13600495/dutch-darts-championship-michael-van-gerwen-suffers-another-early-exit-as-gian-van-veen-makes-history-and-gerwyn-price-triumphs-on-return)
-- [Williams stars as Golden State Valkyries beat Atlanta Dream in WNBA Finals Game 1](https://www.skysports.com/nba/news/12040/13600326/wnba-finals-gabby-williams-stars-as-golden-state-valkyries-beat-atlanta-dream-in-wnba-finals-game-1)
-- [Dubois wants Usyk trilogy fight: 'We're coming out on top this time!'](https://www.skysports.com/boxing/news/12040/13600503/daniel-dubois-wants-oleksandr-usyk-trilogy-fight-after-fabio-wardley-victory-were-coming-out-on-top-this-time)
+- [England Women boss Wiegman signs new deal through to Euro 2029](https://www.skysports.com/football/news/12040/13600890/sarina-wiegman-england-women-boss-signs-new-two-year-contract-extension-through-to-end-of-euro-2029)
+- [Ref Watch: Botman challenge and Yarmoliuk red card assessed LIVE!](https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions)
+- [Spin, Crocombe and Curran: Questions for England in ODI tri-series](https://www.skysports.com/cricket/news/12040/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress)
 
 ### 🏅 The Guardian Sport
-- [Rays punish Cleveland defensive lapses to square ALCS at two games apiece](https://www.theguardian.com/sport/2026/oct/17/rays-guardians-alcs-game-four-yandy-diaz-world-series)
-- [Gabby Williams lifts Valkyries past Dream in defensive slugfest to open WNBA finals](https://www.theguardian.com/sport/2026/oct/17/gabby-williams-golden-state-valkyries-atlanta-dream-wnba-finals-game-one)
-- [Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title](https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas)
+- [NFL roundup: Panthers pile pain on slumping Eagles; Cardinals shock Rams](https://www.theguardian.com/sport/2026/oct/18/nfl-roundup-sunday-football-scores)
+- [Kawhi Leonard: a hero’s complicated return to the Toronto Raptors](https://www.theguardian.com/sport/2026/oct/19/kawhi-leonard-toronto-raptors-nba-basketball)
+- [At Strasbourg, Gio Reyna is starting to gain what had been elusive: momentum](https://www.theguardian.com/football/2026/oct/19/gio-reyna-strasbourg-usmnt-psg-goal)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 15°C / Low 10°C &nbsp;|&nbsp; Humidity 55%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$81,896**
-vs yesterday's close: 🟢 ▲ +$488 (+0.60%)
-Trend: ➡️ Flat around 7d MA (-0.0%)
+**$82,282**
+vs yesterday's close: 🟢 ▲ +$262 (+0.32%)
+Trend: ➡️ Flat around 7d MA (+0.3%)
 
 ### 🇺🇸 S&P 500
 **7,659.4**
@@ -72,4 +72,4 @@ Trend: 📉 Below 7d MA by 1.3%
 
 ---
 
-<sub>Last updated: 2026-10-18 10:19 BST</sub>
+<sub>Last updated: 2026-10-19 11:31 BST</sub>
