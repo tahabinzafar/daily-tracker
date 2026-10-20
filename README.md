@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Monday, 19 October 2026
+## 📅 Tuesday, 20 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**12°C** (feels like 10°C) — Sunny
-High 14°C / Low 10°C &nbsp;|&nbsp; Humidity 67%
+**13°C** (feels like 9°C) — Overcast 
+High 14°C / Low 10°C &nbsp;|&nbsp; Humidity 79%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Katya Adler: France's government under pressure after widespread violence](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)
-- [Companies exploiting welfare system by using residents as 'cash cows', BBC finds](https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss)
-- [Inside the shadowy world of anti-Putin sabotage from within Russia](https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss)
+- [Chancellor rejects calls to raise Capital Gains Tax in Budget](https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss)
+- [How the attack on an Australian MP unfolded](https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss)
+- [We asked teens what schools should teach them about work. This is what they said](https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages](https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss)
-- [Mexican protesters demanding clean water storm state congress](https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss)
-- [Qatar warns global energy shockwaves from Iran war have yet to peak](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss)
+- [South Korea to pull more embassy staff from Ukraine after POW row](https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss)
+- [Canadian opera singer replaced after he raised Palestinian flag](https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss)
+- [French protests: Is it game over for Macron’s centrists before elections?](https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
-- [An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria](https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria)
-- [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+- [US grants deportation reprieve to migrants from Ukraine and Sudan](https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan)
+- [Kenyan starvation cult leader guilty of murder of 190 children and one adult](https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children)
+- [Drone attack near market kills 80 in Sudan](https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [England manager Wiegman signs contract extension](https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss)
-- [Mbeumo offers Carrick solace as Man Utd winless run goes on](https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss)
-- [How one rule change is altering the face of one-day cricket](https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss)
+- [Maddison's magic moment for Spurs - 18 months in the making](https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss)
+- [We were not underprepared for World Cup, says England's O'Neill](https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&at_campaign=rss)
+- [Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A](https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [England Women boss Wiegman signs new deal through to Euro 2029](https://www.skysports.com/football/news/12040/13600890/sarina-wiegman-england-women-boss-signs-new-two-year-contract-extension-through-to-end-of-euro-2029)
-- [Ref Watch: Botman challenge and Yarmoliuk red card assessed LIVE!](https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions)
-- [Spin, Crocombe and Curran: Questions for England in ODI tri-series](https://www.skysports.com/cricket/news/12040/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress)
+- [Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd](https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours)
+- [Lowry moves to McIlroy's Boston Common Golf team in TGL's first-ever trade](https://www.skysports.com/golf/news/12040/13601247/tgl-golf-2027-shane-lowry-moves-to-rory-mcilroys-boston-common-golf-team-in-leagues-first-ever-trade)
+- [England reduce Pakistan to 81-4 in ODI tri-series LIVE!](https://www.skysports.com/cricket/live-blog/12040/13601207/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-and-video-as-harry-brooks-side-begin-50-over-tour)
 
 ### 🏅 The Guardian Sport
-- [NFL roundup: Panthers pile pain on slumping Eagles; Cardinals shock Rams](https://www.theguardian.com/sport/2026/oct/18/nfl-roundup-sunday-football-scores)
-- [Kawhi Leonard: a hero’s complicated return to the Toronto Raptors](https://www.theguardian.com/sport/2026/oct/19/kawhi-leonard-toronto-raptors-nba-basketball)
-- [At Strasbourg, Gio Reyna is starting to gain what had been elusive: momentum](https://www.theguardian.com/football/2026/oct/19/gio-reyna-strasbourg-usmnt-psg-goal)
+- [World Series will have first-time champion as Rays set up showdown with Brewers](https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs)
+- [Brock Purdy becomes highest-rated passer in NFL history as 49ers stay perfect](https://www.theguardian.com/sport/2026/oct/19/washington-commanders-san-francisco-49ers-nfl-monday-night-football)
+- [Angel Reese’s superb 30-point double-double helps Dream even WNBA finals](https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 14°C / Low 10°C &nbsp;|&nbsp; Humidity 67%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$82,282**
-vs yesterday's close: 🟢 ▲ +$262 (+0.32%)
-Trend: ➡️ Flat around 7d MA (+0.3%)
+**$81,287**
+vs yesterday's close: 🔴 ▼ $-588 (-0.72%)
+Trend: ➡️ Flat around 7d MA (-0.5%)
 
 ### 🇺🇸 S&P 500
-**7,659.4**
-vs previous close: 🔴 ▼ -84.6 (-1.09%)
-Trend: 📉 Below 7d MA by 1.3%
+**7,690.7**
+vs previous close: 🟢 ▲ +31.3 (+0.41%)
+Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ---
 
-<sub>Last updated: 2026-10-19 11:31 BST</sub>
+<sub>Last updated: 2026-10-20 10:48 BST</sub>
