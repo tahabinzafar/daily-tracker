@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Tuesday, 20 October 2026
+## 📅 Wednesday, 21 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 9°C) — Overcast 
-High 14°C / Low 10°C &nbsp;|&nbsp; Humidity 79%
+**11°C** (feels like 10°C) — Light rain
+High 12°C / Low 9°C &nbsp;|&nbsp; Humidity 94%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Chancellor rejects calls to raise Capital Gains Tax in Budget](https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss)
-- [How the attack on an Australian MP unfolded](https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss)
-- [We asked teens what schools should teach them about work. This is what they said](https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss)
+- [Chris Mason: Jackdaw approved but tricky energy trade-offs remain](https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss)
+- [Russia frees US citizen Stephen Hubbard, state media reports](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
+- [Inflation and government borrowing highest for a year ahead of next week's Budget](https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [South Korea to pull more embassy staff from Ukraine after POW row](https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss)
-- [Canadian opera singer replaced after he raised Palestinian flag](https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss)
-- [French protests: Is it game over for Macron’s centrists before elections?](https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss)
+- [Attack on Australian MP Haines: How threats against legislators have soared](https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss)
+- [Blast heard in Yemen’s Aden as Houthis claim attack on military camp](https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss)
+- [Australian MP loses both legs in vehicle attack as suspect appears in court](https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
+- [RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau](https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau)
 - [US grants deportation reprieve to migrants from Ukraine and Sudan](https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan)
-- [Kenyan starvation cult leader guilty of murder of 190 children and one adult](https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children)
-- [Drone attack near market kills 80 in Sudan](https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Maddison's magic moment for Spurs - 18 months in the making](https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss)
-- [We were not underprepared for World Cup, says England's O'Neill](https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&at_campaign=rss)
-- [Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A](https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss)
+- [No jeopardy but loads of fun - is new Champions League format a success?](https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss)
+- [Crystal Palace urged to retire bald eagle mascot](https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss)
+- [Why Eze is struggling to find his form at Arsenal](https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd](https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours)
-- [Lowry moves to McIlroy's Boston Common Golf team in TGL's first-ever trade](https://www.skysports.com/golf/news/12040/13601247/tgl-golf-2027-shane-lowry-moves-to-rory-mcilroys-boston-common-golf-team-in-leagues-first-ever-trade)
-- [England reduce Pakistan to 81-4 in ODI tri-series LIVE!](https://www.skysports.com/cricket/live-blog/12040/13601207/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-and-video-as-harry-brooks-side-begin-50-over-tour)
+- [What's happened to Igor Thiago?](https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27)
+- [Horner reveals Red Bull decision that helped Mercedes sign Hamilton](https://www.skysports.com/f1/news/12040/13601434/christian-horner-reveals-red-bull-talks-with-lewis-hamilton-management-before-telling-mercedes-niki-lauda-to-sign-british-driver)
+- [Horner explains his influence in Hamilton signing... for Mercedes!](https://www.skysports.com/watch/video/13601781/f1-christian-horner-explains-how-he-helped-convince-niki-lauda-to-sign-lewis-hamilton-for-mercedes)
 
 ### 🏅 The Guardian Sport
-- [World Series will have first-time champion as Rays set up showdown with Brewers](https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs)
-- [Brock Purdy becomes highest-rated passer in NFL history as 49ers stay perfect](https://www.theguardian.com/sport/2026/oct/19/washington-commanders-san-francisco-49ers-nfl-monday-night-football)
-- [Angel Reese’s superb 30-point double-double helps Dream even WNBA finals](https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2)
+- [LeBron James and Sixers spoil Knicks’ title party as Thunder and Pistons win NBA openers](https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder)
+- [Mac Allister double sparks Liverpool’s thrilling comeback win over Villarreal](https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report)
+- [NFL will not discipline Eagles over handling of Jalen Hurts’ blood clots](https://www.theguardian.com/sport/2026/oct/20/nfl-philadelphia-eagles-jalen-hurts-blood-clots-no-discipline)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 14°C / Low 10°C &nbsp;|&nbsp; Humidity 79%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$81,287**
-vs yesterday's close: 🔴 ▼ $-588 (-0.72%)
-Trend: ➡️ Flat around 7d MA (-0.5%)
+**$83,339**
+vs yesterday's close: 🟢 ▲ +$395 (+0.48%)
+Trend: 📈 Above 7d MA by 1.4%
 
 ### 🇺🇸 S&P 500
-**7,690.7**
-vs previous close: 🟢 ▲ +31.3 (+0.41%)
-Trend: ➡️ Flat around 7d MA (-0.7%)
+**7,712.6**
+vs previous close: 🟢 ▲ +21.8 (+0.28%)
+Trend: ➡️ Flat around 7d MA (-0.3%)
 
 ---
 
-<sub>Last updated: 2026-10-20 10:48 BST</sub>
+<sub>Last updated: 2026-10-21 10:50 BST</sub>
