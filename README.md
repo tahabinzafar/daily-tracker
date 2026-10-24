@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 23 October 2026
+## 📅 Saturday, 24 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**11°C** (feels like 10°C) — Moderate rain
-High 13°C / Low 9°C &nbsp;|&nbsp; Humidity 94%
+**9°C** (feels like 8°C) — Patchy rain nearby
+High 15°C / Low 7°C &nbsp;|&nbsp; Humidity 81%
 
 > 🌧️ Cold and wet — layers plus a waterproof.
 
@@ -20,38 +20,38 @@ High 13°C / Low 9°C &nbsp;|&nbsp; Humidity 94%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: BBC presenter battles strong winds as storm hits Newquay](https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss)
-- [Detective raped by colleague says Met handling of case 'like being raped again'](https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss)
-- [Watch: Met chief Rowley not fit for job, says detective raped by colleague](https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss)
+- [France prepares for day of protest a week after nationwide riots](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
+- [Met investigates reports of letter detailing claims about Meghan's father](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
+- [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [What role does the military play in Israeli schools?](https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss)
-- [Pulaku: The two faces of Nigeria’s vigilantes](https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss)
-- [Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight](https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss)
+- [The Muslims finding belonging in southern Spain](https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss)
+- [Rubio calls on Cubans to partner with CIA ‘to create positive change’](https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss)
+- [Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA](https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
 - [Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix](https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix)
 - [Controversial US-backed vaccine trial in African newborns halted](https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b)
-- [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Have Man Utd become the unmanageable club?](https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss)
-- [Flat-track bullies Celtic continue descent into European irrelevance](https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo?at_medium=RSS&at_campaign=rss)
-- [Dream night for Bournemouth - win over Milan a sign of Premier League power](https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss)
+- [England thrash France to keep alive World Cup hopes](https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss)
+- [Canada inflict back-to-back losses on England](https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o?at_medium=RSS&at_campaign=rss)
+- [Why Tottenham v Arsenal could define their seasons - live on BBC One](https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Lewis named on England bench as Ashton replaces Eckersley for France](https://www.skysports.com/rugby-league/news/12040/13601200/rugby-league-world-cup-mikey-lewis-on-bench-as-england-unchanged-for-clash-vs-france-despite-opening-defeat)
-- [Steelers cancel practice after red-eye flight to Paris](https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl)
-- [O'Neill challenges Celtic to 'find a way' to win in Europe](https://www.skysports.com/football/news/12040/13602587/martin-oneill-challenges-celtic-to-find-a-way-in-europe-but-are-they-just-not-good-enough)
+- [England crush France to remain in hunt for World Cup semi-final spot](https://www.skysports.com/rugby-league/england-vs-france/report/64274)
+- ['Like a mini World Cup' - Jacks sees positives in England's tri-series troubles](https://www.skysports.com/cricket/news/12040/13602869/will-jacks-england-in-mini-world-cup-scenario-as-they-enter-must-win-territory-in-tri-series-with-pakistan-and-sri-lanka)
+- [Newey responds to Horner's 'abandon ship' criticism](https://www.skysports.com/f1/news/12040/13602762/adrian-newey-responds-to-christian-horners-criticism-of-him-in-new-book-over-red-bulls-struggles-with-renault-in-2014)
 
 ### 🏅 The Guardian Sport
-- [Caleb Williams outduels friend and rival Drake Maye as Bears beat Patriots](https://www.theguardian.com/sport/2026/oct/22/caleb-williams-outduels-friend-and-rival-drake-maye-as-bears-beat-patriots)
-- [‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack](https://www.theguardian.com/sport/2026/oct/23/lebron-james-donald-trump-national-anthem-76ers)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend)
+- [Brewers survive chaotic ninth-inning replay drama to beat Rays in World Series opener](https://www.theguardian.com/sport/2026/oct/23/brewers-rays-world-series-game-one-christian-yelich)
+- [‘A different kid’: from karting to F1 champion-elect, Antonelli’s ability has always stood out](https://www.theguardian.com/sport/2026/oct/23/kimi-antonelli-f1-champion-elect)
+- [Dallas Cowboys cheerleaders unionize after years of fighting for fair pay](https://www.theguardian.com/sport/2026/oct/23/dallas-cowboys-cheerleaders-unionize)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 13°C / Low 9°C &nbsp;|&nbsp; Humidity 94%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$81,550**
-vs yesterday's close: 🟢 ▲ +$222 (+0.27%)
-Trend: ➡️ Flat around 7d MA (-0.8%)
+**$80,549**
+vs yesterday's close: 🔴 ▼ $-553 (-0.68%)
+Trend: 📉 Below 7d MA by 1.8%
 
 ### 🇺🇸 S&P 500
-**7,663.4**
-vs previous close: 🔴 ▼ -93.7 (-1.21%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**7,623.7**
+vs previous close: 🔴 ▼ -39.8 (-0.52%)
+Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ---
 
-<sub>Last updated: 2026-10-23 10:44 BST</sub>
+<sub>Last updated: 2026-10-24 10:18 BST</sub>
