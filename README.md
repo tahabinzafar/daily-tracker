@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Sunday, 25 October 2026
+## 📅 Monday, 26 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**11°C** (feels like 8°C) — Sunny
-High 13°C / Low 9°C &nbsp;|&nbsp; Humidity 62%
+**11°C** (feels like 8°C) — Light drizzle
+High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 87%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Meghan broke contact with father in letter citing abuse claims](https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss)
-- [Musk says SpaceX restricted Ukraine's Starlink connection as service restored](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss)
-- [Burnham open to 'honest discussion' on EU free movement](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss)
+- [Watch: How Lula turned it around to beat former president's son](https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss)
+- [Storm Boelo leaves 90,000 without power as Met Office issues new wind warning](https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss)
+- [Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Brazil 2026 election live: Lula and Bolsonaro in tight race](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss)
-- [Indigenous communities worry Brazil’s election could hurt environment](https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss)
-- [Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms](https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss)
+- [Suwayda remains in stasis as US signals differences with Israel on Syria](https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss)
+- [If Netanyahu loses, what changes for Palestinians?](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss)
+- [Thousands greet opposition leader Maria Machado upon return to Caracas](https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Sudan paramilitary drone strikes cause mass power cuts in eastern states](https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states)
+- [UK poised to miss reduced aid spending target of 0.3% of national income](https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research)
 - [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
-- [Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix](https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix)
-- [Controversial US-backed vaccine trial in African newborns halted](https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Antonelli stands on brink of history in Austin](https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss)
-- [When is Premier League 'sacking season' - and who should be worried?](https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss)
-- [Why are Liverpool struggling for Premier League goals?](https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss)
+- [End approaching for Carrick but Man Utd fans make clear who they blame](https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss)
+- [Mourinho keeps Clasico midas touch 13 years on as La Liga heats up](https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss)
+- [Antonelli delivers 'the race of a champion who isn't the champion yet'](https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- ['That's ridiculous!' Arthur Fils wows crowd with incredible tweener!](https://www.skysports.com/watch/video/13603463/arthur-fils-tweener-sends-crowd-wild-in-brussels)
-- [England four down after horror start batting first vs Pakistan LIVE!](https://www.skysports.com/cricket/live-blog/12040/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win)
-- ['Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion](https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin)
+- [Kane, Mbappe and Lamine Yamal - who should win men's 2026 Ballon d'Or?](https://www.skysports.com/football/news/12040/13601847/ballon-dor-2026-harry-kane-kylian-mbappe-and-lamine-yamal-in-race-for-mens-award-stats-and-pundits-opinions)
+- [Thunder star Williams stretched off with leg injury](https://www.skysports.com/basketball/news/12040/13603869/jalen-williams-oklahoma-city-thunder-star-stretchered-off-with-significant-leg-injury-in-win-over-los-angeles-clippers)
+- [Smith beats Schindler in Dortmund thriller after Littler's QF exit](https://www.skysports.com/darts/news/12040/13603670/european-championship-darts-ross-smith-beats-martin-schindler-to-dortmund-title-after-luke-littlers-quarter-final-exit)
 
 ### 🏅 The Guardian Sport
-- [Brewers erase four-run deficit to stun Rays and take 2-0 World Series lead](https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback)
-- [Kimi Antonelli seizes F1 US GP pole and chance to seal first world title](https://www.theguardian.com/sport/2026/oct/24/kimi-antonelli-seizes-f1-us-gp-pole-and-chance-to-seal-first-world-title)
-- [Valkyries hold off Dream comeback to win Game 4 and level WNBA finals at 2-2](https://www.theguardian.com/sport/2026/oct/24/golden-state-valkyries-atlanta-dream-game-four-wnba-finals)
+- [Creaking, smug … and a contender? Aaron Rodgers may yet get his Super Bowl farewell](https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl)
+- [‘We’re not doing great’: Gilgeous-Alexander in tears after Williams suffers gruesome leg injury](https://www.theguardian.com/sport/2026/oct/25/jalen-williams-injury-thunder-clippers-nba)
+- [Kimi Antonelli looks forward to drivers’ title after victory in US Grand Prix](https://www.theguardian.com/sport/2026/oct/25/f1-world-champion-elect-kimi-antonelli-hopefully-we-can-clinch-it-soon)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 13°C / Low 9°C &nbsp;|&nbsp; Humidity 62%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,133**
-vs yesterday's close: 🔴 ▼ $-678 (-0.84%)
-Trend: 📉 Below 7d MA by 2.0%
+**$80,343**
+vs yesterday's close: 🟢 ▲ +$294 (+0.37%)
+Trend: 📉 Below 7d MA by 1.4%
 
 ### 🇺🇸 S&P 500
 **7,623.7**
@@ -72,4 +72,4 @@ Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ---
 
-<sub>Last updated: 2026-10-25 09:35 GMT</sub>
+<sub>Last updated: 2026-10-26 10:46 GMT</sub>
