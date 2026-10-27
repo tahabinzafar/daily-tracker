@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Monday, 26 October 2026
+## 📅 Tuesday, 27 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**11°C** (feels like 8°C) — Light drizzle
-High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 87%
+**14°C** (feels like 11°C) — Light drizzle
+High 16°C / Low 10°C &nbsp;|&nbsp; Humidity 87%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> ☔ Mild but rainy — light jacket and an umbrella.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: How Lula turned it around to beat former president's son](https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss)
-- [Storm Boelo leaves 90,000 without power as Met Office issues new wind warning](https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss)
-- [Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+- [Two charged with national security offences over RAF Fairford incident](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+- [Chancellor to cut tariffs on some staple goods to offer cost of living help](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
+- [Israel heads to polls for pivotal election defined by security and democracy](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Suwayda remains in stasis as US signals differences with Israel on Syria](https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss)
-- [If Netanyahu loses, what changes for Palestinians?](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss)
-- [Thousands greet opposition leader Maria Machado upon return to Caracas](https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss)
+- [WNBA Finals: Valkyries beat Dream to reach the brink of their first title](https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss)
+- [Heavy rains trigger massive flooding in Ecuador’s largest city](https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss)
+- [Kylian Mbappe loses Chinese sponsors for calling Mao ‘Chinese dictator’](https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-loses-chinese-sponsors-for-calling-mao-chinese-dictator?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’](https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of)
+- [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
 - [Sudan paramilitary drone strikes cause mass power cuts in eastern states](https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states)
-- [UK poised to miss reduced aid spending target of 0.3% of national income](https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research)
-- [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [End approaching for Carrick but Man Utd fans make clear who they blame](https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss)
-- [Mourinho keeps Clasico midas touch 13 years on as La Liga heats up](https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss)
-- [Antonelli delivers 'the race of a champion who isn't the champion yet'](https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss)
+- [Ranking England's Ballon d'Or winners - how does Kane compare?](https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss)
+- ['I would do it again' - Kaepernick reflects on price of protest, 10 years on](https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss)
+- [Lancashire consider Anderson farewell amid fan unrest](https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Kane, Mbappe and Lamine Yamal - who should win men's 2026 Ballon d'Or?](https://www.skysports.com/football/news/12040/13601847/ballon-dor-2026-harry-kane-kylian-mbappe-and-lamine-yamal-in-race-for-mens-award-stats-and-pundits-opinions)
-- [Thunder star Williams stretched off with leg injury](https://www.skysports.com/basketball/news/12040/13603869/jalen-williams-oklahoma-city-thunder-star-stretchered-off-with-significant-leg-injury-in-win-over-los-angeles-clippers)
-- [Smith beats Schindler in Dortmund thriller after Littler's QF exit](https://www.skysports.com/darts/news/12040/13603670/european-championship-darts-ross-smith-beats-martin-schindler-to-dortmund-title-after-luke-littlers-quarter-final-exit)
+- [EFL latest: Edwards not interested in Burnley job after talks](https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two)
+- [Smith ruled out of Cape Town Test late due to neck injury](https://www.skysports.com/cricket/news/12040/13604271/australia-vs-south-africa-steve-smith-ruled-out-of-cape-town-test-due-to-injury)
+- [Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash](https://www.skysports.com/football/news/12040/13603943/arsenal-should-unleash-max-dowman-liverpool-and-chelsea-clash-in-battle-of-the-basques-and-man-city-continue-defence-carabao-cup-talking-points)
 
 ### 🏅 The Guardian Sport
-- [Creaking, smug … and a contender? Aaron Rodgers may yet get his Super Bowl farewell](https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl)
-- [‘We’re not doing great’: Gilgeous-Alexander in tears after Williams suffers gruesome leg injury](https://www.theguardian.com/sport/2026/oct/25/jalen-williams-injury-thunder-clippers-nba)
-- [Kimi Antonelli looks forward to drivers’ title after victory in US Grand Prix](https://www.theguardian.com/sport/2026/oct/25/f1-world-champion-elect-kimi-antonelli-hopefully-we-can-clinch-it-soon)
+- [Ruthless Brewers close in on World Series sweep after crushing Rays 10-1 in Game 3](https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball)
+- [Golden State Valkyries one win from WNBA title after Game 5 win over Atlanta Dream](https://www.theguardian.com/sport/2026/oct/26/wnba-finals-game-5-dream-valkyries-basketball)
+- [Eagles’ nightmare season deepens as Cowboys hand Philadelphia fifth straight loss](https://www.theguardian.com/sport/2026/oct/27/cowboys-eagles-dak-prescott-javonte-williams-nfl-monday-night-football)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 87%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$80,343**
-vs yesterday's close: 🟢 ▲ +$294 (+0.37%)
-Trend: 📉 Below 7d MA by 1.4%
+**$79,476**
+vs yesterday's close: 🔴 ▼ $-553 (-0.69%)
+Trend: 📉 Below 7d MA by 1.9%
 
 ### 🇺🇸 S&P 500
-**7,623.7**
-vs previous close: 🔴 ▼ -39.8 (-0.52%)
-Trend: ➡️ Flat around 7d MA (-0.9%)
+**7,676.8**
+vs previous close: 🟢 ▲ +53.1 (+0.70%)
+Trend: ➡️ Flat around 7d MA (-0.1%)
 
 ---
 
-<sub>Last updated: 2026-10-26 10:46 GMT</sub>
+<sub>Last updated: 2026-10-27 10:12 GMT</sub>
