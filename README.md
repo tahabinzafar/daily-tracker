@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Wednesday, 28 October 2026
+## 📅 Thursday, 29 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**12°C** (feels like 9°C) — Sunny
-High 15°C / Low 9°C &nbsp;|&nbsp; Humidity 67%
+**13°C** (feels like 13°C) — Sunny
+High 16°C / Low 10°C &nbsp;|&nbsp; Humidity 77%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🙂 Decent enough. Light jacket should be fine.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [What could be in the Budget?](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
-- [Watch: What happens now after close vote in Israeli election?](https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss)
-- [Russell Brand tells court allegations had devastating impact on him](https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss)
+- [Treasury will not commit to reducing welfare bill before next election](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
+- [Audio reveals exchanges between control centre and drivers before deadly Spain train crash](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
+- [Poundland's future hangs in the balance as chain edges towards collapse](https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Burnham’s government unveils its first UK budget: What to expect](https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss)
-- [Israeli forces continue West Bank raids as Hebron lockdown enters sixth day](https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss)
-- [‘Russia is already part of who I am’: African students in Moscow](https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss)
+- [Unrest at India university where no students’ union polls held for 20 years](https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss)
+- [Can the UK afford more help with the cost of living?](https://www.aljazeera.com/video/counting-the-cost/2026/10/29/can-the-uk-afford-more-help-with-the-cost-of-living?traffic_source=rss)
+- [What we know about Spain’s second high-speed rail tragedy this year](https://www.aljazeera.com/news/2026/10/29/what-we-know-about-spains-second-high-speed-rail-tragedy-this-year?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr](https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown)
 - [Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official](https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official)
 - [UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’](https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of)
-- [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- ['Biggest night in club's history' for fearless Fleetwood](https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss)
-- [Dowman sees red as Arsenal dumped out, but did Arteta go too far?](https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss)
-- [Goodbye to Wawrinka - an everyman who gatecrashed the greats](https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss)
+- [Mourinho and chaos - is Real Madrid boss misunderstood?](https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss)
+- [Sometimes managers needs sacking for own good - Neville](https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss)
+- [Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?](https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Vickery's bodybuilding transformation amid life-changing diagnosis](https://www.skysports.com/rugby-union/news/12040/13604546/phil-vickery-england-world-cup-winner-on-his-bodybuilding-transformation-amid-life-changing-diagnosis)
-- [Anderson set to continue playing career in Italy](https://www.skysports.com/cricket/news/12040/13604693/james-anderson-set-to-continue-playing-career-in-italy-with-napoli-8204knights-in-the-italia-t10-league)
-- [The two teenage darts superstars ready to challenge Littler](https://www.skysports.com/darts/news/12040/13604135/beat-luke-littler-teenagers-jayden-walker-and-mitchell-lawrie-set-to-challenge-world-no-1-to-win-501000)
+- [McDermott: England face 'unique task' to progress and can't get distracted](https://www.skysports.com/rugby-league/news/12040/13605180/rugby-league-world-cup-englands-brian-mcdermott-admits-side-face-unique-task-to-progress-and-cant-get-distracted)
+- [County cricket ins and outs 2027](https://www.skysports.com/cricket/news/12040/13604022/county-cricket-ins-and-outs-all-the-signings-departures-and-overseas-arrivals-ahead-of-the-2027-season)
+- [WNBA Finals set to make history: Watch Game 6 live on Sky Sports](https://www.skysports.com/basketball/news/12040/13605210/wnba-finals-game-6-live-on-sky-sports-thursday-at-4-30pm-as-golden-state-valkyries-vs-atlanta-dream-makes-history)
 
 ### 🏅 The Guardian Sport
-- [Rays battle from brink in 12th inning to stun Brewers and stave off World Series sweep](https://www.theguardian.com/sport/2026/oct/28/rays-brewers-world-series-game-four-12th-inning-rally)
-- [Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains](https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains)
-- [Anthony Edwards to undergo knee surgery as Timberwolves star faces up to two months out](https://www.theguardian.com/sport/2026/oct/27/anthony-edwards-knee-surgery-minnesota-timberwolves-nba)
+- [Milwaukee Brewers close out Tampa Bay Rays to end 57-year wait for first World Series title](https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title)
+- [Everybody hates Pat: is a cabal of college kids really trying to bring down ESPN’s star meathead?](https://www.theguardian.com/sport/2026/oct/29/pat-mcafee-college-gameday-espn)
+- [The NFL has a host of Hall of Fame caliber receivers. But which one is the best?](https://www.theguardian.com/sport/2026/oct/29/best-nfl-receivers-smith-njigba-nacua-chase-jefferson)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 15°C / Low 9°C &nbsp;|&nbsp; Humidity 67%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$81,439**
-vs yesterday's close: 🟢 ▲ +$638 (+0.79%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**$80,125**
+vs yesterday's close: 🔴 ▼ $-1,149 (-1.41%)
+Trend: ➡️ Flat around 7d MA (-0.6%)
 
 ### 🇺🇸 S&P 500
-**7,722.6**
-vs previous close: 🟢 ▲ +45.8 (+0.60%)
-Trend: ➡️ Flat around 7d MA (+0.4%)
+**7,744.0**
+vs previous close: 🟢 ▲ +21.4 (+0.28%)
+Trend: ➡️ Flat around 7d MA (+0.6%)
 
 ---
 
-<sub>Last updated: 2026-10-28 10:59 GMT</sub>
+<sub>Last updated: 2026-10-29 11:18 GMT</sub>
