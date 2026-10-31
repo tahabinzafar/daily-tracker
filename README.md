@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 30 October 2026
+## 📅 Saturday, 31 October 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**13°C** (feels like 11°C) — Sunny
-High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 74%
+**10°C** (feels like 9°C) — Cloudy 
+High 15°C / Low 8°C &nbsp;|&nbsp; Humidity 90%
 
-> 🙂 Decent enough. Light jacket should be fine.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [What we know about Binance's $6.3bn hack](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
-- [Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86](https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss)
-- [Watch: Iconic moments from Sir Patrick Stewart's career](https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss)
+- [Burnham 'open' to calls for slavery apology but not reparations](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss)
+- [US approves sale of 500 Patriot missiles to Ukraine](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss)
+- [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [On the US border in Texas, Trump deportation drive galvanises midterm vote](https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss)
-- [Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked](https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss)
-- [What can a global strike of dockworkers achieve for Gaza?](https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss)
+- [Education under fire: Gaza’s children face death on their way to school](https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss)
+- [Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups](https://www.aljazeera.com/sports/2026/10/31/liverpool-arsenal-premier-league-predictions-news-lineups?traffic_source=rss)
+- [Rival US and Russian resolutions on Western Sahara fail at UN](https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg](https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg)
@@ -39,19 +39,19 @@ High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 74%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Grealish dropped over 'breach of club discipline' - what now?](https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss)
-- [How talking about Man Utd's cycle of doom became an industry](https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss)
-- [Why managers must put their own fitness first - Pulis](https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss)
+- [Shearer on trials of MOTD & the manager's job that never was](https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss)
+- [Sherrock happy to overcome 'hate' in beating Littler for £501,000](https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss)
+- [Villa to sue Carragher over 'unacceptable insults'](https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Djokovic suffers SHOCK defeat to put ATP Finals place in doubt](https://www.skysports.com/watch/video/13605708/novak-djokovic-vs-jan-lennard-struff-swiss-indoors-basel-highlights)
-- [Dart into Guangzhou Open semi as Rybakina injured in Tokyo](https://www.skysports.com/tennis/news/12040/13605662/pan-pacific-open-elena-rybakina-withdraws-from-pan-pacific-open-with-injury-just-one-day-after-securing-year-end-no-1-ranking)
-- [Explained: Where do we stand with LIV 2.0 as Deadline Day looms?](https://www.skysports.com/watch/video/13605697/explained-where-do-we-stand-with-liv-2-0-as-deadline-day-looms)
+- [Chelsea vs Man Utd team news LIVE!](https://www.skysports.com/football/chelsea-vs-manchester-united/live/559527)
+- [Sherrock 'happy to overcome hate' after lucrative Littler win](https://www.skysports.com/darts/news/12040/13606055/beat-luke-littler-fallon-sherrock-delighted-to-overcome-the-hate-and-beat-littler-in-one-off-leg-to-claim-501k-prize)
+- [Yamashita in command as Hull and Woad fall away in Kuala Lumpur](https://www.skysports.com/golf/news/12040/13606048/maybank-championship-miyu-yamashita-in-command-as-charley-hull-and-lottie-woad-fall-away-in-kuala-lumpur)
 
 ### 🏅 The Guardian Sport
-- [Packers beat Panthers as Green Bay’s Christian Watson returns after mid-game hospital visit](https://www.theguardian.com/sport/2026/oct/29/packers-panthers-thursday-night-football-nfl-christian-watson-hospital)
-- [Dream serve up lunchtime rout of Valkyries to force historic WNBA finals Game 7](https://www.theguardian.com/sport/2026/oct/29/atlanta-dream-golden-state-valkyries-game-6-wnba-finals)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend)
+- [Arteta can take inspiration from George Graham to expunge painful Anfield memories](https://www.theguardian.com/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool)
+- [NCAA basketball 2026-27 predictions: from JuJu Watkins to Tyran Stokes, the names you’ll know by March](https://www.theguardian.com/sport/2026/oct/30/ncaa-basketball-2026-27-season-predictions-march-madness)
+- [Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history](https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 16°C / Low 9°C &nbsp;|&nbsp; Humidity 74%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,663**
-vs yesterday's close: 🔴 ▼ $-176 (-0.23%)
-Trend: 📉 Below 7d MA by 2.6%
+**$77,408**
+vs yesterday's close: 🟢 ▲ +$185 (+0.24%)
+Trend: 📉 Below 7d MA by 2.3%
 
 ### 🇺🇸 S&P 500
-**7,720.4**
-vs previous close: 🔴 ▼ -23.6 (-0.30%)
-Trend: ➡️ Flat around 7d MA (+0.2%)
+**7,580.1**
+vs previous close: 🔴 ▼ -140.3 (-1.82%)
+Trend: 📉 Below 7d MA by 1.2%
 
 ---
 
-<sub>Last updated: 2026-10-30 11:10 GMT</sub>
+<sub>Last updated: 2026-10-31 10:43 GMT</sub>
