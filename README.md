@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 02 November 2026
+## 📅 Tuesday, 03 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
 **12°C** (feels like 8°C) — Patchy rain nearby
-High 12°C / Low 8°C &nbsp;|&nbsp; Humidity 66%
+High 12°C / Low 9°C &nbsp;|&nbsp; Humidity 65%
 
 > 🌧️ Cold and wet — layers plus a waterproof.
 
@@ -20,14 +20,14 @@ High 12°C / Low 8°C &nbsp;|&nbsp; Humidity 66%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Mother told to book appointment to give birth to her baby who had died](https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss)
-- [Shop freezers in six European countries hit by suspected cyber-attack](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
-- [Nine killed as small jet crashes on Florida street](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)
+- [How the US midterm results could unfold - as millions of Americans head to the polls](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
+- [Spanish footballer dies after collision with goalkeeper during match](https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss)
+- [MI5 will not face contempt of court charges despite admitting its evidence was a lie](https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack](https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss)
-- [Oman and China sign deals to boost trade and investment](https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss)
-- [Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis](https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss)
+- [Two police officers protecting polio workers in Pakistan shot dead](https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss)
+- [Al Jazeera journalist recounts arrest during Israeli raid on his home](https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss)
+- [Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply](https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg](https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg)
@@ -39,19 +39,19 @@ High 12°C / Low 8°C &nbsp;|&nbsp; Humidity 66%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [How Antonelli 'blew everyone away' to make F1 history](https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss)
-- ['We've got big problems' - Hamilton says Ferrari need 'serious talks'](https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss)
-- [Villa drop legal action threat against Carragher](https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss)
+- [Tenerife striker De Miguel dies after on-field collision](https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss)
+- [West Ham approach Parker after sacking boss Nuno](https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss)
+- [The referee who became a role model after bouncing back from Diaz error](https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Jake Paul confirms opponent for Christmas Eve fight](https://www.skysports.com/boxing/news/12040/13606969/jake-paul-to-fight-kickboxing-champion-cedric-doumbe-on-christmas-eve-as-youtubers-opponent-is-revealed)
-- [Merse: Man Utd will be in relegation zone in a month](https://www.skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment)
-- [Ref Watch: Isak denied 'nailed on' penalty, Mac Allister slammed for theatrics](https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions)
+- [Sunderland latest: Brobbey signs long-term deal](https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
+- [GET INVOLVED! Pick your FIFPRO World XI](https://www.skysports.com/football/news/12040/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed)
+- [Man Utd beware! Malen is a man transformed at Roma](https://www.skysports.com/football/news/12040/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europes-major-leagues-in-2026-with-the-dutchman-transformed)
 
 ### 🏅 The Guardian Sport
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action)
-- [Zero passing yards, one win. Did the Bucs just reinvent the NFL in all the wrong ways?](https://www.theguardian.com/sport/2026/nov/02/tampa-bay-buccaneers-zero-passing-yards-nfl-atlanta-falcons)
-- [Folarin Balogun takes a first, tiny step toward moving on from a calamitous summer](https://www.theguardian.com/football/2026/nov/02/folarin-balogun-monaco-first-goal)
+- [Caleb Williams and new arrival Jeffery Simmons power Bears past sputtering Seahawks](https://www.theguardian.com/sport/2026/nov/02/bears-seahawks-caleb-williams-jeffery-simmons-monday-night-football)
+- [Champagne, cocaine and some very long walks: when pedestrianism ruled the sporting world](https://www.theguardian.com/sport/2026/nov/03/pedestrianism-long-distance-walking-edward-payson-weston)
+- [Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision](https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 12°C / Low 8°C &nbsp;|&nbsp; Humidity 66%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$77,653**
-vs yesterday's close: 🔴 ▼ $-641 (-0.82%)
-Trend: 📉 Below 7d MA by 1.3%
+**$77,359**
+vs yesterday's close: 🟢 ▲ +$650 (+0.85%)
+Trend: ➡️ Flat around 7d MA (-0.9%)
 
 ### 🇺🇸 S&P 500
-**7,580.1**
-vs previous close: 🔴 ▼ -140.3 (-1.82%)
-Trend: 📉 Below 7d MA by 1.2%
+**7,541.4**
+vs previous close: 🔴 ▼ -38.7 (-0.51%)
+Trend: 📉 Below 7d MA by 1.5%
 
 ---
 
-<sub>Last updated: 2026-11-02 13:07 GMT</sub>
+<sub>Last updated: 2026-11-03 12:37 GMT</sub>
