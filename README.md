@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Thursday, 05 November 2026
+## 📅 Friday, 06 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**10°C** (feels like 8°C) — Patchy rain nearby
-High 11°C / Low 8°C &nbsp;|&nbsp; Humidity 68%
+**11°C** (feels like 10°C) — Overcast 
+High 12°C / Low 7°C &nbsp;|&nbsp; Humidity 77%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Three ways the interest rate rise could affect you](https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss)
-- [Married at First Sight UK cancelled after BBC revealed rape allegations](https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss)
-- [Vance walks Trump tightrope after blaming Iran war for election defeat](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
+- [Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction](https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss)
+- [Did a data centre revolt affect the US midterm election results?](https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss)
+- ['Misleading' student loans information left out examples of higher-salary repayments](https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Cristiano Ronaldo announces international retirement](https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss)
-- [New Yorkers rally against gun violence after Ghanaian teen’s killing](https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss)
-- [Workers strike across France, hundreds of thousands expected to protest](https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss)
+- [Born to be torn: A generation raised under Houthi rule in Yemen](https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss)
+- [Olympic champion Imane Khelif to make professional boxing debut in December](https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss)
+- [‘We are here’: Kurdish club Amedspor shakes up Turkish football](https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [British healthcare worker with Ebola evacuated from DR Congo to UK](https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows)
@@ -39,19 +39,19 @@ High 11°C / Low 8°C &nbsp;|&nbsp; Humidity 68%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Ronaldo retires from Portugal duty](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
-- [Ronaldo's most iconic moments as he retires from international football](https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss)
-- [Former F1 champion Jones dies aged 80](https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do?at_medium=RSS&at_campaign=rss)
+- [Palmer misses too many chances to impress - Tuchel](https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss)
+- [Newcastle's Dedic stopped by police after being spotted with bow and arrows](https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss)
+- [Has Anderson lived up to the hype after Man City move?](https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Alcaraz into Paris Masters quarter-finals after Berrettini withdraws with injury](https://www.skysports.com/tennis/news/12040/13608304/carlos-alcaraz-through-to-rolex-paris-masters-quarter-finals-after-matteo-berrettini-withdraws-injured)
-- [LIVE STREAM: Billam-Smith vs Clarke & Bentley vs Mosley Jr head-to-head](https://www.skysports.com/boxing/news/12040/13608317/chris-billam-smith-vs-cheavon-clarke-and-denzel-bentley-vs-shane-mosley-jr-free-live-stream-of-head-to-head-interviews)
-- [Britain's Stojsavljevic beaten in Hong Kong a day after landmark win](https://www.skysports.com/tennis/news/12040/13608329/mika-stojsavljevic-british-teenager160beaten-in-hong-kong-a-day-after-first-wta-tour-win-of-her-career)
+- [Sinner parts ways with coach Cahill after five-year run](https://www.skysports.com/tennis/news/12040/13608788/jannik-sinner-partnership-with-coach-darren-cahill-ends-with-the-italian-winning-five-grand-slam-titles-and-achieve-no-1-ranking)
+- ['It's not personal' - Tuchel explains Palmer exclusion](https://www.skysports.com/football/news/12040/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal)
+- [Club cricketer dubbed 'Clicky Ponting' banned for two years](https://www.skysports.com/cricket/news/12040/13608776/clicky-ponting-club-cricketer-banned-for-two-years-after-saltburn-cheating-scandal-according-to-reports)
 
 ### 🏅 The Guardian Sport
-- [Sports owners bet big on Republicans. What does their defeat mean for US sports?](https://www.theguardian.com/sport/2026/nov/05/us-midterms-sports-owners-republicans-democrats-gambling-stadiums)
-- [‘He’s basically Wilt’: Wembanyama downs Mavericks with 52-point, 24-rebound classic](https://www.theguardian.com/sport/2026/nov/05/hes-basically-wilt-wembanyama-downs-mavericks-with-52-point-24-rebound-classic)
-- [Fifa wants to restrict women’s Olympic football to under-23s in controversial move](https://www.theguardian.com/football/2026/nov/05/fifa-wants-womens-olympic-football-under-23s)
+- [Hockey’s streaming spree means there’s one fewer thing holding Canada together](https://www.theguardian.com/sport/2026/nov/06/hockeys-streaming-spree-means-theres-one-fewer-thing-holding-canada-together)
+- [Jaguars trounce rudderless Ravens as Baltimore slump to fourth straight loss](https://www.theguardian.com/sport/2026/nov/05/jacksonville-jaguars-baltimore-ravens-trevor-lawrence-joe-fagnano-nfl)
+- [LSU thrash Texas Southern by school-record 109 points in historic 131-22 rout](https://www.theguardian.com/sport/2026/nov/05/lsu-texas-southern-131-22-record-win-40-0-quarter)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 11°C / Low 8°C &nbsp;|&nbsp; Humidity 68%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$79,546**
-vs yesterday's close: 🔴 ▼ $-897 (-1.11%)
-Trend: 📈 Above 7d MA by 1.8%
+**$76,140**
+vs yesterday's close: 🟢 ▲ +$134 (+0.18%)
+Trend: 📉 Below 7d MA by 1.8%
 
 ### 🇺🇸 S&P 500
-**7,688.6**
-vs previous close: 🟢 ▲ +119.7 (+1.58%)
-Trend: ➡️ Flat around 7d MA (+0.5%)
+**7,353.7**
+vs previous close: 🔴 ▼ -334.9 (-4.36%)
+Trend: 📉 Below 7d MA by 3.2%
 
 ---
 
-<sub>Last updated: 2026-11-05 12:56 GMT</sub>
+<sub>Last updated: 2026-11-06 12:43 GMT</sub>
