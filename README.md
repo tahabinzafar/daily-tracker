@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Sunday, 08 November 2026
+## 📅 Monday, 09 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**10°C** (feels like 8°C) — Overcast 
-High 11°C / Low 6°C &nbsp;|&nbsp; Humidity 79%
+**10°C** (feels like 8°C) — Patchy rain nearby
+High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 77%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [How the deadly shooting in Krakow unfolded](https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss)
-- [Government 'looking seriously' at banning under-16s from Vinted and eBay](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss)
-- [Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'](https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss)
+- [Watch: What do we know about Jensen Huang's affair?](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss)
+- [Inside the French drug gangs recruiting children to kill](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
+- [Krakow shooting suspect has died in hospital, police say](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?](https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss)
-- [Messi becomes first player to win back-to-back MLS Golden Boot awards](https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss)
-- [After rebel offensive, efforts to push them back appear to have stalled](https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss)
+- [Sudan teachers go on strike over meagre salaries and dilapidated schools](https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss)
+- [China rejects ‘baseless’ claims it spied on Nvidia boss](https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss)
+- [Partial collapse of Pakistan’s Tarbela dam causes flood water surge](https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Collision of two trains in Egypt kills at least seven](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision)
+- [How African philosophies inspired a new approach to staging film festivals in Manchester](https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester)
 - [Kenyan doomsday sect leader jailed for 200 years for murder of 190 children](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)
-- [ANC faces bruising defeat in South African local elections with 80% of ballots counted](https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections)
-- [British healthcare worker with Ebola evacuated from DR Congo to UK](https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [I haven't thrown anyone under the bus - Khawaja](https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss)
-- [Walsh-inspired Australia crush irate Samoa to reach World Cup final](https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do?at_medium=RSS&at_campaign=rss)
-- ['I can't believe he is one of us' - inside Salah's life in Trabzon](https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss)
+- [England clear way for Carse return and drop Bashir](https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss)
+- [Burn replaces injured Guehi in England squad](https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss)
+- [Khawaja 100% accurate on ball-tampering - Warner](https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Man Utd latest: Carrick given no assurances over future beyond Villa match](https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [What's gone so wrong so quickly at Crystal Palace?](https://www.skysports.com/football/news/12040/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering)
-- [WSL LIVE! Liverpool vs Arsenal, Aston Villa vs Man Utd in early action](https://www.skysports.com/football/live-blog/12040/13608974/wsl-live-arsenal-man-utd-and-london-city-lionesses-score-updates-news-prediction-lineups-and-how-to-watch-or-stream)
+- [Dubois: I'm the biggest test for Baumgardner's career](https://www.skysports.com/boxing/news/12040/13610156/caroline-dubois-throws-down-challenge-to-alycia-baumgardner-the-biggest-test-for-her-career-is-going-to-be-against-me)
+- [Norris: McLaren still not at championship level](https://www.skysports.com/f1/news/12040/13610144/lando-norris-says-mclaren-are-still-not-at-the-level-to-fight-for-world-championship-in-2027-despite-sao-paulo-grand-prix-win)
+- [England wheelchair ready for Australia showdown in RLWC semis](https://www.skysports.com/rugby-league/news/12040/13610092/rugby-league-world-cup-england-wheelchair-ready-for-australia-showdown-as-defence-on-line-in-semi-finals)
 
 ### 🏅 The Guardian Sport
-- [Another No 1 falls as Notre Dame hold off Miami to shake up college football playoff race](https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff)
-- [Premier League buildup, FA Cup first round, WSL and more – matchday live](https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live)
-- [Lando Norris claims F1 São Paulo GP pole as ‘crazy’ rain disrupts qualifying](https://www.theguardian.com/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying)
+- [Trump’s pathetic Dana White gambit could not mask his midterm humiliation | Howard Bryant](https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics)
+- [Joe Burrow is reviving the Bengals and pulling away in the race for MVP](https://www.theguardian.com/sport/2026/nov/09/joe-burrow-bengals-nfl-mvp-race-frontrunners)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 11°C / Low 6°C &nbsp;|&nbsp; Humidity 79%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$75,916**
-vs yesterday's close: 🟢 ▲ +$140 (+0.18%)
-Trend: 📉 Below 7d MA by 1.2%
+**$74,600**
+vs yesterday's close: 🔴 ▼ $-140 (-0.19%)
+Trend: 📉 Below 7d MA by 2.3%
 
 ### 🇺🇸 S&P 500
 **7,376.9**
@@ -72,4 +72,4 @@ Trend: 📉 Below 7d MA by 2.3%
 
 ---
 
-<sub>Last updated: 2026-11-08 11:42 GMT</sub>
+<sub>Last updated: 2026-11-09 13:37 GMT</sub>
