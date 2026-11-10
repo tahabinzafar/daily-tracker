@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Monday, 09 November 2026
+## 📅 Tuesday, 10 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**10°C** (feels like 8°C) — Patchy rain nearby
-High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 77%
+**10°C** (feels like 8°C) — Overcast 
+High 11°C / Low 5°C &nbsp;|&nbsp; Humidity 73%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: What do we know about Jensen Huang's affair?](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss)
-- [Inside the French drug gangs recruiting children to kill](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
-- [Krakow shooting suspect has died in hospital, police say](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
+- [US military aircraft leave second UK base](https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss)
+- [Met Police investigate several reports on Russell Brand following his conviction](https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss)
+- [Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch](https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Sudan teachers go on strike over meagre salaries and dilapidated schools](https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss)
-- [China rejects ‘baseless’ claims it spied on Nvidia boss](https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss)
-- [Partial collapse of Pakistan’s Tarbela dam causes flood water surge](https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss)
+- [Iran lifts 2,000km limit on its ballistic missiles: What that means](https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss)
+- [At least 12 people killed in motorway crash in southeastern Bulgaria](https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss)
+- [Why the GCC is setting up an advanced military command base in Kuwait](https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Collision of two trains in Egypt kills at least seven](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision)
@@ -39,19 +39,19 @@ High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 77%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [England clear way for Carse return and drop Bashir](https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss)
-- [Burn replaces injured Guehi in England squad](https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss)
-- [Khawaja 100% accurate on ball-tampering - Warner](https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss)
+- [Hill gets first England call-up as Konsa cover](https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss)
+- [Cast your vote for BBC Women's Footballer of the Year 2026](https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss)
+- [Australia fans 'can't trust what's real' - Clarke wants ball-tampering investigation reopened](https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Dubois: I'm the biggest test for Baumgardner's career](https://www.skysports.com/boxing/news/12040/13610156/caroline-dubois-throws-down-challenge-to-alycia-baumgardner-the-biggest-test-for-her-career-is-going-to-be-against-me)
-- [Norris: McLaren still not at championship level](https://www.skysports.com/f1/news/12040/13610144/lando-norris-says-mclaren-are-still-not-at-the-level-to-fight-for-world-championship-in-2027-despite-sao-paulo-grand-prix-win)
-- [England wheelchair ready for Australia showdown in RLWC semis](https://www.skysports.com/rugby-league/news/12040/13610092/rugby-league-world-cup-england-wheelchair-ready-for-australia-showdown-as-defence-on-line-in-semi-finals)
+- [No further F1 engine upgrades handed out after final 2026 review period](https://www.skysports.com/f1/news/12040/13610600/f1-aduo-fia-announces-no-further-engine-upgrades-handed-out-after-final-review-period-of-2026-season)
+- [Sinner aiming for Australian Open return](https://www.skysports.com/tennis/news/12040/13610594/jannik-sinner-world-no-2-confirms-aim-to-return-to-tennis-at-australian-open-after-lengthy-absence-with-knee-injury)
+- [English golfer denies 'deliberate damage' after being disqualified from Q-School](https://www.skysports.com/golf/news/12040/13610593/dp-world-tour-english-golfer-frank-kennedy-denies-deliberate-damage-after-being-disqualified-from-q-school)
 
 ### 🏅 The Guardian Sport
-- [Trump’s pathetic Dana White gambit could not mask his midterm humiliation | Howard Bryant](https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics)
-- [Joe Burrow is reviving the Bengals and pulling away in the race for MVP](https://www.theguardian.com/sport/2026/nov/09/joe-burrow-bengals-nfl-mvp-race-frontrunners)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action)
+- [Bills wear out Vikings’ NFL-leading defense, sloppy Wentz to improve to 7-1](https://www.theguardian.com/sport/2026/nov/09/bills-vikings-monday-night-football)
+- [Ultimate 1-50: the male footballers best associated with each squad number](https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number)
+- [Liberals like Messi but authoritarians prefer Ronaldo: how politics shapes sporting choices | Sean Ingle](https://www.theguardian.com/sport/2026/nov/10/how-politics-shapes-sporting-choices-messi-ronaldo-trump)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 77%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$74,600**
-vs yesterday's close: 🔴 ▼ $-140 (-0.19%)
-Trend: 📉 Below 7d MA by 2.3%
+**$74,362**
+vs yesterday's close: 🔴 ▼ $-905 (-1.20%)
+Trend: 📉 Below 7d MA by 2.2%
 
 ### 🇺🇸 S&P 500
-**7,376.9**
-vs previous close: 🟢 ▲ +23.1 (+0.31%)
-Trend: 📉 Below 7d MA by 2.3%
+**7,549.9**
+vs previous close: 🟢 ▲ +173.1 (+2.35%)
+Trend: ➡️ Flat around 7d MA (+0.4%)
 
 ---
 
-<sub>Last updated: 2026-11-09 13:37 GMT</sub>
+<sub>Last updated: 2026-11-10 13:15 GMT</sub>
