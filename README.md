@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Tuesday, 10 November 2026
+## 📅 Wednesday, 11 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**10°C** (feels like 8°C) — Overcast 
-High 11°C / Low 5°C &nbsp;|&nbsp; Humidity 73%
+**9°C** (feels like 7°C) — Light drizzle
+High 9°C / Low 7°C &nbsp;|&nbsp; Humidity 90%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [US military aircraft leave second UK base](https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss)
-- [Met Police investigate several reports on Russell Brand following his conviction](https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss)
-- [Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch](https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss)
+- [Jonathan Ross 'horrified' by Walliams allegations and Brand conviction](https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss)
+- ['I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager](https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss)
+- [UK falls silent to mark Armistice Day](https://www.bbc.co.uk/news/articles/c68j4lez4x4no?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Iran lifts 2,000km limit on its ballistic missiles: What that means](https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss)
-- [At least 12 people killed in motorway crash in southeastern Bulgaria](https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss)
-- [Why the GCC is setting up an advanced military command base in Kuwait](https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss)
+- [What is northern Europe’s new drone and warship plan to counter Russia?](https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss)
+- [Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza](https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss)
+- [Passenger train derails in India, leaving several injured](https://www.aljazeera.com/video/newsfeed/2026/11/11/passenger-train-derails-in-india-leaving-several-injured?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities](https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities)
 - [Collision of two trains in Egypt kills at least seven](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision)
 - [How African philosophies inspired a new approach to staging film festivals in Manchester](https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester)
-- [Kenyan doomsday sect leader jailed for 200 years for murder of 190 children](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Hill gets first England call-up as Konsa cover](https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss)
-- [Cast your vote for BBC Women's Footballer of the Year 2026](https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss)
-- [Australia fans 'can't trust what's real' - Clarke wants ball-tampering investigation reopened](https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss)
+- [Pochettino ready to accept Man Utd offer to replace Carrick](https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss)
+- [Bethell out of Australia trip and doubt for SA](https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss)
+- [Does Pickford finally face serious competition for his England place?](https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [No further F1 engine upgrades handed out after final 2026 review period](https://www.skysports.com/f1/news/12040/13610600/f1-aduo-fia-announces-no-further-engine-upgrades-handed-out-after-final-review-period-of-2026-season)
-- [Sinner aiming for Australian Open return](https://www.skysports.com/tennis/news/12040/13610594/jannik-sinner-world-no-2-confirms-aim-to-return-to-tennis-at-australian-open-after-lengthy-absence-with-knee-injury)
-- [English golfer denies 'deliberate damage' after being disqualified from Q-School](https://www.skysports.com/golf/news/12040/13610593/dp-world-tour-english-golfer-frank-kennedy-denies-deliberate-damage-after-being-disqualified-from-q-school)
+- [Alcaraz and Zverev headline the ATP Finals in Turin - live on Sky Sports](https://www.skysports.com/tennis/news/12040/13610540/atp-finals-in-turin-format-players-schedule-prize-money-and-draw-as-carlos-alcaraz-leads-the-field-at-end-of-season-event)
+- [Man Utd strike Poch agreement as Carrick takes training](https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor)
+- [Super League clubs vote to expand to 15 teams](https://www.skysports.com/rugby-league/news/12040/13610912/super-league-clubs-vote-to-expand-league-to-15-teams-for-2027-season)
 
 ### 🏅 The Guardian Sport
-- [Bills wear out Vikings’ NFL-leading defense, sloppy Wentz to improve to 7-1](https://www.theguardian.com/sport/2026/nov/09/bills-vikings-monday-night-football)
-- [Ultimate 1-50: the male footballers best associated with each squad number](https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number)
-- [Liberals like Messi but authoritarians prefer Ronaldo: how politics shapes sporting choices | Sean Ingle](https://www.theguardian.com/sport/2026/nov/10/how-politics-shapes-sporting-choices-messi-ronaldo-trump)
+- [Pochettino’s Manchester United interest is as natural as it is disruptive to the US](https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt)
+- [NFL trade deadline winners and losers: Vikings go full dadcore with Kirk Cousins in Super Bowl quest](https://www.theguardian.com/sport/2026/nov/11/nfl-trade-deadline-winners-and-losers-vikings-bears-jaguars)
+- [Noskova beats Gauff to reach WTA Finals semi-finals as Pegula stays alive](https://www.theguardian.com/sport/2026/nov/10/jessica-pegula-marta-kostyuk-wta-finals-tennis)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 11°C / Low 5°C &nbsp;|&nbsp; Humidity 73%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$74,362**
-vs yesterday's close: 🔴 ▼ $-905 (-1.20%)
-Trend: 📉 Below 7d MA by 2.2%
+**$73,917**
+vs yesterday's close: 🟢 ▲ +$196 (+0.27%)
+Trend: 📉 Below 7d MA by 1.5%
 
 ### 🇺🇸 S&P 500
-**7,549.9**
-vs previous close: 🟢 ▲ +173.1 (+2.35%)
-Trend: ➡️ Flat around 7d MA (+0.4%)
+**7,520.9**
+vs previous close: 🔴 ▼ -29.0 (-0.38%)
+Trend: ➡️ Flat around 7d MA (+0.1%)
 
 ---
 
-<sub>Last updated: 2026-11-10 13:15 GMT</sub>
+<sub>Last updated: 2026-11-11 12:26 GMT</sub>
