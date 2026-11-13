@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Thursday, 12 November 2026
+## 📅 Friday, 13 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**8°C** (feels like 5°C) — Sunny
-High 8°C / Low 4°C &nbsp;|&nbsp; Humidity 66%
+**6°C** (feels like 5°C) — Sunny
+High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 61%
 
 > 🧣 Chilly out. A jacket and scarf will do.
 
@@ -20,14 +20,14 @@ High 8°C / Low 4°C &nbsp;|&nbsp; Humidity 66%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
-- ['We've got to run': Inside ruined Ukraine power plant under constant drone threat](https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss)
-- [Some under-25s should get fewer benefits, Milburn review to say](https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss)
+- [What we know about the global outage](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+- [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
+- [Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal](https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss)
-- [Canada won’t let Russian players enter for ice hockey junior championship](https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss)
-- [Greta Thunberg: The planet is being killed](https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss)
+- [Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?](https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss)
+- [Pakistan military reports it killed 74 ‘terrorists’ during raids](https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss)
+- [India cancels visa of Norwegian journalist who questioned Modi](https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story](https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story)
@@ -39,19 +39,19 @@ High 8°C / Low 4°C &nbsp;|&nbsp; Humidity 66%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Crystal Palace sack boss Sage after 16 games](https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss)
-- [The chaos that took Carrick from two-year deal to sacked within 15 games](https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss)
-- [Pollock starts alongside Ojomoh and Joseph in bold England side](https://www.bbc.co.uk/sport/rugby-union/articles/cqkg727741xvo?at_medium=RSS&at_campaign=rss)
+- [How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd](https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss)
+- [Surfing speedster Beardman gives a glimpse of Ashes future](https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss)
+- [Fernandes rejects second Man Utd contract offer](https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [McIlroy boosts Race to Dubai hopes as Luiten grabs shock lead](https://www.skysports.com/golf/news/12040/13611312/dp-world-tour-championship-rory-mcilroy-boosts-race-to-dubai-hopes-as-joost-luiten-grabs-shock-early-lead)
-- [Crystal Palace sack Sage after 16 matches](https://www.skysports.com/football/news/12040/13606476/pierre-sage-crystal-palace-sack-manager-with-club-bottom-of-premier-league-table-after-10-matches)
-- [Pollock starts as England ring 10 changes for Japan clash](https://www.skysports.com/rugby-union/news/12040/13611431/nations-championship-henry-pollock-max-ojomoh-will-joseph-start-for-england-vs-japan-as-part-of-10-changes)
+- [F1 Academy champion Palmowski lands Red Bull junior team spot](https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season)
+- [Who could England face in Nations League quarter-finals?](https://www.skysports.com/football/news/12040/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march)
+- [Cameron to reignite Mayer rivalry in rematch on Jake Paul bill](https://www.skysports.com/boxing/news/12040/13611811/chantelle-cameron-vs-mikaela-mayer-rematch-confirmed-on-undercard-for-jake-paul-vs-cedric-doumbe-on-christmas-eve)
 
 ### 🏅 The Guardian Sport
-- [Carrick sacked by Manchester United with team in Premier League relegation zone – live](https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live)
-- [NFL midseason awards: Allen’s brilliance, a Seahawks shocker and a new Super Bowl pick](https://www.theguardian.com/sport/2026/nov/12/nfl-midseason-awards-josh-allen-jahmyr-gibbs-seahawks-bears)
-- [Smart ejected for punching Bassey as Warriors lose Curry to injury in defeat to Rockets](https://www.theguardian.com/sport/2026/nov/12/marcus-smart-punch-stephen-curry-injury-rockets-warriors-nba)
+- [NFL quarterbacks are under more pressure than ever from rushers. Why?](https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why)
+- [Mauricio Pochettino’s switch from USA to Manchester United confirmed](https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa)
+- [Washington Commanders keep their season alive with last-gasp win over New York Giants](https://www.theguardian.com/sport/2026/nov/12/commanders-giants-thursday-night-football-nfl)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 8°C / Low 4°C &nbsp;|&nbsp; Humidity 66%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$72,539**
-vs yesterday's close: 🔴 ▼ $-1,435 (-1.94%)
-Trend: 📉 Below 7d MA by 2.7%
+**$69,231**
+vs yesterday's close: 🔴 ▼ $-2,141 (-3.00%)
+Trend: 📉 Below 7d MA by 5.7%
 
 ### 🇺🇸 S&P 500
-**7,619.4**
-vs previous close: 🟢 ▲ +98.4 (+1.31%)
-Trend: 📈 Above 7d MA by 1.2%
+**7,592.4**
+vs previous close: 🔴 ▼ -27.0 (-0.35%)
+Trend: ➡️ Flat around 7d MA (+0.8%)
 
 ---
 
-<sub>Last updated: 2026-11-12 13:31 GMT</sub>
+<sub>Last updated: 2026-11-13 12:52 GMT</sub>
