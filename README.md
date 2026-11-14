@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Friday, 13 November 2026
+## 📅 Saturday, 14 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
 **6°C** (feels like 5°C) — Sunny
-High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 61%
+High 8°C / Low 1°C &nbsp;|&nbsp; Humidity 70%
 
 > 🧣 Chilly out. A jacket and scarf will do.
 
@@ -20,14 +20,14 @@ High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 61%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [What we know about the global outage](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
-- [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
-- [Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss)
+- [Young people should have legal guarantee of job or training, Milburn tells BBC](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
+- [What we know about the US ground stop and what to do if your flight is affected](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
+- [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?](https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss)
-- [Pakistan military reports it killed 74 ‘terrorists’ during raids](https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss)
-- [India cancels visa of Norwegian journalist who questioned Modi](https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss)
+- [Three killed in Russia as Ukraine claims US floated NATO membership option](https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss)
+- [Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl](https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss)
+- [Ukraine, Russia race to build military satellite networks as war rages on](https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story](https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story)
@@ -39,19 +39,19 @@ High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 61%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd](https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss)
-- [Surfing speedster Beardman gives a glimpse of Ashes future](https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss)
-- [Fernandes rejects second Man Utd contract offer](https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss)
+- [Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?](https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss)
+- [Tuchel to remind England of anti-racism protocols before Spain game](https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss)
+- [Warner accuses Cricket Australia of 'cover-up'](https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [F1 Academy champion Palmowski lands Red Bull junior team spot](https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season)
-- [Who could England face in Nations League quarter-finals?](https://www.skysports.com/football/news/12040/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march)
-- [Cameron to reignite Mayer rivalry in rematch on Jake Paul bill](https://www.skysports.com/boxing/news/12040/13611811/chantelle-cameron-vs-mikaela-mayer-rematch-confirmed-on-undercard-for-jake-paul-vs-cedric-doumbe-on-christmas-eve)
+- [WSL LIVE! Chelsea vs Man City plus Man Utd vs Palace LIVE on Sky!](https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/live/575822)
+- [McGinn double seals win for ragged Scotland](https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098)
+- [France put injuries behind them to stun Springboks](https://www.skysports.com/rugby-union/france-vs-south-africa/report/111688)
 
 ### 🏅 The Guardian Sport
+- [FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend](https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption)
+- [Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell](https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united)
 - [NFL quarterbacks are under more pressure than ever from rushers. Why?](https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why)
-- [Mauricio Pochettino’s switch from USA to Manchester United confirmed](https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa)
-- [Washington Commanders keep their season alive with last-gasp win over New York Giants](https://www.theguardian.com/sport/2026/nov/12/commanders-giants-thursday-night-football-nfl)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 61%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$69,231**
-vs yesterday's close: 🔴 ▼ $-2,141 (-3.00%)
-Trend: 📉 Below 7d MA by 5.7%
+**$67,245**
+vs yesterday's close: 🔴 ▼ $-1,069 (-1.56%)
+Trend: 📉 Below 7d MA by 6.7%
 
 ### 🇺🇸 S&P 500
-**7,592.4**
-vs previous close: 🔴 ▼ -27.0 (-0.35%)
-Trend: ➡️ Flat around 7d MA (+0.8%)
+**7,561.7**
+vs previous close: 🔴 ▼ -30.7 (-0.40%)
+Trend: ➡️ Flat around 7d MA (+0.7%)
 
 ---
 
-<sub>Last updated: 2026-11-13 12:52 GMT</sub>
+<sub>Last updated: 2026-11-14 11:56 GMT</sub>
