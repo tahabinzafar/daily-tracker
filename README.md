@@ -4,54 +4,54 @@
 
 ---
 
-## 📅 Tuesday, 17 November 2026
+## 📅 Wednesday, 18 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**14°C** (feels like 12°C) — Moderate or heavy rain shower
-High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 67%
+**11°C** (feels like 9°C) — Light rain shower
+High 12°C / Low 8°C &nbsp;|&nbsp; Humidity 88%
 
-> ☔ Mild but rainy — light jacket and an umbrella.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: What's in the Milburn review?](https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss)
-- [At a glance: Key proposals from Milburn's Neets report](https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss)
-- [Why Milburn's Neets reforms will only save £200m a year by 2036](https://www.bbc.co.uk/news/articles/c6205wlz8vn0o?at_medium=RSS&at_campaign=rss)
+- [Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
+- [Trump shakes hands with Putin and Xi ahead of landmark talks in China](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
+- [Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Rep. Thomas Massie Forces a New Fight for Epstein Survivors](https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss)
-- [‘Unprecedented’ Ukraine attack on Crimean bridge](https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss)
-- [At the origin of France’s education protests, students refuse to give up](https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss)
+- [GTA 6: Everything you need to know about the highly anticipated game](https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss)
+- [How data centres are turning AI-generated heat into energy](https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss)
+- [Ukraine mourns mother, athlete and drone operator killed in Russian strike](https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
+- [European Commission accused of sugarcoating figures to release funds to Egypt](https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans)
 - [Five EU states announce plans for immigration ‘return hubs’ in Rwanda](https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda)
-- [US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities](https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities)
-- [Relocation of Cape Town baboons to sanctuary ignites heated protests](https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [DeChambeau joins DP World Tour after LIV Golf collapse](https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss)
-- [Will Infantino feel he's already won as Fifa challengers are revealed?](https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss)
-- [Bethell to have more surgery and miss South Africa tour](https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss)
+- [Explosive Bancroft sandpaper claims heap pressure on Cummins](https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss)
+- [Duckett ton & impressive bowlers give England series win](https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss)
+- [Joint-record six referee errors in last Premier League weekend](https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy](https://www.skysports.com/boxing/news/12040/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing)
-- [Chelsea latest: Estevao scores in dominant Brazil win](https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts)
-- [NFL Week 11 games live on Sky Sports](https://www.skysports.com/nfl/news/12040/13582747/nfl-2026-season-live-on-sky-sports-fixtures-kick-off-times-tv-channel-for-games-this-week-and-weekend)
+- [South Africa Rugby condemns online abuse of officials after Erasmus ban](https://www.skysports.com/rugby-union/news/12040/13613580/nations-championship-south-africa-rugby-condemns-online-abuse-at-officials-following-rassie-erasmus-six-match-ban)
+- [Man Utd expected to back Poch in January transfer window](https://www.skysports.com/football/news/12040/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january)
+- [England cruise to ODI series win over Australia](https://www.skysports.com/cricket/news/12040/13613516/england-cruise-to-odi-series-win-over-australia-as-ben-duckett-scores-century-and-sonny-baker-takes-four-wickets)
 
 ### 🏅 The Guardian Sport
-- [Hamilton says Ravens ‘disgracing’ their standards after loss to lowly Chargers](https://www.theguardian.com/sport/2026/nov/16/los-angeles-chargers-beat-reeling-baltimore-ravens-to-get-first-win-of-season)
-- [The NFL’s Salute to Service honors the military – and leaves out the realities of war | Lee Escobedo](https://www.theguardian.com/sport/2026/nov/17/the-nfls-salute-to-service-honors-the-military-and-leaves-out-the-realities-of-war)
-- [Bryson DeChambeau joins DP World Tour for 2027 after demise of LIV Golf](https://www.theguardian.com/sport/2026/nov/17/bryson-dechambeau-joins-dp-world-tour-2027-season-liv-golf)
+- [Reid Wiseman, the rocketman shooting for the moon in F1 with Mercedes](https://www.theguardian.com/sport/2026/nov/18/reid-wiseman-the-rocketman-shooting-for-the-moon-in-f1-with-mercedes)
+- [A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confidence and hope](https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino)
+- [Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports](https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 12°C / Low 5°C &nbsp;|&nbsp; Humidity 67%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$65,025**
-vs yesterday's close: 🟢 ▲ +$184 (+0.28%)
-Trend: 📉 Below 7d MA by 3.8%
+**$64,051**
+vs yesterday's close: 🔴 ▼ $-838 (-1.29%)
+Trend: 📉 Below 7d MA by 3.1%
 
 ### 🇺🇸 S&P 500
-**7,416.6**
-vs previous close: 🔴 ▼ -145.1 (-1.92%)
-Trend: 📉 Below 7d MA by 1.4%
+**7,340.5**
+vs previous close: 🔴 ▼ -76.1 (-1.03%)
+Trend: 📉 Below 7d MA by 2.3%
 
 ---
 
-<sub>Last updated: 2026-11-17 14:07 GMT</sub>
+<sub>Last updated: 2026-11-18 13:40 GMT</sub>
