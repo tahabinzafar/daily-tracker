@@ -4,72 +4,74 @@
 
 ---
 
-## 📅 Wednesday, 18 November 2026
+## 📅 Thursday, 19 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**11°C** (feels like 9°C) — Light rain shower
-High 12°C / Low 8°C &nbsp;|&nbsp; Humidity 88%
+**10°C** (feels like 9°C) — Overcast
+High 10°C / Low 7°C &nbsp;|&nbsp; Humidity 87%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
-- [Trump shakes hands with Putin and Xi ahead of landmark talks in China](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
-- [Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
+- [Watch: Trump greets 'my friend' Putin as pair shake hands](https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss)
+- [McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'](https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss)
+- [Leasehold system set to be scrapped in England and Wales](https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [GTA 6: Everything you need to know about the highly anticipated game](https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss)
-- [How data centres are turning AI-generated heat into energy](https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss)
-- [Ukraine mourns mother, athlete and drone operator killed in Russian strike](https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss)
+- [Where Roots Lie: Surviving Child Grooming and Exploitation](https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss)
+- [Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’](https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss)
+- [South Korean court orders retrial for ex-PM Han over martial law attempt](https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
-- [European Commission accused of sugarcoating figures to release funds to Egypt](https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans)
-- [Five EU states announce plans for immigration ‘return hubs’ in Rwanda](https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda)
+- [Race to replant five South African baobabs after export blocked](https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe)
+- [One in four women globally unable to refuse sex within marriage, says UN](https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa)
+- [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Explosive Bancroft sandpaper claims heap pressure on Cummins](https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss)
-- [Duckett ton & impressive bowlers give England series win](https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss)
-- [Joint-record six referee errors in last Premier League weekend](https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss)
+- [How Premier League's big six keep getting richer](https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss)
+- [UK firms owed thousands as Saudi-backed LIV paid golfers millions](https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss)
+- [Premier League clubs to cover legal costs if Man City sponsors sue](https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [South Africa Rugby condemns online abuse of officials after Erasmus ban](https://www.skysports.com/rugby-union/news/12040/13613580/nations-championship-south-africa-rugby-condemns-online-abuse-at-officials-following-rassie-erasmus-six-match-ban)
-- [Man Utd expected to back Poch in January transfer window](https://www.skysports.com/football/news/12040/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january)
-- [England cruise to ODI series win over Australia](https://www.skysports.com/cricket/news/12040/13613516/england-cruise-to-odi-series-win-over-australia-as-ben-duckett-scores-century-and-sonny-baker-takes-four-wickets)
+- [Joseph retains place but England change nine for All Blacks clash](https://www.skysports.com/rugby-union/news/12040/13613915/nations-championship-will-joseph-retains-england-place-vs-new-zealands-all-blacks-as-henry-pollock-dropped-amid-nine-changes)
+- [Palace latest: Frank adds two more to backroom team](https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights)
+- [Euro latest: Tchouameni pens new deal at Real Madrid](https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more)
 
 ### 🏅 The Guardian Sport
-- [Reid Wiseman, the rocketman shooting for the moon in F1 with Mercedes](https://www.theguardian.com/sport/2026/nov/18/reid-wiseman-the-rocketman-shooting-for-the-moon-in-f1-with-mercedes)
-- [A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confidence and hope](https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino)
-- [Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports](https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights)
+- [From training clips to thirst traps: why athletes are turning to OnlyFans](https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings)
+- [You have to laugh at LIV’s collapse but the saga reveals money is golf’s core value | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/19/liv-golf-tour-collapse-saudi-arabia-analysis)
+- [Ravens’ Marlon Humphrey apologizes after saying Baltimore excels at ‘making criminals’](https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Luis scores 11 in LSU debut; Wade says, 'Everyone we played tonight was eligible'](https://www.espn.com/mens-college-basketball/story/_/id/50525838/rj-luis-jr-not-lsu-starting-lineup-game-vs-ul-monroe)
+- [Giannis, Bam put Bucks drama aside, 'on to the next thing' after Heat win](https://www.espn.com/nba/story/_/id/50528238/giannis-bam-adebayo-put-drama-aside-heat-hold-bucks)
+- [Georgia AG encourages SEC to take 'action' vs. LSU, 'including expulsion'](https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$64,051**
-vs yesterday's close: 🔴 ▼ $-838 (-1.29%)
-Trend: 📉 Below 7d MA by 3.1%
+**$63,964**
+vs yesterday's close: 🟢 ▲ +$967 (+1.54%)
+Trend: 📉 Below 7d MA by 1.5%
 
 ### 🇺🇸 S&P 500
-**7,340.5**
-vs previous close: 🔴 ▼ -76.1 (-1.03%)
-Trend: 📉 Below 7d MA by 2.3%
+**7,323.6**
+vs previous close: 🔴 ▼ -16.9 (-0.23%)
+Trend: 📉 Below 7d MA by 2.1%
 
 ---
 
-<sub>Last updated: 2026-11-18 13:40 GMT</sub>
+<sub>Last updated: 2026-11-19 14:07 GMT</sub>
