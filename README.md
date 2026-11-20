@@ -4,74 +4,72 @@
 
 ---
 
-## 📅 Thursday, 19 November 2026
+## 📅 Friday, 20 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**10°C** (feels like 9°C) — Overcast
-High 10°C / Low 7°C &nbsp;|&nbsp; Humidity 87%
+**8°C** (feels like 7°C) — Patchy rain nearby
+High 9°C / Low 4°C &nbsp;|&nbsp; Humidity 82%
 
-> 🧣 Chilly out. A jacket and scarf will do.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Watch: Trump greets 'my friend' Putin as pair shake hands](https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss)
-- [McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'](https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss)
-- [Leasehold system set to be scrapped in England and Wales](https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss)
+- [Secret UK cyber operation protected tens of thousands of fridges from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)
+- [Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
+- [Calls for consent law change after Joanne Young rape case](https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Where Roots Lie: Surviving Child Grooming and Exploitation](https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss)
-- [Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’](https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss)
-- [South Korean court orders retrial for ex-PM Han over martial law attempt](https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss)
+- [Poland hit by at least one Russian missile, says Polish govt](https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss)
+- [Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group](https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss)
+- [Brexit debate returns as UK PM seeks closer EU ties](https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss)
 
 ### 🌐 The Guardian
+- [California’s coastal communities on alert as biggest waves in years hit state](https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state)
 - [Race to replant five South African baobabs after export blocked](https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe)
 - [One in four women globally unable to refuse sex within marriage, says UN](https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa)
-- [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [How Premier League's big six keep getting richer](https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss)
-- [UK firms owed thousands as Saudi-backed LIV paid golfers millions](https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss)
-- [Premier League clubs to cover legal costs if Man City sponsors sue](https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss)
+- [Cummins retains Cricket Australia support as captain](https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss)
+- [GB's Davis Cup-winning captain ends 17-year stint](https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss)
+- [Southampton give head coach Eckert new deal](https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Joseph retains place but England change nine for All Blacks clash](https://www.skysports.com/rugby-union/news/12040/13613915/nations-championship-will-joseph-retains-england-place-vs-new-zealands-all-blacks-as-henry-pollock-dropped-amid-nine-changes)
-- [Palace latest: Frank adds two more to backroom team](https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights)
-- [Euro latest: Tchouameni pens new deal at Real Madrid](https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more)
+- [Miami Magic fancied for Newbury gold as ante-post selections revealed](https://www.skysports.com/racing/news/12040/13614284/racing-tips-miami-magic-fancied-for-newbury-gold-as-ante-post-selections-revealed-on-weekend-winners)
+- [LIVE STREAM: Watch Pochettino's first Man Utd press conference from 2pm](https://www.skysports.com/football/news/12040/13614295/mauricio-pochettinos-first-manchester-united-press-conference-watch-live-stream-on-sky-sports-as-new-head-coach-faces-media)
+- [San Francisco 49ers training at altitude ahead of Mexico game](https://www.skysports.com/nfl/news/12040/13614330/san-francisco-49ers-kyle-shanahans-side-training-at-altitude-in-colorado-ahead-of-minnesota-vikings-clash-in-mexico-city)
 
 ### 🏅 The Guardian Sport
-- [From training clips to thirst traps: why athletes are turning to OnlyFans](https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings)
-- [You have to laugh at LIV’s collapse but the saga reveals money is golf’s core value | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/19/liv-golf-tour-collapse-saudi-arabia-analysis)
-- [Ravens’ Marlon Humphrey apologizes after saying Baltimore excels at ‘making criminals’](https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens)
+- [Victor Wembanyama has turned his NBA finals humiliation into a revenge tour for the ages](https://www.theguardian.com/sport/2026/nov/20/victor-wembanyama-spurs-nba-mvp-finals-redemption)
+- [Pochettino session leaked on drone footage; Arteta takes fantasy football action; Nations League draw – live](https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates)
+- [Lewis Hamilton is now the apex sports protester as US athletes stay silent](https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza)
 
 ### 🏈 ESPN
-- [Luis scores 11 in LSU debut; Wade says, 'Everyone we played tonight was eligible'](https://www.espn.com/mens-college-basketball/story/_/id/50525838/rj-luis-jr-not-lsu-starting-lineup-game-vs-ul-monroe)
-- [Giannis, Bam put Bucks drama aside, 'on to the next thing' after Heat win](https://www.espn.com/nba/story/_/id/50528238/giannis-bam-adebayo-put-drama-aside-heat-hold-bucks)
-- [Georgia AG encourages SEC to take 'action' vs. LSU, 'including expulsion'](https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,964**
-vs yesterday's close: 🟢 ▲ +$967 (+1.54%)
-Trend: 📉 Below 7d MA by 1.5%
+**$61,509**
+vs yesterday's close: 🔴 ▼ $-412 (-0.67%)
+Trend: 📉 Below 7d MA by 3.2%
 
 ### 🇺🇸 S&P 500
-**7,323.6**
-vs previous close: 🔴 ▼ -16.9 (-0.23%)
-Trend: 📉 Below 7d MA by 2.1%
+**7,175.8**
+vs previous close: 🔴 ▼ -147.8 (-2.02%)
+Trend: 📉 Below 7d MA by 3.5%
 
 ---
 
-<sub>Last updated: 2026-11-19 14:07 GMT</sub>
+<sub>Last updated: 2026-11-20 13:50 GMT</sub>
