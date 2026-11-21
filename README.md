@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 20 November 2026
+## 📅 Saturday, 21 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**8°C** (feels like 7°C) — Patchy rain nearby
-High 9°C / Low 4°C &nbsp;|&nbsp; Humidity 82%
+**7°C** (feels like 6°C) — Partly cloudy 
+High 9°C / Low 3°C &nbsp;|&nbsp; Humidity 74%
 
-> 🌧️ Cold and wet — layers plus a waterproof.
+> 🧣 Chilly out. A jacket and scarf will do.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Secret UK cyber operation protected tens of thousands of fridges from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)
-- [Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
-- [Calls for consent law change after Joanne Young rape case](https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss)
+- [Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
+- [Catherine talks openly about how cancer changed her in documentary on BBC](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
+- [Deal with EU not dependent on tuition fees agreement, Miliband says](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Poland hit by at least one Russian missile, says Polish govt](https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss)
-- [Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group](https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss)
-- [Brexit debate returns as UK PM seeks closer EU ties](https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss)
+- [Riemann hypothesis: Has the world’s most famous maths problem been cracked?](https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss)
+- [Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland](https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss)
+- [Sudan’s elderly face hardship and heartbreak in a life of displacement](https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [California’s coastal communities on alert as biggest waves in years hit state](https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state)
@@ -39,19 +39,19 @@ High 9°C / Low 4°C &nbsp;|&nbsp; Humidity 82%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Cummins retains Cricket Australia support as captain](https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss)
-- [GB's Davis Cup-winning captain ends 17-year stint](https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss)
-- [Southampton give head coach Eckert new deal](https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss)
+- [Australia's Chaudhary downs England in tetchy first T20](https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss)
+- ['Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again](https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss)
+- [England call up McKinney for South Africa Tests](https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Miami Magic fancied for Newbury gold as ante-post selections revealed](https://www.skysports.com/racing/news/12040/13614284/racing-tips-miami-magic-fancied-for-newbury-gold-as-ante-post-selections-revealed-on-weekend-winners)
-- [LIVE STREAM: Watch Pochettino's first Man Utd press conference from 2pm](https://www.skysports.com/football/news/12040/13614295/mauricio-pochettinos-first-manchester-united-press-conference-watch-live-stream-on-sky-sports-as-new-head-coach-faces-media)
-- [San Francisco 49ers training at altitude ahead of Mexico game](https://www.skysports.com/nfl/news/12040/13614330/san-francisco-49ers-kyle-shanahans-side-training-at-altitude-in-colorado-ahead-of-minnesota-vikings-clash-in-mexico-city)
+- [Australia complete record T20I chase at MCG to edge England in thriller](https://www.skysports.com/cricket/news/12040/13614645/australia-beat-england-in-first-t20i-as-mcg-record-run-chase-earns-hosts-1-0-lead-in-five-match-series)
+- [England vs New Zealand LIVE! All Blacks visit Twickenham before Ireland play SA](https://www.skysports.com/rugby-union/live-blog/12040/13614305/england-vs-new-zealand-ireland-vs-south-africa-live-nations-championship-updates-latest-scores-team-news-commentary-from-twickenham-dublin)
+- [WSL: Liverpool vs Chelsea LIVE!](https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829)
 
 ### 🏅 The Guardian Sport
-- [Victor Wembanyama has turned his NBA finals humiliation into a revenge tour for the ages](https://www.theguardian.com/sport/2026/nov/20/victor-wembanyama-spurs-nba-mvp-finals-redemption)
-- [Pochettino session leaked on drone footage; Arteta takes fantasy football action; Nations League draw – live](https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates)
-- [Lewis Hamilton is now the apex sports protester as US athletes stay silent](https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza)
+- [Manchester City v Fulham: Premier League – live](https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live)
+- [Cavaliers’ James Harden rolls back years with ‘vintage’ 51-point explosion to pass Kobe Bryant](https://www.theguardian.com/sport/2026/nov/21/james-harden-51-points-kobe-bryant-cavaliers-pacers-nba)
+- [ATP Finals tennis: Carlos Alcaraz v Ben Shelton – live semi-final updates](https://www.theguardian.com/sport/live/2026/nov/21/atp-finals-tennis-carlos-alcaraz-v-ben-shelton-live-semi-final-updates)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 9°C / Low 4°C &nbsp;|&nbsp; Humidity 82%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$61,509**
-vs yesterday's close: 🔴 ▼ $-412 (-0.67%)
-Trend: 📉 Below 7d MA by 3.2%
+**$59,214**
+vs yesterday's close: 🟢 ▲ +$396 (+0.67%)
+Trend: 📉 Below 7d MA by 5.4%
 
 ### 🇺🇸 S&P 500
-**7,175.8**
-vs previous close: 🔴 ▼ -147.8 (-2.02%)
-Trend: 📉 Below 7d MA by 3.5%
+**6,910.4**
+vs previous close: 🔴 ▼ -265.4 (-3.70%)
+Trend: 📉 Below 7d MA by 5.7%
 
 ---
 
-<sub>Last updated: 2026-11-20 13:50 GMT</sub>
+<sub>Last updated: 2026-11-21 13:14 GMT</sub>
