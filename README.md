@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Saturday, 21 November 2026
+## 📅 Sunday, 22 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**7°C** (feels like 6°C) — Partly cloudy 
-High 9°C / Low 3°C &nbsp;|&nbsp; Humidity 74%
+**8°C** (feels like 5°C) — Overcast 
+High 8°C / Low 5°C &nbsp;|&nbsp; Humidity 66%
 
 > 🧣 Chilly out. A jacket and scarf will do.
 
@@ -20,14 +20,14 @@ High 9°C / Low 3°C &nbsp;|&nbsp; Humidity 74%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
-- [Catherine talks openly about how cancer changed her in documentary on BBC](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
-- [Deal with EU not dependent on tuition fees agreement, Miliband says](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
+- [Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
+- ['Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss)
+- [How a teen gamer and his mother helped rescue a missing girl](https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Riemann hypothesis: Has the world’s most famous maths problem been cracked?](https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss)
-- [Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland](https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss)
-- [Sudan’s elderly face hardship and heartbreak in a life of displacement](https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss)
+- [US Congress helped end the Vietnam War. Can it stop the Iran war?](https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss)
+- [Bruno Fernandes says contract talks on hold as Man United battle poor start](https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss)
+- [Israeli settlers attack several Palestinian villages in occupied West Bank](https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [California’s coastal communities on alert as biggest waves in years hit state](https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state)
@@ -39,19 +39,19 @@ High 9°C / Low 3°C &nbsp;|&nbsp; Humidity 74%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Australia's Chaudhary downs England in tetchy first T20](https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss)
-- ['Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again](https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss)
-- [England call up McKinney for South Africa Tests](https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss)
+- [England won't get carried away by All Blacks win](https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss)
+- [Verstappen a constant amid chaos as he says Russell is 'so far below my level'](https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss)
+- [Hamilton-Leclerc collision completely unacceptable, says Ferrari boss](https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Australia complete record T20I chase at MCG to edge England in thriller](https://www.skysports.com/cricket/news/12040/13614645/australia-beat-england-in-first-t20i-as-mcg-record-run-chase-earns-hosts-1-0-lead-in-five-match-series)
-- [England vs New Zealand LIVE! All Blacks visit Twickenham before Ireland play SA](https://www.skysports.com/rugby-union/live-blog/12040/13614305/england-vs-new-zealand-ireland-vs-south-africa-live-nations-championship-updates-latest-scores-team-news-commentary-from-twickenham-dublin)
-- [WSL: Liverpool vs Chelsea LIVE!](https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829)
+- [Belloumi starts for Hull with Rutter up front for Brighton LIVE!](https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/live/559549)
+- [WSL: Spurs deservedly level at Man City LIVE!](https://www.skysports.com/football/manchester-city-women-vs-tottenham-hotspur-women/live/575831)
+- [Verstappen wins wild Las Vegas GP as Ferraris collide again](https://www.skysports.com/f1/news/12040/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again)
 
 ### 🏅 The Guardian Sport
-- [Manchester City v Fulham: Premier League – live](https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live)
-- [Cavaliers’ James Harden rolls back years with ‘vintage’ 51-point explosion to pass Kobe Bryant](https://www.theguardian.com/sport/2026/nov/21/james-harden-51-points-kobe-bryant-cavaliers-pacers-nba)
-- [ATP Finals tennis: Carlos Alcaraz v Ben Shelton – live semi-final updates](https://www.theguardian.com/sport/live/2026/nov/21/atp-finals-tennis-carlos-alcaraz-v-ben-shelton-live-semi-final-updates)
+- [Max Verstappen says George Russell is ‘so far below my level’ after Vegas win](https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one)
+- [Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit](https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current)
+- [Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit](https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,9 +61,9 @@ High 9°C / Low 3°C &nbsp;|&nbsp; Humidity 74%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$59,214**
-vs yesterday's close: 🟢 ▲ +$396 (+0.67%)
-Trend: 📉 Below 7d MA by 5.4%
+**$60,697**
+vs yesterday's close: 🟢 ▲ +$576 (+0.96%)
+Trend: 📉 Below 7d MA by 2.1%
 
 ### 🇺🇸 S&P 500
 **6,910.4**
@@ -72,4 +72,4 @@ Trend: 📉 Below 7d MA by 5.7%
 
 ---
 
-<sub>Last updated: 2026-11-21 13:14 GMT</sub>
+<sub>Last updated: 2026-11-22 13:04 GMT</sub>
