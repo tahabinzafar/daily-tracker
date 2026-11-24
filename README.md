@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Monday, 23 November 2026
+## 📅 Tuesday, 24 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**6°C** (feels like 4°C) — Partly cloudy 
-High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 62%
+**7°C** (feels like 4°C) — Overcast 
+High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 82%
 
 > 🧣 Chilly out. A jacket and scarf will do.
 
@@ -20,14 +20,14 @@ High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 62%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Russian warship hit by Ukrainian drones in Libya, Zelensky says](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
-- [How Ukraine attacked Russian ships in Libya](https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss)
-- [UK to host 2035 Women's World Cup, Fifa confirms](https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss)
+- [Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
+- [Huntley murderer handed new whole life jail term](https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss)
+- [Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Jensen Huang returns as NVIDIA CEO after intelligence scandal](https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss)
-- [Brazil coach mistaken for pitch invader, put in headlock](https://www.aljazeera.com/video/newsfeed/2026/11/23/brazil-coach-mistaken-for-pitch-invader-put-in-headlock?traffic_source=rss)
-- [Police investigating bomb threats against schools in Germany and Denmark](https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss)
+- [How the Iran war is reshaping the US military presence in the Middle East](https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss)
+- [How Brazil’s mosquitoes are helping to fight dengue](https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss)
+- [Russia tows it cargo ship back home after Ukrainian drone attack](https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Ukraine confirms it used naval drones to strike two Russian ships off Libya](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya)
@@ -39,37 +39,39 @@ High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 62%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup](https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss)
-- [Raya to miss Dortmund game but injury 'not serious'](https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss)
-- [De Villiers claims ball-tampering from first 2018 Test](https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss)
+- [Senegal reinstated as Afcon 2025 winners - 10 months after tournament](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
+- ['The rest of the world noticed' - Welshman Donald demolishes Aussies](https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss)
+- [Millwall face partial stadium closure over chants](https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [UK confirmed as hosts of 2035 Women's World Cup](https://www.skysports.com/football/news/12040/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031)
-- [Henman: While Sinner is out of equation, Alcaraz is best in the world](https://www.skysports.com/tennis/news/12040/13615606/carlos-alcaraz-spaniard-is-toughest-player-to-play-against-right-now-with-jannik-sinner-out-of-the-equation-says-tim-henman)
-- [Bakole steps in for Opetaia to fight Wilder on Fury-AJ undercard](https://www.skysports.com/boxing/news/12040/13615668/fury-vs-joshua-undercard-martin-bakole-steps-in-for-jai-opetaia-to-fight-former-heavyweight-world-champion-deontay-wilder)
+- [Senegal confirmed AFCON 2025 champions after appeal](https://www.skysports.com/football/news/12040/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal)
+- [Robinson signs for Nottinghamshire on three-year deal](https://www.skysports.com/cricket/news/12040/13615966/ollie-robinson-signs-for-nottinghamshire-on-three-year-all-format-contract-as-england-bowler-ends-11-year-spell-at-sussex)
+- [Millwall first club hit with partial closure over discriminatory chants](https://www.skysports.com/football/news/12040/13615754/millwall-forced-to-partially-close-the-den-after-commission-proves-fa-charges-of-discriminatory-chanting)
 
 ### 🏅 The Guardian Sport
-- [The Ravens have long been a model of stability. Now they’re going off the rails](https://www.theguardian.com/sport/2026/nov/23/baltimore-ravens-nfl-football)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/23/premier-league-10-talking-points-from-the-weekends-action)
-- [‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup](https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa)
+- [Lights go out on Commanders before they beat Bengals in final seconds](https://www.theguardian.com/sport/2026/nov/23/lights-go-out-on-commanders-before-they-beat-bengals-in-final-seconds)
+- [World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live](https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates)
+- [Timothy Weah: ‘I don’t want to beg to be back in the national team’](https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team)
 
 ### 🏈 ESPN
-- Could not fetch ESPN feed: no element found: line 1, column 0
+- [Seven things Solak thinks: Much-needed test for the Chiefs, Bills? Playoff win for the Giants?](https://www.espn.com/nfl/story/_/id/50563522/week-12-seven-things-solak-thinks-chiefs-bills-giants)
+- [Power Rankings: Best and worst teams after 11 weeks, plus extension candidates](https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates)
+- [Sources: Cubs, Japanese triple crown winner Sato reach 6-year, $120M deal](https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal)
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$63,158**
-vs yesterday's close: 🟢 ▲ +$1,986 (+3.25%)
-Trend: 📈 Above 7d MA by 2.1%
+**$59,820**
+vs yesterday's close: 🔴 ▼ $-1,408 (-2.30%)
+Trend: 📉 Below 7d MA by 1.6%
 
 ### 🇺🇸 S&P 500
-**7,276.1**
-vs previous close: 🟢 ▲ +365.7 (+5.29%)
-Trend: ➡️ Flat around 7d MA (-0.1%)
+**7,179.0**
+vs previous close: 🔴 ▼ -58.2 (-0.80%)
+Trend: ➡️ Flat around 7d MA (-0.7%)
 
 ---
 
-<sub>Last updated: 2026-11-23 15:41 GMT</sub>
+<sub>Last updated: 2026-11-24 15:32 GMT</sub>
