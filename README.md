@@ -4,14 +4,14 @@
 
 ---
 
-## 📅 Tuesday, 24 November 2026
+## 📅 Wednesday, 25 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**7°C** (feels like 4°C) — Overcast 
-High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 82%
+**6°C** (feels like 3°C) — Partly cloudy 
+High 6°C / Low 4°C &nbsp;|&nbsp; Humidity 69%
 
 > 🧣 Chilly out. A jacket and scarf will do.
 
@@ -20,58 +20,56 @@ High 7°C / Low 2°C &nbsp;|&nbsp; Humidity 82%
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
-- [Huntley murderer handed new whole life jail term](https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss)
-- [Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
+- [Energy bills to rise by 26% from January after gas prices surge](https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss)
+- [Two men charged with trying to steal cufflinks and clock from Royal home](https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss)
+- [US stocks fall further as fears over AI intensify](https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [How the Iran war is reshaping the US military presence in the Middle East](https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss)
-- [How Brazil’s mosquitoes are helping to fight dengue](https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss)
-- [Russia tows it cargo ship back home after Ukrainian drone attack](https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss)
+- [Syrian teams clear landmines after deadly explosion](https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss)
+- [US court convicts Huawei of theft: A history of Chinese firm’s global woes](https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss)
+- [‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia](https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss)
 
 ### 🌐 The Guardian
-- [Ukraine confirms it used naval drones to strike two Russian ships off Libya](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya)
-- [Russian warship sinks in Benghazi after suspected Ukrainian drone attack](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)
-- [California’s coastal communities on alert as biggest waves in years hit state](https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state)
+- [Swiss tourist killed and British and Americans injured by elephants in Cameroon](https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon)
+- [Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini](https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini)
+- [More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals](https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data)
 
 ---
 
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Senegal reinstated as Afcon 2025 winners - 10 months after tournament](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
-- ['The rest of the world noticed' - Welshman Donald demolishes Aussies](https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss)
-- [Millwall face partial stadium closure over chants](https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss)
+- [Sterling - from England icon to suspended jail sentence](https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss)
+- [Dottin out to 'free ball' after historic WBBL decision](https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&at_campaign=rss)
+- [All Blacks great Beauden Barrett close to Bristol move](https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2ex1v0vzo?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Senegal confirmed AFCON 2025 champions after appeal](https://www.skysports.com/football/news/12040/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal)
-- [Robinson signs for Nottinghamshire on three-year deal](https://www.skysports.com/cricket/news/12040/13615966/ollie-robinson-signs-for-nottinghamshire-on-three-year-all-format-contract-as-england-bowler-ends-11-year-spell-at-sussex)
-- [Millwall first club hit with partial closure over discriminatory chants](https://www.skysports.com/football/news/12040/13615754/millwall-forced-to-partially-close-the-den-after-commission-proves-fa-charges-of-discriminatory-chanting)
+- [Walters confident he can win trophy in first season with St Helens](https://www.skysports.com/rugby-league/news/12040/13616342/st-helens-coach-kevin-walters-insists-he-can-win-a-trophy-in-his-first-season-in-charge-and-wants-to-restore-teams-winning-dna)
+- [Do Ferrari need to make Hamilton their No 1 driver?](https://www.skysports.com/f1/news/12040/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate)
+- [Cameron agrees contract extension with Jake Paul's MVP](https://www.skysports.com/boxing/news/12040/13616374/chantelle-cameron-unified-super-welterweight-world-champion-agrees-contract-extension-with-jake-pauls-mvp)
 
 ### 🏅 The Guardian Sport
-- [Lights go out on Commanders before they beat Bengals in final seconds](https://www.theguardian.com/sport/2026/nov/23/lights-go-out-on-commanders-before-they-beat-bengals-in-final-seconds)
-- [World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live](https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates)
-- [Timothy Weah: ‘I don’t want to beg to be back in the national team’](https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team)
+- [End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday](https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl)
+- [Intelligent blitzes to Jacoby Brissett for (sort of) MVP: the trends that have defined this NFL season](https://www.theguardian.com/sport/2026/nov/25/intelligent-blitzes-to-jacoby-brissett-for-sort-of-mvp-the-trends-that-have-defined-this-nfl-season)
+- [Search for next USMNT head coach needs to prioritize competence over fame](https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search)
 
 ### 🏈 ESPN
-- [Seven things Solak thinks: Much-needed test for the Chiefs, Bills? Playoff win for the Giants?](https://www.espn.com/nfl/story/_/id/50563522/week-12-seven-things-solak-thinks-chiefs-bills-giants)
-- [Power Rankings: Best and worst teams after 11 weeks, plus extension candidates](https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates)
-- [Sources: Cubs, Japanese triple crown winner Sato reach 6-year, $120M deal](https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal)
+- Could not fetch ESPN feed: no element found: line 1, column 0
 
 ---
 
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$59,820**
-vs yesterday's close: 🔴 ▼ $-1,408 (-2.30%)
-Trend: 📉 Below 7d MA by 1.6%
+**$57,869**
+vs yesterday's close: 🔴 ▼ $-1,890 (-3.16%)
+Trend: 📉 Below 7d MA by 3.8%
 
 ### 🇺🇸 S&P 500
-**7,179.0**
-vs previous close: 🔴 ▼ -58.2 (-0.80%)
-Trend: ➡️ Flat around 7d MA (-0.7%)
+**7,017.6**
+vs previous close: 🔴 ▼ -183.5 (-2.55%)
+Trend: 📉 Below 7d MA by 2.2%
 
 ---
 
-<sub>Last updated: 2026-11-24 15:32 GMT</sub>
+<sub>Last updated: 2026-11-25 15:18 GMT</sub>
