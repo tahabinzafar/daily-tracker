@@ -4,30 +4,30 @@
 
 ---
 
-## 📅 Friday, 27 November 2026
+## 📅 Saturday, 28 November 2026
 
 ---
 
 ## 🌤️ London Weather
 
-**4°C** (feels like 1°C) — Patchy rain nearby
-High 5°C / Low 1°C &nbsp;|&nbsp; Humidity 76%
+**7°C** (feels like 4°C) — Light drizzle
+High 11°C / Low 5°C &nbsp;|&nbsp; Humidity 85%
 
-> 🧥 Heavy coat weather. Don't leave without one.
+> 🌧️ Cold and wet — layers plus a waterproof.
 
 ---
 
 ## 🗞️ World News
 
 ### 📰 BBC News
-- [Zelensky criticises 'strange' Trump-Putin friendship in BBC interview](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
-- ['A lonely road': Catherine joins cancer support group in new documentary](https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss)
-- ['I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
+- [Argentina's bid to stop Falklands oil drilling rejected](https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss)
+- [Pensions and benefits services still down after 'cyber incident'](https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss)
+- [Two staff killed in Israeli strike on Gaza medical clinic, MSF says](https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss)
 
 ### 🌍 Al Jazeera
-- [Why did Georgian police clash with Turkish football fans over Palestine?](https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss)
-- [Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu](https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss)
-- [Famine expect to rise due to global conflict, El Nino, warns UN](https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss)
+- [Court rejects Argentina’s request to stop UK oil activity near Falklands](https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss)
+- [Bootleg alcohol poisonings in Iran see dozens dead and badly injured](https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss)
+- [Norse Atlantic ends flights: How Iran war continues to batter aviation](https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss)
 
 ### 🌐 The Guardian
 - [Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind](https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind)
@@ -39,19 +39,19 @@ High 5°C / Low 1°C &nbsp;|&nbsp; Humidity 76%
 ## ⚽ Sports
 
 ### 🏟️ BBC Sport
-- [Man Utd trigger Fernandes' one-year contract extension](https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss)
-- [Cricket Australia may not like sandpaper forum findings - Vaughan](https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss)
-- [England outclass Australia again to take series lead](https://www.bbc.co.uk/sport/cricket/articles/cm9d704g26z4o?at_medium=RSS&at_campaign=rss)
+- [Will 2024 version of Palmer ever re-emerge for Chelsea?](https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss)
+- [How a football team rebuilt after 19 players died in plane crash](https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss)
+- [Are these three brothers British skiing's next family dynasty?](https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss)
 
 ### 📺 Sky Sports Football
-- [Antonelli dominates Qatar first practice](https://www.skysports.com/f1/news/12040/13617130/qatar-gp-kimi-antonelli-dominates-first-practice-from-george-russell-at-lusail-international-circuit)
-- [Russell: Hamilton ruthless like Verstappen but has grace and values](https://www.skysports.com/f1/news/12040/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values)
-- [Man Utd activate Fernandes contract extension clause](https://www.skysports.com/football/news/12040/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028)
+- [Man Utd vs Brentford team news LIVE!](https://www.skysports.com/football/manchester-united-vs-brentford/live/559561)
+- [Spurs make super comeback against Lakers to book NBA Cup knockout spot](https://www.skysports.com/watch/video/13617422/los-angeles-lakers-san-antonio-spurs-nba-highlights)
+- [Northern Ireland’s McKibbin in contention at Australian PGA Championship](https://www.skysports.com/watch/video/13617454/australian-pga-championship-day-three-highlights)
 
 ### 🏅 The Guardian Sport
-- [Bills, Eagles and Bears pull off last-gasp wins in trio of Thanksgiving thrillers](https://www.theguardian.com/sport/2026/nov/26/nfl-roundup-thanksgiving-scores-bears-lions-eagles-cowboys-chiefs-bills)
-- [Mike Tomlin calls Steelers ‘dumpster fire’ as Brady rips Rodgers for breaking locker room sanctity](https://www.theguardian.com/sport/2026/nov/27/mike-tomlin-aaron-rodgers-tom-brady-steelers)
-- [Lights-out Luka Dončić and contagious chemistry: are these Lakers for real?](https://www.theguardian.com/sport/2026/nov/27/luka-doncic-los-angeles-lakers-san-antonio-spurs-nba)
+- [USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador](https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier)
+- [Manchester United v Brentford buildup, Premier League news and more – matchday live](https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live)
+- [Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike](https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi)
 
 ### 🏈 ESPN
 - Could not fetch ESPN feed: no element found: line 1, column 0
@@ -61,15 +61,15 @@ High 5°C / Low 1°C &nbsp;|&nbsp; Humidity 76%
 ## 📊 Markets
 
 ### ₿ Bitcoin (BTC/USD)
-**$60,234**
-vs yesterday's close: 🔴 ▼ $-276 (-0.46%)
-Trend: ➡️ Flat around 7d MA (-0.6%)
+**$59,009**
+vs yesterday's close: 🔴 ▼ $-863 (-1.44%)
+Trend: 📉 Below 7d MA by 2.1%
 
 ### 🇺🇸 S&P 500
-**7,227.2**
-vs previous close: 🟢 ▲ +44.4 (+0.62%)
-Trend: ➡️ Flat around 7d MA (+0.7%)
+**7,297.5**
+vs previous close: 🟢 ▲ +114.7 (+1.60%)
+Trend: 📈 Above 7d MA by 1.5%
 
 ---
 
-<sub>Last updated: 2026-11-27 14:42 GMT</sub>
+<sub>Last updated: 2026-11-28 13:54 GMT</sub>
